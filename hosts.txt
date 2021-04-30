@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2021/04/17
-# block hosts: 21670 entry
+# last updated: 2021/05/01
+# block hosts: 21673 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -6710,9 +6710,6 @@
 127.0.0.1 box.anchorfree.net
 127.0.0.1 rpt.anchorfree.net
 
-# ancientact.com
-127.0.0.1 ancientact.com
-
 # and.co.uk
 127.0.0.1 wa.and.co.uk
 
@@ -12835,6 +12832,9 @@
 127.0.0.1 divocodec.com
 127.0.0.1 www.divocodec.com
 
+# divscripty.net
+127.0.0.1 divscripty.net
+
 # divx.it
 127.0.0.1 www.divx.it
 
@@ -14174,6 +14174,9 @@
 127.0.0.1 pixelcounter.elmundo.es
 127.0.0.1 publicidad.elmundo.es
 
+# eloan.co.jp
+127.0.0.1 ad.eloan.co.jp
+
 # eloqua.com
 127.0.0.1 eloqua.com
 127.0.0.1 now.eloqua.com
@@ -14691,6 +14694,9 @@
 
 # erosadv.com
 127.0.0.1 it.erosadv.com
+
+# eroterest.net
+127.0.0.1 kok.eroterest.net
 
 # erotica-deluxe.com
 127.0.0.1 erotica-deluxe.com
@@ -15435,6 +15441,9 @@
 127.0.0.1 ranking2.fc2.com
 127.0.0.1 search.fc2.com
 127.0.0.1 vote1.fc2.com
+
+# fc2rs.com
+127.0.0.1 150601.fc2rs.com
 
 # fc2web.com
 127.0.0.1 cnt.fc2web.com
@@ -16427,7 +16436,6 @@
 
 # fresheye.com
 127.0.0.1 cm-cl35.fresheye.com
-127.0.0.1 fresheye.com
 127.0.0.1 relart.fresheye.com
 
 # freshmeat.net
@@ -31027,6 +31035,7 @@
 127.0.0.1 bayou.sakura.ne.jp
 127.0.0.1 blacknews.sakura.ne.jp
 127.0.0.1 majikichi.sakura.ne.jp
+127.0.0.1 recommend-pc-bto.sakura.ne.jp
 127.0.0.1 smart-ad.sakura.ne.jp
 127.0.0.1 www16137ue.sakura.ne.jp
 
@@ -31931,9 +31940,6 @@
 # shallwead.com
 127.0.0.1 ad2.shallwead.com
 127.0.0.1 shallwead.com
-
-# shanbara.jp
-127.0.0.1 m.shanbara.jp
 
 # shareadspace.com
 127.0.0.1 shareadspace.com
@@ -33722,7 +33728,7 @@
 127.0.0.1 www.stockway.net
 
 # storage-ad.com
-127.0.0.1 p.storage-ad.com
+127.0.0.1 storage-ad.com
 
 # storm8.com
 127.0.0.1 ads.storm8.com
@@ -39678,6 +39684,9 @@
 
 # zuji.com
 127.0.0.1 hg.zuji.com
+
+# zxcvbnmasdfghjklqwertyuiop.work
+127.0.0.1 zxcvbnmasdfghjklqwertyuiop.work
 
 # zxfactory.nl
 127.0.0.1 ahomedia.zxfactory.nl
