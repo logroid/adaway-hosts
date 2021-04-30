@@ -1,0 +1,52 @@
+# AdAway Blocking Hosts File for Japan - Allow List
+#
+# author: logroid
+#         https://github.com/logroid/adaway-hosts
+#         https://logroid.blogspot.com/
+#         https://twitter.com/logroid
+#
+# last updated: 2021/04/16
+# allow hosts: 42 entry
+
+aan.amazon.co.jp
+aax-fe.amazon-adsystem.com
+ad-api-v01.uliza.jp
+ad.dmm.com
+ad.doubleclick.net
+analytics.twitter.com
+api.r10s.jp
+app-adforce.jp
+c.kakaku.com
+clickserve.dartsearch.net
+edge-chat.facebook.com
+facebook.com
+fbcdn.net
+fbsbx.com
+fls-fe.amazon.co.jp
+grp10.ias.rakuten.co.jp
+hb.afl.rakuten.co.jp
+imgstat.ameba.jp
+lh3.ggpht.com
+lh3.googleusercontent.com
+line.me
+m.facebook.com
+pagead2.googlesyndication.com
+pubads.g.doubleclick.net
+r.r10s.jp
+r10.to
+rd.rakuten.co.jp
+s.yimg.jp
+s0.2mdn.net
+scontent-nrt1-1.xx.fbcdn.net
+scontent.xx.fbcdn.net
+setting.adzcore.com
+ssl.google-analytics.com
+static.xx.fbcdn.net
+staticxx.facebook.com
+web-jp.ad-v.jp
+ws.tapjoyads.com
+www.google-analytics.com
+www.googleadservices.com
+www.googletagmanager.com
+youtube.googleapis.com
+yt3.ggpht.com
