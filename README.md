@@ -6,10 +6,10 @@
 AdAway 用の hosts ファイルです。  
 詳細は以下を参照。
 
-* [日本環境向け AdAway 用 hosts](http://logroid.blogspot.com/2012/06/adaway-hosts-for-japan.html)
+* [日本環境向け AdAway 用 hosts](https://logroid.blogspot.com/2021/05/adaway-hosts-for-japan.html)
 
 名前解決ができなくなった domain は随時削除しています。  
-要望・報告は issue or [Twitter](https://twitter.com/logroid) or [blog](http://logroid.blogspot.com/2012/06/adaway-hosts-for-japan.html) のコメントにお願いします。
+要望・報告は issue or [Twitter](https://twitter.com/logroid) or [blog](http://logroid.blogspot.com/2012/06/adaway-hosts-for-japan.html) のフォームにお願いします。
 
 ---
 * [@logroid](https://twitter.com/logroid)
