@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2021/05/01
-# block hosts: 21507 entry
+# last updated: 2021/05/06
+# block hosts: 21453 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -2775,9 +2775,6 @@
 127.0.0.1 countt.51yes.com
 127.0.0.1 www.51yes.com
 
-# 5240348.com
-127.0.0.1 lu.5240348.com
-
 # 55.la
 127.0.0.1 55.la
 
@@ -2901,9 +2898,6 @@
 # 84422.com
 127.0.0.1 84422.com
 
-# 8800.org
-127.0.0.1 soswxyz.8800.org
-
 # 8866.org
 127.0.0.1 chinaron.8866.org
 
@@ -2958,9 +2952,6 @@
 # 9991.com
 127.0.0.1 9991.com
 127.0.0.1 www.9991.com
-
-# 99stats.com
-127.0.0.1 www.99stats.com
 
 # 99x.com
 127.0.0.1 99x.com
@@ -3465,7 +3456,6 @@
 
 # ad-indicator.com
 127.0.0.1 mztag.ad-indicator.com
-127.0.0.1 tag.ad-indicator.com
 
 # ad-lister.co.uk
 127.0.0.1 ad-lister.co.uk
@@ -4875,10 +4865,6 @@
 127.0.0.1 ads4links.com
 127.0.0.1 www.ads4links.com
 
-# ads55.com
-127.0.0.1 ads55.com
-127.0.0.1 www.ads55.com
-
 # ads99.cn
 127.0.0.1 a.ads99.cn
 
@@ -5850,7 +5836,6 @@
 127.0.0.1 www.adwise.bg
 
 # adwitserver.com
-127.0.0.1 ads.adwitserver.com
 127.0.0.1 adwitserver.com
 
 # adwo.com
@@ -5862,9 +5847,6 @@
 127.0.0.1 static.adwo.com
 127.0.0.1 track.adwo.com
 127.0.0.1 www.adwo.com
-
-# adworks.com
-127.0.0.1 www.adworks.com
 
 # adworld.com.tr
 127.0.0.1 www.adworld.com.tr
@@ -7935,7 +7917,6 @@
 127.0.0.1 partner.become.co.jp
 
 # becontext.com
-127.0.0.1 becontext.com
 127.0.0.1 www.becontext.com
 
 # beeb.com
@@ -8717,16 +8698,6 @@
 127.0.0.1 bluesq.com
 127.0.0.1 www.bluesq.com
 
-# bluestreak.com
-127.0.0.1 ak.bluestreak.com
-127.0.0.1 bluestreak.com
-127.0.0.1 ca1.bluestreak.com
-127.0.0.1 fr.bluestreak.com
-127.0.0.1 ion.bluestreak.com
-127.0.0.1 s0.bluestreak.com
-127.0.0.1 s0b.bluestreak.com
-127.0.0.1 www.bluestreak.com
-
 # bluetime.com
 127.0.0.1 bluetime.com
 127.0.0.1 www.bluetime.com
@@ -8865,9 +8836,6 @@
 
 # boostclic.com
 127.0.0.1 track.boostclic.com
-
-# boostmacfaster.space
-127.0.0.1 boostmacfaster.space
 
 # boostmacfaster.tech
 127.0.0.1 boostmacfaster.tech
@@ -9976,9 +9944,6 @@
 127.0.0.1 celebrity-image.com
 127.0.0.1 www.celebrity-image.com
 
-# celebrity-pictures-world.com
-127.0.0.1 www.celebrity-pictures-world.com
-
 # celebrity-wallpaper.com
 127.0.0.1 www.celebrity-wallpaper.com
 
@@ -10154,9 +10119,6 @@
 # china.com
 127.0.0.1 acac7.home4u.china.com
 127.0.0.1 ads.china.com
-
-# china69.com.cn
-127.0.0.1 china69.com.cn
 
 # chincho.net
 127.0.0.1 chincho.net
@@ -10817,6 +10779,9 @@
 127.0.0.1 d5nxst8fruw4z.cloudfront.net
 127.0.0.1 dnn506yrbagrg.cloudfront.net
 127.0.0.1 dtym7iokkjlif.cloudfront.net
+
+# cloudfunctions.net
+127.0.0.1 asia-northeast1-affiliate-pr.cloudfunctions.net
 
 # cloudmobi.net
 127.0.0.1 cloudmobi.net
@@ -12590,9 +12555,6 @@
 # digitalwow.ro
 127.0.0.1 ads.digitalwow.ro
 
-# digitiminimi.com
-127.0.0.1 digitiminimi.com
-
 # digitoday.com
 127.0.0.1 adserver.digitoday.com
 
@@ -13456,9 +13418,6 @@
 # droidhen.com
 127.0.0.1 moreapps.droidhen.com
 
-# dropdeadugly.com
-127.0.0.1 www.dropdeadugly.com
-
 # dropspam.com
 127.0.0.1 ads.dropspam.com
 127.0.0.1 my.dropspam.com
@@ -13489,10 +13448,6 @@
 
 # ds1.nl
 127.0.0.1 b.ds1.nl
-
-# dsmmadvantage.com
-127.0.0.1 dsmmadvantage.com
-127.0.0.1 www.dsmmadvantage.com
 
 # dsnextgen.com
 127.0.0.1 dsnextgen.com
@@ -14280,9 +14235,6 @@
 # eosesd.org
 127.0.0.1 eosesd.org
 
-# epatra.com
-127.0.0.1 ads.epatra.com
-
 # epharm4u.com
 127.0.0.1 www.epharm4u.com
 
@@ -14884,10 +14836,6 @@
 
 # evz.ro
 127.0.0.1 ads2.evz.ro
-
-# ewebcounter.com
-127.0.0.1 ewebcounter.com
-127.0.0.1 www.ewebcounter.com
 
 # ewebse.com
 127.0.0.1 www.ewebse.com
@@ -15540,6 +15488,9 @@
 # firebanner.com
 127.0.0.1 www.firebanner.com
 
+# firebaseapp.com
+127.0.0.1 affiliate-script-pr.firebaseapp.com
+
 # firehousezone.com
 127.0.0.1 ad1.firehousezone.com
 127.0.0.1 ad2.firehousezone.com
@@ -15783,7 +15734,6 @@
 127.0.0.1 tafmaster-p.focalex.com
 127.0.0.1 tafmaster-s.focalex.com
 127.0.0.1 tafmaster-t.focalex.com
-127.0.0.1 tafmaster-v.focalex.com
 127.0.0.1 tafmaster-v10.focalex.com
 127.0.0.1 tafmaster-v11.focalex.com
 127.0.0.1 tafmaster-v2.focalex.com
@@ -16354,7 +16304,6 @@
 127.0.0.1 banners.friendpages.com
 
 # friendsearch.com
-127.0.0.1 affiliate.friendsearch.com
 127.0.0.1 dating.friendsearch.com
 127.0.0.1 partner.friendsearch.com
 127.0.0.1 www.friendsearch.com
@@ -16623,9 +16572,6 @@
 
 # gamershell.com
 127.0.0.1 ads.gamershell.com
-
-# gamertraffic.com
-127.0.0.1 www.gamertraffic.com
 
 # gamesbannernet.com
 127.0.0.1 ads.gamesbannernet.com
@@ -17220,10 +17166,6 @@
 # globaltrack.com
 127.0.0.1 globaltrack.com
 
-# globalwebsearch.com
-127.0.0.1 globalwebsearch.com
-127.0.0.1 www.globalwebsearch.com
-
 # globat.com
 127.0.0.1 affiliates.globat.com
 
@@ -17503,7 +17445,6 @@
 127.0.0.1 www.gopopup.com
 
 # goreal.at
-127.0.0.1 goreal.at
 127.0.0.1 www.goreal.at
 
 # gorillanation.com
@@ -19391,9 +19332,6 @@
 # iframes.us
 127.0.0.1 iframes.us
 127.0.0.1 www.iframes.us
-
-# ifriends.net
-127.0.0.1 ifriends.net
 
 # ifsmarketing.com
 127.0.0.1 www.ifsmarketing.com
@@ -21373,9 +21311,6 @@
 # jetblue.com
 127.0.0.1 omnistats.jetblue.com
 
-# jethomepage.com
-127.0.0.1 jethomepage.com
-
 # jetpackdigital.com
 127.0.0.1 ads.jetpackdigital.com
 127.0.0.1 www.jetpackdigital.com
@@ -22546,10 +22481,6 @@
 # literotica.com
 127.0.0.1 ad7.literotica.com
 
-# little-amateurs.com
-127.0.0.1 little-amateurs.com
-127.0.0.1 www.little-amateurs.com
-
 # little-help.com
 127.0.0.1 www.little-help.com
 
@@ -23022,9 +22953,6 @@
 # livechat.tv
 127.0.0.1 www.livechat.tv
 
-# livecount.fr
-127.0.0.1 www.livecount.fr
-
 # livedelivery.com
 127.0.0.1 livedelivery.com
 
@@ -23419,7 +23347,6 @@
 127.0.0.1 www.m-a.jp
 
 # m-arata.com
-127.0.0.1 ad.m-arata.com
 127.0.0.1 m-arata.com
 
 # m-cat.jp
@@ -24340,11 +24267,9 @@
 127.0.0.1 microad.jp
 127.0.0.1 msend.microad.jp
 127.0.0.1 rmad.microad.jp
-127.0.0.1 s-rtb.send.microad.jp
 127.0.0.1 send.microad.jp
 127.0.0.1 spvsc.send.microad.jp
 127.0.0.1 ssend.microad.jp
-127.0.0.1 ssp.send.microad.jp
 127.0.0.1 track.send.microad.jp
 127.0.0.1 vsc.send.microad.jp
 127.0.0.1 www.microad.jp
@@ -24521,9 +24446,6 @@
 
 # mlspharm.ru
 127.0.0.1 www.mlspharm.ru
-
-# mm26.com
-127.0.0.1 www.mm26.com
 
 # mmaaxx.com
 127.0.0.1 www.mmaaxx.com
@@ -25109,7 +25031,6 @@
 127.0.0.1 www.muscus.com
 
 # music-oasis.com
-127.0.0.1 off.music-oasis.com
 127.0.0.1 register.music-oasis.com
 
 # musiccounter.ru
@@ -27710,9 +27631,6 @@
 # pajamasmedia.com
 127.0.0.1 commons.pajamasmedia.com
 
-# palltalk.com
-127.0.0.1 advertising.palltalk.com
-
 # palsol.com
 127.0.0.1 palsol.com
 127.0.0.1 www.palsol.com
@@ -28205,10 +28123,6 @@
 # pcmightymax.net
 127.0.0.1 pcmightymax.net
 127.0.0.1 www.pcmightymax.net
-
-# pcoach.cc
-127.0.0.1 pcoach.cc
-127.0.0.1 www.pcoach.cc
 
 # pconline.com.cn
 127.0.0.1 adv.pconline.com.cn
@@ -29663,9 +29577,6 @@
 127.0.0.1 c479842.r42.cf2.rackcdn.com
 127.0.0.1 c753738.r38.cf2.rackcdn.com
 
-# rackshack-affiliates.net
-127.0.0.1 www.rackshack-affiliates.net
-
 # racunalniske-novice.com
 127.0.0.1 ads.racunalniske-novice.com
 
@@ -29787,9 +29698,6 @@
 127.0.0.1 ranking-hits.de
 127.0.0.1 www.ranking-hits.de
 
-# ranking-id.de
-127.0.0.1 ranking-id.de
-
 # ranking-links.de
 127.0.0.1 ranking-links.de
 127.0.0.1 www.ranking-links.de
@@ -29861,9 +29769,6 @@
 
 # rcn.net
 127.0.0.1 webstats.web.rcn.net
-
-# rcrnews.com
-127.0.0.1 oascentral.rcrnews.com
 
 # rcs.it
 127.0.0.1 ads.rcs.it
@@ -30189,9 +30094,6 @@
 # relevanz10.de
 127.0.0.1 relevanz10.de
 
-# reliableresults.info
-127.0.0.1 find.reliableresults.info
-
 # reliaquote.com
 127.0.0.1 reliaquote.com
 
@@ -30394,9 +30296,6 @@
 
 # richfind.com
 127.0.0.1 richfind.com
-
-# richmails.com
-127.0.0.1 richmails.com
 
 # richmedia247.com
 127.0.0.1 richmedia247.com
@@ -31333,9 +31232,6 @@
 
 # seo-hits.de
 127.0.0.1 www.seo-hits.de
-
-# seo-portal.ro
-127.0.0.1 www.seo-portal.ro
 
 # seo119.com
 127.0.0.1 bp.seo119.com
@@ -32338,7 +32234,6 @@
 
 # smowtion.com
 127.0.0.1 ad.smowtion.com
-127.0.0.1 ads.smowtion.com
 127.0.0.1 ads2.smowtion.com
 127.0.0.1 smowtion.com
 
@@ -33914,9 +33809,6 @@
 # swcs.jp
 127.0.0.1 fbj.a.swcs.jp
 127.0.0.1 swcs.jp
-
-# sweepsclub.com
-127.0.0.1 adbanner.sweepsclub.com
 
 # sweepstakes.com
 127.0.0.1 sweepstakes.com
@@ -36341,9 +36233,6 @@
 # ushimairi.com
 127.0.0.1 ct2.ushimairi.com
 
-# uslocalweather.com
-127.0.0.1 www.uslocalweather.com
-
 # usps.com
 127.0.0.1 sdc.usps.com
 
@@ -37311,9 +37200,6 @@
 # webads.co.uk
 127.0.0.1 adserver.webads.co.uk
 127.0.0.1 images.webads.co.uk
-
-# webads.com
-127.0.0.1 webads.com
 
 # webads.it
 127.0.0.1 adserver.webads.it
