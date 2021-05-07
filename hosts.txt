@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2021/05/06
-# block hosts: 21453 entry
+# last updated: 2021/05/08
+# block hosts: 21454 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -24756,6 +24756,7 @@
 127.0.0.1 af.moshimo.com
 127.0.0.1 i.af.moshimo.com
 127.0.0.1 image.moshimo.com
+127.0.0.1 moshimo.com
 127.0.0.1 www.moshimo.com
 
 # motigo.com
