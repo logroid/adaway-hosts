@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2021/05/12
-# block hosts: 21646 entry
+# last updated: 2021/05/13
+# block hosts: 21651 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -13201,6 +13201,9 @@
 # double.net
 127.0.0.1 ads.double.net
 
+# doubleadserve.com
+127.0.0.1 doubleadserve.com
+
 # doubleclick.com
 127.0.0.1 doubleclick.com
 127.0.0.1 m.doubleclick.com
@@ -15266,6 +15269,9 @@
 
 # fastcounter.com
 127.0.0.1 fastcounter.com
+
+# fasterprotectmaxclean.cyou
+127.0.0.1 www.fasterprotectmaxclean.cyou
 
 # fastfind7.com
 127.0.0.1 www.fastfind7.com
@@ -21567,7 +21573,6 @@
 127.0.0.1 secure.juicyads.com
 127.0.0.1 static.juicyads.com
 127.0.0.1 stats.juicyads.com
-127.0.0.1 support.juicyads.com
 127.0.0.1 trk.juicyads.com
 127.0.0.1 url3338.juicyads.com
 127.0.0.1 ux13.juicyads.com
@@ -23829,6 +23834,9 @@
 127.0.0.1 ns1.maximumhost.com
 127.0.0.1 ns2.maximumhost.com
 127.0.0.1 ns3.maximumhost.com
+
+# maximus-time.com
+127.0.0.1 maximus-time.com
 
 # maxmusics.com
 127.0.0.1 maxmusics.com
@@ -26469,6 +26477,9 @@
 127.0.0.1 newrelic.com
 127.0.0.1 rpm-images.newrelic.com
 
+# news-easy.org
+127.0.0.1 news-easy.org
+
 # news-press.com
 127.0.0.1 gcirm.news-press.com
 
@@ -29086,6 +29097,7 @@
 
 # pottercosign.com
 127.0.0.1 ns1.pottercosign.com
+127.0.0.1 pottercosign.com
 127.0.0.1 www.pottercosign.com
 
 # power-cleaner.com
@@ -29197,6 +29209,9 @@
 # premiumbilling.com
 127.0.0.1 gw.premiumbilling.com
 127.0.0.1 www.premiumbilling.com
+
+# premiumbros.com
+127.0.0.1 premiumbros.com
 
 # premiumhdv.com
 127.0.0.1 bn.premiumhdv.com
