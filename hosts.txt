@@ -6560,7 +6560,10 @@
 127.0.0.1 x8.amearare.com
 
 # ameba.jp
+127.0.0.1 abema-adx.ameba.jp
 127.0.0.1 ad.pr.ameba.jp
+127.0.0.1 adinfo.ameba.jp
+127.0.0.1 adx.ameba.jp
 127.0.0.1 click.affiliate.ameba.jp
 127.0.0.1 m.ameba.jp
 127.0.0.1 spstatic.ameba.jp
@@ -21552,14 +21555,12 @@
 127.0.0.1 adserver-api-dev.juicyads.com
 127.0.0.1 adserver-b.juicyads.com
 127.0.0.1 adserver-g.juicyads.com
-127.0.0.1 adserver-h.juicyads.com
 127.0.0.1 adserver.juicyads.com
 127.0.0.1 adserver2.juicyads.com
 127.0.0.1 api.juicyads.com
 127.0.0.1 ck.juicyads.com
 127.0.0.1 dw.juicyads.com
 127.0.0.1 help.juicyads.com
-127.0.0.1 iapi.juicyads.com
 127.0.0.1 imgs.juicyads.com
 127.0.0.1 js.juicyads.com
 127.0.0.1 juicyads.com
@@ -30866,9 +30867,6 @@
 127.0.0.1 sa.safety-system.club
 127.0.0.1 sg.safety-system.club
 127.0.0.1 uk.safety-system.club
-
-# safety-system.com
-127.0.0.1 sg.safety-system.com
 
 # sageanalyst.net
 127.0.0.1 amp.st.sageanalyst.net
