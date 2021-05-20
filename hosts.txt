@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2021/05/20
-# block hosts: 21607 entry
+# block hosts: 21621 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -30,6 +30,9 @@
 
 # 060s.com
 127.0.0.1 www.060s.com
+
+# 0u37vw5na9w0.top
+127.0.0.1 system-alert.0u37vw5na9w0.top
 
 # 100-100.ru
 127.0.0.1 100-100.ru
@@ -3015,6 +3018,7 @@
 
 # a-i-ad.com
 127.0.0.1 a-i-ad.com
+127.0.0.1 rcv.a-i-ad.com
 
 # a-pagerank.net
 127.0.0.1 a-pagerank.net
@@ -4921,6 +4925,10 @@
 # adscholar.com
 127.0.0.1 adscholar.com
 
+# adsco.re
+127.0.0.1 6.adsco.re
+127.0.0.1 c.adsco.re
+
 # adsdaq.com
 127.0.0.1 adsdaq.com
 
@@ -6434,6 +6442,9 @@
 
 # altervista.org
 127.0.0.1 ad.altervista.org
+
+# although-soft-sharp-nothing.xyz
+127.0.0.1 trk.although-soft-sharp-nothing.xyz
 
 # altmedia101.com
 127.0.0.1 altmedia101.com
@@ -12756,6 +12767,7 @@
 127.0.0.1 track.dmipartners.com
 
 # dmm.co.jp
+127.0.0.1 ad.games.dmm.co.jp
 127.0.0.1 al.dmm.co.jp
 127.0.0.1 aqua.dmm.co.jp
 127.0.0.1 widget-view.dmm.co.jp
@@ -15473,6 +15485,9 @@
 # findarticles.com
 127.0.0.1 bwp.findarticles.com
 
+# findbride.link
+127.0.0.1 findbride.link
+
 # findcommerce.com
 127.0.0.1 findcommerce.com
 
@@ -17299,6 +17314,9 @@
 # goadbar.com
 127.0.0.1 goadbar.com
 
+# goaffmy.com
+127.0.0.1 r.goaffmy.com
+
 # goals365.com
 127.0.0.1 adserver2.goals365.com
 
@@ -17522,6 +17540,9 @@
 
 # gotoast.com
 127.0.0.1 gotoast.com
+
+# gotohouse1.club
+127.0.0.1 gotohouse1.club
 
 # gotphaze.com
 127.0.0.1 gotphaze.com
@@ -30176,6 +30197,9 @@
 127.0.0.1 regsort.com
 127.0.0.1 www.regsort.com
 
+# regulationprivilegescan.top
+127.0.0.1 regulationprivilegescan.top
+
 # rehabdollars.com
 127.0.0.1 ads.rehabdollars.com
 
@@ -31197,6 +31221,10 @@
 
 # securedvisit.com
 127.0.0.1 track.securedvisit.com
+
+# secureinstallprotectfull.cyou
+127.0.0.1 cdn.secureinstallprotectfull.cyou
+127.0.0.1 www.secureinstallprotectfull.cyou
 
 # secureserver.net
 127.0.0.1 images-pw.secureserver.net
@@ -35231,6 +35259,9 @@
 127.0.0.1 trackbacksecure.com
 127.0.0.1 www.trackbacksecure.com
 
+# trackbyfast.com
+127.0.0.1 track.trackbyfast.com
+
 # tracker.com
 127.0.0.1 tracker.com
 
@@ -36232,6 +36263,9 @@
 
 # upc.ua
 127.0.0.1 secure.upc.ua
+
+# updat-members.life
+127.0.0.1 updat-members.life
 
 # updated.com
 127.0.0.1 updated.com
