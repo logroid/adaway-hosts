@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2021/06/13
-# block hosts: 20698 entry
+# block hosts: 20700 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -12562,6 +12562,9 @@
 
 # ds1.nl
 127.0.0.1 b.ds1.nl
+
+# dsmmadvantage.com
+127.0.0.1 www.dsmmadvantage.com
 
 # dsnextgen.com
 127.0.0.1 dsnextgen.com
@@ -27820,6 +27823,9 @@
 
 # polo.com
 127.0.0.1 datag.polo.com
+
+# poncan.jp
+127.0.0.1 ad.poncan.jp
 
 # pongoresume.com
 127.0.0.1 pongoresume.com
