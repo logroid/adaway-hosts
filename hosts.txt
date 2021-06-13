@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2021/05/26
-# block hosts: 21782 entry
+# last updated: 2021/06/13
+# block hosts: 20698 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -184,9 +184,6 @@
 127.0.0.1 180searchassistant.com
 127.0.0.1 www.180searchassistant.com
 
-# 18k.jp
-127.0.0.1 news.18k.jp
-
 # 192.com
 127.0.0.1 192.com
 
@@ -259,7 +256,6 @@
 
 # 2020search.com
 127.0.0.1 ws1.2020search.com
-127.0.0.1 www.2020search.com
 
 # 207.net
 127.0.0.1 102.112.207.net
@@ -1707,9 +1703,6 @@
 127.0.0.1 banner.33drugs.com
 127.0.0.1 secure.33drugs.com
 
-# 345ads.com
-127.0.0.1 345ads.com
-
 # 360doo.com
 127.0.0.1 cx.360doo.com
 
@@ -1751,9 +1744,6 @@
 127.0.0.1 imgad2.3conline.com
 127.0.0.1 imgad3.3conline.com
 
-# 3d-icons.com
-127.0.0.1 www.3d-icons.com
-
 # 3d-passion.com
 127.0.0.1 3d-passion.com
 
@@ -1787,9 +1777,6 @@
 # 404ads.net
 127.0.0.1 404ads.net
 127.0.0.1 www.404ads.net
-
-# 404e.com
-127.0.0.1 404e.com
 
 # 404search.com
 127.0.0.1 www.404search.com
@@ -1885,1011 +1872,56 @@
 127.0.0.1 log.51network.com
 
 # 51yes.com
-127.0.0.1 51yes.com
-127.0.0.1 ad.51yes.com
-127.0.0.1 count.51yes.com
 127.0.0.1 count1.51yes.com
 127.0.0.1 count10.51yes.com
-127.0.0.1 count100.51yes.com
-127.0.0.1 count1000.51yes.com
-127.0.0.1 count101.51yes.com
-127.0.0.1 count102.51yes.com
-127.0.0.1 count103.51yes.com
-127.0.0.1 count104.51yes.com
-127.0.0.1 count105.51yes.com
-127.0.0.1 count106.51yes.com
-127.0.0.1 count107.51yes.com
-127.0.0.1 count108.51yes.com
-127.0.0.1 count109.51yes.com
 127.0.0.1 count11.51yes.com
-127.0.0.1 count110.51yes.com
-127.0.0.1 count111.51yes.com
-127.0.0.1 count112.51yes.com
-127.0.0.1 count113.51yes.com
-127.0.0.1 count114.51yes.com
-127.0.0.1 count115.51yes.com
-127.0.0.1 count116.51yes.com
-127.0.0.1 count117.51yes.com
-127.0.0.1 count118.51yes.com
-127.0.0.1 count119.51yes.com
 127.0.0.1 count12.51yes.com
-127.0.0.1 count120.51yes.com
-127.0.0.1 count121.51yes.com
-127.0.0.1 count122.51yes.com
-127.0.0.1 count123.51yes.com
-127.0.0.1 count124.51yes.com
-127.0.0.1 count125.51yes.com
-127.0.0.1 count126.51yes.com
-127.0.0.1 count127.51yes.com
-127.0.0.1 count128.51yes.com
-127.0.0.1 count129.51yes.com
-127.0.0.1 count13.51yes.com
-127.0.0.1 count130.51yes.com
-127.0.0.1 count131.51yes.com
-127.0.0.1 count132.51yes.com
-127.0.0.1 count133.51yes.com
-127.0.0.1 count134.51yes.com
-127.0.0.1 count135.51yes.com
-127.0.0.1 count136.51yes.com
-127.0.0.1 count137.51yes.com
-127.0.0.1 count138.51yes.com
-127.0.0.1 count139.51yes.com
 127.0.0.1 count14.51yes.com
-127.0.0.1 count140.51yes.com
-127.0.0.1 count141.51yes.com
-127.0.0.1 count142.51yes.com
-127.0.0.1 count143.51yes.com
-127.0.0.1 count144.51yes.com
-127.0.0.1 count145.51yes.com
-127.0.0.1 count146.51yes.com
-127.0.0.1 count147.51yes.com
-127.0.0.1 count148.51yes.com
-127.0.0.1 count149.51yes.com
 127.0.0.1 count15.51yes.com
-127.0.0.1 count150.51yes.com
-127.0.0.1 count151.51yes.com
-127.0.0.1 count152.51yes.com
-127.0.0.1 count153.51yes.com
-127.0.0.1 count154.51yes.com
-127.0.0.1 count155.51yes.com
-127.0.0.1 count156.51yes.com
-127.0.0.1 count157.51yes.com
-127.0.0.1 count158.51yes.com
-127.0.0.1 count159.51yes.com
 127.0.0.1 count16.51yes.com
-127.0.0.1 count160.51yes.com
-127.0.0.1 count161.51yes.com
-127.0.0.1 count162.51yes.com
-127.0.0.1 count163.51yes.com
-127.0.0.1 count164.51yes.com
-127.0.0.1 count165.51yes.com
-127.0.0.1 count166.51yes.com
-127.0.0.1 count167.51yes.com
-127.0.0.1 count168.51yes.com
-127.0.0.1 count169.51yes.com
 127.0.0.1 count17.51yes.com
-127.0.0.1 count170.51yes.com
-127.0.0.1 count171.51yes.com
-127.0.0.1 count172.51yes.com
-127.0.0.1 count173.51yes.com
-127.0.0.1 count174.51yes.com
-127.0.0.1 count175.51yes.com
-127.0.0.1 count176.51yes.com
-127.0.0.1 count177.51yes.com
-127.0.0.1 count178.51yes.com
-127.0.0.1 count179.51yes.com
 127.0.0.1 count18.51yes.com
-127.0.0.1 count180.51yes.com
-127.0.0.1 count181.51yes.com
-127.0.0.1 count182.51yes.com
-127.0.0.1 count183.51yes.com
-127.0.0.1 count184.51yes.com
-127.0.0.1 count185.51yes.com
-127.0.0.1 count186.51yes.com
-127.0.0.1 count187.51yes.com
-127.0.0.1 count188.51yes.com
-127.0.0.1 count189.51yes.com
 127.0.0.1 count19.51yes.com
-127.0.0.1 count190.51yes.com
-127.0.0.1 count191.51yes.com
-127.0.0.1 count192.51yes.com
-127.0.0.1 count193.51yes.com
-127.0.0.1 count194.51yes.com
-127.0.0.1 count195.51yes.com
-127.0.0.1 count196.51yes.com
-127.0.0.1 count197.51yes.com
-127.0.0.1 count198.51yes.com
-127.0.0.1 count199.51yes.com
 127.0.0.1 count2.51yes.com
 127.0.0.1 count20.51yes.com
-127.0.0.1 count200.51yes.com
-127.0.0.1 count201.51yes.com
-127.0.0.1 count202.51yes.com
-127.0.0.1 count203.51yes.com
-127.0.0.1 count204.51yes.com
-127.0.0.1 count205.51yes.com
-127.0.0.1 count206.51yes.com
-127.0.0.1 count207.51yes.com
-127.0.0.1 count208.51yes.com
-127.0.0.1 count209.51yes.com
 127.0.0.1 count21.51yes.com
-127.0.0.1 count210.51yes.com
-127.0.0.1 count211.51yes.com
-127.0.0.1 count212.51yes.com
-127.0.0.1 count213.51yes.com
-127.0.0.1 count214.51yes.com
-127.0.0.1 count215.51yes.com
-127.0.0.1 count216.51yes.com
-127.0.0.1 count217.51yes.com
-127.0.0.1 count218.51yes.com
-127.0.0.1 count219.51yes.com
 127.0.0.1 count22.51yes.com
-127.0.0.1 count220.51yes.com
-127.0.0.1 count221.51yes.com
-127.0.0.1 count222.51yes.com
-127.0.0.1 count223.51yes.com
-127.0.0.1 count224.51yes.com
-127.0.0.1 count225.51yes.com
-127.0.0.1 count226.51yes.com
-127.0.0.1 count227.51yes.com
-127.0.0.1 count228.51yes.com
-127.0.0.1 count229.51yes.com
 127.0.0.1 count23.51yes.com
-127.0.0.1 count230.51yes.com
-127.0.0.1 count231.51yes.com
-127.0.0.1 count232.51yes.com
-127.0.0.1 count233.51yes.com
-127.0.0.1 count234.51yes.com
-127.0.0.1 count235.51yes.com
-127.0.0.1 count236.51yes.com
-127.0.0.1 count237.51yes.com
-127.0.0.1 count238.51yes.com
-127.0.0.1 count239.51yes.com
 127.0.0.1 count24.51yes.com
-127.0.0.1 count240.51yes.com
-127.0.0.1 count241.51yes.com
-127.0.0.1 count242.51yes.com
-127.0.0.1 count243.51yes.com
-127.0.0.1 count244.51yes.com
-127.0.0.1 count245.51yes.com
-127.0.0.1 count246.51yes.com
-127.0.0.1 count247.51yes.com
-127.0.0.1 count248.51yes.com
-127.0.0.1 count249.51yes.com
 127.0.0.1 count25.51yes.com
-127.0.0.1 count250.51yes.com
-127.0.0.1 count251.51yes.com
-127.0.0.1 count252.51yes.com
-127.0.0.1 count253.51yes.com
-127.0.0.1 count254.51yes.com
-127.0.0.1 count255.51yes.com
-127.0.0.1 count256.51yes.com
-127.0.0.1 count257.51yes.com
-127.0.0.1 count258.51yes.com
-127.0.0.1 count259.51yes.com
 127.0.0.1 count26.51yes.com
-127.0.0.1 count260.51yes.com
-127.0.0.1 count261.51yes.com
-127.0.0.1 count262.51yes.com
-127.0.0.1 count263.51yes.com
-127.0.0.1 count264.51yes.com
-127.0.0.1 count265.51yes.com
-127.0.0.1 count266.51yes.com
-127.0.0.1 count267.51yes.com
-127.0.0.1 count268.51yes.com
-127.0.0.1 count269.51yes.com
 127.0.0.1 count27.51yes.com
-127.0.0.1 count270.51yes.com
-127.0.0.1 count271.51yes.com
-127.0.0.1 count272.51yes.com
-127.0.0.1 count273.51yes.com
-127.0.0.1 count274.51yes.com
-127.0.0.1 count275.51yes.com
-127.0.0.1 count276.51yes.com
-127.0.0.1 count277.51yes.com
-127.0.0.1 count278.51yes.com
-127.0.0.1 count279.51yes.com
 127.0.0.1 count28.51yes.com
-127.0.0.1 count280.51yes.com
-127.0.0.1 count281.51yes.com
-127.0.0.1 count282.51yes.com
-127.0.0.1 count283.51yes.com
-127.0.0.1 count284.51yes.com
-127.0.0.1 count285.51yes.com
-127.0.0.1 count286.51yes.com
-127.0.0.1 count287.51yes.com
-127.0.0.1 count288.51yes.com
-127.0.0.1 count289.51yes.com
 127.0.0.1 count29.51yes.com
-127.0.0.1 count290.51yes.com
-127.0.0.1 count291.51yes.com
-127.0.0.1 count292.51yes.com
-127.0.0.1 count293.51yes.com
-127.0.0.1 count294.51yes.com
-127.0.0.1 count295.51yes.com
-127.0.0.1 count296.51yes.com
-127.0.0.1 count297.51yes.com
-127.0.0.1 count298.51yes.com
-127.0.0.1 count299.51yes.com
 127.0.0.1 count3.51yes.com
 127.0.0.1 count30.51yes.com
-127.0.0.1 count300.51yes.com
-127.0.0.1 count301.51yes.com
-127.0.0.1 count302.51yes.com
-127.0.0.1 count303.51yes.com
-127.0.0.1 count304.51yes.com
-127.0.0.1 count305.51yes.com
-127.0.0.1 count306.51yes.com
-127.0.0.1 count307.51yes.com
-127.0.0.1 count308.51yes.com
-127.0.0.1 count309.51yes.com
 127.0.0.1 count31.51yes.com
-127.0.0.1 count310.51yes.com
-127.0.0.1 count311.51yes.com
-127.0.0.1 count312.51yes.com
-127.0.0.1 count313.51yes.com
-127.0.0.1 count314.51yes.com
-127.0.0.1 count315.51yes.com
-127.0.0.1 count316.51yes.com
-127.0.0.1 count317.51yes.com
-127.0.0.1 count318.51yes.com
-127.0.0.1 count319.51yes.com
 127.0.0.1 count32.51yes.com
-127.0.0.1 count320.51yes.com
-127.0.0.1 count321.51yes.com
-127.0.0.1 count322.51yes.com
-127.0.0.1 count323.51yes.com
-127.0.0.1 count324.51yes.com
-127.0.0.1 count325.51yes.com
-127.0.0.1 count326.51yes.com
-127.0.0.1 count327.51yes.com
-127.0.0.1 count328.51yes.com
-127.0.0.1 count329.51yes.com
 127.0.0.1 count33.51yes.com
-127.0.0.1 count330.51yes.com
-127.0.0.1 count331.51yes.com
-127.0.0.1 count332.51yes.com
-127.0.0.1 count333.51yes.com
-127.0.0.1 count334.51yes.com
-127.0.0.1 count335.51yes.com
-127.0.0.1 count336.51yes.com
-127.0.0.1 count337.51yes.com
-127.0.0.1 count338.51yes.com
-127.0.0.1 count339.51yes.com
 127.0.0.1 count34.51yes.com
-127.0.0.1 count340.51yes.com
-127.0.0.1 count341.51yes.com
-127.0.0.1 count342.51yes.com
-127.0.0.1 count343.51yes.com
-127.0.0.1 count344.51yes.com
-127.0.0.1 count345.51yes.com
-127.0.0.1 count346.51yes.com
-127.0.0.1 count347.51yes.com
-127.0.0.1 count348.51yes.com
-127.0.0.1 count349.51yes.com
 127.0.0.1 count35.51yes.com
-127.0.0.1 count350.51yes.com
-127.0.0.1 count351.51yes.com
-127.0.0.1 count352.51yes.com
-127.0.0.1 count353.51yes.com
-127.0.0.1 count354.51yes.com
-127.0.0.1 count355.51yes.com
-127.0.0.1 count356.51yes.com
-127.0.0.1 count357.51yes.com
-127.0.0.1 count358.51yes.com
-127.0.0.1 count359.51yes.com
 127.0.0.1 count36.51yes.com
-127.0.0.1 count360.51yes.com
-127.0.0.1 count361.51yes.com
-127.0.0.1 count362.51yes.com
-127.0.0.1 count363.51yes.com
-127.0.0.1 count364.51yes.com
-127.0.0.1 count365.51yes.com
-127.0.0.1 count366.51yes.com
-127.0.0.1 count367.51yes.com
-127.0.0.1 count368.51yes.com
-127.0.0.1 count369.51yes.com
 127.0.0.1 count37.51yes.com
-127.0.0.1 count370.51yes.com
-127.0.0.1 count371.51yes.com
-127.0.0.1 count372.51yes.com
-127.0.0.1 count373.51yes.com
-127.0.0.1 count374.51yes.com
-127.0.0.1 count375.51yes.com
-127.0.0.1 count376.51yes.com
-127.0.0.1 count377.51yes.com
-127.0.0.1 count378.51yes.com
-127.0.0.1 count379.51yes.com
 127.0.0.1 count38.51yes.com
-127.0.0.1 count380.51yes.com
-127.0.0.1 count381.51yes.com
-127.0.0.1 count382.51yes.com
-127.0.0.1 count383.51yes.com
-127.0.0.1 count384.51yes.com
-127.0.0.1 count385.51yes.com
-127.0.0.1 count386.51yes.com
-127.0.0.1 count387.51yes.com
-127.0.0.1 count388.51yes.com
-127.0.0.1 count389.51yes.com
 127.0.0.1 count39.51yes.com
-127.0.0.1 count390.51yes.com
-127.0.0.1 count391.51yes.com
-127.0.0.1 count392.51yes.com
-127.0.0.1 count393.51yes.com
-127.0.0.1 count394.51yes.com
-127.0.0.1 count395.51yes.com
-127.0.0.1 count396.51yes.com
-127.0.0.1 count397.51yes.com
-127.0.0.1 count398.51yes.com
-127.0.0.1 count399.51yes.com
 127.0.0.1 count4.51yes.com
 127.0.0.1 count40.51yes.com
-127.0.0.1 count400.51yes.com
-127.0.0.1 count401.51yes.com
-127.0.0.1 count402.51yes.com
-127.0.0.1 count403.51yes.com
-127.0.0.1 count404.51yes.com
-127.0.0.1 count405.51yes.com
-127.0.0.1 count406.51yes.com
-127.0.0.1 count407.51yes.com
-127.0.0.1 count408.51yes.com
-127.0.0.1 count409.51yes.com
 127.0.0.1 count41.51yes.com
-127.0.0.1 count410.51yes.com
-127.0.0.1 count411.51yes.com
-127.0.0.1 count412.51yes.com
-127.0.0.1 count413.51yes.com
-127.0.0.1 count414.51yes.com
-127.0.0.1 count415.51yes.com
-127.0.0.1 count416.51yes.com
-127.0.0.1 count417.51yes.com
-127.0.0.1 count418.51yes.com
-127.0.0.1 count419.51yes.com
 127.0.0.1 count42.51yes.com
-127.0.0.1 count420.51yes.com
-127.0.0.1 count421.51yes.com
-127.0.0.1 count422.51yes.com
-127.0.0.1 count423.51yes.com
-127.0.0.1 count424.51yes.com
-127.0.0.1 count425.51yes.com
-127.0.0.1 count426.51yes.com
-127.0.0.1 count427.51yes.com
-127.0.0.1 count428.51yes.com
-127.0.0.1 count429.51yes.com
 127.0.0.1 count43.51yes.com
-127.0.0.1 count430.51yes.com
-127.0.0.1 count431.51yes.com
-127.0.0.1 count432.51yes.com
-127.0.0.1 count433.51yes.com
-127.0.0.1 count434.51yes.com
-127.0.0.1 count435.51yes.com
-127.0.0.1 count436.51yes.com
-127.0.0.1 count437.51yes.com
-127.0.0.1 count438.51yes.com
-127.0.0.1 count439.51yes.com
 127.0.0.1 count44.51yes.com
-127.0.0.1 count440.51yes.com
-127.0.0.1 count441.51yes.com
-127.0.0.1 count442.51yes.com
-127.0.0.1 count443.51yes.com
-127.0.0.1 count444.51yes.com
-127.0.0.1 count445.51yes.com
-127.0.0.1 count446.51yes.com
-127.0.0.1 count447.51yes.com
-127.0.0.1 count448.51yes.com
-127.0.0.1 count449.51yes.com
 127.0.0.1 count45.51yes.com
-127.0.0.1 count450.51yes.com
-127.0.0.1 count451.51yes.com
-127.0.0.1 count452.51yes.com
-127.0.0.1 count453.51yes.com
-127.0.0.1 count454.51yes.com
-127.0.0.1 count455.51yes.com
-127.0.0.1 count456.51yes.com
-127.0.0.1 count457.51yes.com
-127.0.0.1 count458.51yes.com
-127.0.0.1 count459.51yes.com
 127.0.0.1 count46.51yes.com
-127.0.0.1 count460.51yes.com
-127.0.0.1 count461.51yes.com
-127.0.0.1 count462.51yes.com
-127.0.0.1 count463.51yes.com
-127.0.0.1 count464.51yes.com
-127.0.0.1 count465.51yes.com
-127.0.0.1 count466.51yes.com
-127.0.0.1 count467.51yes.com
-127.0.0.1 count468.51yes.com
-127.0.0.1 count469.51yes.com
 127.0.0.1 count47.51yes.com
-127.0.0.1 count470.51yes.com
-127.0.0.1 count471.51yes.com
-127.0.0.1 count472.51yes.com
-127.0.0.1 count473.51yes.com
-127.0.0.1 count474.51yes.com
-127.0.0.1 count475.51yes.com
-127.0.0.1 count476.51yes.com
-127.0.0.1 count477.51yes.com
-127.0.0.1 count478.51yes.com
-127.0.0.1 count479.51yes.com
 127.0.0.1 count48.51yes.com
-127.0.0.1 count480.51yes.com
-127.0.0.1 count481.51yes.com
-127.0.0.1 count482.51yes.com
-127.0.0.1 count483.51yes.com
-127.0.0.1 count484.51yes.com
-127.0.0.1 count485.51yes.com
-127.0.0.1 count486.51yes.com
-127.0.0.1 count487.51yes.com
-127.0.0.1 count488.51yes.com
-127.0.0.1 count489.51yes.com
 127.0.0.1 count49.51yes.com
-127.0.0.1 count490.51yes.com
-127.0.0.1 count491.51yes.com
-127.0.0.1 count492.51yes.com
-127.0.0.1 count493.51yes.com
-127.0.0.1 count494.51yes.com
-127.0.0.1 count495.51yes.com
-127.0.0.1 count496.51yes.com
-127.0.0.1 count497.51yes.com
-127.0.0.1 count498.51yes.com
-127.0.0.1 count499.51yes.com
 127.0.0.1 count5.51yes.com
 127.0.0.1 count50.51yes.com
-127.0.0.1 count500.51yes.com
-127.0.0.1 count501.51yes.com
-127.0.0.1 count502.51yes.com
-127.0.0.1 count503.51yes.com
-127.0.0.1 count504.51yes.com
-127.0.0.1 count505.51yes.com
-127.0.0.1 count506.51yes.com
-127.0.0.1 count507.51yes.com
-127.0.0.1 count508.51yes.com
-127.0.0.1 count509.51yes.com
 127.0.0.1 count51.51yes.com
-127.0.0.1 count510.51yes.com
-127.0.0.1 count511.51yes.com
-127.0.0.1 count512.51yes.com
-127.0.0.1 count513.51yes.com
-127.0.0.1 count514.51yes.com
-127.0.0.1 count515.51yes.com
-127.0.0.1 count516.51yes.com
-127.0.0.1 count517.51yes.com
-127.0.0.1 count518.51yes.com
-127.0.0.1 count519.51yes.com
-127.0.0.1 count52.51yes.com
-127.0.0.1 count520.51yes.com
-127.0.0.1 count521.51yes.com
-127.0.0.1 count522.51yes.com
-127.0.0.1 count523.51yes.com
-127.0.0.1 count524.51yes.com
-127.0.0.1 count525.51yes.com
-127.0.0.1 count526.51yes.com
-127.0.0.1 count527.51yes.com
-127.0.0.1 count528.51yes.com
-127.0.0.1 count529.51yes.com
-127.0.0.1 count53.51yes.com
-127.0.0.1 count530.51yes.com
-127.0.0.1 count531.51yes.com
-127.0.0.1 count532.51yes.com
-127.0.0.1 count533.51yes.com
-127.0.0.1 count534.51yes.com
-127.0.0.1 count535.51yes.com
-127.0.0.1 count536.51yes.com
-127.0.0.1 count537.51yes.com
-127.0.0.1 count538.51yes.com
-127.0.0.1 count539.51yes.com
-127.0.0.1 count54.51yes.com
-127.0.0.1 count540.51yes.com
-127.0.0.1 count541.51yes.com
-127.0.0.1 count542.51yes.com
-127.0.0.1 count543.51yes.com
-127.0.0.1 count544.51yes.com
-127.0.0.1 count545.51yes.com
-127.0.0.1 count546.51yes.com
-127.0.0.1 count547.51yes.com
-127.0.0.1 count548.51yes.com
-127.0.0.1 count549.51yes.com
-127.0.0.1 count55.51yes.com
-127.0.0.1 count550.51yes.com
-127.0.0.1 count551.51yes.com
-127.0.0.1 count552.51yes.com
-127.0.0.1 count553.51yes.com
-127.0.0.1 count554.51yes.com
-127.0.0.1 count555.51yes.com
-127.0.0.1 count556.51yes.com
-127.0.0.1 count557.51yes.com
-127.0.0.1 count558.51yes.com
-127.0.0.1 count559.51yes.com
-127.0.0.1 count56.51yes.com
-127.0.0.1 count560.51yes.com
-127.0.0.1 count561.51yes.com
-127.0.0.1 count562.51yes.com
-127.0.0.1 count563.51yes.com
-127.0.0.1 count564.51yes.com
-127.0.0.1 count565.51yes.com
-127.0.0.1 count566.51yes.com
-127.0.0.1 count567.51yes.com
-127.0.0.1 count568.51yes.com
-127.0.0.1 count569.51yes.com
-127.0.0.1 count57.51yes.com
-127.0.0.1 count570.51yes.com
-127.0.0.1 count571.51yes.com
-127.0.0.1 count572.51yes.com
-127.0.0.1 count573.51yes.com
-127.0.0.1 count574.51yes.com
-127.0.0.1 count575.51yes.com
-127.0.0.1 count576.51yes.com
-127.0.0.1 count577.51yes.com
-127.0.0.1 count578.51yes.com
-127.0.0.1 count579.51yes.com
-127.0.0.1 count58.51yes.com
-127.0.0.1 count580.51yes.com
-127.0.0.1 count581.51yes.com
-127.0.0.1 count582.51yes.com
-127.0.0.1 count583.51yes.com
-127.0.0.1 count584.51yes.com
-127.0.0.1 count585.51yes.com
-127.0.0.1 count586.51yes.com
-127.0.0.1 count587.51yes.com
-127.0.0.1 count588.51yes.com
-127.0.0.1 count589.51yes.com
-127.0.0.1 count59.51yes.com
-127.0.0.1 count590.51yes.com
-127.0.0.1 count591.51yes.com
-127.0.0.1 count592.51yes.com
-127.0.0.1 count593.51yes.com
-127.0.0.1 count594.51yes.com
-127.0.0.1 count595.51yes.com
-127.0.0.1 count596.51yes.com
-127.0.0.1 count597.51yes.com
-127.0.0.1 count598.51yes.com
-127.0.0.1 count599.51yes.com
 127.0.0.1 count6.51yes.com
-127.0.0.1 count60.51yes.com
-127.0.0.1 count600.51yes.com
-127.0.0.1 count601.51yes.com
-127.0.0.1 count602.51yes.com
-127.0.0.1 count603.51yes.com
-127.0.0.1 count604.51yes.com
-127.0.0.1 count605.51yes.com
-127.0.0.1 count606.51yes.com
-127.0.0.1 count607.51yes.com
-127.0.0.1 count608.51yes.com
-127.0.0.1 count609.51yes.com
-127.0.0.1 count61.51yes.com
-127.0.0.1 count610.51yes.com
-127.0.0.1 count611.51yes.com
-127.0.0.1 count612.51yes.com
-127.0.0.1 count613.51yes.com
-127.0.0.1 count614.51yes.com
-127.0.0.1 count615.51yes.com
-127.0.0.1 count616.51yes.com
-127.0.0.1 count617.51yes.com
-127.0.0.1 count618.51yes.com
-127.0.0.1 count619.51yes.com
-127.0.0.1 count62.51yes.com
-127.0.0.1 count620.51yes.com
-127.0.0.1 count621.51yes.com
-127.0.0.1 count622.51yes.com
-127.0.0.1 count623.51yes.com
-127.0.0.1 count624.51yes.com
-127.0.0.1 count625.51yes.com
-127.0.0.1 count626.51yes.com
-127.0.0.1 count627.51yes.com
-127.0.0.1 count628.51yes.com
-127.0.0.1 count629.51yes.com
-127.0.0.1 count63.51yes.com
-127.0.0.1 count630.51yes.com
-127.0.0.1 count631.51yes.com
-127.0.0.1 count632.51yes.com
-127.0.0.1 count633.51yes.com
-127.0.0.1 count634.51yes.com
-127.0.0.1 count635.51yes.com
-127.0.0.1 count636.51yes.com
-127.0.0.1 count637.51yes.com
-127.0.0.1 count638.51yes.com
-127.0.0.1 count639.51yes.com
-127.0.0.1 count64.51yes.com
-127.0.0.1 count640.51yes.com
-127.0.0.1 count641.51yes.com
-127.0.0.1 count642.51yes.com
-127.0.0.1 count643.51yes.com
-127.0.0.1 count644.51yes.com
-127.0.0.1 count645.51yes.com
-127.0.0.1 count646.51yes.com
-127.0.0.1 count647.51yes.com
-127.0.0.1 count648.51yes.com
-127.0.0.1 count649.51yes.com
-127.0.0.1 count65.51yes.com
-127.0.0.1 count650.51yes.com
-127.0.0.1 count651.51yes.com
-127.0.0.1 count652.51yes.com
-127.0.0.1 count653.51yes.com
-127.0.0.1 count654.51yes.com
-127.0.0.1 count655.51yes.com
-127.0.0.1 count656.51yes.com
-127.0.0.1 count657.51yes.com
-127.0.0.1 count658.51yes.com
-127.0.0.1 count659.51yes.com
-127.0.0.1 count66.51yes.com
-127.0.0.1 count660.51yes.com
-127.0.0.1 count661.51yes.com
-127.0.0.1 count662.51yes.com
-127.0.0.1 count663.51yes.com
-127.0.0.1 count664.51yes.com
-127.0.0.1 count665.51yes.com
-127.0.0.1 count666.51yes.com
-127.0.0.1 count667.51yes.com
-127.0.0.1 count668.51yes.com
-127.0.0.1 count669.51yes.com
-127.0.0.1 count67.51yes.com
-127.0.0.1 count670.51yes.com
-127.0.0.1 count671.51yes.com
-127.0.0.1 count672.51yes.com
-127.0.0.1 count673.51yes.com
-127.0.0.1 count674.51yes.com
-127.0.0.1 count675.51yes.com
-127.0.0.1 count676.51yes.com
-127.0.0.1 count677.51yes.com
-127.0.0.1 count678.51yes.com
-127.0.0.1 count679.51yes.com
-127.0.0.1 count68.51yes.com
-127.0.0.1 count680.51yes.com
-127.0.0.1 count681.51yes.com
-127.0.0.1 count682.51yes.com
-127.0.0.1 count683.51yes.com
-127.0.0.1 count684.51yes.com
-127.0.0.1 count685.51yes.com
-127.0.0.1 count686.51yes.com
-127.0.0.1 count687.51yes.com
-127.0.0.1 count688.51yes.com
-127.0.0.1 count689.51yes.com
-127.0.0.1 count69.51yes.com
-127.0.0.1 count690.51yes.com
-127.0.0.1 count691.51yes.com
-127.0.0.1 count692.51yes.com
-127.0.0.1 count693.51yes.com
-127.0.0.1 count694.51yes.com
-127.0.0.1 count695.51yes.com
-127.0.0.1 count696.51yes.com
-127.0.0.1 count697.51yes.com
-127.0.0.1 count698.51yes.com
-127.0.0.1 count699.51yes.com
 127.0.0.1 count7.51yes.com
-127.0.0.1 count70.51yes.com
-127.0.0.1 count700.51yes.com
-127.0.0.1 count701.51yes.com
-127.0.0.1 count702.51yes.com
-127.0.0.1 count703.51yes.com
-127.0.0.1 count704.51yes.com
-127.0.0.1 count705.51yes.com
-127.0.0.1 count706.51yes.com
-127.0.0.1 count707.51yes.com
-127.0.0.1 count708.51yes.com
-127.0.0.1 count709.51yes.com
-127.0.0.1 count71.51yes.com
-127.0.0.1 count710.51yes.com
-127.0.0.1 count711.51yes.com
-127.0.0.1 count712.51yes.com
-127.0.0.1 count713.51yes.com
-127.0.0.1 count714.51yes.com
-127.0.0.1 count715.51yes.com
-127.0.0.1 count716.51yes.com
-127.0.0.1 count717.51yes.com
-127.0.0.1 count718.51yes.com
-127.0.0.1 count719.51yes.com
-127.0.0.1 count72.51yes.com
-127.0.0.1 count720.51yes.com
-127.0.0.1 count721.51yes.com
-127.0.0.1 count722.51yes.com
-127.0.0.1 count723.51yes.com
-127.0.0.1 count724.51yes.com
-127.0.0.1 count725.51yes.com
-127.0.0.1 count726.51yes.com
-127.0.0.1 count727.51yes.com
-127.0.0.1 count728.51yes.com
-127.0.0.1 count729.51yes.com
-127.0.0.1 count73.51yes.com
-127.0.0.1 count730.51yes.com
-127.0.0.1 count731.51yes.com
-127.0.0.1 count732.51yes.com
-127.0.0.1 count733.51yes.com
-127.0.0.1 count734.51yes.com
-127.0.0.1 count735.51yes.com
-127.0.0.1 count736.51yes.com
-127.0.0.1 count737.51yes.com
-127.0.0.1 count738.51yes.com
-127.0.0.1 count739.51yes.com
-127.0.0.1 count74.51yes.com
-127.0.0.1 count740.51yes.com
-127.0.0.1 count741.51yes.com
-127.0.0.1 count742.51yes.com
-127.0.0.1 count743.51yes.com
-127.0.0.1 count744.51yes.com
-127.0.0.1 count745.51yes.com
-127.0.0.1 count746.51yes.com
-127.0.0.1 count747.51yes.com
-127.0.0.1 count748.51yes.com
-127.0.0.1 count749.51yes.com
-127.0.0.1 count75.51yes.com
-127.0.0.1 count750.51yes.com
-127.0.0.1 count751.51yes.com
-127.0.0.1 count752.51yes.com
-127.0.0.1 count753.51yes.com
-127.0.0.1 count754.51yes.com
-127.0.0.1 count755.51yes.com
-127.0.0.1 count756.51yes.com
-127.0.0.1 count757.51yes.com
-127.0.0.1 count758.51yes.com
-127.0.0.1 count759.51yes.com
-127.0.0.1 count76.51yes.com
-127.0.0.1 count760.51yes.com
-127.0.0.1 count761.51yes.com
-127.0.0.1 count762.51yes.com
-127.0.0.1 count763.51yes.com
-127.0.0.1 count764.51yes.com
-127.0.0.1 count765.51yes.com
-127.0.0.1 count766.51yes.com
-127.0.0.1 count767.51yes.com
-127.0.0.1 count768.51yes.com
-127.0.0.1 count769.51yes.com
-127.0.0.1 count77.51yes.com
-127.0.0.1 count770.51yes.com
-127.0.0.1 count771.51yes.com
-127.0.0.1 count772.51yes.com
-127.0.0.1 count773.51yes.com
-127.0.0.1 count774.51yes.com
-127.0.0.1 count775.51yes.com
-127.0.0.1 count776.51yes.com
-127.0.0.1 count777.51yes.com
-127.0.0.1 count778.51yes.com
-127.0.0.1 count779.51yes.com
-127.0.0.1 count78.51yes.com
-127.0.0.1 count780.51yes.com
-127.0.0.1 count781.51yes.com
-127.0.0.1 count782.51yes.com
-127.0.0.1 count783.51yes.com
-127.0.0.1 count784.51yes.com
-127.0.0.1 count785.51yes.com
-127.0.0.1 count786.51yes.com
-127.0.0.1 count787.51yes.com
-127.0.0.1 count788.51yes.com
-127.0.0.1 count789.51yes.com
-127.0.0.1 count79.51yes.com
-127.0.0.1 count790.51yes.com
-127.0.0.1 count791.51yes.com
-127.0.0.1 count792.51yes.com
-127.0.0.1 count793.51yes.com
-127.0.0.1 count794.51yes.com
-127.0.0.1 count795.51yes.com
-127.0.0.1 count796.51yes.com
-127.0.0.1 count797.51yes.com
-127.0.0.1 count798.51yes.com
-127.0.0.1 count799.51yes.com
 127.0.0.1 count8.51yes.com
-127.0.0.1 count80.51yes.com
-127.0.0.1 count800.51yes.com
-127.0.0.1 count801.51yes.com
-127.0.0.1 count802.51yes.com
-127.0.0.1 count803.51yes.com
-127.0.0.1 count804.51yes.com
-127.0.0.1 count805.51yes.com
-127.0.0.1 count806.51yes.com
-127.0.0.1 count807.51yes.com
-127.0.0.1 count808.51yes.com
-127.0.0.1 count809.51yes.com
-127.0.0.1 count81.51yes.com
-127.0.0.1 count810.51yes.com
-127.0.0.1 count811.51yes.com
-127.0.0.1 count812.51yes.com
-127.0.0.1 count813.51yes.com
-127.0.0.1 count814.51yes.com
-127.0.0.1 count815.51yes.com
-127.0.0.1 count816.51yes.com
-127.0.0.1 count817.51yes.com
-127.0.0.1 count818.51yes.com
-127.0.0.1 count819.51yes.com
-127.0.0.1 count82.51yes.com
-127.0.0.1 count820.51yes.com
-127.0.0.1 count821.51yes.com
-127.0.0.1 count822.51yes.com
-127.0.0.1 count823.51yes.com
-127.0.0.1 count824.51yes.com
-127.0.0.1 count825.51yes.com
-127.0.0.1 count826.51yes.com
-127.0.0.1 count827.51yes.com
-127.0.0.1 count828.51yes.com
-127.0.0.1 count829.51yes.com
-127.0.0.1 count83.51yes.com
-127.0.0.1 count830.51yes.com
-127.0.0.1 count831.51yes.com
-127.0.0.1 count832.51yes.com
-127.0.0.1 count833.51yes.com
-127.0.0.1 count834.51yes.com
-127.0.0.1 count835.51yes.com
-127.0.0.1 count836.51yes.com
-127.0.0.1 count837.51yes.com
-127.0.0.1 count838.51yes.com
-127.0.0.1 count839.51yes.com
-127.0.0.1 count84.51yes.com
-127.0.0.1 count840.51yes.com
-127.0.0.1 count841.51yes.com
-127.0.0.1 count842.51yes.com
-127.0.0.1 count843.51yes.com
-127.0.0.1 count844.51yes.com
-127.0.0.1 count845.51yes.com
-127.0.0.1 count846.51yes.com
-127.0.0.1 count847.51yes.com
-127.0.0.1 count848.51yes.com
-127.0.0.1 count849.51yes.com
-127.0.0.1 count85.51yes.com
-127.0.0.1 count850.51yes.com
-127.0.0.1 count851.51yes.com
-127.0.0.1 count852.51yes.com
-127.0.0.1 count853.51yes.com
-127.0.0.1 count854.51yes.com
-127.0.0.1 count855.51yes.com
-127.0.0.1 count856.51yes.com
-127.0.0.1 count857.51yes.com
-127.0.0.1 count858.51yes.com
-127.0.0.1 count859.51yes.com
-127.0.0.1 count86.51yes.com
-127.0.0.1 count860.51yes.com
-127.0.0.1 count861.51yes.com
-127.0.0.1 count862.51yes.com
-127.0.0.1 count863.51yes.com
-127.0.0.1 count864.51yes.com
-127.0.0.1 count865.51yes.com
-127.0.0.1 count866.51yes.com
-127.0.0.1 count867.51yes.com
-127.0.0.1 count868.51yes.com
-127.0.0.1 count869.51yes.com
-127.0.0.1 count87.51yes.com
-127.0.0.1 count870.51yes.com
-127.0.0.1 count871.51yes.com
-127.0.0.1 count872.51yes.com
-127.0.0.1 count873.51yes.com
-127.0.0.1 count874.51yes.com
-127.0.0.1 count875.51yes.com
-127.0.0.1 count876.51yes.com
-127.0.0.1 count877.51yes.com
-127.0.0.1 count878.51yes.com
-127.0.0.1 count879.51yes.com
-127.0.0.1 count88.51yes.com
-127.0.0.1 count880.51yes.com
-127.0.0.1 count881.51yes.com
-127.0.0.1 count882.51yes.com
-127.0.0.1 count883.51yes.com
-127.0.0.1 count884.51yes.com
-127.0.0.1 count885.51yes.com
-127.0.0.1 count886.51yes.com
-127.0.0.1 count887.51yes.com
-127.0.0.1 count888.51yes.com
-127.0.0.1 count889.51yes.com
-127.0.0.1 count89.51yes.com
-127.0.0.1 count890.51yes.com
-127.0.0.1 count891.51yes.com
-127.0.0.1 count892.51yes.com
-127.0.0.1 count893.51yes.com
-127.0.0.1 count894.51yes.com
-127.0.0.1 count895.51yes.com
-127.0.0.1 count896.51yes.com
-127.0.0.1 count897.51yes.com
-127.0.0.1 count898.51yes.com
-127.0.0.1 count899.51yes.com
 127.0.0.1 count9.51yes.com
-127.0.0.1 count90.51yes.com
-127.0.0.1 count900.51yes.com
-127.0.0.1 count901.51yes.com
-127.0.0.1 count902.51yes.com
-127.0.0.1 count903.51yes.com
-127.0.0.1 count904.51yes.com
-127.0.0.1 count905.51yes.com
-127.0.0.1 count906.51yes.com
-127.0.0.1 count907.51yes.com
-127.0.0.1 count908.51yes.com
-127.0.0.1 count909.51yes.com
-127.0.0.1 count91.51yes.com
-127.0.0.1 count910.51yes.com
-127.0.0.1 count911.51yes.com
-127.0.0.1 count912.51yes.com
-127.0.0.1 count913.51yes.com
-127.0.0.1 count914.51yes.com
-127.0.0.1 count915.51yes.com
-127.0.0.1 count916.51yes.com
-127.0.0.1 count917.51yes.com
-127.0.0.1 count918.51yes.com
-127.0.0.1 count919.51yes.com
-127.0.0.1 count92.51yes.com
-127.0.0.1 count920.51yes.com
-127.0.0.1 count921.51yes.com
-127.0.0.1 count922.51yes.com
-127.0.0.1 count923.51yes.com
-127.0.0.1 count924.51yes.com
-127.0.0.1 count925.51yes.com
-127.0.0.1 count926.51yes.com
-127.0.0.1 count927.51yes.com
-127.0.0.1 count928.51yes.com
-127.0.0.1 count929.51yes.com
-127.0.0.1 count93.51yes.com
-127.0.0.1 count930.51yes.com
-127.0.0.1 count931.51yes.com
-127.0.0.1 count932.51yes.com
-127.0.0.1 count933.51yes.com
-127.0.0.1 count934.51yes.com
-127.0.0.1 count935.51yes.com
-127.0.0.1 count936.51yes.com
-127.0.0.1 count937.51yes.com
-127.0.0.1 count938.51yes.com
-127.0.0.1 count939.51yes.com
-127.0.0.1 count94.51yes.com
-127.0.0.1 count940.51yes.com
-127.0.0.1 count941.51yes.com
-127.0.0.1 count942.51yes.com
-127.0.0.1 count943.51yes.com
-127.0.0.1 count944.51yes.com
-127.0.0.1 count945.51yes.com
-127.0.0.1 count946.51yes.com
-127.0.0.1 count947.51yes.com
-127.0.0.1 count948.51yes.com
-127.0.0.1 count949.51yes.com
-127.0.0.1 count95.51yes.com
-127.0.0.1 count950.51yes.com
-127.0.0.1 count951.51yes.com
-127.0.0.1 count952.51yes.com
-127.0.0.1 count953.51yes.com
-127.0.0.1 count954.51yes.com
-127.0.0.1 count955.51yes.com
-127.0.0.1 count956.51yes.com
-127.0.0.1 count957.51yes.com
-127.0.0.1 count958.51yes.com
-127.0.0.1 count959.51yes.com
-127.0.0.1 count96.51yes.com
-127.0.0.1 count960.51yes.com
-127.0.0.1 count961.51yes.com
-127.0.0.1 count962.51yes.com
-127.0.0.1 count963.51yes.com
-127.0.0.1 count964.51yes.com
-127.0.0.1 count965.51yes.com
-127.0.0.1 count966.51yes.com
-127.0.0.1 count967.51yes.com
-127.0.0.1 count968.51yes.com
-127.0.0.1 count969.51yes.com
-127.0.0.1 count97.51yes.com
-127.0.0.1 count970.51yes.com
-127.0.0.1 count971.51yes.com
-127.0.0.1 count972.51yes.com
-127.0.0.1 count973.51yes.com
-127.0.0.1 count974.51yes.com
-127.0.0.1 count975.51yes.com
-127.0.0.1 count976.51yes.com
-127.0.0.1 count977.51yes.com
-127.0.0.1 count978.51yes.com
-127.0.0.1 count979.51yes.com
-127.0.0.1 count98.51yes.com
-127.0.0.1 count980.51yes.com
-127.0.0.1 count981.51yes.com
-127.0.0.1 count982.51yes.com
-127.0.0.1 count983.51yes.com
-127.0.0.1 count984.51yes.com
-127.0.0.1 count985.51yes.com
-127.0.0.1 count986.51yes.com
-127.0.0.1 count987.51yes.com
-127.0.0.1 count988.51yes.com
-127.0.0.1 count989.51yes.com
-127.0.0.1 count99.51yes.com
-127.0.0.1 count990.51yes.com
-127.0.0.1 count991.51yes.com
-127.0.0.1 count992.51yes.com
-127.0.0.1 count993.51yes.com
-127.0.0.1 count994.51yes.com
-127.0.0.1 count995.51yes.com
-127.0.0.1 count996.51yes.com
-127.0.0.1 count997.51yes.com
-127.0.0.1 count998.51yes.com
-127.0.0.1 count999.51yes.com
-127.0.0.1 countt.51yes.com
-127.0.0.1 www.51yes.com
 
 # 55.la
 127.0.0.1 55.la
@@ -3287,7 +2319,6 @@
 127.0.0.1 ad.abctv.com
 
 # abema.io
-127.0.0.1 ad.abema.io
 127.0.0.1 avod.ad.abema.io
 
 # abercrombielife.com
@@ -3457,14 +2488,8 @@
 127.0.0.1 acezip.net
 127.0.0.1 www.acezip.net
 
-# acezsoftware.com
-127.0.0.1 www.acezsoftware.com
-
 # achievablecpmrevenue.com
 127.0.0.1 www.achievablecpmrevenue.com
-
-# achilles-ena.com
-127.0.0.1 achilles-ena.com
 
 # achmedia.com
 127.0.0.1 achmedia.com
@@ -3499,9 +2524,6 @@
 
 # actionsplash.com
 127.0.0.1 actionsplash.com
-
-# activate-antivirus.com
-127.0.0.1 activate-antivirus.com
 
 # activeadv.net
 127.0.0.1 adimg.activeadv.net
@@ -3548,9 +2570,6 @@
 127.0.0.1 ad-arata.com
 127.0.0.1 ad.ad-arata.com
 
-# ad-blaster.com
-127.0.0.1 ad-blaster.com
-
 # ad-brix.com
 127.0.0.1 ad-brix.com
 127.0.0.1 tracking.ad-brix.com
@@ -3586,6 +2605,7 @@
 127.0.0.1 www.ad-flow.com
 
 # ad-generation.jp
+127.0.0.1 ad-generation.jp
 127.0.0.1 vmap.v.ad-generation.jp
 
 # ad-groups.com
@@ -4000,9 +3020,6 @@
 127.0.0.1 adcycle.com
 127.0.0.1 pluto.adcycle.com
 127.0.0.1 www.adcycle.com
-
-# addaim.com
-127.0.0.1 www.addaim.com
 
 # adday.co.kr
 127.0.0.1 adday.co.kr
@@ -4517,9 +3534,6 @@
 # adloader.com
 127.0.0.1 www.adloader.com
 
-# adlocal.co.kr
-127.0.0.1 am1.adlocal.co.kr
-
 # adlove.jp
 127.0.0.1 adlove.jp
 
@@ -4910,11 +3924,6 @@
 # adroar.com
 127.0.0.1 ads.adroar.com
 
-# adrolays.de
-127.0.0.1 adrolays.de
-127.0.0.1 cdn.adrolays.de
-127.0.0.1 r.adrolays.de
-
 # adroll.com
 127.0.0.1 a.adroll.com
 127.0.0.1 adroll.com
@@ -4978,9 +3987,6 @@
 
 # ads2-adnow.com
 127.0.0.1 ads2-adnow.com
-
-# ads234.com
-127.0.0.1 www.ads234.com
 
 # ads360.com
 127.0.0.1 adserver.ads360.com
@@ -5115,8 +4121,6 @@
 127.0.0.1 media01.adservinghost.com
 
 # adservinginternational.com
-127.0.0.1 adservinginternational.com
-127.0.0.1 dr.adservinginternational.com
 127.0.0.1 media.adservinginternational.com
 
 # adservingnetwork.com
@@ -5229,12 +4233,6 @@
 127.0.0.1 adsolutions.nl
 127.0.0.1 storage.adsolutions.nl
 127.0.0.1 telgids.adsolutions.nl
-
-# adsonlineinc.com
-127.0.0.1 adsonlineinc.com
-
-# adsp.jp
-127.0.0.1 adsp.jp
 
 # adspace.be
 127.0.0.1 www.adspace.be
@@ -5455,7 +4453,6 @@
 127.0.0.1 ad.adtegrity.net
 127.0.0.1 ads.adtegrity.net
 127.0.0.1 adtegrity.net
-127.0.0.1 content.adtegrity.net
 
 # adteractive.com
 127.0.0.1 adteractive.com
@@ -5483,9 +4480,6 @@
 
 # adtlgc.com
 127.0.0.1 code3.adtlgc.com
-
-# adtoll.com
-127.0.0.1 adtoll.com
 
 # adtology.com
 127.0.0.1 adtology.com
@@ -5568,9 +4562,6 @@
 
 # adultbanners.co.uk
 127.0.0.1 www.adultbanners.co.uk
-
-# adultblogtoplist.com
-127.0.0.1 www.adultblogtoplist.com
 
 # adultbouncer.com
 127.0.0.1 abtracker.adultbouncer.com
@@ -6413,9 +5404,6 @@
 # alertpay.com
 127.0.0.1 www.alertpay.com
 
-# alexa-xxx.com
-127.0.0.1 www.alexa-xxx.com
-
 # alexa.com
 127.0.0.1 alexa.com
 127.0.0.1 data.alexa.com
@@ -6735,20 +5723,16 @@
 127.0.0.1 banners.amigos.com
 
 # amoad.com
-127.0.0.1 a.amoad.com
 127.0.0.1 acs.amoad.com
 127.0.0.1 ad.ca-conv.amoad.com
 127.0.0.1 amoad.com
 127.0.0.1 at.amoad.com
 127.0.0.1 cdni.amoad.com
-127.0.0.1 corp.amoad.com
 127.0.0.1 cs.amoad.com
-127.0.0.1 d-help.amoad.com
 127.0.0.1 d.amoad.com
 127.0.0.1 dmp.amoad.com
 127.0.0.1 i.amoad.com
 127.0.0.1 j.amoad.com
-127.0.0.1 jswf.amoad.com
 127.0.0.1 kr.games.amoad.com
 127.0.0.1 m.amoad.com
 127.0.0.1 mail.amoad.com
@@ -6762,9 +5746,7 @@
 127.0.0.1 r.amoad.com
 127.0.0.1 rd.games.amoad.com
 127.0.0.1 sc.amoad.com
-127.0.0.1 schemas.amoad.com
 127.0.0.1 sync.ca-conv.amoad.com
-127.0.0.1 tech.amoad.com
 127.0.0.1 test.amoad.com
 127.0.0.1 u.amoad.com
 127.0.0.1 v.amoad.com
@@ -6791,9 +5773,6 @@
 127.0.0.1 ads.amusive.com
 127.0.0.1 amusive.com
 127.0.0.1 www.amusive.com
-
-# amzrm.com
-127.0.0.1 amzrm.com
 
 # anahtars.com
 127.0.0.1 anahtars.com
@@ -7042,7 +6021,6 @@
 
 # applovin.com
 127.0.0.1 assets.applovin.com
-127.0.0.1 iad-albtest.applovin.com
 127.0.0.1 img.applovin.com
 127.0.0.1 prod-a.applovin.com
 127.0.0.1 res1.applovin.com
@@ -7148,9 +6126,6 @@
 # archive.org
 127.0.0.1 analytics.archive.org
 
-# arcuspubblicita.it
-127.0.0.1 ads.arcuspubblicita.it
-
 # areasnap.com
 127.0.0.1 areasnap.com
 127.0.0.1 www.areasnap.com
@@ -7164,9 +6139,6 @@
 
 # arielrebel.com
 127.0.0.1 www2.arielrebel.com
-
-# aries-search.com
-127.0.0.1 aries-search.com
 
 # arlinadzgn.com
 127.0.0.1 www.arlinadzgn.com
@@ -7374,6 +6346,9 @@
 # atopsites.com
 127.0.0.1 atopsites.com
 
+# atown.jp
+127.0.0.1 ad.atown.jp
+
 # atroots.com
 127.0.0.1 www.atroots.com
 
@@ -7388,6 +6363,9 @@
 127.0.0.1 at.atwola.com
 127.0.0.1 cdn.at.atwola.com
 127.0.0.1 cdn.atwola.com
+
+# atype.jp
+127.0.0.1 atype.jp
 
 # aucfan.com
 127.0.0.1 ad.aucfan.com
@@ -7517,9 +6495,6 @@
 # avres.net
 127.0.0.1 avres.net
 
-# avsads.com
-127.0.0.1 www.avsads.com
-
 # avsforum.com
 127.0.0.1 rev.avsforum.com
 
@@ -7599,9 +6574,6 @@
 127.0.0.1 images.axill.in
 127.0.0.1 www.axill.in
 
-# aylarl.com
-127.0.0.1 aylarl.com
-
 # azads.net
 127.0.0.1 azads.net
 127.0.0.1 www.azads.net
@@ -7630,6 +6602,9 @@
 
 # azter.com
 127.0.0.1 www.azter.com
+
+# aztool.org
+127.0.0.1 aztool.org
 
 # b-click.net
 127.0.0.1 b-click.net
@@ -7878,7 +6853,6 @@
 
 # bannerconnect.net
 127.0.0.1 bannerconnect.net
-127.0.0.1 content.bannerconnect.net
 
 # bannerdoctors.com
 127.0.0.1 bannerdoctors.com
@@ -8092,12 +7066,6 @@
 
 # become.co.jp
 127.0.0.1 partner.become.co.jp
-
-# becontext.com
-127.0.0.1 www.becontext.com
-
-# bector-blotance.xyz
-127.0.0.1 bector-blotance.xyz
 
 # beeb.com
 127.0.0.1 www.adimages.beeb.com
@@ -8505,9 +7473,6 @@
 # bikers-engine.com
 127.0.0.1 banex.bikers-engine.com
 
-# bilbob.com
-127.0.0.1 bilbob.com
-
 # billboard.cz
 127.0.0.1 billboard.cz
 
@@ -8657,9 +7622,6 @@
 127.0.0.1 trk.blamads.com
 127.0.0.1 www.blamads.com
 127.0.0.1 www.servedby.blamads.com
-
-# blank-record.com
-127.0.0.1 blank-record.com
 
 # blast4traffic.com
 127.0.0.1 blast4traffic.com
@@ -9413,9 +8375,6 @@
 127.0.0.1 btstatic.com
 127.0.0.1 s.btstatic.com
 
-# bttbgroup.com
-127.0.0.1 ads.bttbgroup.com
-
 # bubblestat.com
 127.0.0.1 ad.bubblestat.com
 127.0.0.1 in.bubblestat.com
@@ -9473,7 +8432,6 @@
 
 # bullseye-network.com
 127.0.0.1 bullseye-network.com
-127.0.0.1 www.bullseye-network.com
 
 # bumq.com
 127.0.0.1 ads.bumq.com
@@ -10943,7 +9901,6 @@
 127.0.0.1 d3hmb5h5qngs7g.cloudfront.net
 127.0.0.1 d3oltyb66oj2v8.cloudfront.net
 127.0.0.1 d5nxst8fruw4z.cloudfront.net
-127.0.0.1 d7wl7ip0nebn3.cloudfront.net
 127.0.0.1 dnn506yrbagrg.cloudfront.net
 127.0.0.1 dtym7iokkjlif.cloudfront.net
 
@@ -11735,15 +10692,6 @@
 127.0.0.1 pingback.cpushpop.com
 127.0.0.1 push.cpushpop.com
 
-# cpvfeed.com
-127.0.0.1 ad.cpvfeed.com
-127.0.0.1 campaign.cpvfeed.com
-127.0.0.1 conversion.cpvfeed.com
-127.0.0.1 cpvtext.cpvfeed.com
-127.0.0.1 keyword.cpvfeed.com
-127.0.0.1 roitrack.cpvfeed.com
-127.0.0.1 url.cpvfeed.com
-
 # cpx24.com
 127.0.0.1 www.cpx24.com
 
@@ -11758,7 +10706,6 @@
 127.0.0.1 www.cpxcenter.com
 
 # cpxinteractive.com
-127.0.0.1 content.cpxinteractive.com
 127.0.0.1 cpxinteractive.com
 127.0.0.1 www.cpxinteractive.com
 
@@ -12296,6 +11243,9 @@
 127.0.0.1 daoblocks.com
 127.0.0.1 www.daoblocks.com
 
+# daotag.com
+127.0.0.1 daotag.com
+
 # daoyoudao.com
 127.0.0.1 www.daoyoudao.com
 
@@ -12405,9 +11355,6 @@
 # dealdotcom.com
 127.0.0.1 dealdotcom.com
 
-# dealfindcdn.com
-127.0.0.1 a1.dealfindcdn.com
-
 # dealtime.com
 127.0.0.1 stat.dealtime.com
 127.0.0.1 www2.dealtime.com
@@ -12439,12 +11386,6 @@
 127.0.0.1 collector.deepmetrix.com
 127.0.0.1 geo.deepmetrix.com
 127.0.0.1 www.deepmetrix.com
-
-# default-homepage-network.com
-127.0.0.1 default-homepage-network.com
-127.0.0.1 downloads.default-homepage-network.com
-127.0.0.1 si1.default-homepage-network.com
-127.0.0.1 www.default-homepage-network.com
 
 # deh.de
 127.0.0.1 adlink.deh.de
@@ -12616,6 +11557,9 @@
 # dff.jp
 127.0.0.1 bnr.dff.jp
 127.0.0.1 www.dff.jp
+
+# dgpot.com
+127.0.0.1 blogparts.dgpot.com
 
 # dhs.org
 127.0.0.1 hipcrime.home.dhs.org
@@ -13531,9 +12475,6 @@
 # downloads.expert
 127.0.0.1 downloads.expert
 
-# downloadupload.com
-127.0.0.1 www.downloadupload.com
-
 # downloadware.net
 127.0.0.1 downloadware.net
 127.0.0.1 www.downloadware.net
@@ -13633,6 +12574,9 @@
 # dsnrmg.com
 127.0.0.1 dsnrmg.com
 127.0.0.1 www.dsnrmg.com
+
+# dsp-socialgameinfo.com
+127.0.0.1 dsp-socialgameinfo.com
 
 # dsparking.com
 127.0.0.1 dsparking.com
@@ -14309,9 +13253,6 @@
 
 # emjcd.com
 127.0.0.1 www.emjcd.com
-
-# emol.com
-127.0.0.1 ads.emol.com
 
 # empflixlive.com
 127.0.0.1 ifa.empflixlive.com
@@ -15230,9 +14171,6 @@
 127.0.0.1 go.exrtbsrv.com
 127.0.0.1 p.exrtbsrv.com
 
-# extractorandburner.com
-127.0.0.1 extractorandburner.com
-
 # extreme-dm.com
 127.0.0.1 e0.extreme-dm.com
 127.0.0.1 e1.extreme-dm.com
@@ -15481,9 +14419,6 @@
 127.0.0.1 ranking2.fc2.com
 127.0.0.1 search.fc2.com
 127.0.0.1 vote1.fc2.com
-
-# fc2rs.com
-127.0.0.1 150601.fc2rs.com
 
 # fc2web.com
 127.0.0.1 cnt.fc2web.com
@@ -16444,7 +15379,6 @@
 127.0.0.1 download2.freeze.com
 127.0.0.1 img.freeze.com
 127.0.0.1 lan.freeze.com
-127.0.0.1 my.freeze.com
 127.0.0.1 off.freeze.com
 127.0.0.1 pops.freeze.com
 127.0.0.1 register.freeze.com
@@ -16702,9 +15636,6 @@
 # game-advertising-online.com
 127.0.0.1 game-advertising-online.com
 127.0.0.1 www.game-advertising-online.com
-
-# game3737.com
-127.0.0.1 game3737.com
 
 # gameanalytics.com
 127.0.0.1 api.gameanalytics.com
@@ -17209,9 +16140,6 @@
 127.0.0.1 delivery.ads.gfsrv.net
 127.0.0.1 media.ads.gfsrv.net
 
-# gfxartist.com
-127.0.0.1 advertising.gfxartist.com
-
 # giantdating.com
 127.0.0.1 www.giantdating.com
 
@@ -17239,9 +16167,6 @@
 
 # girafa.com
 127.0.0.1 girafa.com
-
-# girlgamesbanner.com
-127.0.0.1 www.girlgamesbanner.com
 
 # girls.xyz
 127.0.0.1 cn.girls.xyz
@@ -17482,9 +16407,6 @@
 
 # godroid.pw
 127.0.0.1 in.godroid.pw
-
-# goggle.com
-127.0.0.1 goggle.com
 
 # gogoceleb.com
 127.0.0.1 hidden.gogoceleb.com
@@ -17869,7 +16791,6 @@
 127.0.0.1 ads.gtsads.com
 127.0.0.1 geoip.gtsads.com
 127.0.0.1 new.gtsads.com
-127.0.0.1 nimages.gtsads.com
 127.0.0.1 static.cdn.gtsads.com
 
 # gtsmobi.com
@@ -18783,7 +17704,6 @@
 127.0.0.1 www.homebusinessgo.com
 
 # homecareersearch.com
-127.0.0.1 members.us.homecareersearch.com
 127.0.0.1 www.homecareersearch.com
 
 # homedepot.com
@@ -19085,9 +18005,6 @@
 
 # htmate2.com
 127.0.0.1 www.htmate2.com
-
-# html-email-marketing.com
-127.0.0.1 www.html-email-marketing.com
 
 # html.it
 127.0.0.1 adserver.html.it
@@ -19409,11 +18326,6 @@
 
 # icn.bg
 127.0.0.1 ads.icn.bg
-
-# iconadserver.com
-127.0.0.1 ad.iconadserver.com
-127.0.0.1 content.iconadserver.com
-127.0.0.1 my.iconadserver.com
 
 # iconator.com
 127.0.0.1 iconator.com
@@ -20071,10 +18983,6 @@
 
 # infospace.com
 127.0.0.1 infospace.com
-
-# infostart.com
-127.0.0.1 infostart.com
-127.0.0.1 popups.infostart.com
 
 # infotelsrl.com
 127.0.0.1 www.infotelsrl.com
@@ -21159,9 +20067,6 @@
 # ipafind.com
 127.0.0.1 www.ipafind.com
 
-# ipc.ru
-127.0.0.1 click.ipc.ru
-
 # ipcount.net
 127.0.0.1 ipcount.net
 127.0.0.1 www.ipcount.net
@@ -21372,9 +20277,6 @@
 # itworld.com
 127.0.0.1 log.itworld.com
 
-# ivirtualcard.com
-127.0.0.1 secure.ivirtualcard.com
-
 # ivwbox.de
 127.0.0.1 ns.ivwbox.de
 127.0.0.1 ns3.ivwbox.de
@@ -21549,9 +20451,6 @@
 
 # jklir.net
 127.0.0.1 pagerank.jklir.net
-
-# jmpads.com
-127.0.0.1 www.jmpads.com
 
 # jo-games.com
 127.0.0.1 ads.jo-games.com
@@ -22032,6 +20931,9 @@
 # kochava.com
 127.0.0.1 kochava.com
 
+# kodansha.pub
+127.0.0.1 ad.kodansha.pub
+
 # kohls.com
 127.0.0.1 ww9.kohls.com
 
@@ -22416,9 +21318,6 @@
 # line-apps.com
 127.0.0.1 torimochi.line-apps.com
 
-# line.me
-127.0.0.1 ad-center.line.me
-
 # linekong.com
 127.0.0.1 img.linekong.com
 127.0.0.1 www.linekong.com
@@ -22460,8 +21359,6 @@
 
 # link4link.com
 127.0.0.1 link4link.com
-127.0.0.1 plus.link4link.com
-127.0.0.1 www.link4link.com
 
 # link4u.de
 127.0.0.1 link4u.de
@@ -22556,10 +21453,6 @@
 # linkresearchtools.com
 127.0.0.1 app.linkresearchtools.com
 
-# links-and-traffic.com
-127.0.0.1 links-and-traffic.com
-127.0.0.1 www.links-and-traffic.com
-
 # links-ranking.de
 127.0.0.1 links-ranking.de
 
@@ -22612,7 +21505,6 @@
 127.0.0.1 click.linksummary.com
 127.0.0.1 demon1.linksummary.com
 127.0.0.1 demon2.linksummary.com
-127.0.0.1 linksummary.com
 127.0.0.1 redirect.linksummary.com
 127.0.0.1 searchbar.linksummary.com
 127.0.0.1 www.linksummary.com
@@ -23291,9 +22183,6 @@
 127.0.0.1 affiliates.loanpush.com
 127.0.0.1 loanpush.com
 
-# local-1307.com
-127.0.0.1 www.local-1307.com
-
 # local.com
 127.0.0.1 omnituretrack.local.com
 
@@ -23424,11 +22313,6 @@
 # lottoelite.com
 127.0.0.1 banners.lottoelite.com
 
-# loudmo.com
-127.0.0.1 loudmo.com
-127.0.0.1 www.loudmo.com
-127.0.0.1 www3.loudmo.com
-
 # love-money.de
 127.0.0.1 promo.love-money.de
 
@@ -23487,7 +22371,6 @@
 127.0.0.1 ad2.lupa.cz
 
 # lustler.com
-127.0.0.1 lustler.com
 127.0.0.1 www.lustler.com
 
 # luxemil.com
@@ -23559,9 +22442,6 @@
 
 # m-arata.com
 127.0.0.1 m-arata.com
-
-# m-cat.jp
-127.0.0.1 m-cat.jp
 
 # m0.net
 127.0.0.1 images.m0.net
@@ -23820,15 +22700,9 @@
 127.0.0.1 marketingtips.com
 127.0.0.1 www.marketingtips.com
 
-# marketingwithpostcards.com
-127.0.0.1 marketingwithpostcards.com
-
 # marketingx.com
 127.0.0.1 marketingx.com
 127.0.0.1 www.marketingx.com
-
-# marketleverage.com
-127.0.0.1 users.marketleverage.com
 
 # marketo.com
 127.0.0.1 marketo.com
@@ -24161,9 +23035,6 @@
 # mediamath.com
 127.0.0.1 mediamath.com
 127.0.0.1 www.mediamath.com
-
-# mediamayhemcorp.com
-127.0.0.1 mediamayhemcorp.com
 
 # mediamind.com
 127.0.0.1 mediamind.com
@@ -24747,17 +23618,11 @@
 # mobifunworld.com
 127.0.0.1 go.mobifunworld.com
 
-# mobile-app-market-here2.life
-127.0.0.1 mobile-app-market-here2.life
-
 # mobilemarketer.com
 127.0.0.1 ads.mobilemarketer.com
 
 # mobilemk.net
 127.0.0.1 www.rs.mobilemk.net
-
-# mobilemonetize.me
-127.0.0.1 mobilemonetize.me
 
 # mobilenobo.com
 127.0.0.1 mola77.mobilenobo.com
@@ -25233,8 +24098,8 @@
 # muscus.com
 127.0.0.1 www.muscus.com
 
-# music-oasis.com
-127.0.0.1 register.music-oasis.com
+# museum.or.jp
+127.0.0.1 ads.museum.or.jp
 
 # musiccounter.ru
 127.0.0.1 musiccounter.ru
@@ -25251,9 +24116,6 @@
 # musicmatch.com
 127.0.0.1 ad.musicmatch.com
 127.0.0.1 ads.musicmatch.com
-
-# musicmembersarea.com
-127.0.0.1 musicmembersarea.com
 
 # musikmedia.de
 127.0.0.1 banner.musikmedia.de
@@ -26307,9 +25169,7 @@
 
 # netbios-wait.com
 127.0.0.1 ayb.netbios-wait.com
-127.0.0.1 netbios-wait.com
 127.0.0.1 upd.netbios-wait.com
-127.0.0.1 www.netbios-wait.com
 
 # netbookia.net
 127.0.0.1 netpool.netbookia.net
@@ -26478,9 +25338,6 @@
 # netsponsors.com
 127.0.0.1 www.netsponsors.com
 
-# netspyprotector.com
-127.0.0.1 www.netspyprotector.com
-
 # netster.com
 127.0.0.1 about.netster.com
 127.0.0.1 addtosite.netster.com
@@ -26544,9 +25401,6 @@
 # networksolutionsaffiliates.com
 127.0.0.1 networksolutionsaffiliates.com
 127.0.0.1 www.networksolutionsaffiliates.com
-
-# networkvision.net
-127.0.0.1 adserver.networkvision.net
 
 # networkwcs.net
 127.0.0.1 ads.networkwcs.net
@@ -26911,7 +25765,6 @@
 127.0.0.1 novuslink.net
 
 # nowlinux.com
-127.0.0.1 c1.nowlinux.com
 127.0.0.1 counter.nowlinux.com
 
 # nowvisitors.com
@@ -28070,9 +26923,6 @@
 # paxnet.co.kr
 127.0.0.1 ads.paxnet.co.kr
 
-# pay-ads.com
-127.0.0.1 pay-ads.com
-
 # pay-click.ru
 127.0.0.1 n.pay-click.ru
 127.0.0.1 st.pay-click.ru
@@ -28622,9 +27472,6 @@
 
 # petsmart.com
 127.0.0.1 metrics.petsmart.com
-
-# petsmovies.com
-127.0.0.1 petsmovies.com
 
 # pflexads.com
 127.0.0.1 ads-cdn1.pflexads.com
@@ -30300,9 +29147,6 @@
 # referralware.com
 127.0.0.1 referralware.com
 
-# reflektor.cz
-127.0.0.1 reklama.reflektor.cz
-
 # regiedepub.com
 127.0.0.1 ads.regiedepub.com
 
@@ -30319,9 +29163,6 @@
 
 # registryfix.com
 127.0.0.1 www.registryfix.com
-
-# registrygenius.com
-127.0.0.1 www.registrygenius.com
 
 # registrysweeper.com
 127.0.0.1 www.registrysweeper.com
@@ -30660,7 +29501,6 @@
 127.0.0.1 d.rmgserving.com
 
 # rmxads.com
-127.0.0.1 content.rmxads.com
 127.0.0.1 optimizedby.rmxads.com
 
 # rne.com
@@ -30918,9 +29758,6 @@
 # s5.com
 127.0.0.1 s5.com
 
-# sabah.com.tr
-127.0.0.1 ads.sabah.com.tr
-
 # sabela.com
 127.0.0.1 au.www.sabela.com
 127.0.0.1 sabela.com
@@ -30985,9 +29822,6 @@
 
 # samsungadhub.com
 127.0.0.1 ad.samsungadhub.com
-
-# sanofi-aventis.us
-127.0.0.1 sdc.sanofi-aventis.us
 
 # sanomawsoy.fi
 127.0.0.1 adimages.sanomawsoy.fi
@@ -31070,9 +29904,6 @@
 
 # scholastic.com
 127.0.0.1 stats.scholastic.com
-
-# schoolcutbetween.live
-127.0.0.1 schoolcutbetween.live
 
 # scifi.com
 127.0.0.1 ads.scifi.com
@@ -31360,10 +30191,6 @@
 
 # securedvisit.com
 127.0.0.1 track.securedvisit.com
-
-# secureinstallprotectfull.cyou
-127.0.0.1 cdn.secureinstallprotectfull.cyou
-127.0.0.1 www.secureinstallprotectfull.cyou
 
 # secureserver.net
 127.0.0.1 images-pw.secureserver.net
@@ -31953,9 +30780,6 @@
 127.0.0.1 adf.shinobi.jp
 127.0.0.1 adm.shinobi.jp
 127.0.0.1 bfile.shinobi.jp
-127.0.0.1 code.analysis.shinobi.jp
-127.0.0.1 ct1.shinobi.jp
-127.0.0.1 ct2.shinobi.jp
 127.0.0.1 file.kanchigai.blog.shinobi.jp
 127.0.0.1 j1.shinobi.jp
 127.0.0.1 j2.shinobi.jp
@@ -32205,9 +31029,6 @@
 127.0.0.1 kaartenhuis.nl.site-id.nl
 127.0.0.1 startpunt.nu.site-id.nl
 127.0.0.1 www.site-id.nl
-
-# site-stats.com
-127.0.0.1 site-stats.com
 
 # siteamplifier.net
 127.0.0.1 server.siteamplifier.net
@@ -32673,6 +31494,9 @@
 # sogou.com
 127.0.0.1 update.cpc.sogou.com
 
+# sokmil-ad.com
+127.0.0.1 sokmil-ad.com
+
 # soku.info
 127.0.0.1 soku.info
 
@@ -32690,6 +31514,9 @@
 
 # songline.com
 127.0.0.1 crux.songline.com
+
+# sonicsense.jp
+127.0.0.1 affiliate.sonicsense.jp
 
 # sonnabakana.com
 127.0.0.1 ct2.sonnabakana.com
@@ -32709,9 +31536,6 @@
 
 # sonystyle.com
 127.0.0.1 metrics.sonystyle.com
-
-# soodao.com
-127.0.0.1 med.soodao.com
 
 # sooran.ir
 127.0.0.1 ads.sooran.ir
@@ -32754,7 +31578,6 @@
 
 # spamblockerutility.com
 127.0.0.1 installs.spamblockerutility.com
-127.0.0.1 www.spamblockerutility.com
 
 # spamfighter.com
 127.0.0.1 analytic.spamfighter.com
@@ -33644,9 +32467,6 @@
 
 # stileproject.com
 127.0.0.1 ads.stileproject.com
-
-# stock-monkey.com
-127.0.0.1 www.stock-monkey.com
 
 # stockbanners.com
 127.0.0.1 ads.stockbanners.com
@@ -35225,9 +34045,6 @@
 # topofblogs.com
 127.0.0.1 stats.topofblogs.com
 
-# topoffers.pro
-127.0.0.1 free.topoffers.pro
-
 # topping.com.ua
 127.0.0.1 counter.topping.com.ua
 127.0.0.1 topping.com.ua
@@ -35954,7 +34771,6 @@
 127.0.0.1 tracker.truehits.in.th
 
 # truehits.net
-127.0.0.1 tracker.truehits.net
 127.0.0.1 truehits.net
 
 # trulia.com
@@ -36431,9 +35247,6 @@
 # upc.ua
 127.0.0.1 secure.upc.ua
 
-# updat-members.life
-127.0.0.1 updat-members.life
-
 # updated.com
 127.0.0.1 updated.com
 
@@ -36509,9 +35322,6 @@
 
 # usagc.org
 127.0.0.1 html.usagc.org
-
-# usapromotravel.com
-127.0.0.1 usapromotravel.com
 
 # usatoday.com
 127.0.0.1 ad.usatoday.com
@@ -36606,8 +35416,6 @@
 127.0.0.1 www.v-links.net
 
 # v1.cn
-127.0.0.1 luck.v1.cn
-127.0.0.1 lucklog4.v1.cn
 127.0.0.1 luckshow.v1.cn
 127.0.0.1 luckstatic.v1.cn
 
@@ -36668,10 +35476,6 @@
 127.0.0.1 valueclick.com
 127.0.0.1 www.valueclick.com
 
-# valueclick.ne.jp
-127.0.0.1 valueclick.ne.jp
-127.0.0.1 www.valueclick.ne.jp
-
 # valueclick.net
 127.0.0.1 ads.123m.valueclick.net
 127.0.0.1 ads.aco.valueclick.net
@@ -36709,10 +35513,6 @@
 
 # valuepay.com
 127.0.0.1 valuepay.com
-
-# valuesponsor.com
-127.0.0.1 valuesponsor.com
-127.0.0.1 www.valuesponsor.com
 
 # vampirestat.com
 127.0.0.1 vampirestat.com
@@ -36909,9 +35709,6 @@
 
 # videofen.com
 127.0.0.1 ads.videofen.com
-
-# videogamer.com
-127.0.0.1 chappel.videogamer.com
 
 # videoprofessor.com
 127.0.0.1 vimages.videoprofessor.com
@@ -37160,13 +35957,6 @@
 127.0.0.1 vodone.com
 127.0.0.1 www.vodone.com
 
-# voice2page.com
-127.0.0.1 aa.voice2page.com
-127.0.0.1 adlet.voice2page.com
-127.0.0.1 go.voice2page.com
-127.0.0.1 payperplay.voice2page.com
-127.0.0.1 ppp.voice2page.com
-
 # voicefive.com
 127.0.0.1 ar.voicefive.com
 127.0.0.1 survey2.voicefive.com
@@ -37196,9 +35986,6 @@
 
 # vombanetwork.com
 127.0.0.1 www.vombanetwork.com
-
-# vombasavers.com
-127.0.0.1 www.vombasavers.com
 
 # vombashots.com
 127.0.0.1 vombashots.com
@@ -37664,7 +36451,6 @@
 127.0.0.1 ads.webmasterprofitcenter.com
 127.0.0.1 gfx.webmasterprofitcenter.com
 127.0.0.1 peel.webmasterprofitcenter.com
-127.0.0.1 promo.webmasterprofitcenter.com
 
 # webmd.com
 127.0.0.1 ads.webmd.com
@@ -37739,7 +36525,6 @@
 127.0.0.1 webseoanalytics.com
 
 # webservis.gen.tr
-127.0.0.1 counter.webservis.gen.tr
 127.0.0.1 logo.webservis.gen.tr
 127.0.0.1 www.webservis.gen.tr
 
@@ -39041,7 +37826,6 @@
 
 # yieldmanager.com
 127.0.0.1 ad.yieldmanager.com
-127.0.0.1 content.yieldmanager.com
 127.0.0.1 yieldmanager.com
 
 # yieldmanager.net
@@ -39163,7 +37947,6 @@
 127.0.0.1 youmi.net
 
 # youngmovieclips.com
-127.0.0.1 www.youngmovieclips.com
 127.0.0.1 youngmovieclips.com
 
 # youpornmate.com
@@ -39405,9 +38188,6 @@
 
 # zero-animation.net
 127.0.0.1 www.zero-animation.net
-
-# zeroredirect12.com
-127.0.0.1 zy1.zeroredirect12.com
 
 # zestadz.com
 127.0.0.1 assets.zestadz.com
