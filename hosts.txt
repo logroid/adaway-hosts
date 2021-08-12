@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2021/08/05
-# block hosts: 20459 entry
+# last updated: 2021/08/12
+# block hosts: 20399 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -225,6 +225,9 @@
 # 1sexsex.com
 127.0.0.1 www.1sexsex.com
 
+# 1sponsor.com
+127.0.0.1 fr.1sponsor.com
+
 # 1stmovieclub.net
 127.0.0.1 1stmovieclub.net
 127.0.0.1 thumbs.1stmovieclub.net
@@ -232,9 +235,6 @@
 
 # 1trac.com
 127.0.0.1 www.1trac.com
-
-# 1traff.ru
-127.0.0.1 1traff.ru
 
 # 1under.ru
 127.0.0.1 1under.ru
@@ -2274,9 +2274,6 @@
 127.0.0.1 www.abcsearch.com
 127.0.0.1 www3.abcsearch.com
 
-# abcsearcher.com
-127.0.0.1 www.abcsearcher.com
-
 # abcstats.com
 127.0.0.1 abcstats.com
 
@@ -2943,9 +2940,6 @@
 
 # adconion.com
 127.0.0.1 adconion.com
-
-# adconsole.com
-127.0.0.1 ad.adconsole.com
 
 # adcorps.com
 127.0.0.1 ads.adcorps.com
@@ -3699,7 +3693,6 @@
 127.0.0.1 s1.skgde.adocean.pl
 127.0.0.1 si.adocean.pl
 127.0.0.1 sk.adocean.pl
-127.0.0.1 sportalbg.adocean.pl
 127.0.0.1 ua.adocean.pl
 127.0.0.1 vbbg.adocean.pl
 127.0.0.1 webgroundbg.adocean.pl
@@ -4574,12 +4567,6 @@
 
 # adultrevenueservice.com
 127.0.0.1 adultrevenueservice.com
-127.0.0.1 banners.adultrevenueservice.com
-127.0.0.1 byot.adultrevenueservice.com
-127.0.0.1 counter.adultrevenueservice.com
-127.0.0.1 counterimg1.adultrevenueservice.com
-127.0.0.1 stats.adultrevenueservice.com
-127.0.0.1 www.adultrevenueservice.com
 
 # adultscandy.com
 127.0.0.1 www.adultscandy.com
@@ -5344,7 +5331,6 @@
 # aliexpress.com
 127.0.0.1 best.aliexpress.com
 127.0.0.1 s.click.aliexpress.com
-127.0.0.1 www.aliexpress.com
 
 # alimama.cn
 127.0.0.1 img.alimama.cn
@@ -7037,9 +7023,6 @@
 # berp.com
 127.0.0.1 berp.com
 
-# berrynet.com
-127.0.0.1 ads.berrynet.com
-
 # beseen.com
 127.0.0.1 beseen.com
 
@@ -7957,7 +7940,6 @@
 127.0.0.1 majintetley.bravejournal.com
 127.0.0.1 newprose.bravejournal.com
 127.0.0.1 parradoodle.bravejournal.com
-127.0.0.1 talesoftheslayer.bravejournal.com
 127.0.0.1 troopersiccy.bravejournal.com
 127.0.0.1 unisonsas.bravejournal.com
 127.0.0.1 webdiva3001.bravejournal.com
@@ -9277,8 +9259,6 @@
 # clearchannel.com
 127.0.0.1 ads.clearchannel.com
 127.0.0.1 ads2.clearchannel.com
-127.0.0.1 ads4.clearchannel.com
-127.0.0.1 ccas.clearchannel.com
 127.0.0.1 dart.clearchannel.com
 
 # clearflow.com
@@ -10312,7 +10292,6 @@
 127.0.0.1 affiliates.copeac.com
 
 # copperheadsecurity.com
-127.0.0.1 copperheadsecurity.com
 127.0.0.1 www.copperheadsecurity.com
 
 # copyscape.com
@@ -11201,7 +11180,6 @@
 127.0.0.1 dealdotcom.com
 
 # dealtime.com
-127.0.0.1 stat.dealtime.com
 127.0.0.1 www2.dealtime.com
 
 # debtbusterloans.com
@@ -11349,10 +11327,6 @@
 127.0.0.1 desktopsmiley.com
 127.0.0.1 download2.desktopsmiley.com
 127.0.0.1 www.desktopsmiley.com
-
-# deskwizz.com
-127.0.0.1 deskwizz.com
-127.0.0.1 www.deskwizz.com
 
 # desmoinesregister.com
 127.0.0.1 ads.desmoinesregister.com
@@ -12982,10 +12956,6 @@
 
 # elitemarketing.net
 127.0.0.1 www.elitemarketing.net
-
-# elitemediagroup.net
-127.0.0.1 elitemediagroup.net
-127.0.0.1 www.elitemediagroup.net
 
 # elitepartners.ru
 127.0.0.1 elitepartners.ru
@@ -15295,7 +15265,6 @@
 
 # fullddl.com
 127.0.0.1 fullddl.com
-127.0.0.1 www.fullddl.com
 
 # fulldls.com
 127.0.0.1 ads.fulldls.com
@@ -16161,10 +16130,6 @@
 
 # go2speed.org
 127.0.0.1 media.go2speed.org
-
-# go2web20.net
-127.0.0.1 go2web20.net
-127.0.0.1 www.go2web20.net
 
 # goadbar.com
 127.0.0.1 goadbar.com
@@ -17389,6 +17354,9 @@
 # hitta.se
 127.0.0.1 eas.hitta.se
 
+# hittail.com
+127.0.0.1 15141.hittail.com
+
 # hitweb.org
 127.0.0.1 hitweb.org
 
@@ -18235,7 +18203,6 @@
 
 # ignitad.com
 127.0.0.1 ignitad.com
-127.0.0.1 www.ignitad.com
 
 # ignitionone.com
 127.0.0.1 ignitionone.com
@@ -18880,9 +18847,6 @@
 127.0.0.1 instantbuzz.com
 127.0.0.1 www.instantbuzz.com
 127.0.0.1 www2.instantbuzz.com
-
-# instantnavigation.com
-127.0.0.1 www.instantnavigation.com
 
 # instantservice.com
 127.0.0.1 instantservice.com
@@ -20269,9 +20233,6 @@
 # jouwstats.nl
 127.0.0.1 www.jouwstats.nl
 
-# joyfulclick.com
-127.0.0.1 www.joyfulclick.com
-
 # jpassport.jp
 127.0.0.1 jpassport.jp
 
@@ -20361,9 +20322,6 @@
 127.0.0.1 url3338.juicyads.com
 127.0.0.1 ux13.juicyads.com
 127.0.0.1 www.juicyads.com
-
-# juicybucks.com
-127.0.0.1 adserver.juicybucks.com
 
 # jumptap.com
 127.0.0.1 jumptap.com
@@ -21081,9 +21039,6 @@
 127.0.0.1 link.link.ru
 127.0.0.1 link.ru
 
-# link2blogs.com
-127.0.0.1 www.link2blogs.com
-
 # link4ads.com
 127.0.0.1 ads.link4ads.com
 127.0.0.1 au.ads.link4ads.com
@@ -21187,9 +21142,6 @@
 
 # links2u.com
 127.0.0.1 www.links2u.com
-
-# linksexchange.net
-127.0.0.1 linksexchange.net
 
 # linkshare.com
 127.0.0.1 imap.linkshare.com
@@ -21306,10 +21258,6 @@
 
 # little-help.com
 127.0.0.1 www.little-help.com
-
-# live-player.com
-127.0.0.1 live-player.com
-127.0.0.1 www.live-player.com
 
 # live.com
 127.0.0.1 analytics.live.com
@@ -23401,9 +23349,6 @@
 # mojobucks.com
 127.0.0.1 mojobucks.com
 
-# mokono.com
-127.0.0.1 www.mokono.com
-
 # mommaporn.com
 127.0.0.1 www.mommaporn.com
 
@@ -24723,9 +24668,6 @@
 # nefficient.jp
 127.0.0.1 rokushiki.nefficient.jp
 
-# negativebeats.com
-127.0.0.1 www.negativebeats.com
-
 # neimanmarcus.com
 127.0.0.1 om.neimanmarcus.com
 
@@ -24872,7 +24814,6 @@
 
 # netflame.cc
 127.0.0.1 beta-hints.netflame.cc
-127.0.0.1 hints.netflame.cc
 127.0.0.1 netflame.cc
 127.0.0.1 ssl-hints.netflame.cc
 
@@ -25193,9 +25134,6 @@
 
 # newtonad.com
 127.0.0.1 newtonad.com
-
-# newtopsites.com
-127.0.0.1 newtopsites.com
 
 # newugeno-banuge.com
 127.0.0.1 www.newugeno-banuge.com
@@ -26026,9 +25964,6 @@
 127.0.0.1 ads.opera.com
 127.0.0.1 promote.opera.com
 
-# operaadfilter.com
-127.0.0.1 operaadfilter.com
-
 # opienetwork.com
 127.0.0.1 opienetwork.com
 127.0.0.1 tracking.opienetwork.com
@@ -26101,7 +26036,6 @@
 127.0.0.1 orbitcycle.com
 127.0.0.1 shagorgag.orbitcycle.com
 127.0.0.1 usbytecom.orbitcycle.com
-127.0.0.1 www.orbitcycle.com
 
 # orbitel.bg
 127.0.0.1 ad.orbitel.bg
@@ -28194,9 +28128,6 @@
 # qq886.com
 127.0.0.1 www.qq886.com
 
-# qrclevrfjw.com
-127.0.0.1 qrclevrfjw.com
-
 # qsrch.com
 127.0.0.1 newnet.qsrch.com
 
@@ -28346,9 +28277,6 @@
 
 # radtracking.com
 127.0.0.1 track.radtracking.com
-
-# raimisthumbs.com
-127.0.0.1 www.raimisthumbs.com
 
 # rainbow-mail.net
 127.0.0.1 rainbow-mail.net
@@ -29275,9 +29203,6 @@
 127.0.0.1 ru-biz.com
 127.0.0.1 www.ru-biz.com
 
-# ru-traffic.com
-127.0.0.1 ru-traffic.com
-
 # rubanners.com
 127.0.0.1 2.rubanners.com
 127.0.0.1 rubanners.com
@@ -29433,9 +29358,6 @@
 
 # satyamonline.com
 127.0.0.1 ads.satyamonline.com
-
-# savelocity.com
-127.0.0.1 savelocity.com
 
 # savenexneon.xyz
 127.0.0.1 savenexneon.xyz
@@ -29757,7 +29679,6 @@
 
 # secrets40.com
 127.0.0.1 secrets40.com
-127.0.0.1 www.secrets40.com
 
 # secretservice.com
 127.0.0.1 secretservice.com
@@ -30515,9 +30436,6 @@
 127.0.0.1 geoip.silive.com
 127.0.0.1 metrics.silive.com
 
-# silvanamails.net
-127.0.0.1 www.silvanamails.net
-
 # silver-path.com
 127.0.0.1 www.silver-path.com
 
@@ -30903,9 +30821,6 @@
 127.0.0.1 smartshopper.com
 127.0.0.1 www.smartshopper.com
 
-# smartshoppingads.co.uk
-127.0.0.1 rdir.smartshoppingads.co.uk
-
 # smeshen.com
 127.0.0.1 reklama.smeshen.com
 
@@ -31049,9 +30964,6 @@
 
 # software-hq.net
 127.0.0.1 www.software-hq.net
-
-# software4yoursuccess.com
-127.0.0.1 www.software4yoursuccess.com
 
 # softwareclub.ws
 127.0.0.1 www.softwareclub.ws
@@ -31329,9 +31241,6 @@
 
 # spookylinks.com
 127.0.0.1 www.spookylinks.com
-
-# sporta.bg
-127.0.0.1 ads.tv7.sporta.bg
 
 # sportingnews.com
 127.0.0.1 ads.sportingnews.com
@@ -32838,7 +32747,6 @@
 
 # teknosurf3.com
 127.0.0.1 teknosurf3.com
-127.0.0.1 www.teknosurf3.com
 
 # teknum.com
 127.0.0.1 s1.teknum.com
@@ -32999,7 +32907,6 @@
 
 # thebugs.ws
 127.0.0.1 thebugs.ws
-127.0.0.1 www.thebugs.ws
 
 # thecounter.com
 127.0.0.1 thecounter.com
@@ -33070,10 +32977,6 @@
 
 # themes.org
 127.0.0.1 ads.themes.org
-
-# themonkeysball.com
-127.0.0.1 themonkeysball.com
-127.0.0.1 www.themonkeysball.com
 
 # thench.net
 127.0.0.1 stimgc.thench.net
@@ -33157,12 +33060,6 @@
 
 # theuseful.com
 127.0.0.1 i.theuseful.com
-
-# thewebhitcounter.com
-127.0.0.1 www.thewebhitcounter.com
-
-# thexor.com
-127.0.0.1 thexor.com
 
 # thindivide.com
 127.0.0.1 thindivide.com
@@ -34746,10 +34643,6 @@
 # unthem.com
 127.0.0.1 api.unthem.com
 
-# unwired-i.net
-127.0.0.1 reklame.unwired-i.net
-127.0.0.1 stats.unwired-i.net
-
 # uol.com.ar
 127.0.0.1 ads.uol.com.ar
 
@@ -35104,9 +34997,6 @@
 
 # velvet.hu
 127.0.0.1 traffic.velvet.hu
-
-# vendaregroup.com
-127.0.0.1 vendaregroup.com
 
 # vendio.com
 127.0.0.1 counters.vendio.com
@@ -35739,9 +35629,6 @@
 # waxum.hu
 127.0.0.1 ads.waxum.hu
 
-# way.cz
-127.0.0.1 ad.way.cz
-
 # wayads.com
 127.0.0.1 wayads.com
 
@@ -36192,7 +36079,6 @@
 127.0.0.1 metrics.wfaa.com
 
 # whaleads.com
-127.0.0.1 ads.whaleads.com
 127.0.0.1 images.ads.whaleads.com
 127.0.0.1 whaleads.com
 
@@ -36531,12 +36417,11 @@
 # workfromhome.org
 127.0.0.1 www.workfromhome.org
 
-# workingonline.com
-127.0.0.1 workingonline.com
-127.0.0.1 www.workingonline.com
-
 # workzip.it
 127.0.0.1 www.workzip.it
+
+# world-ad.jp
+127.0.0.1 world-ad.jp
 
 # world-fusigi.net
 127.0.0.1 ads.world-fusigi.net
@@ -36725,10 +36610,8 @@
 # xclicks.net
 127.0.0.1 www.xclicks.net
 127.0.0.1 x2.xclicks.net
-127.0.0.1 x3.xclicks.net
 127.0.0.1 x4.xclicks.net
 127.0.0.1 x5.xclicks.net
-127.0.0.1 x6.xclicks.net
 127.0.0.1 xclicks.net
 
 # xcode.info
@@ -37702,9 +37585,6 @@
 
 # zhaimob.com
 127.0.0.1 api.zhaimob.com
-
-# zhangshanghui.com
-127.0.0.1 b.zhangshanghui.com
 
 # zhidian3g.cn
 127.0.0.1 ad.zhidian3g.cn
