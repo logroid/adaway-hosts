@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2021/09/10
-# block hosts: 20186 entry
+# block hosts: 20189 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -15008,6 +15008,7 @@
 127.0.0.1 banners.friendpages.com
 
 # friendsearch.com
+127.0.0.1 affiliate.friendsearch.com
 127.0.0.1 dating.friendsearch.com
 127.0.0.1 partner.friendsearch.com
 127.0.0.1 www.friendsearch.com
@@ -15831,6 +15832,9 @@
 
 # globaltrack.com
 127.0.0.1 globaltrack.com
+
+# globalwebsearch.com
+127.0.0.1 globalwebsearch.com
 
 # globat.com
 127.0.0.1 affiliates.globat.com
@@ -34978,6 +34982,7 @@
 127.0.0.1 u3.vodone.com
 127.0.0.1 vlog.vodone.com
 127.0.0.1 vodone.com
+127.0.0.1 www.vodone.com
 
 # voicefive.com
 127.0.0.1 ar.voicefive.com
