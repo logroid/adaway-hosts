@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2021/09/10
-# block hosts: 20175 entry
+# block hosts: 20176 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -14376,7 +14376,6 @@
 127.0.0.1 adlog.flurry.com
 127.0.0.1 ads.flurry.com
 127.0.0.1 api.flurry.com
-127.0.0.1 data.flurry.com
 127.0.0.1 dev.flurry.com
 127.0.0.1 flurry.com
 127.0.0.1 www.flurry.com
@@ -14751,6 +14750,9 @@
 
 # free-proxy.org
 127.0.0.1 www.free-proxy.org
+
+# free-stats.com
+127.0.0.1 free-stats.com
 
 # free-toplisten.at
 127.0.0.1 www.free-toplisten.at
@@ -32395,6 +32397,9 @@
 
 # teliad.de
 127.0.0.1 teliad.de
+
+# tellapart.com
+127.0.0.1 t.tellapart.com
 
 # telstra.com
 127.0.0.1 info.telstra.com
