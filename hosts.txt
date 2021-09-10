@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2021/09/10
-# block hosts: 20189 entry
+# block hosts: 20194 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -4549,6 +4549,9 @@
 # advconversion.com
 127.0.0.1 www.advconversion.com
 
+# advcpm.com
+127.0.0.1 www.advcpm.com
+
 # adve.net
 127.0.0.1 adve.net
 
@@ -5079,6 +5082,9 @@
 127.0.0.1 aftrk.com
 127.0.0.1 banners.aftrk.com
 
+# afy11.net
+127.0.0.1 afy11.net
+
 # ag-affiliate.com
 127.0.0.1 sub.ag-affiliate.com
 
@@ -5414,6 +5420,9 @@
 127.0.0.1 c9.amazingcounters.com
 127.0.0.1 cb.amazingcounters.com
 127.0.0.1 www.amazingcounters.com
+
+# amazingmedia.com
+127.0.0.1 ads.amazingmedia.com
 
 # amazon-adsystem.com
 127.0.0.1 aax-us-east.amazon-adsystem.com
@@ -7387,6 +7396,9 @@
 127.0.0.1 trk.blamads.com
 127.0.0.1 www.blamads.com
 127.0.0.1 www.servedby.blamads.com
+
+# blank-record.com
+127.0.0.1 blank-record.com
 
 # blast4traffic.com
 127.0.0.1 blast4traffic.com
@@ -13765,6 +13777,7 @@
 
 # expressdelivery.biz
 127.0.0.1 expressdelivery.biz
+127.0.0.1 secure.expressdelivery.biz
 127.0.0.1 www.expressdelivery.biz
 
 # exrtbsrv.com
