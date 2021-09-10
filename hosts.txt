@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2021/09/10
-# block hosts: 20176 entry
+# block hosts: 20185 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -3197,6 +3197,7 @@
 
 # aditic.net
 127.0.0.1 click08.aditic.net
+127.0.0.1 click10.aditic.net
 
 # adition.com
 127.0.0.1 ad1.adfarm1.adition.com
@@ -6534,6 +6535,9 @@
 # banner-mania.com
 127.0.0.1 www.banner-mania.com
 
+# banner-rotation.com
+127.0.0.1 www.banner-rotation.com
+
 # banner-strage.com
 127.0.0.1 www.banner-strage.com
 
@@ -6833,6 +6837,9 @@
 
 # become.co.jp
 127.0.0.1 partner.become.co.jp
+
+# becontext.com
+127.0.0.1 becontext.com
 
 # beeb.com
 127.0.0.1 www.adimages.beeb.com
@@ -8005,6 +8012,9 @@
 
 # bravospots.com
 127.0.0.1 www.bravospots.com
+
+# braze.com
+127.0.0.1 sdk.iad-01.braze.com
 
 # brazzers.com
 127.0.0.1 ads.brazzers.com
@@ -14376,6 +14386,7 @@
 127.0.0.1 adlog.flurry.com
 127.0.0.1 ads.flurry.com
 127.0.0.1 api.flurry.com
+127.0.0.1 data.flurry.com
 127.0.0.1 dev.flurry.com
 127.0.0.1 flurry.com
 127.0.0.1 www.flurry.com
@@ -28947,6 +28958,9 @@
 # rx-promotion.com
 127.0.0.1 clients.rx-promotion.com
 
+# rx-top.com
+127.0.0.1 rx-top.com
+
 # rxparty.net
 127.0.0.1 w.rxparty.net
 
@@ -30263,6 +30277,9 @@
 # sitewebstats.com
 127.0.0.1 www.sitewebstats.com
 
+# sittiad.com
+127.0.0.1 stat.sittiad.com
+
 # sixsigmatraffic.com
 127.0.0.1 sixsigmatraffic.com
 127.0.0.1 www.sixsigmatraffic.com
@@ -30499,6 +30516,7 @@
 
 # smowtion.com
 127.0.0.1 ad.smowtion.com
+127.0.0.1 ads.smowtion.com
 127.0.0.1 ads2.smowtion.com
 127.0.0.1 smowtion.com
 
@@ -36592,6 +36610,7 @@
 127.0.0.1 b9.yahoo.co.jp
 127.0.0.1 b91.yahoo.co.jp
 127.0.0.1 b92.yahoo.co.jp
+127.0.0.1 b97.yahoo.co.jp
 127.0.0.1 btcs.yahoo.co.jp
 127.0.0.1 im.ov.yahoo.co.jp
 127.0.0.1 ov.yahoo.co.jp

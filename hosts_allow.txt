@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2021/09/10
-# allow hosts: 49 entry
+# allow hosts: 43 entry
 
 aan.amazon.co.jp
 aax-fe.amazon-adsystem.com
@@ -16,17 +16,14 @@ ad.doubleclick.net
 analytics.twitter.com
 api.r10s.jp
 app-adforce.jp
-b97.yahoo.co.jp
 c.amazon-adsystem.com
 c.kakaku.com
 clickserve.dartsearch.net
-data.flurry.com
 edge-chat.facebook.com
 facebook.com
 fbcdn.net
 fbsbx.com
 fls-fe.amazon.co.jp
-fls-fe.amazon.com
 grp10.ias.rakuten.co.jp
 hb.afl.rakuten.co.jp
 imgstat.ameba.jp
@@ -34,7 +31,6 @@ lh3.ggpht.com
 lh3.googleusercontent.com
 line.me
 m.facebook.com
-mads.amazon-adsystem.com
 pagead2.googlesyndication.com
 pubads.g.doubleclick.net
 r.r10s.jp
@@ -44,10 +40,8 @@ s.yimg.jp
 s0.2mdn.net
 scontent-nrt1-1.xx.fbcdn.net
 scontent.xx.fbcdn.net
-sdk.iad-01.braze.com
 setting.adzcore.com
 ssl.google-analytics.com
-static.ads-twitter.com
 static.xx.fbcdn.net
 staticxx.facebook.com
 web-jp.ad-v.jp
