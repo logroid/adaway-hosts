@@ -8800,6 +8800,9 @@
 # cdrinfo.com
 127.0.0.1 ads.cdrinfo.com
 
+# celebflix.us
+127.0.0.1 celebflix.us
+
 # celebrity-image.com
 127.0.0.1 celebrity-image.com
 127.0.0.1 www.celebrity-image.com
@@ -22439,7 +22442,6 @@
 
 # mediaid.click
 127.0.0.1 mediaid.click
-127.0.0.1 resad.mediaid.click
 
 # mediainsight.de
 127.0.0.1 adserver1.mediainsight.de
