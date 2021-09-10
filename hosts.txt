@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2021/09/10
-# block hosts: 20185 entry
+# block hosts: 20186 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -2182,6 +2182,7 @@
 127.0.0.1 grouplotto.aavalue.com
 127.0.0.1 musicoffaith.aavalue.com
 127.0.0.1 prizeamerica.aavalue.com
+127.0.0.1 watchfreeflix.aavalue.com
 
 # abac.com
 127.0.0.1 phpadsnew.abac.com
