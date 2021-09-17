@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2021/09/10
-# block hosts: 20194 entry
+# last updated: 2021/09/17
+# block hosts: 20154 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -2178,7 +2178,6 @@
 127.0.0.1 atlaseducation.aavalue.com
 127.0.0.1 ezgreets.aavalue.com
 127.0.0.1 eztracks.aavalue.com
-127.0.0.1 getmusicfree.aavalue.com
 127.0.0.1 grouplotto.aavalue.com
 127.0.0.1 musicoffaith.aavalue.com
 127.0.0.1 prizeamerica.aavalue.com
@@ -2500,9 +2499,6 @@
 
 # ad-hatena.com
 127.0.0.1 ad-hatena.com
-
-# ad-hatena.jp
-127.0.0.1 ad-hatena.jp
 
 # ad-lister.co.uk
 127.0.0.1 ad-lister.co.uk
@@ -2848,9 +2844,7 @@
 127.0.0.1 androidads30.adcolony.com
 127.0.0.1 blog.adcolony.com
 127.0.0.1 c4d-cdn.adcolony.com
-127.0.0.1 clients-alpha.adcolony.com
 127.0.0.1 clients-api.adcolony.com
-127.0.0.1 clients-staging.adcolony.com
 127.0.0.1 clients.adcolony.com
 127.0.0.1 cpa.adcolony.com
 127.0.0.1 de.adcolony.com
@@ -3068,7 +3062,6 @@
 127.0.0.1 adfuel.com
 
 # adfun.ru
-127.0.0.1 ad1.adfun.ru
 127.0.0.1 adfun.ru
 
 # adfurikun.jp
@@ -6324,6 +6317,7 @@
 
 # axelsfun.com
 127.0.0.1 axelsfun.com
+127.0.0.1 ttiger.axelsfun.com
 
 # axf8.net
 127.0.0.1 0d7292.r.axf8.net
@@ -6953,9 +6947,6 @@
 127.0.0.1 uk.best-top.biz
 127.0.0.1 us.best-top.biz
 
-# best-top.hu
-127.0.0.1 www.best-top.hu
-
 # best-top.ro
 127.0.0.1 best-top.ro
 127.0.0.1 www.best-top.ro
@@ -7009,9 +7000,6 @@
 
 # bestserials.com
 127.0.0.1 bestserials.com
-
-# bestsexycelebs.com
-127.0.0.1 www.bestsexycelebs.com
 
 # besttoolbars.net
 127.0.0.1 www.besttoolbars.net
@@ -8590,19 +8578,11 @@
 # cash4views.de
 127.0.0.1 cash4views.de
 
-# cashcount.com
-127.0.0.1 cashcount.com
-127.0.0.1 www.cashcount.com
-
 # cashcount.de
 127.0.0.1 cashcount.de
 
 # cashcounter.com
 127.0.0.1 cashcounter.com
-
-# cashcownetworks.com
-127.0.0.1 cashcownetworks.com
-127.0.0.1 media.cashcownetworks.com
 
 # cashcrate.com
 127.0.0.1 cashcrate.com
@@ -8799,9 +8779,6 @@
 
 # cdrinfo.com
 127.0.0.1 ads.cdrinfo.com
-
-# celebflix.us
-127.0.0.1 celebflix.us
 
 # celebrity-image.com
 127.0.0.1 celebrity-image.com
@@ -10080,9 +10057,6 @@
 
 # contents-search-windows.com
 127.0.0.1 cdn.contents-search-windows.com
-
-# context-tool.com
-127.0.0.1 data.context-tool.com
 
 # contextuads.com
 127.0.0.1 bigapple.contextuads.com
@@ -16000,9 +15974,6 @@
 # goldcows.com
 127.0.0.1 accessup.goldcows.com
 
-# golden-egg.net
-127.0.0.1 www.golden-egg.net
-
 # golden-search.com
 127.0.0.1 golden-search.com
 
@@ -16575,9 +16546,6 @@
 
 # haynet.com
 127.0.0.1 ad0.haynet.com
-
-# hbgczj.com
-127.0.0.1 www.hbgczj.com
 
 # hbpl.co.uk
 127.0.0.1 wss.hbpl.co.uk
@@ -17252,10 +17220,6 @@
 127.0.0.1 www.adserver.home.pl
 
 # home.ro
-127.0.0.1 doll.home.ro
-127.0.0.1 funny-postcards10.home.ro
-127.0.0.1 www.doll.home.ro
-127.0.0.1 www.funny-postcards10.home.ro
 127.0.0.1 www.home.ro
 
 # homebusinessgo.com
@@ -17274,10 +17238,6 @@
 
 # homeemployed.com
 127.0.0.1 homeemployed.com
-
-# homeeq.com
-127.0.0.1 homeeq.com
-127.0.0.1 www.homeeq.com
 
 # homegrownvideo.com
 127.0.0.1 homegrownvideo.com
@@ -17414,9 +17374,6 @@
 
 # horyzon-media.com
 127.0.0.1 ads.horyzon-media.com
-
-# host-domain-lookup.com
-127.0.0.1 o21343.nb.host-domain-lookup.com
 
 # host-tracker.com
 127.0.0.1 ext.host-tracker.com
@@ -18065,9 +18022,6 @@
 
 # ilmessaggero.it
 127.0.0.1 adserver.ilmessaggero.it
-
-# ilove.de
-127.0.0.1 ad.ilove.de
 
 # ilsemedia.nl
 127.0.0.1 stats.ilsemedia.nl
@@ -19880,21 +19834,6 @@
 127.0.0.1 www.jads.co
 127.0.0.1 xapi.jads.co
 
-# jamba.de
-127.0.0.1 ad.jamba.de
-
-# jamba.it
-127.0.0.1 ad.jamba.it
-
-# jamba.net
-127.0.0.1 ad.jamba.net
-
-# jamster.co.uk
-127.0.0.1 ad.jamster.co.uk
-
-# jamster.com
-127.0.0.1 ad.jamster.com
-
 # janes.com
 127.0.0.1 adserver.janes.com
 
@@ -20030,12 +19969,6 @@
 
 # jouwstats.nl
 127.0.0.1 www.jouwstats.nl
-
-# jpassport.jp
-127.0.0.1 jpassport.jp
-
-# jpmoncler2014.com
-127.0.0.1 www.jpmoncler2014.com
 
 # jpost.com
 127.0.0.1 ads.jpost.com
@@ -20408,9 +20341,6 @@
 
 # klixmedia.com
 127.0.0.1 www.klixmedia.com
-
-# klixxx.com
-127.0.0.1 ads.klixxx.com
 
 # km.ru
 127.0.0.1 banner.lbs.km.ru
@@ -21895,9 +21825,6 @@
 # m-arata.com
 127.0.0.1 m-arata.com
 
-# m0.net
-127.0.0.1 images.m0.net
-
 # m1e.net
 127.0.0.1 m1e.net
 
@@ -22826,6 +22753,9 @@
 # mincure-ad.com
 127.0.0.1 mincure-ad.com
 
+# mindseti.com
+127.0.0.1 mindseti.com
+
 # mindsetnetwork.com
 127.0.0.1 ads.mindsetnetwork.com
 
@@ -23029,9 +22959,6 @@
 127.0.0.1 my.mobfox.com
 127.0.0.1 www.mobfox.com
 
-# mobifunworld.com
-127.0.0.1 go.mobifunworld.com
-
 # mobilemarketer.com
 127.0.0.1 ads.mobilemarketer.com
 
@@ -23207,6 +23134,9 @@
 # mopub.com
 127.0.0.1 ads.mopub.com
 127.0.0.1 mopub.com
+
+# moradu.com
+127.0.0.1 moradu.com
 
 # more.com
 127.0.0.1 metrics.more.com
@@ -23474,9 +23404,6 @@
 127.0.0.1 mtreexxx.net
 127.0.0.1 www.mtreexxx.net
 127.0.0.1 xxx.mtreexxx.net
-
-# mtrf.net
-127.0.0.1 ad.mtrf.net
 
 # mttag.com
 127.0.0.1 mttag.com
@@ -24554,6 +24481,7 @@
 127.0.0.1 netbanner.com
 
 # netbios-wait.com
+127.0.0.1 ads.netbios-wait.com
 127.0.0.1 ayb.netbios-wait.com
 127.0.0.1 upd.netbios-wait.com
 
@@ -25184,10 +25112,6 @@
 
 # nudecash.com
 127.0.0.1 www.nudecash.com
-
-# nudegayvideos.com
-127.0.0.1 nudegayvideos.com
-127.0.0.1 www.nudegayvideos.com
 
 # nuffnang.com.my
 127.0.0.1 synad.nuffnang.com.my
@@ -25855,9 +25779,6 @@
 # ouah.fr
 127.0.0.1 ouah.fr
 
-# ourbesthits.com
-127.0.0.1 ourbesthits.com
-
 # ourbestsearch.info
 127.0.0.1 ourbestsearch.info
 
@@ -26212,6 +26133,9 @@
 
 # partystars.bg
 127.0.0.1 ads.partystars.bg
+
+# passaro-de-fogo.biz
+127.0.0.1 js.passaro-de-fogo.biz
 
 # passion.com
 127.0.0.1 ads.passion.com
@@ -27341,7 +27265,6 @@
 
 # postmasterbannernet.com
 127.0.0.1 postmasterbannernet.com
-127.0.0.1 www.postmasterbannernet.com
 
 # postrelease.com
 127.0.0.1 prstats.postrelease.com
@@ -29708,9 +29631,6 @@
 # sexplaycam.com
 127.0.0.1 ard.sexplaycam.com
 127.0.0.1 flashbanners.static.ard.sexplaycam.com
-
-# sexportals.info
-127.0.0.1 sexportals.info
 
 # sexroulette.com
 127.0.0.1 members.sexroulette.com
@@ -35261,9 +35181,6 @@
 # wauee.com
 127.0.0.1 wauee.com
 
-# waveshift.net
-127.0.0.1 www.waveshift.net
-
 # wavu.hu
 127.0.0.1 ad.wavu.hu
 
@@ -36103,7 +36020,6 @@
 127.0.0.1 nl.count.worldstats.com
 
 # worldusa.com
-127.0.0.1 worldusa.com
 127.0.0.1 www.worldusa.com
 
 # worldwide-cash.net
@@ -37063,10 +36979,6 @@
 127.0.0.1 z5x.net
 
 # zangocash.com
-127.0.0.1 partner.zangocash.com
-127.0.0.1 prompt.zangocash.com
-127.0.0.1 public.zangocash.com
-127.0.0.1 static.zangocash.com
 127.0.0.1 www.zangocash.com
 127.0.0.1 zangocash.com
 
