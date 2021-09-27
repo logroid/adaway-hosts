@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2021/09/17
-# block hosts: 20154 entry
+# last updated: 2021/09/27
+# block hosts: 20160 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -3820,6 +3820,9 @@
 # ads-links.com
 127.0.0.1 ads-links.com
 
+# ads-lite.net
+127.0.0.1 ad.ads-lite.net
+
 # ads-redirect.com
 127.0.0.1 ads-redirect.com
 
@@ -4185,6 +4188,7 @@
 127.0.0.1 adp-pubd-static.adtdp.com
 127.0.0.1 adsd-sync.amanad.adtdp.com
 127.0.0.1 adsd.amanad.adtdp.com
+127.0.0.1 as.amanad.adtdp.com
 127.0.0.1 cdb.amanad.adtdp.com
 127.0.0.1 cdn.amanad.adtdp.com
 127.0.0.1 imp.amanad.adtdp.com
@@ -17139,6 +17143,7 @@
 
 # hittail.com
 127.0.0.1 15141.hittail.com
+127.0.0.1 8959.hittail.com
 
 # hitweb.org
 127.0.0.1 hitweb.org
@@ -17511,6 +17516,9 @@
 # href.asia
 127.0.0.1 d.href.asia
 127.0.0.1 href.asia
+
+# href.li
+127.0.0.1 href.li
 
 # hsqsw.com
 127.0.0.1 hsqsw.com
@@ -22680,6 +22688,7 @@
 # microad.jp
 127.0.0.1 adf.send.microad.jp
 127.0.0.1 adfp.send.microad.jp
+127.0.0.1 aid.send.microad.jp
 127.0.0.1 cache.microad.jp
 127.0.0.1 cache.send.microad.jp
 127.0.0.1 cache.ssend.microad.jp
@@ -24366,6 +24375,9 @@
 
 # nefficient.jp
 127.0.0.1 rokushiki.nefficient.jp
+
+# negativebeats.com
+127.0.0.1 www.negativebeats.com
 
 # neimanmarcus.com
 127.0.0.1 om.neimanmarcus.com
