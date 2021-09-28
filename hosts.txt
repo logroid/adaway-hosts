@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2021/09/27
-# block hosts: 20160 entry
+# last updated: 2021/09/28
+# block hosts: 20115 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -62,9 +62,6 @@
 
 # 10click.com
 127.0.0.1 ads.10click.com
-
-# 1100i.com
-127.0.0.1 1100i.com
 
 # 1111sale.us
 127.0.0.1 1111sale.us
@@ -145,9 +142,6 @@
 # 160ads.com
 127.0.0.1 160ads.com
 
-# 160tracker.com
-127.0.0.1 160tracker.com
-
 # 163.com
 127.0.0.1 adgeo.163.com
 127.0.0.1 img.163.com
@@ -184,9 +178,6 @@
 # 1ad.de
 127.0.0.1 1ad.de
 127.0.0.1 www.1ad.de
-
-# 1adult.com
-127.0.0.1 www.1adult.com
 
 # 1bg.net
 127.0.0.1 1bg.net
@@ -2469,9 +2460,6 @@
 # ad-cloud.jp
 127.0.0.1 ad-cloud.jp
 
-# ad-control-panel.com
-127.0.0.1 mmaadnet.ad-control-panel.com
-
 # ad-count.jp
 127.0.0.1 ad-count.jp
 
@@ -4379,9 +4367,6 @@
 # adult-profit-files.com
 127.0.0.1 www.adult-profit-files.com
 
-# adult-tracker.de
-127.0.0.1 www.adult-tracker.de
-
 # adultadbroker.com
 127.0.0.1 www.adultadbroker.com
 
@@ -5033,15 +5018,6 @@
 # affiliation-france.com
 127.0.0.1 affiliation-france.com
 
-# affilist-a-ban01.com
-127.0.0.1 affilist-a-ban01.com
-
-# affilist-n-ban01.com
-127.0.0.1 affilist-n-ban01.com
-
-# affilist-n-link01.com
-127.0.0.1 affilist-n-link01.com
-
 # affina.com
 127.0.0.1 affina.com
 
@@ -5432,7 +5408,6 @@
 127.0.0.1 rcm-jp.amazon.co.jp
 
 # amazon.com
-127.0.0.1 device-metrics-us.amazon.com
 127.0.0.1 g-images.amazon.com
 127.0.0.1 mads.amazon.com
 127.0.0.1 rcm.amazon.com
@@ -5769,9 +5744,6 @@
 127.0.0.1 app.app-authority.com
 127.0.0.1 content.app-authority.com
 127.0.0.1 www.app-authority.com
-
-# app-c.net
-127.0.0.1 app-c.net
 
 # appads.com
 127.0.0.1 appads.com
@@ -8073,11 +8045,6 @@
 # britishgas.co.uk
 127.0.0.1 webtrends1.britishgas.co.uk
 
-# broadcastpc.tv
-127.0.0.1 config.broadcastpc.tv
-127.0.0.1 report.broadcastpc.tv
-127.0.0.1 www.broadcastpc.tv
-
 # broadjump.com
 127.0.0.1 broadjump.com
 
@@ -8440,9 +8407,6 @@
 
 # capella.org
 127.0.0.1 bannieres.capella.org
-
-# caphyon-analytics.com
-127.0.0.1 www.caphyon-analytics.com
 
 # capitalinteractive.co.uk
 127.0.0.1 ads1.capitalinteractive.co.uk
@@ -9977,9 +9941,6 @@
 # comscore.com
 127.0.0.1 siterecruit.comscore.com
 
-# comtou.com
-127.0.0.1 www.comtou.com
-
 # con-v.jp
 127.0.0.1 cv01.con-v.jp
 
@@ -10088,9 +10049,6 @@
 # conversionruler.com
 127.0.0.1 conversionruler.com
 127.0.0.1 www.conversionruler.com
-
-# convomedia.com
-127.0.0.1 openserver.convomedia.com
 
 # convulse.com
 127.0.0.1 convulse.com
@@ -10929,10 +10887,6 @@
 # dashboardad.net
 127.0.0.1 clicks2.dashboardad.net
 
-# dasistporn.com
-127.0.0.1 dasistporn.com
-127.0.0.1 www.dasistporn.com
-
 # data-ero-advertising.com
 127.0.0.1 data-ero-advertising.com
 127.0.0.1 mail.data-ero-advertising.com
@@ -10996,9 +10950,6 @@
 
 # dclux.com
 127.0.0.1 advertising.dclux.com
-
-# dcstat.com
-127.0.0.1 dcstat.com
 
 # ddc.com
 127.0.0.1 images.ddc.com
@@ -12213,10 +12164,6 @@
 # dsnextgen.com
 127.0.0.1 dsnextgen.com
 127.0.0.1 www.dsnextgen.com
-
-# dsnr.net
-127.0.0.1 dsnr.net
-127.0.0.1 www.dsnr.net
 
 # dsnrmg.com
 127.0.0.1 dsnrmg.com
@@ -15451,9 +15398,6 @@
 # gebr-wachs.de
 127.0.0.1 www.gebr-wachs.de
 
-# geekswithblogs.net
-127.0.0.1 ads.geekswithblogs.net
-
 # geenstijl.nl
 127.0.0.1 schoorsteen.geenstijl.nl
 
@@ -17571,9 +17515,6 @@
 
 # humaniq.com
 127.0.0.1 humaniq.com
-
-# hurra.de
-127.0.0.1 ads.hurra.de
 
 # hurricanedigitalmedia.com
 127.0.0.1 custom1.hurricanedigitalmedia.com
@@ -21518,6 +21459,7 @@
 127.0.0.1 www.liveperson.com
 
 # liveperson.net
+127.0.0.1 liveperson.net
 127.0.0.1 sales.liveperson.net
 127.0.0.1 server.iad.liveperson.net
 127.0.0.1 sr2.liveperson.net
@@ -24168,9 +24110,6 @@
 # natuurpark.nl
 127.0.0.1 phpadsnew.new.natuurpark.nl
 
-# naughty-traffic.com
-127.0.0.1 www.naughty-traffic.com
-
 # naughtyamerica.com
 127.0.0.1 tools.naughtyamerica.com
 
@@ -24491,11 +24430,6 @@
 
 # netbanner.com
 127.0.0.1 netbanner.com
-
-# netbios-wait.com
-127.0.0.1 ads.netbios-wait.com
-127.0.0.1 ayb.netbios-wait.com
-127.0.0.1 upd.netbios-wait.com
 
 # netbookia.net
 127.0.0.1 netpool.netbookia.net
@@ -24862,7 +24796,6 @@
 
 # nexac.com
 127.0.0.1 e.nexac.com
-127.0.0.1 f.nexac.com
 127.0.0.1 mig.nexac.com
 127.0.0.1 p.nexac.com
 127.0.0.1 tmp.nexac.com
@@ -25369,9 +25302,6 @@
 127.0.0.1 ct1.ojaru.jp
 127.0.0.1 x4.ojaru.jp
 127.0.0.1 x6.ojaru.jp
-
-# ok.ee
-127.0.0.1 counter.ok.ee
 
 # okbp.xyz
 127.0.0.1 okbp.xyz
@@ -27655,7 +27585,6 @@
 127.0.0.1 track.pubmatic.com
 
 # puchipura.com
-127.0.0.1 image.puchipura.com
 127.0.0.1 puchipura.com
 
 # pudo.no
@@ -28527,9 +28456,6 @@
 
 # revenueservice.com
 127.0.0.1 revenueservice.com
-
-# revenuewire.net
-127.0.0.1 adwords2.paretologic.revenuewire.net
 
 # reversecontext.com
 127.0.0.1 www.reversecontext.com
@@ -29876,9 +29802,6 @@
 
 # shareware4web.com
 127.0.0.1 www.shareware4web.com
-
-# sharewareonline.com
-127.0.0.1 adserver.sharewareonline.com
 
 # sharpdsp.com
 127.0.0.1 sharpdsp.com
@@ -32879,9 +32802,6 @@
 # together.net
 127.0.0.1 webcounter.together.net
 
-# tom.com
-127.0.0.1 ad.tom.com
-
 # tomshardware.com
 127.0.0.1 tracking.tomshardware.com
 127.0.0.1 www.ad.tomshardware.com
@@ -33275,6 +33195,9 @@
 
 # trackingsoft.com
 127.0.0.1 trackingsoft.com
+
+# tracklead.net
+127.0.0.1 tracklead.net
 
 # trackmedia101.com
 127.0.0.1 trackmedia101.com
@@ -34235,9 +34158,6 @@
 127.0.0.1 banners.img.uol.com.br
 127.0.0.1 metrics.uol.com.br
 
-# up-host.com
-127.0.0.1 up-host.com
-
 # upc.ua
 127.0.0.1 secure.upc.ua
 
@@ -34278,10 +34198,6 @@
 # urchin.com
 127.0.0.1 service.urchin.com
 127.0.0.1 urchin.com
-
-# urlads.net
-127.0.0.1 v2.urlads.net
-127.0.0.1 www.urlads.net
 
 # urlblaze.com
 127.0.0.1 urlblaze.com
@@ -34881,9 +34797,6 @@
 # vividvip.com
 127.0.0.1 home.vividvip.com
 
-# vivo7.com
-127.0.0.1 www.vivo7.com
-
 # vivosearch.com
 127.0.0.1 vivosearch.com
 127.0.0.1 www.vivosearch.com
@@ -34923,8 +34836,6 @@
 
 # vodone.com
 127.0.0.1 bus.vodone.com
-127.0.0.1 clubpic.vodone.com
-127.0.0.1 msn.vodone.com
 127.0.0.1 u.vodone.com
 127.0.0.1 u3.vodone.com
 127.0.0.1 vlog.vodone.com
@@ -35042,6 +34953,9 @@
 # vstats.net
 127.0.0.1 vstats.net
 127.0.0.1 www.vstats.net
+
+# vstreamcdn.com
+127.0.0.1 thumbs.vstreamcdn.com
 
 # vtarget.com
 127.0.0.1 www.vtarget.com
@@ -35204,9 +35118,6 @@
 
 # wcnc.com
 127.0.0.1 te.wcnc.com
-
-# we3w.com
-127.0.0.1 jp.we3w.com
 
 # wealthymen.com
 127.0.0.1 promos.wealthymen.com
@@ -36168,13 +36079,6 @@
 # xchange.ro
 127.0.0.1 xchange.ro
 
-# xclicks.net
-127.0.0.1 www.xclicks.net
-127.0.0.1 x2.xclicks.net
-127.0.0.1 x4.xclicks.net
-127.0.0.1 x5.xclicks.net
-127.0.0.1 xclicks.net
-
 # xcode.info
 127.0.0.1 www.xcode.info
 
@@ -36327,9 +36231,6 @@
 # xmax.jp
 127.0.0.1 images.xmax.jp
 127.0.0.1 imp.xmax.jp
-
-# xmladfeed.com
-127.0.0.1 redirect.xmladfeed.com
 
 # xmoboffer.com
 127.0.0.1 xmoboffer.com
@@ -36986,7 +36887,6 @@
 127.0.0.1 stat1.z-stat.com
 
 # z5x.net
-127.0.0.1 ad.z5x.net
 127.0.0.1 www.z5x.net
 127.0.0.1 z5x.net
 
@@ -37191,9 +37091,6 @@
 
 # zmedia.com
 127.0.0.1 zmedia.com
-
-# zone.ee
-127.0.0.1 counter.zone.ee
 
 # zoombar.net
 127.0.0.1 www.zoombar.net

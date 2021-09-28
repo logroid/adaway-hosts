@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2021/09/27
-# allow hosts: 42 entry
+# last updated: 2021/09/28
+# allow hosts: 45 entry
 
 aan.amazon.co.jp
 aax-fe.amazon-adsystem.com
@@ -16,8 +16,10 @@ ad.doubleclick.net
 analytics.twitter.com
 api.r10s.jp
 app-adforce.jp
+c.amazon-adsystem.com
 c.kakaku.com
 clickserve.dartsearch.net
+device-metrics-us.amazon.com
 edge-chat.facebook.com
 facebook.com
 fbcdn.net
@@ -30,6 +32,7 @@ lh3.ggpht.com
 lh3.googleusercontent.com
 line.me
 m.facebook.com
+mads.amazon-adsystem.com
 pagead2.googlesyndication.com
 pubads.g.doubleclick.net
 r.r10s.jp
