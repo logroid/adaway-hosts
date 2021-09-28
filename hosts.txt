@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2021/09/28
-# block hosts: 20119 entry
+# block hosts: 20123 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -17697,6 +17697,9 @@
 # iadnet.com
 127.0.0.1 iadnet.com
 
+# iand2ch.net
+127.0.0.1 iand2ch.net
+
 # iaspromotes.com
 127.0.0.1 iaspromotes.com
 127.0.0.1 www.iaspromotes.com
@@ -17850,6 +17853,9 @@
 
 # idolove.com
 127.0.0.1 www.idolove.com
+
+# idot.cz
+127.0.0.1 dot.idot.cz
 
 # idreamsky.com
 127.0.0.1 v1-feed.idreamsky.com
@@ -21650,6 +21656,9 @@
 
 # lottoelite.com
 127.0.0.1 banners.lottoelite.com
+
+# loudmo.com
+127.0.0.1 www.loudmo.com
 
 # love-money.de
 127.0.0.1 promo.love-money.de
@@ -33998,6 +34007,9 @@
 
 # ugroocuw.net
 127.0.0.1 ugroocuw.net
+
+# uigc.net
+127.0.0.1 ip2k.ads.uigc.net
 
 # uijin.com
 127.0.0.1 ct2.uijin.com
