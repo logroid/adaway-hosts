@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2021/09/28
-# block hosts: 20115 entry
+# block hosts: 20119 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -2018,6 +2018,9 @@
 # 9991.com
 127.0.0.1 9991.com
 127.0.0.1 www.9991.com
+
+# 99stats.com
+127.0.0.1 www.99stats.com
 
 # 99x.com
 127.0.0.1 99x.com
@@ -24985,6 +24988,9 @@
 127.0.0.1 novem.pl
 127.0.0.1 tracking.novem.pl
 
+# november-lax.com
+127.0.0.1 zm1.november-lax.com
+
 # novinar.bg
 127.0.0.1 adv.novinar.bg
 
@@ -27314,6 +27320,9 @@
 
 # premiumaccounts.com
 127.0.0.1 ads.premiumaccounts.com
+
+# premiumbilling.com
+127.0.0.1 www.premiumbilling.com
 
 # premiumbros.com
 127.0.0.1 premiumbros.com
@@ -36234,6 +36243,9 @@
 
 # xmoboffer.com
 127.0.0.1 xmoboffer.com
+
+# xmoviesday.com
+127.0.0.1 xmoviesday.com
 
 # xmtrading.com
 127.0.0.1 www.xmtrading.com
