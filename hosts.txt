@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2021/11/05
-# block hosts: 19816 entry
+# last updated: 2021/11/14
+# block hosts: 19791 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -1950,9 +1950,6 @@
 # 8885n.com
 127.0.0.1 8885n.com
 
-# 900quickcash.com
-127.0.0.1 900quickcash.com
-
 # 91.com
 127.0.0.1 agency.91.com
 127.0.0.1 d.91.com
@@ -2340,7 +2337,6 @@
 
 # aconti.net
 127.0.0.1 aconti.net
-127.0.0.1 www.aconti.net
 
 # acs3.com
 127.0.0.1 www.acs3.com
@@ -2383,6 +2379,9 @@
 
 # activestate.com
 127.0.0.1 ads.activestate.com
+
+# activetk.cf
+127.0.0.1 ad.activetk.cf
 
 # actualdeals.com
 127.0.0.1 actualdeals.com
@@ -3896,9 +3895,6 @@
 # adservme.com
 127.0.0.1 ads.adservme.com
 
-# adservs.com
-127.0.0.1 command.adservs.com
-
 # adsfac.eu
 127.0.0.1 adsfac.eu
 
@@ -4277,10 +4273,6 @@
 # adturns.com
 127.0.0.1 adturns.com
 
-# aducash.com
-127.0.0.1 aducash.com
-127.0.0.1 www.aducash.com
-
 # adult-banner-ads.com
 127.0.0.1 www.adult-banner-ads.com
 
@@ -4386,9 +4378,6 @@
 
 # adultscandy.com
 127.0.0.1 www.adultscandy.com
-
-# adultsuns.net
-127.0.0.1 adultsuns.net
 
 # adultswim.com
 127.0.0.1 stats.adultswim.com
@@ -5323,6 +5312,7 @@
 127.0.0.1 bro1.s3.amazonaws.com
 127.0.0.1 btrpreroll.s3.amazonaws.com
 127.0.0.1 campaign-tapad.s3.amazonaws.com
+127.0.0.1 cdj-dap.s3-ap-northeast-1.amazonaws.com
 127.0.0.1 clutchmag.s3.amazonaws.com
 127.0.0.1 ecommstats.s3.amazonaws.com
 127.0.0.1 entrecard.s3.amazonaws.com
@@ -6686,9 +6676,6 @@
 # beam.to
 127.0.0.1 beam.to
 
-# beanscattering.jp
-127.0.0.1 beanscattering.jp
-
 # beautyscreens.com
 127.0.0.1 www.beautyscreens.com
 
@@ -7277,9 +7264,6 @@
 
 # blogads.de
 127.0.0.1 www.blogads.de
-
-# blogcounter.com
-127.0.0.1 blogcounter.com
 
 # blogcounter.de
 127.0.0.1 blogcounter.de
@@ -7950,6 +7934,9 @@
 # buddypic.com
 127.0.0.1 ads.buddypic.com
 
+# budsinc.com
+127.0.0.1 budsinc.com
+
 # buempliz-online.ch
 127.0.0.1 banner.buempliz-online.ch
 
@@ -7988,9 +7975,6 @@
 # bullseye-media.net
 127.0.0.1 bullseye-media.net
 127.0.0.1 www.bullseye-media.net
-
-# bullseye-network.com
-127.0.0.1 bullseye-network.com
 
 # bumq.com
 127.0.0.1 ads.bumq.com
@@ -9189,9 +9173,6 @@
 127.0.0.1 img.clicksagent.com
 127.0.0.1 www.clicksagent.com
 
-# clicksales.com
-127.0.0.1 clicksales.com
-
 # clickshare.com
 127.0.0.1 clickshare.com
 
@@ -9326,7 +9307,6 @@
 127.0.0.1 content.clipster.ws
 
 # clix.pt
-127.0.0.1 ad.clix.pt
 127.0.0.1 adserver.clix.pt
 
 # clixgalore.com
@@ -10489,9 +10469,6 @@
 # cyber-traffic.net
 127.0.0.1 www.cyber-traffic.net
 
-# cyberantiquemall.com
-127.0.0.1 cyberantiquemall.com
-
 # cyberbounty.com
 127.0.0.1 cyberbounty.com
 127.0.0.1 www.cyberbounty.com
@@ -10543,6 +10520,9 @@
 # cytron.com
 127.0.0.1 cytron.com
 127.0.0.1 www.cytron.com
+
+# czdfdq.com
+127.0.0.1 czdfdq.com
 
 # czech-sex.cz
 127.0.0.1 banner.czech-sex.cz
@@ -10678,9 +10658,6 @@
 
 # daoyoudao.com
 127.0.0.1 www.daoyoudao.com
-
-# daredorm.com
-127.0.0.1 cache.daredorm.com
 
 # dartsearch.net
 127.0.0.1 clickserve.eu.dartsearch.net
@@ -11264,6 +11241,7 @@
 127.0.0.1 ad.games.dmm.co.jp
 127.0.0.1 al.dmm.co.jp
 127.0.0.1 aqua.dmm.co.jp
+127.0.0.1 cn.dap.dmm.co.jp
 127.0.0.1 widget-view.dmm.co.jp
 
 # dmm.com
@@ -12561,9 +12539,6 @@
 # email-newsletters.com
 127.0.0.1 email-newsletters.com
 
-# emailaccount.com
-127.0.0.1 www.emailaccount.com
-
 # emailcash.com.au
 127.0.0.1 emailcash.com.au
 
@@ -13066,9 +13041,6 @@
 
 # errornuker.com
 127.0.0.1 www.errornuker.com
-
-# errorout.com
-127.0.0.1 errorout.com
 
 # errorsmart.com
 127.0.0.1 download.errorsmart.com
@@ -14957,9 +14929,6 @@
 # gamersbanner.com
 127.0.0.1 www.gamersbanner.com
 
-# gamershell.com
-127.0.0.1 ads.gamershell.com
-
 # gamesbannernet.com
 127.0.0.1 ads.gamesbannernet.com
 
@@ -15378,9 +15347,6 @@
 # gfan.com
 127.0.0.1 d.gfan.com
 
-# gfrevenge.com
-127.0.0.1 cache.gfrevenge.com
-
 # gfsrv.net
 127.0.0.1 delivery.ads.gfsrv.net
 127.0.0.1 media.ads.gfsrv.net
@@ -15639,9 +15605,6 @@
 
 # godroid.pw
 127.0.0.1 in.godroid.pw
-
-# gogoceleb.com
-127.0.0.1 hidden.gogoceleb.com
 
 # gogotools.com
 127.0.0.1 www.gogotools.com
@@ -18305,9 +18268,6 @@
 # intelligencefocus.com
 127.0.0.1 intelligencefocus.com
 
-# intelligentkid.com
-127.0.0.1 www.intelligentkid.com
-
 # intelliseek.com
 127.0.0.1 intelliseek.com
 
@@ -19430,9 +19390,6 @@
 
 # iwoop.com
 127.0.0.1 track.iwoop.com
-
-# iwstats.com
-127.0.0.1 www.iwstats.com
 
 # ix.se
 127.0.0.1 banners.ix.se
@@ -20613,6 +20570,9 @@
 
 # little-help.com
 127.0.0.1 www.little-help.com
+
+# live-player.com
+127.0.0.1 www.live-player.com
 
 # live.com
 127.0.0.1 analytics.live.com
@@ -22453,9 +22413,6 @@
 # mizubasyou.com
 127.0.0.1 x6.mizubasyou.com
 
-# mizzenmedia.com
-127.0.0.1 adserve.mizzenmedia.com
-
 # mk.co.kr
 127.0.0.1 ad.mk.co.kr
 
@@ -24134,10 +24091,6 @@
 # netklix.com
 127.0.0.1 tracker.netklix.com
 
-# netlog.com
-127.0.0.1 ads.ads.netlog.com
-127.0.0.1 pool.ads.netlog.com
-
 # netlogic.ru
 127.0.0.1 stat.netlogic.ru
 
@@ -24647,9 +24600,6 @@
 
 # npvos.com
 127.0.0.1 npvos.com
-
-# nrgwire.com
-127.0.0.1 nrgwire.com
 
 # nscash.com
 127.0.0.1 creative.nscash.com
@@ -26062,9 +26012,6 @@
 
 # pchome.net
 127.0.0.1 stat.pchome.net
-
-# pckeeper.software
-127.0.0.1 land.pckeeper.software
 
 # pcmightymax.net
 127.0.0.1 pcmightymax.net
@@ -27710,7 +27657,6 @@
 
 # realitykings.com
 127.0.0.1 br.realitykings.com
-127.0.0.1 cache.realitykings.com
 127.0.0.1 hostedads.realitykings.com
 127.0.0.1 track.realitykings.com
 
@@ -30959,6 +30905,9 @@
 # statistik-gallup.net
 127.0.0.1 statistik-gallup.net
 
+# statonly.com
+127.0.0.1 statonly.com
+
 # stats.de
 127.0.0.1 js.stats.de
 
@@ -32565,9 +32514,6 @@
 # topsites24.net
 127.0.0.1 www.topsites24.net
 
-# topsiteuri.ro
-127.0.0.1 www.topsiteuri.ro
-
 # topstat.com
 127.0.0.1 topstat.com
 
@@ -32595,9 +32541,6 @@
 
 # torrentq.com
 127.0.0.1 www.torrentq.com
-
-# total-media.net
-127.0.0.1 cdn.total-media.net
 
 # totallyfreestuff.com
 127.0.0.1 ads.totallyfreestuff.com
@@ -33456,9 +33399,6 @@
 # uberads.net
 127.0.0.1 uberads.net
 
-# ubid.com
-127.0.0.1 mde.ubid.com
-
 # ubiyoo.com
 127.0.0.1 adserver.ubiyoo.com
 
@@ -33523,7 +33463,6 @@
 
 # ukbanners.com
 127.0.0.1 ukbanners.com
-127.0.0.1 www.ukbanners.com
 
 # uknetguide.co.uk
 127.0.0.1 ads.uknetguide.co.uk
@@ -34891,6 +34830,9 @@
 # webreseau.com
 127.0.0.1 webreseau.com
 
+# webrewardstream.com
+127.0.0.1 go.webrewardstream.com
+
 # webroot.com
 127.0.0.1 osc.webroot.com
 
@@ -35841,9 +35783,6 @@
 # xxx-r.com
 127.0.0.1 xxx-r.com
 
-# xxxallaccesspass.com
-127.0.0.1 bigtits.xxxallaccesspass.com
-
 # xxxblackbook.com
 127.0.0.1 ard.xxxblackbook.com
 127.0.0.1 flashbanners.static.ard.xxxblackbook.com
@@ -36137,7 +36076,6 @@
 127.0.0.1 yesup.net
 
 # yesupmicro.com
-127.0.0.1 www.yesupmicro.com
 127.0.0.1 yesupmicro.com
 
 # yesupseo.com
@@ -36197,7 +36135,6 @@
 127.0.0.1 ads.yimg.com
 127.0.0.1 richmedia.yimg.com
 127.0.0.1 sec.yimg.com
-127.0.0.1 sg.yimg.com
 127.0.0.1 us.a1.yimg.com
 127.0.0.1 us.yimg.com
 127.0.0.1 ybinst0.ec.yimg.com
