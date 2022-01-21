@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2022/01/22
-# block hosts: 19484 entry
+# block hosts: 19501 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -26,6 +26,7 @@
 
 # 100-100.ru
 127.0.0.1 100-100.ru
+127.0.0.1 www.100-100.ru
 
 # 100free.com
 127.0.0.1 adserver.100free.com
@@ -1822,6 +1823,9 @@
 
 # 5ci.lt
 127.0.0.1 ads.5ci.lt
+
+# 5i8xkqjmqubv.top
+127.0.0.1 claim-reward.5i8xkqjmqubv.top
 
 # 5qwg.com
 127.0.0.1 5qwg.com
@@ -3819,6 +3823,9 @@
 # adserving.dk
 127.0.0.1 ia.adserving.dk
 
+# adservinginternational.com
+127.0.0.1 adservinginternational.com
+
 # adservingnetwork.com
 127.0.0.1 adservingnetwork.com
 
@@ -5047,6 +5054,9 @@
 # alladvantage.com
 127.0.0.1 alladvantage.com
 127.0.0.1 www.alladvantage.com
+
+# allblet.net
+127.0.0.1 guide.allblet.net
 
 # allbrowsers.net
 127.0.0.1 www.allbrowsers.net
@@ -8612,6 +8622,9 @@
 # chmato.me
 127.0.0.1 2.chmato.me
 
+# choicestream.com
+127.0.0.1 api.choicestream.com
+
 # chokertraffic.com
 127.0.0.1 chokertraffic.com
 127.0.0.1 new.chokertraffic.com
@@ -8744,6 +8757,9 @@
 # clear-reports.com
 127.0.0.1 clear-reports.com
 127.0.0.1 www.clear-reports.com
+
+# clear-search.com
+127.0.0.1 clear-search.com
 
 # clearchannel.com
 127.0.0.1 ads2.clearchannel.com
@@ -13628,6 +13644,9 @@
 127.0.0.1 adimages.firestorage.jp
 127.0.0.1 adw.firestorage.jp
 
+# firsrtsfirstxse.com
+127.0.0.1 firsrtsfirstxse.com
+
 # firstadsolution.com
 127.0.0.1 content.firstadsolution.com
 
@@ -16396,6 +16415,7 @@
 # hittail.com
 127.0.0.1 15141.hittail.com
 127.0.0.1 31870.hittail.com
+127.0.0.1 3463.hittail.com
 127.0.0.1 8959.hittail.com
 
 # hitweb.org
@@ -16739,15 +16759,21 @@
 # hpg.com.br
 127.0.0.1 ad113.hpg.com.br
 127.0.0.1 ad193.hpg.com.br
+127.0.0.1 ad205.hpg.com.br
 127.0.0.1 ad22.hpg.com.br
 127.0.0.1 ad240.hpg.com.br
 127.0.0.1 ad242.hpg.com.br
+127.0.0.1 ad90.hpg.com.br
 127.0.0.1 ads127.hpg.com.br
+127.0.0.1 ads232.hpg.com.br
 127.0.0.1 ads53.hpg.com.br
+127.0.0.1 ads54.hpg.com.br
 127.0.0.1 ads97.hpg.com.br
 127.0.0.1 advert36.hpg.com.br
 127.0.0.1 banners226.hpg.com.br
 127.0.0.1 banners43.hpg.com.br
+127.0.0.1 banners7.hpg.com.br
+127.0.0.1 banners8.hpg.com.br
 
 # hpod.com
 127.0.0.1 hpod.com
@@ -21611,6 +21637,9 @@
 # mediba.jp
 127.0.0.1 ad.mediba.jp
 127.0.0.1 api.ad.mediba.jp
+
+# medicleader.com
+127.0.0.1 medicleader.com
 
 # medienhaus.com
 127.0.0.1 piwik.medienhaus.com
@@ -30334,6 +30363,9 @@
 127.0.0.1 stats.net
 127.0.0.1 www.stats.net
 
+# stats24.net
+127.0.0.1 www.stats24.net
+
 # stats4free.de
 127.0.0.1 www.stats4free.de
 
@@ -35791,6 +35823,9 @@
 
 # zive.net
 127.0.0.1 hellos.zive.net
+
+# ziyu.net
+127.0.0.1 now-visitor2.ziyu.net
 
 # zmags.com
 127.0.0.1 stats.zmags.com
