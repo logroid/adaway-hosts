@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2022/01/22
-# block hosts: 19472 entry
+# block hosts: 19484 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -1690,6 +1690,9 @@
 # 3dstats.com
 127.0.0.1 3dstats.com
 127.0.0.1 www.3dstats.com
+
+# 3dxchat.com
+127.0.0.1 3dxchat.com
 
 # 3g.cn
 127.0.0.1 cache.3g.cn
@@ -12931,6 +12934,7 @@
 127.0.0.1 www.euros4click.de
 
 # euroseek.com
+127.0.0.1 euroseek.com
 127.0.0.1 www.euroseek.com
 
 # euroseek.net
@@ -16734,12 +16738,16 @@
 
 # hpg.com.br
 127.0.0.1 ad113.hpg.com.br
+127.0.0.1 ad193.hpg.com.br
 127.0.0.1 ad22.hpg.com.br
 127.0.0.1 ad240.hpg.com.br
+127.0.0.1 ad242.hpg.com.br
+127.0.0.1 ads127.hpg.com.br
 127.0.0.1 ads53.hpg.com.br
 127.0.0.1 ads97.hpg.com.br
 127.0.0.1 advert36.hpg.com.br
 127.0.0.1 banners226.hpg.com.br
+127.0.0.1 banners43.hpg.com.br
 
 # hpod.com
 127.0.0.1 hpod.com
@@ -16765,6 +16773,9 @@
 
 # href.li
 127.0.0.1 href.li
+
+# hskwq.com
+127.0.0.1 hskwq.com
 
 # hsqsw.com
 127.0.0.1 hsqsw.com
@@ -20849,6 +20860,9 @@
 # loudmo.com
 127.0.0.1 www.loudmo.com
 
+# loufile.ru
+127.0.0.1 loufile.ru
+
 # love-money.de
 127.0.0.1 promo.love-money.de
 
@@ -20972,6 +20986,9 @@
 
 # m-a.jp
 127.0.0.1 www.m-a.jp
+
+# m-adx.com
+127.0.0.1 media.m-adx.com
 
 # m-arata.com
 127.0.0.1 m-arata.com
@@ -22557,6 +22574,9 @@
 # musicmatch.com
 127.0.0.1 ad.musicmatch.com
 127.0.0.1 ads.musicmatch.com
+
+# musicmembersarea.com
+127.0.0.1 musicmembersarea.com
 
 # musikmedia.de
 127.0.0.1 banner.musikmedia.de
@@ -26144,6 +26164,7 @@
 127.0.0.1 tengo.popunder.ru
 127.0.0.1 viper.popunder.ru
 127.0.0.1 vistas.popunder.ru
+127.0.0.1 wera.popunder.ru
 127.0.0.1 zampolit1990.popunder.ru
 127.0.0.1 zonawm.biz.popunder.ru
 
@@ -34815,6 +34836,9 @@
 
 # xanga.com
 127.0.0.1 a.xanga.com
+
+# xarirogemi.gq
+127.0.0.1 xarirogemi.gq
 
 # xb11766.com
 127.0.0.1 xb11766.com
