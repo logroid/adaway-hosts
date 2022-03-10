@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2022/03/10
-# block hosts: 19257 entry
+# block hosts: 19278 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -9594,6 +9594,9 @@
 # corky.net
 127.0.0.1 ads.corky.net
 
+# cormobile.com
+127.0.0.1 cormobile.com
+
 # cortoonnetwork.com
 127.0.0.1 cortoonnetwork.com
 127.0.0.1 www.cortoonnetwork.com
@@ -9932,6 +9935,9 @@
 
 # credit-cards.org
 127.0.0.1 credit-cards.org
+
+# creditreport.com
+127.0.0.1 metrics.creditreport.com
 
 # credonic.com
 127.0.0.1 www.credonic.com
@@ -10575,6 +10581,9 @@
 
 # devicebondage.com
 127.0.0.1 ads.devicebondage.com
+
+# devilfishpartners.com
+127.0.0.1 affiliates.devilfishpartners.com
 
 # devo.jp
 127.0.0.1 devo.jp
@@ -16531,9 +16540,11 @@
 127.0.0.1 ad22.hpg.com.br
 127.0.0.1 ad240.hpg.com.br
 127.0.0.1 ad242.hpg.com.br
+127.0.0.1 ad50.hpg.com.br
 127.0.0.1 ad90.hpg.com.br
 127.0.0.1 ads127.hpg.com.br
 127.0.0.1 ads232.hpg.com.br
+127.0.0.1 ads250.hpg.com.br
 127.0.0.1 ads48.hpg.com.br
 127.0.0.1 ads53.hpg.com.br
 127.0.0.1 ads54.hpg.com.br
@@ -16919,6 +16930,9 @@
 
 # ideaworks.com
 127.0.0.1 www.ideaworks.com
+
+# identads.com
+127.0.0.1 ads.identads.com
 
 # idg.com.au
 127.0.0.1 demo.idg.com.au
@@ -19645,6 +19659,9 @@
 # ligatus.de
 127.0.0.1 ligatus.de
 
+# lightningcast.net
+127.0.0.1 stats.lightningcast.net
+
 # lightspeedcash.com
 127.0.0.1 lightspeedcash.com
 
@@ -21898,6 +21915,9 @@
 # mojobucks.com
 127.0.0.1 mojobucks.com
 
+# mokono.com
+127.0.0.1 adserver1.mokono.com
+
 # mommaporn.com
 127.0.0.1 www.mommaporn.com
 
@@ -22351,6 +22371,9 @@
 
 # mycdn2.co
 127.0.0.1 mycdn2.co
+
+# myclickbankads.com
+127.0.0.1 www.myclickbankads.com
 
 # mycomputer.com
 127.0.0.1 123counter.mycomputer.com
@@ -28836,8 +28859,19 @@
 127.0.0.1 smaad.jp
 
 # smaad.net
+127.0.0.1 cf.smaad.net
+127.0.0.1 ci.smaad.net
+127.0.0.1 d.smaad.net
+127.0.0.1 dev-service.smaad.net
+127.0.0.1 dev.smaad.net
+127.0.0.1 dsp.smaad.net
+127.0.0.1 lp.smaad.net
+127.0.0.1 media.smaad.net
+127.0.0.1 mv.smaad.net
 127.0.0.1 smaad.net
+127.0.0.1 static.smaad.net
 127.0.0.1 tr.smaad.net
+127.0.0.1 wall.smaad.net
 
 # smaato.net
 127.0.0.1 sdk-android.ad.smaato.net
@@ -35332,6 +35366,7 @@
 127.0.0.1 hellos.zive.net
 
 # ziyu.net
+127.0.0.1 js1.ziyu.net
 127.0.0.1 now-visitor2.ziyu.net
 
 # zmags.com
