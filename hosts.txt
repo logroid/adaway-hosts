@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2022/03/10
-# block hosts: 19278 entry
+# block hosts: 19288 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -3042,6 +3042,7 @@
 127.0.0.1 adisfy.com
 
 # aditic.net
+127.0.0.1 click04.aditic.net
 127.0.0.1 click08.aditic.net
 127.0.0.1 click10.aditic.net
 
@@ -16551,8 +16552,11 @@
 127.0.0.1 ads97.hpg.com.br
 127.0.0.1 advert252.hpg.com.br
 127.0.0.1 advert36.hpg.com.br
+127.0.0.1 banners123.hpg.com.br
 127.0.0.1 banners226.hpg.com.br
 127.0.0.1 banners43.hpg.com.br
+127.0.0.1 banners53.hpg.com.br
+127.0.0.1 banners63.hpg.com.br
 127.0.0.1 banners7.hpg.com.br
 127.0.0.1 banners8.hpg.com.br
 
@@ -19254,6 +19258,9 @@
 # kizash.com
 127.0.0.1 kizash.com
 127.0.0.1 www.kizash.com
+
+# kjdhendieldiouyu.com
+127.0.0.1 up2.kjdhendieldiouyu.com
 
 # kkal.net
 127.0.0.1 kkal.net
@@ -24621,6 +24628,9 @@
 # oxdl.com
 127.0.0.1 adserver2.oxdl.com
 
+# oxinads.com
+127.0.0.1 www.oxinads.com
+
 # oxymoronent.com
 127.0.0.1 ads.oxymoronent.com
 
@@ -25487,6 +25497,9 @@
 127.0.0.1 toolbar.pickoftheweb.com
 127.0.0.1 www.pickoftheweb.com
 
+# pickwifi.com
+127.0.0.1 server.pickwifi.com
+
 # pillenpharm.com
 127.0.0.1 www.pillenpharm.com
 
@@ -25851,6 +25864,7 @@
 127.0.0.1 viper.popunder.ru
 127.0.0.1 vistas.popunder.ru
 127.0.0.1 wera.popunder.ru
+127.0.0.1 www.popunder.ru
 127.0.0.1 zampolit1990.popunder.ru
 127.0.0.1 zonawm.biz.popunder.ru
 
@@ -33512,6 +33526,9 @@
 # waterfrontmedia.com
 127.0.0.1 tracking.waterfrontmedia.com
 
+# watube.com
+127.0.0.1 watube.com
+
 # waudit.cz
 127.0.0.1 h.waudit.cz
 
@@ -34325,6 +34342,9 @@
 
 # wpdstat.com
 127.0.0.1 www.wpdstat.com
+
+# wrestling1.com
+127.0.0.1 www.wrestling1.com
 
 # wretch.cc
 127.0.0.1 ad.wretch.cc
