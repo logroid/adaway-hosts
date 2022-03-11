@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2022/03/10
-# block hosts: 19288 entry
+# last updated: 2022/03/11
+# block hosts: 19215 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -234,9 +234,6 @@
 
 # 247realmedia.co.kr
 127.0.0.1 n1.247realmedia.co.kr
-
-# 247realmedia.com
-127.0.0.1 247realmedia.com
 
 # 247search.com
 127.0.0.1 tracking.247search.com
@@ -1790,9 +1787,6 @@
 # 51link.com
 127.0.0.1 51link.com
 
-# 51network.com
-127.0.0.1 log.51network.com
-
 # 55.la
 127.0.0.1 55.la
 
@@ -2290,9 +2284,6 @@
 # actionsplash.com
 127.0.0.1 actionsplash.com
 
-# activeadv.net
-127.0.0.1 adimg.activeadv.net
-
 # activeagent.at
 127.0.0.1 activeagent.at
 
@@ -2641,9 +2632,6 @@
 # adcell.de
 127.0.0.1 adcell.de
 127.0.0.1 www.adcell.de
-
-# adcenix.com
-127.0.0.1 adcenix.com
 
 # adcent.jp
 127.0.0.1 adcent.jp
@@ -3559,10 +3547,6 @@
 # adresult.jp
 127.0.0.1 ad.adresult.jp
 
-# adrevmedia.com
-127.0.0.1 adrevmedia.com
-127.0.0.1 www.adrevmedia.com
-
 # adrevolver.com
 127.0.0.1 ad5.adrevolver.com
 127.0.0.1 adrevolver.com
@@ -4416,9 +4400,6 @@
 
 # advertist.com
 127.0.0.1 adserver.advertist.com
-
-# advertjunction.com
-127.0.0.1 advertjunction.com
 
 # advertmarket.com
 127.0.0.1 advertmarket.com
@@ -5499,6 +5480,9 @@
 127.0.0.1 d.applvn.com
 127.0.0.1 rt.applvn.com
 
+# appmedia.cn
+127.0.0.1 api.appmedia.cn
+
 # appnexus.com
 127.0.0.1 appnexus.com
 
@@ -6019,7 +6003,6 @@
 127.0.0.1 c.azjmp.com
 127.0.0.1 i.azjmp.com
 127.0.0.1 www.azjmp.com
-127.0.0.1 x.azjmp.com
 
 # azkempire.com
 127.0.0.1 www.azkempire.com
@@ -6674,9 +6657,6 @@
 # bgtop100.com
 127.0.0.1 bgtop100.com
 
-# bgwebads.com
-127.0.0.1 bgwebads.com
-
 # bharatmatrimony.com
 127.0.0.1 campaign.bharatmatrimony.com
 
@@ -7302,9 +7282,6 @@
 # boostclic.com
 127.0.0.1 track.boostclic.com
 
-# boostmacfaster.tech
-127.0.0.1 boostmacfaster.tech
-
 # boostservice.com
 127.0.0.1 ns2.boostservice.com
 
@@ -7367,9 +7344,6 @@
 
 # brainfox.com
 127.0.0.1 www.brainfox.com
-
-# branchez-vous.com
-127.0.0.1 pubs.branchez-vous.com
 
 # brand.net
 127.0.0.1 ads.brand.net
@@ -7670,9 +7644,6 @@
 
 # buddypic.com
 127.0.0.1 ads.buddypic.com
-
-# budsinc.com
-127.0.0.1 budsinc.com
 
 # buempliz-online.ch
 127.0.0.1 banner.buempliz-online.ch
@@ -8246,7 +8217,6 @@
 127.0.0.1 www.cbproads.com
 
 # cbsmarket.com
-127.0.0.1 cbsmarket.com
 127.0.0.1 www.cbsmarket.com
 
 # cc-dt.com
@@ -8878,9 +8848,6 @@
 # clickshield.net
 127.0.0.1 2183.jsjmlejl.clickshield.net
 127.0.0.1 redirect.clickshield.net
-
-# clickshift.com
-127.0.0.1 rd.clickshift.com
 
 # clicksite.com
 127.0.0.1 clicksite.com
@@ -10476,9 +10443,6 @@
 # dell.com
 127.0.0.1 nsm.dell.com
 
-# delo.ua
-127.0.0.1 stat.delo.ua
-
 # delta.com
 127.0.0.1 metrics.delta.com
 
@@ -10860,6 +10824,9 @@
 
 # dl-rms.com
 127.0.0.1 content.dl-rms.com
+
+# dlbooks.to
+127.0.0.1 gum.dlbooks.to
 
 # dlpo.jp
 127.0.0.1 dlpo.jp
@@ -11563,7 +11530,6 @@
 # dt00.net
 127.0.0.1 img.dt00.net
 127.0.0.1 mg.dt00.net
-127.0.0.1 tmp.dt00.net
 
 # dt07.net
 127.0.0.1 imgg.dt07.net
@@ -12012,9 +11978,6 @@
 
 # ek21.com
 127.0.0.1 www.ek21.com
-
-# ekads.com
-127.0.0.1 ekads.com
 
 # ekmas.com
 127.0.0.1 ekmas.com
@@ -12802,9 +12765,6 @@
 # evidence-eliminator.com
 127.0.0.1 www.evidence-eliminator.com
 
-# evidencecleanergold.com
-127.0.0.1 evidencecleanergold.com
-
 # evite.com
 127.0.0.1 o.evite.com
 
@@ -13096,9 +13056,6 @@
 
 # facdn.net
 127.0.0.1 a.facdn.net
-
-# fadsecs.com
-127.0.0.1 fadsecs.com
 
 # fadsims.com
 127.0.0.1 fadsims.com
@@ -14294,10 +14251,6 @@
 127.0.0.1 fxstyle.net
 127.0.0.1 www.fxstyle.net
 
-# fyre.co
-127.0.0.1 fyre.co
-127.0.0.1 zor.fyre.co
-
 # g-i2.com
 127.0.0.1 g-i2.com
 
@@ -15301,9 +15254,6 @@
 # gratuito.st
 127.0.0.1 adv.gratuito.st
 
-# gravity.com
-127.0.0.1 cdn.insights.gravity.com
-
 # gravityrd.com
 127.0.0.1 saas.gravityrd.com
 
@@ -16258,7 +16208,6 @@
 127.0.0.1 ads.hollywood.com
 127.0.0.1 h.hollywood.com
 127.0.0.1 metrics.hollywood.com
-127.0.0.1 oascentral.hollywood.com
 
 # home-remodeling.com
 127.0.0.1 home-remodeling.com
@@ -16535,17 +16484,22 @@
 127.0.0.1 ad113.hpg.com.br
 127.0.0.1 ad120.hpg.com.br
 127.0.0.1 ad170.hpg.com.br
+127.0.0.1 ad187.hpg.com.br
 127.0.0.1 ad193.hpg.com.br
 127.0.0.1 ad198.hpg.com.br
 127.0.0.1 ad205.hpg.com.br
+127.0.0.1 ad21.hpg.com.br
 127.0.0.1 ad22.hpg.com.br
 127.0.0.1 ad240.hpg.com.br
 127.0.0.1 ad242.hpg.com.br
 127.0.0.1 ad50.hpg.com.br
+127.0.0.1 ad56.hpg.com.br
 127.0.0.1 ad90.hpg.com.br
 127.0.0.1 ads127.hpg.com.br
+127.0.0.1 ads219.hpg.com.br
 127.0.0.1 ads232.hpg.com.br
 127.0.0.1 ads250.hpg.com.br
+127.0.0.1 ads32.hpg.com.br
 127.0.0.1 ads48.hpg.com.br
 127.0.0.1 ads53.hpg.com.br
 127.0.0.1 ads54.hpg.com.br
@@ -18557,9 +18511,6 @@
 # ipcounter.de
 127.0.0.1 www.ipcounter.de
 
-# iperbanner.com
-127.0.0.1 www.iperbanner.com
-
 # iperceptions.com
 127.0.0.1 4q.iperceptions.com
 127.0.0.1 4qinvite.4q.iperceptions.com
@@ -18877,9 +18828,6 @@
 # jetsoftware.com
 127.0.0.1 ad.jetsoftware.com
 
-# jetswap.com
-127.0.0.1 go.jetswap.com
-
 # jewishfriendfinder.com
 127.0.0.1 ads.jewishfriendfinder.com
 127.0.0.1 banners.jewishfriendfinder.com
@@ -18949,9 +18897,6 @@
 
 # jouwstats.nl
 127.0.0.1 www.jouwstats.nl
-
-# jpost.com
-127.0.0.1 ads.jpost.com
 
 # jps.ms
 127.0.0.1 www.jps.ms
@@ -19249,9 +19194,6 @@
 # kitunebi.com
 127.0.0.1 x8.kitunebi.com
 
-# kiwialpha.com
-127.0.0.1 www.kiwialpha.com
-
 # kiwicasino.com
 127.0.0.1 kiwicasino.com
 
@@ -19477,9 +19419,6 @@
 # landsend.com
 127.0.0.1 affiliate.landsend.com
 
-# lanteanstudio.com
-127.0.0.1 www.lanteanstudio.com
-
 # largecash.com
 127.0.0.1 banners.largecash.com
 
@@ -19627,9 +19566,6 @@
 
 # lhj.com
 127.0.0.1 metrics.lhj.com
-
-# lianeu.com
-127.0.0.1 lianeu.com
 
 # libereco.net
 127.0.0.1 libereco.net
@@ -20418,9 +20354,6 @@
 # liveforsearch.com
 127.0.0.1 www.liveforsearch.com
 
-# livefyre.com
-127.0.0.1 bootstrap.livefyre.com
-
 # livehelper.com
 127.0.0.1 js.livehelper.com
 127.0.0.1 newbrowse.livehelper.com
@@ -20958,10 +20891,6 @@
 # marketgid.com
 127.0.0.1 marketgid.com
 127.0.0.1 www.marketgid.com
-
-# marketing-2000.net
-127.0.0.1 marketing-2000.net
-127.0.0.1 www.marketing-2000.net
 
 # marketing-issue.com
 127.0.0.1 marketing-issue.com
@@ -21656,9 +21585,6 @@
 # mindspring.com
 127.0.0.1 techexpress.home.mindspring.com
 
-# mini-player.com
-127.0.0.1 www.mini-player.com
-
 # minimob.com
 127.0.0.1 clicks.minimob.com
 
@@ -22031,18 +21957,6 @@
 127.0.0.1 image.moshimo.com
 127.0.0.1 moshimo.com
 127.0.0.1 www.moshimo.com
-
-# motigo.com
-127.0.0.1 m1.webstats.motigo.com
-127.0.0.1 m2.webstats.motigo.com
-127.0.0.1 m3.webstats.motigo.com
-127.0.0.1 m4.webstats.motigo.com
-127.0.0.1 m5.webstats.motigo.com
-127.0.0.1 m6.webstats.motigo.com
-127.0.0.1 m7.webstats.motigo.com
-127.0.0.1 m8.webstats.motigo.com
-127.0.0.1 m9.webstats.motigo.com
-127.0.0.1 webstats.motigo.com
 
 # motiveinteractive.com
 127.0.0.1 ad.motiveinteractive.com
@@ -22563,10 +22477,8 @@
 127.0.0.1 bank44.clicks.mp.mydas.mobi
 127.0.0.1 bank44.mi.ads.mp.mydas.mobi
 127.0.0.1 bank44.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank45.mi.ads.mp.mydas.mobi
 127.0.0.1 bank45.mi.clicks.mp.mydas.mobi
 127.0.0.1 bank46.mi.ads.mp.mydas.mobi
-127.0.0.1 bank46.mi.clicks.mp.mydas.mobi
 127.0.0.1 bank47.mi.ads.mp.mydas.mobi
 127.0.0.1 bank47.mi.clicks.mp.mydas.mobi
 127.0.0.1 bank48.mi.ads.mp.mydas.mobi
@@ -22586,7 +22498,6 @@
 127.0.0.1 bank55.mi.ads.mp.mydas.mobi
 127.0.0.1 bank55.mi.clicks.mp.mydas.mobi
 127.0.0.1 bank56.mi.ads.mp.mydas.mobi
-127.0.0.1 bank56.mi.clicks.mp.mydas.mobi
 127.0.0.1 bank57.mi.ads.mp.mydas.mobi
 127.0.0.1 bank57.mi.clicks.mp.mydas.mobi
 127.0.0.1 bank58.mi.clicks.mp.mydas.mobi
@@ -23158,11 +23069,7 @@
 127.0.0.1 nedstatbasic.com
 
 # nedstatbasic.net
-127.0.0.1 m1.nedstatbasic.net
 127.0.0.1 nedstatbasic.net
-127.0.0.1 nl.nedstatbasic.net
-127.0.0.1 usa.nedstatbasic.net
-127.0.0.1 v1.nedstatbasic.net
 127.0.0.1 www.nedstatbasic.net
 
 # need2find.com
@@ -23314,7 +23221,6 @@
 
 # netflame.cc
 127.0.0.1 beta-hints.netflame.cc
-127.0.0.1 netflame.cc
 127.0.0.1 ssl-hints.netflame.cc
 
 # netflip.com
@@ -24865,10 +24771,6 @@
 # pathfinder.com
 127.0.0.1 image.pathfinder.com
 
-# paulsads.com
-127.0.0.1 paulsads.com
-127.0.0.1 www.paulsads.com
-
 # paulsnetwork.com
 127.0.0.1 paulsnetwork.com
 
@@ -25219,9 +25121,6 @@
 127.0.0.1 pcmightymax.net
 127.0.0.1 www.pcmightymax.net
 
-# pconline.com.cn
-127.0.0.1 adv.pconline.com.cn
-
 # pcpop.com
 127.0.0.1 count.pcpop.com
 
@@ -25306,9 +25205,6 @@
 
 # pennerzone.de
 127.0.0.1 hamburg.pennerzone.de
-
-# pennet.com
-127.0.0.1 ads.pennet.com
 
 # pennlive.com
 127.0.0.1 geoip.pennlive.com
@@ -26047,9 +25943,6 @@
 
 # premiumnetwork.com
 127.0.0.1 premiumnetwork.com
-
-# prepopads.com
-127.0.0.1 prepopads.com
 
 # presco.asia
 127.0.0.1 ad.presco.asia
@@ -26852,9 +26745,6 @@
 
 # realtracker.com
 127.0.0.1 web4.realtracker.com
-
-# realtraq.net
-127.0.0.1 jmp.realtraq.net
 
 # reasonablespread.com
 127.0.0.1 track.reasonablespread.com
@@ -28690,9 +28580,6 @@
 127.0.0.1 startpunt.nu.site-id.nl
 127.0.0.1 www.site-id.nl
 
-# siteamplifier.net
-127.0.0.1 server.siteamplifier.net
-
 # siteboxparking.com
 127.0.0.1 www.siteboxparking.com
 
@@ -28980,9 +28867,6 @@
 
 # smartnews.be
 127.0.0.1 b.smartnews.be
-
-# smartoffer.site
-127.0.0.1 smartoffer.site
 
 # smartredirect.de
 127.0.0.1 www.smartredirect.de
@@ -29376,7 +29260,6 @@
 127.0.0.1 shopping.sponichi.co.jp
 
 # sponsorads.de
-127.0.0.1 sponsorads.de
 127.0.0.1 www.sponsorads.de
 
 # sponsorhispano.com
@@ -30565,7 +30448,6 @@
 
 # t-online.de
 127.0.0.1 homepage.t-online.de
-127.0.0.1 im.banner.t-online.de
 
 # t0.ca
 127.0.0.1 t0.ca
@@ -30702,7 +30584,6 @@
 # targetpoint.com
 127.0.0.1 dev.targetpoint.com
 127.0.0.1 srs.targetpoint.com
-127.0.0.1 targetpoint.com
 
 # targetshop.com
 127.0.0.1 targetshop.com
@@ -30719,9 +30600,6 @@
 # tatsumi-sys.jp
 127.0.0.1 ana2.tatsumi-sys.jp
 127.0.0.1 tatsumi-sys.jp
-
-# tattoobest.com
-127.0.0.1 tattoobest.com
 
 # taxel.jp
 127.0.0.1 taxel.jp
@@ -30749,9 +30627,6 @@
 # td.com
 127.0.0.1 metrics.td.com
 
-# tdska.net
-127.0.0.1 tdska.net
-
 # tea-nifty.com
 127.0.0.1 a.tea-nifty.com
 127.0.0.1 ax6.a.tea-nifty.com
@@ -30768,9 +30643,6 @@
 
 # teasernet.ru
 127.0.0.1 echo.teasernet.ru
-
-# tech-counter.com
-127.0.0.1 www.tech-counter.com
 
 # techarp.com
 127.0.0.1 banner.techarp.com
@@ -30976,9 +30848,6 @@
 
 # thebrighttag.com
 127.0.0.1 s.thebrighttag.com
-
-# thebugs.ws
-127.0.0.1 thebugs.ws
 
 # thecounter.com
 127.0.0.1 thecounter.com
@@ -31397,9 +31266,6 @@
 # top50.co.uk
 127.0.0.1 top50.co.uk
 
-# top50.to
-127.0.0.1 ad.top50.to
-
 # topadult.ro
 127.0.0.1 www.topadult.ro
 
@@ -31532,12 +31398,6 @@
 
 # topsearch10.com
 127.0.0.1 www.topsearch10.com
-
-# topsearcher.com
-127.0.0.1 topsearcher.com
-
-# topshopmoncler.com
-127.0.0.1 www.topshopmoncler.com
 
 # topsir.com
 127.0.0.1 topsir.com
@@ -32009,9 +31869,6 @@
 # traffiq.com
 127.0.0.1 ads.traffiq.com
 127.0.0.1 traffiq.com
-
-# trafflict.com
-127.0.0.1 trafflict.com
 
 # trafflow.com
 127.0.0.1 adds1.trafflow.com
@@ -32515,10 +32372,6 @@
 
 # umsns.com
 127.0.0.1 log.umsns.com
-
-# unadvertising.info
-127.0.0.1 unadvertising.info
-127.0.0.1 www.unadvertising.info
 
 # uncn.jp
 127.0.0.1 cf.uncn.jp
@@ -33932,12 +33785,6 @@
 # welmotch.jp
 127.0.0.1 welmotch.jp
 
-# wemfbox.ch
-127.0.0.1 blickonl.wemfbox.ch
-127.0.0.1 bluewin.wemfbox.ch
-127.0.0.1 scout24.wemfbox.ch
-127.0.0.1 swissinf.wemfbox.ch
-
 # weownthetraffic.com
 127.0.0.1 ads.weownthetraffic.com
 127.0.0.1 weownthetraffic.com
@@ -34084,10 +33931,6 @@
 # wildporntube.com
 127.0.0.1 wildporntube.com
 127.0.0.1 www.wildporntube.com
-
-# wimage.net
-127.0.0.1 wimage.net
-127.0.0.1 www.wimage.net
 
 # win-spy.com
 127.0.0.1 win-spy.com
@@ -34243,7 +34086,6 @@
 127.0.0.1 wondoads.de
 
 # wooboo.com.cn
-127.0.0.1 admin.wooboo.com.cn
 127.0.0.1 m.wooboo.com.cn
 127.0.0.1 static.wooboo.com.cn
 127.0.0.1 wap.wooboo.com.cn
@@ -35320,7 +35162,6 @@
 127.0.0.1 www.zero-animation.net
 
 # zestadz.com
-127.0.0.1 assets.zestadz.com
 127.0.0.1 www.zestadz.com
 
 # zetsearch.com
