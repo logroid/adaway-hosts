@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2022/03/11
-# block hosts: 19215 entry
+# last updated: 2022/03/19
+# block hosts: 18871 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -110,7 +110,6 @@
 127.0.0.1 www.123ticket.com
 
 # 123webmarketing.com
-127.0.0.1 123webmarketing.com
 127.0.0.1 www.123webmarketing.com
 
 # 124365.com
@@ -170,9 +169,6 @@
 # 1ad.de
 127.0.0.1 1ad.de
 127.0.0.1 www.1ad.de
-
-# 1bg.net
-127.0.0.1 1bg.net
 
 # 1clickspyclean.com
 127.0.0.1 www.1clickspyclean.com
@@ -237,10 +233,6 @@
 
 # 247search.com
 127.0.0.1 tracking.247search.com
-
-# 247wsr.com
-127.0.0.1 247wsr.com
-127.0.0.1 ads.247wsr.com
 
 # 24counter.com
 127.0.0.1 24counter.com
@@ -1806,6 +1798,7 @@
 
 # 5i8xkqjmqubv.top
 127.0.0.1 claim-reward.5i8xkqjmqubv.top
+127.0.0.1 downloadapp.5i8xkqjmqubv.top
 
 # 5zgmu7o20kt5d8yq.com
 127.0.0.1 www.5zgmu7o20kt5d8yq.com
@@ -2381,7 +2374,6 @@
 127.0.0.1 ad-maker.info
 127.0.0.1 admin.ad-maker.info
 127.0.0.1 images.ad-maker.info
-127.0.0.1 ox-d.ad-maker.info
 127.0.0.1 ox-i.ad-maker.info
 
 # ad-maker.net
@@ -2541,9 +2533,6 @@
 
 # adapt.tv
 127.0.0.1 adapt.tv
-
-# adbaaz.com
-127.0.0.1 adbaaz.com
 
 # adbanner.cz
 127.0.0.1 adbanner.cz
@@ -2991,9 +2980,6 @@
 # adify.com
 127.0.0.1 adify.com
 127.0.0.1 www.adify.com
-
-# adigou.com
-127.0.0.1 adigou.com
 
 # adimg.net
 127.0.0.1 adimg.net
@@ -3453,7 +3439,6 @@
 127.0.0.1 wu.adonweb.ru
 
 # adoperator.com
-127.0.0.1 adoperator.com
 127.0.0.1 www.adoperator.com
 
 # adoptim.com
@@ -3879,7 +3864,6 @@
 127.0.0.1 admention.adspirit.de
 127.0.0.1 adspirit.de
 127.0.0.1 adx.adspirit.de
-127.0.0.1 img6.adspirit.de
 127.0.0.1 limg.adspirit.de
 127.0.0.1 trtc.adspirit.de
 127.0.0.1 wwm.adspirit.de
@@ -4363,9 +4347,6 @@
 # advertisementbanners.com
 127.0.0.1 advertisementbanners.com
 
-# advertiser.net
-127.0.0.1 advertiser.net
-
 # advertiseyourgame.com
 127.0.0.1 www.advertiseyourgame.com
 
@@ -4802,9 +4783,6 @@
 # ahds.ac.uk
 127.0.0.1 ads.ahds.ac.uk
 
-# ahyea.com
-127.0.0.1 ahyea.com
-
 # ai.net
 127.0.0.1 ai.net
 127.0.0.1 bantam.ai.net
@@ -4983,9 +4961,6 @@
 
 # allseek.info
 127.0.0.1 www.allseek.info
-
-# allsites.com
-127.0.0.1 ads.allsites.com
 
 # allsolutionsnetwork.com
 127.0.0.1 allsolutionsnetwork.com
@@ -5592,7 +5567,6 @@
 127.0.0.1 demiurge.arstechnica.com
 
 # artcomix.com
-127.0.0.1 artcomix.com
 127.0.0.1 top.artcomix.com
 127.0.0.1 www.artcomix.com
 
@@ -5689,7 +5663,6 @@
 127.0.0.1 aspm.jp
 
 # ass4all.com
-127.0.0.1 ass4all.com
 127.0.0.1 www.ass4all.com
 
 # assoc-amazon.com
@@ -5930,7 +5903,6 @@
 # awempire.com
 127.0.0.1 adson.awempire.com
 127.0.0.1 awempire.com
-127.0.0.1 counter.awempire.com
 127.0.0.1 iframes.awempire.com
 127.0.0.1 promo.awempire.com
 127.0.0.1 static.awempire.com
@@ -6165,9 +6137,6 @@
 
 # banner-farm.com
 127.0.0.1 banner-farm.com
-
-# banner-mania.com
-127.0.0.1 www.banner-mania.com
 
 # banner-strage.com
 127.0.0.1 www.banner-strage.com
@@ -7657,9 +7626,6 @@
 # builder.com
 127.0.0.1 builder.com
 
-# buildreferrals.com
-127.0.0.1 bannersgomlm.buildreferrals.com
-
 # buildtraffic.com
 127.0.0.1 buildtraffic.com
 127.0.0.1 www.buildtraffic.com
@@ -7786,9 +7752,6 @@
 # buzzclick.com
 127.0.0.1 www.buzzclick.com
 
-# buzzimpress.jp
-127.0.0.1 www.buzzimpress.jp
-
 # buzzsession.com
 127.0.0.1 tgp.buzzsession.com
 
@@ -7823,9 +7786,6 @@
 
 # c-team.jp
 127.0.0.1 c-team.jp
-
-# c1exchange.com
-127.0.0.1 c1exchange.com
 
 # c3onlinemarketing.com
 127.0.0.1 c3onlinemarketing.com
@@ -8678,9 +8638,6 @@
 # clickadu.com
 127.0.0.1 clickadu.com
 
-# clickadz.com
-127.0.0.1 clickadz.com
-
 # clickagents.com
 127.0.0.1 ads.clickagents.com
 127.0.0.1 clickagents.com
@@ -8853,11 +8810,9 @@
 127.0.0.1 clicksite.com
 
 # clicksor.com
-127.0.0.1 clicksor.com
 127.0.0.1 www.clicksor.com
 
 # clicksor.net
-127.0.0.1 clicksor.net
 127.0.0.1 mp.clicksor.net
 127.0.0.1 www.clicksor.net
 
@@ -9002,6 +8957,7 @@
 127.0.0.1 d1l6p2sc9645hc.cloudfront.net
 127.0.0.1 d1miuq6afqay8u.cloudfront.net
 127.0.0.1 d1ros97qkrwjf5.cloudfront.net
+127.0.0.1 d1yt8zt4633tzi.cloudfront.net
 127.0.0.1 d28nwox1gdjlve.cloudfront.net
 127.0.0.1 d2cjo8xlt6fbwy.cloudfront.net
 127.0.0.1 d2ydccbv7g31yj.cloudfront.net
@@ -9403,9 +9359,6 @@
 # connead.net
 127.0.0.1 connead.net
 
-# connect2.ws
-127.0.0.1 sk.connect2.ws
-
 # connectionads.com
 127.0.0.1 ad.connectionads.com
 
@@ -9536,9 +9489,6 @@
 # copeac.com
 127.0.0.1 affiliates.copeac.com
 
-# copperheadsecurity.com
-127.0.0.1 www.copperheadsecurity.com
-
 # copyscape.com
 127.0.0.1 banners.copyscape.com
 
@@ -9595,9 +9545,6 @@
 
 # count4all.com
 127.0.0.1 count4all.com
-
-# count777.net
-127.0.0.1 www.count777.net
 
 # counted.com
 127.0.0.1 counted.com
@@ -9774,6 +9721,7 @@
 127.0.0.1 www.cpxcenter.com
 
 # cpxinteractive.com
+127.0.0.1 content.cpxinteractive.com
 127.0.0.1 cpxinteractive.com
 127.0.0.1 www.cpxinteractive.com
 
@@ -10090,15 +10038,9 @@
 # cy-s.click
 127.0.0.1 cy-s.click
 
-# cyber-ad01.com
-127.0.0.1 www.cyber-ad01.com
-
 # cyber-shop.net
 127.0.0.1 cyber-shop.net
 127.0.0.1 www.cyber-shop.net
-
-# cyber-traffic.net
-127.0.0.1 www.cyber-traffic.net
 
 # cyberbounty.com
 127.0.0.1 cyberbounty.com
@@ -10270,9 +10212,6 @@
 
 # danban.com
 127.0.0.1 danban.com
-
-# dancefox.net
-127.0.0.1 dancefox.net
 
 # dancingsnakegames.com
 127.0.0.1 www.dancingsnakegames.com
@@ -10835,9 +10774,6 @@
 127.0.0.1 es6-scripts.dlv4.com
 127.0.0.1 scripts.dlv4.com
 127.0.0.1 us2-scripts.dlv4.com
-
-# dm-online.de
-127.0.0.1 dm-online.de
 
 # dmdelivery.com
 127.0.0.1 dmdelivery.com
@@ -11687,10 +11623,6 @@
 
 # e.cl
 127.0.0.1 hits.e.cl
-
-# e2ads.com
-127.0.0.1 banner.e2ads.com
-127.0.0.1 www.e2ads.com
 
 # e2give.com
 127.0.0.1 e2give.com
@@ -12569,9 +12501,6 @@
 127.0.0.1 affiliates.esellerate.net
 127.0.0.1 esellerate.net
 
-# esiei.com
-127.0.0.1 esiei.com
-
 # esomniture.com
 127.0.0.1 e-2dj6wfk4ggdzkbo.stats.esomniture.com
 127.0.0.1 e-2dj6wfkikjd5glq.stats.esomniture.com
@@ -13056,9 +12985,6 @@
 
 # facdn.net
 127.0.0.1 a.facdn.net
-
-# fadsims.com
-127.0.0.1 fadsims.com
 
 # failcube.ru
 127.0.0.1 failcube.ru
@@ -13970,7 +13896,6 @@
 # freelogs.com
 127.0.0.1 bar.freelogs.com
 127.0.0.1 foo.freelogs.com
-127.0.0.1 freelogs.com
 127.0.0.1 goo.freelogs.com
 127.0.0.1 htm.freelogs.com
 127.0.0.1 ico.freelogs.com
@@ -14125,7 +14050,6 @@
 127.0.0.1 www.friendsearch.com
 
 # friendslinks.com
-127.0.0.1 friendslinks.com
 127.0.0.1 www.friendslinks.com
 
 # fringe81.com
@@ -14425,9 +14349,6 @@
 
 # garantiarkadas.com
 127.0.0.1 ad.garantiarkadas.com
-
-# garga.biz
-127.0.0.1 ads.garga.biz
 
 # garss.tv
 127.0.0.1 garss.tv
@@ -15469,6 +15390,9 @@
 127.0.0.1 x4.hanagumori.com
 127.0.0.1 x5.hanagumori.com
 
+# hananokai.tv
+127.0.0.1 hananokai.tv
+
 # handango.com
 127.0.0.1 partners.handango.com
 
@@ -15489,9 +15413,6 @@
 
 # haodong.net
 127.0.0.1 haodong.net
-
-# haolongsolar.com
-127.0.0.1 haolongsolar.com
 
 # happypuppy.com
 127.0.0.1 adserv.happypuppy.com
@@ -15687,9 +15608,6 @@
 
 # hh-btr.com
 127.0.0.1 hh-btr.com
-
-# hhdevel.com
-127.0.0.1 hhdevel.com
 
 # hi5.com
 127.0.0.1 ad.hi5.com
@@ -16490,6 +16408,7 @@
 127.0.0.1 ad205.hpg.com.br
 127.0.0.1 ad21.hpg.com.br
 127.0.0.1 ad22.hpg.com.br
+127.0.0.1 ad232.hpg.com.br
 127.0.0.1 ad240.hpg.com.br
 127.0.0.1 ad242.hpg.com.br
 127.0.0.1 ad50.hpg.com.br
@@ -16507,6 +16426,7 @@
 127.0.0.1 advert252.hpg.com.br
 127.0.0.1 advert36.hpg.com.br
 127.0.0.1 banners123.hpg.com.br
+127.0.0.1 banners16.hpg.com.br
 127.0.0.1 banners226.hpg.com.br
 127.0.0.1 banners43.hpg.com.br
 127.0.0.1 banners53.hpg.com.br
@@ -16541,9 +16461,6 @@
 
 # hskwq.com
 127.0.0.1 hskwq.com
-
-# hsqsw.com
-127.0.0.1 hsqsw.com
 
 # htmate2.com
 127.0.0.1 www.htmate2.com
@@ -17421,9 +17338,6 @@
 127.0.0.1 ranking.infocart.jp
 127.0.0.1 www.infocart.jp
 
-# infocious.com
-127.0.0.1 infospot.infocious.com
-
 # infohouse.jp
 127.0.0.1 www.infohouse.jp
 
@@ -17571,11 +17485,9 @@
 127.0.0.1 ads.instal.com
 
 # installcash.com
-127.0.0.1 installcash.com
 127.0.0.1 www.installcash.com
 
 # installdownload.com
-127.0.0.1 installdownload.com
 127.0.0.1 www.installdownload.com
 
 # installous.com
@@ -18402,7 +18314,6 @@
 127.0.0.1 internettrafficreport.com
 
 # internetwasher.com
-127.0.0.1 internetwasher.com
 127.0.0.1 www.internetwasher.com
 
 # internetworks.org
@@ -18548,7 +18459,6 @@
 127.0.0.1 iqh.net.cn
 
 # iquicksearch.com
-127.0.0.1 iquicksearch.com
 127.0.0.1 www.iquicksearch.com
 
 # ir.ru
@@ -19534,9 +19444,6 @@
 # leo.org
 127.0.0.1 advert.leo.org
 
-# lerelais.com
-127.0.0.1 lerelais.com
-
 # lesbianpersonals.com
 127.0.0.1 ads.lesbianpersonals.com
 
@@ -19770,9 +19677,6 @@
 # linksmile.com
 127.0.0.1 linksmile.com
 127.0.0.1 www.linksmile.com
-
-# linksponsor.com
-127.0.0.1 linksponsor.com
 
 # linkstation.de
 127.0.0.1 www.linkstation.de
@@ -20441,9 +20345,6 @@
 # loading-delivery2.com
 127.0.0.1 loading-delivery2.com
 
-# loading321.com
-127.0.0.1 loading321.com
-
 # loanpush.com
 127.0.0.1 affiliates.loanpush.com
 127.0.0.1 loanpush.com
@@ -20480,9 +20381,6 @@
 
 # logua.com
 127.0.0.1 logua.com
-
-# lol.to
-127.0.0.1 lol.to
 
 # lolafree.com
 127.0.0.1 lolafree.com
@@ -20536,9 +20434,6 @@
 
 # lookuplive.com
 127.0.0.1 www.lookuplive.com
-
-# lop.com
-127.0.0.1 lop.com
 
 # lotame.com
 127.0.0.1 crowdcontrol.lotame.com
@@ -20879,10 +20774,6 @@
 # marketbrowser.com
 127.0.0.1 marketbrowser.com
 
-# marketdart.com
-127.0.0.1 marketdart.com
-127.0.0.1 www.marketdart.com
-
 # marketengines.com
 127.0.0.1 download2.marketengines.com
 127.0.0.1 secure.marketengines.com
@@ -20939,9 +20830,6 @@
 
 # maruta.be
 127.0.0.1 maruta.be
-
-# masbuchin.com
-127.0.0.1 ads.masbuchin.com
 
 # mass-traffic.com
 127.0.0.1 mass-traffic.com
@@ -21159,7 +21047,6 @@
 127.0.0.1 devfast.mediacharger.com
 127.0.0.1 download.mediacharger.com
 127.0.0.1 fast.mediacharger.com
-127.0.0.1 mediacharger.com
 127.0.0.1 www.pml.mediacharger.com
 
 # mediacorpsingapore.com
@@ -21451,6 +21338,7 @@
 127.0.0.1 www.metricsimage.com
 
 # metriweb.be
+127.0.0.1 line01.metriweb.be
 127.0.0.1 line12.metriweb.be
 
 # metromanager.com
@@ -22325,7 +22213,6 @@
 127.0.0.1 aio.lp.mydas.mobi
 127.0.0.1 androidsdk.ads.mp.mydas.mobi
 127.0.0.1 bank01.ads.dt.mydas.mobi
-127.0.0.1 bank01.ads.mp.mydas.mobi
 127.0.0.1 bank01.clicks.mp.mydas.mobi
 127.0.0.1 bank01.mi.ads.mp.mydas.mobi
 127.0.0.1 bank01.mi.clicks.mp.mydas.mobi
@@ -23313,9 +23200,6 @@
 # netrefer.com
 127.0.0.1 media.netrefer.com
 
-# netreflector.com
-127.0.0.1 netreflector.com
-
 # netremote.com
 127.0.0.1 netremote.com
 
@@ -23951,9 +23835,6 @@
 
 # officedepot.com
 127.0.0.1 www18.officedepot.com
-
-# officiallogistics.com
-127.0.0.1 officiallogistics.com
 
 # offsidebet.com
 127.0.0.1 ads.offsidebet.com
@@ -24787,275 +24668,6 @@
 # pay-to-promote.com
 127.0.0.1 pay-to-promote.com
 
-# paycount.com
-127.0.0.1 ad.paycount.com
-127.0.0.1 ad0.paycount.com
-127.0.0.1 ad00.paycount.com
-127.0.0.1 ad01.paycount.com
-127.0.0.1 ad03.paycount.com
-127.0.0.1 ad04.paycount.com
-127.0.0.1 ad05.paycount.com
-127.0.0.1 ad06.paycount.com
-127.0.0.1 ad07.paycount.com
-127.0.0.1 ad08.paycount.com
-127.0.0.1 ad09.paycount.com
-127.0.0.1 ad1.paycount.com
-127.0.0.1 ad10.paycount.com
-127.0.0.1 ad100.paycount.com
-127.0.0.1 ad101.paycount.com
-127.0.0.1 ad102.paycount.com
-127.0.0.1 ad103.paycount.com
-127.0.0.1 ad104.paycount.com
-127.0.0.1 ad105.paycount.com
-127.0.0.1 ad106.paycount.com
-127.0.0.1 ad107.paycount.com
-127.0.0.1 ad108.paycount.com
-127.0.0.1 ad109.paycount.com
-127.0.0.1 ad11.paycount.com
-127.0.0.1 ad110.paycount.com
-127.0.0.1 ad111.paycount.com
-127.0.0.1 ad112.paycount.com
-127.0.0.1 ad113.paycount.com
-127.0.0.1 ad114.paycount.com
-127.0.0.1 ad115.paycount.com
-127.0.0.1 ad116.paycount.com
-127.0.0.1 ad117.paycount.com
-127.0.0.1 ad118.paycount.com
-127.0.0.1 ad119.paycount.com
-127.0.0.1 ad12.paycount.com
-127.0.0.1 ad120.paycount.com
-127.0.0.1 ad121.paycount.com
-127.0.0.1 ad122.paycount.com
-127.0.0.1 ad123.paycount.com
-127.0.0.1 ad124.paycount.com
-127.0.0.1 ad125.paycount.com
-127.0.0.1 ad126.paycount.com
-127.0.0.1 ad127.paycount.com
-127.0.0.1 ad128.paycount.com
-127.0.0.1 ad129.paycount.com
-127.0.0.1 ad13.paycount.com
-127.0.0.1 ad130.paycount.com
-127.0.0.1 ad131.paycount.com
-127.0.0.1 ad132.paycount.com
-127.0.0.1 ad133.paycount.com
-127.0.0.1 ad134.paycount.com
-127.0.0.1 ad135.paycount.com
-127.0.0.1 ad136.paycount.com
-127.0.0.1 ad137.paycount.com
-127.0.0.1 ad138.paycount.com
-127.0.0.1 ad139.paycount.com
-127.0.0.1 ad14.paycount.com
-127.0.0.1 ad140.paycount.com
-127.0.0.1 ad141.paycount.com
-127.0.0.1 ad142.paycount.com
-127.0.0.1 ad143.paycount.com
-127.0.0.1 ad144.paycount.com
-127.0.0.1 ad145.paycount.com
-127.0.0.1 ad146.paycount.com
-127.0.0.1 ad147.paycount.com
-127.0.0.1 ad148.paycount.com
-127.0.0.1 ad149.paycount.com
-127.0.0.1 ad15.paycount.com
-127.0.0.1 ad150.paycount.com
-127.0.0.1 ad151.paycount.com
-127.0.0.1 ad152.paycount.com
-127.0.0.1 ad153.paycount.com
-127.0.0.1 ad154.paycount.com
-127.0.0.1 ad155.paycount.com
-127.0.0.1 ad156.paycount.com
-127.0.0.1 ad157.paycount.com
-127.0.0.1 ad158.paycount.com
-127.0.0.1 ad159.paycount.com
-127.0.0.1 ad16.paycount.com
-127.0.0.1 ad160.paycount.com
-127.0.0.1 ad161.paycount.com
-127.0.0.1 ad162.paycount.com
-127.0.0.1 ad163.paycount.com
-127.0.0.1 ad164.paycount.com
-127.0.0.1 ad165.paycount.com
-127.0.0.1 ad166.paycount.com
-127.0.0.1 ad167.paycount.com
-127.0.0.1 ad168.paycount.com
-127.0.0.1 ad169.paycount.com
-127.0.0.1 ad17.paycount.com
-127.0.0.1 ad170.paycount.com
-127.0.0.1 ad171.paycount.com
-127.0.0.1 ad172.paycount.com
-127.0.0.1 ad173.paycount.com
-127.0.0.1 ad174.paycount.com
-127.0.0.1 ad175.paycount.com
-127.0.0.1 ad176.paycount.com
-127.0.0.1 ad177.paycount.com
-127.0.0.1 ad178.paycount.com
-127.0.0.1 ad179.paycount.com
-127.0.0.1 ad18.paycount.com
-127.0.0.1 ad180.paycount.com
-127.0.0.1 ad181.paycount.com
-127.0.0.1 ad182.paycount.com
-127.0.0.1 ad183.paycount.com
-127.0.0.1 ad184.paycount.com
-127.0.0.1 ad185.paycount.com
-127.0.0.1 ad186.paycount.com
-127.0.0.1 ad187.paycount.com
-127.0.0.1 ad188.paycount.com
-127.0.0.1 ad189.paycount.com
-127.0.0.1 ad19.paycount.com
-127.0.0.1 ad190.paycount.com
-127.0.0.1 ad191.paycount.com
-127.0.0.1 ad192.paycount.com
-127.0.0.1 ad193.paycount.com
-127.0.0.1 ad194.paycount.com
-127.0.0.1 ad195.paycount.com
-127.0.0.1 ad196.paycount.com
-127.0.0.1 ad197.paycount.com
-127.0.0.1 ad198.paycount.com
-127.0.0.1 ad199.paycount.com
-127.0.0.1 ad2.paycount.com
-127.0.0.1 ad20.paycount.com
-127.0.0.1 ad200.paycount.com
-127.0.0.1 ad201.paycount.com
-127.0.0.1 ad202.paycount.com
-127.0.0.1 ad203.paycount.com
-127.0.0.1 ad204.paycount.com
-127.0.0.1 ad205.paycount.com
-127.0.0.1 ad206.paycount.com
-127.0.0.1 ad207.paycount.com
-127.0.0.1 ad208.paycount.com
-127.0.0.1 ad209.paycount.com
-127.0.0.1 ad21.paycount.com
-127.0.0.1 ad210.paycount.com
-127.0.0.1 ad211.paycount.com
-127.0.0.1 ad212.paycount.com
-127.0.0.1 ad213.paycount.com
-127.0.0.1 ad214.paycount.com
-127.0.0.1 ad215.paycount.com
-127.0.0.1 ad216.paycount.com
-127.0.0.1 ad217.paycount.com
-127.0.0.1 ad218.paycount.com
-127.0.0.1 ad219.paycount.com
-127.0.0.1 ad22.paycount.com
-127.0.0.1 ad220.paycount.com
-127.0.0.1 ad221.paycount.com
-127.0.0.1 ad222.paycount.com
-127.0.0.1 ad223.paycount.com
-127.0.0.1 ad224.paycount.com
-127.0.0.1 ad225.paycount.com
-127.0.0.1 ad226.paycount.com
-127.0.0.1 ad227.paycount.com
-127.0.0.1 ad228.paycount.com
-127.0.0.1 ad229.paycount.com
-127.0.0.1 ad23.paycount.com
-127.0.0.1 ad230.paycount.com
-127.0.0.1 ad231.paycount.com
-127.0.0.1 ad232.paycount.com
-127.0.0.1 ad233.paycount.com
-127.0.0.1 ad234.paycount.com
-127.0.0.1 ad235.paycount.com
-127.0.0.1 ad236.paycount.com
-127.0.0.1 ad237.paycount.com
-127.0.0.1 ad238.paycount.com
-127.0.0.1 ad239.paycount.com
-127.0.0.1 ad24.paycount.com
-127.0.0.1 ad240.paycount.com
-127.0.0.1 ad241.paycount.com
-127.0.0.1 ad242.paycount.com
-127.0.0.1 ad243.paycount.com
-127.0.0.1 ad244.paycount.com
-127.0.0.1 ad245.paycount.com
-127.0.0.1 ad246.paycount.com
-127.0.0.1 ad247.paycount.com
-127.0.0.1 ad248.paycount.com
-127.0.0.1 ad249.paycount.com
-127.0.0.1 ad25.paycount.com
-127.0.0.1 ad250.paycount.com
-127.0.0.1 ad251.paycount.com
-127.0.0.1 ad252.paycount.com
-127.0.0.1 ad253.paycount.com
-127.0.0.1 ad254.paycount.com
-127.0.0.1 ad255.paycount.com
-127.0.0.1 ad26.paycount.com
-127.0.0.1 ad27.paycount.com
-127.0.0.1 ad28.paycount.com
-127.0.0.1 ad29.paycount.com
-127.0.0.1 ad3.paycount.com
-127.0.0.1 ad30.paycount.com
-127.0.0.1 ad31.paycount.com
-127.0.0.1 ad32.paycount.com
-127.0.0.1 ad33.paycount.com
-127.0.0.1 ad34.paycount.com
-127.0.0.1 ad35.paycount.com
-127.0.0.1 ad36.paycount.com
-127.0.0.1 ad37.paycount.com
-127.0.0.1 ad38.paycount.com
-127.0.0.1 ad39.paycount.com
-127.0.0.1 ad4.paycount.com
-127.0.0.1 ad40.paycount.com
-127.0.0.1 ad41.paycount.com
-127.0.0.1 ad42.paycount.com
-127.0.0.1 ad43.paycount.com
-127.0.0.1 ad44.paycount.com
-127.0.0.1 ad45.paycount.com
-127.0.0.1 ad46.paycount.com
-127.0.0.1 ad47.paycount.com
-127.0.0.1 ad48.paycount.com
-127.0.0.1 ad49.paycount.com
-127.0.0.1 ad5.paycount.com
-127.0.0.1 ad50.paycount.com
-127.0.0.1 ad51.paycount.com
-127.0.0.1 ad52.paycount.com
-127.0.0.1 ad53.paycount.com
-127.0.0.1 ad54.paycount.com
-127.0.0.1 ad55.paycount.com
-127.0.0.1 ad56.paycount.com
-127.0.0.1 ad57.paycount.com
-127.0.0.1 ad58.paycount.com
-127.0.0.1 ad59.paycount.com
-127.0.0.1 ad6.paycount.com
-127.0.0.1 ad60.paycount.com
-127.0.0.1 ad61.paycount.com
-127.0.0.1 ad62.paycount.com
-127.0.0.1 ad63.paycount.com
-127.0.0.1 ad64.paycount.com
-127.0.0.1 ad65.paycount.com
-127.0.0.1 ad66.paycount.com
-127.0.0.1 ad67.paycount.com
-127.0.0.1 ad68.paycount.com
-127.0.0.1 ad69.paycount.com
-127.0.0.1 ad7.paycount.com
-127.0.0.1 ad70.paycount.com
-127.0.0.1 ad71.paycount.com
-127.0.0.1 ad72.paycount.com
-127.0.0.1 ad73.paycount.com
-127.0.0.1 ad74.paycount.com
-127.0.0.1 ad75.paycount.com
-127.0.0.1 ad76.paycount.com
-127.0.0.1 ad77.paycount.com
-127.0.0.1 ad78.paycount.com
-127.0.0.1 ad79.paycount.com
-127.0.0.1 ad8.paycount.com
-127.0.0.1 ad80.paycount.com
-127.0.0.1 ad81.paycount.com
-127.0.0.1 ad82.paycount.com
-127.0.0.1 ad83.paycount.com
-127.0.0.1 ad84.paycount.com
-127.0.0.1 ad85.paycount.com
-127.0.0.1 ad86.paycount.com
-127.0.0.1 ad87.paycount.com
-127.0.0.1 ad88.paycount.com
-127.0.0.1 ad89.paycount.com
-127.0.0.1 ad9.paycount.com
-127.0.0.1 ad90.paycount.com
-127.0.0.1 ad91.paycount.com
-127.0.0.1 ad92.paycount.com
-127.0.0.1 ad93.paycount.com
-127.0.0.1 ad94.paycount.com
-127.0.0.1 ad95.paycount.com
-127.0.0.1 ad96.paycount.com
-127.0.0.1 ad97.paycount.com
-127.0.0.1 ad98.paycount.com
-127.0.0.1 ad99.paycount.com
-127.0.0.1 paycount.com
-
 # paycounter.com
 127.0.0.1 count.paycounter.com
 127.0.0.1 images1.paycounter.com
@@ -25064,9 +24676,6 @@
 127.0.0.1 paycounter.com
 127.0.0.1 stats.paycounter.com
 127.0.0.1 www.paycounter.com
-
-# paydayasap.com
-127.0.0.1 paydayasap.com
 
 # paymonsters.biz
 127.0.0.1 paymonsters.biz
@@ -26370,7 +25979,6 @@
 127.0.0.1 questaffiliates.net
 
 # questionmarket.com
-127.0.0.1 questionmarket.com
 127.0.0.1 www.questionmarket.com
 
 # questnet.de
@@ -26532,9 +26140,6 @@
 # rank-guru.com
 127.0.0.1 www.rank-guru.com
 
-# rank-master.com
-127.0.0.1 rank-master.com
-
 # rank-master.de
 127.0.0.1 rank-master.de
 127.0.0.1 www.rank-master.de
@@ -26546,7 +26151,6 @@
 127.0.0.1 www.rankey.com
 
 # ranking-charts.de
-127.0.0.1 ranking-charts.de
 127.0.0.1 www.ranking-charts.de
 
 # ranking-counter.de
@@ -26674,10 +26278,6 @@
 
 # realbannerads.com
 127.0.0.1 realbannerads.com
-
-# realcastmedia.com
-127.0.0.1 realcastmedia.com
-127.0.0.1 www.realcastmedia.com
 
 # realcities.com
 127.0.0.1 ads.realcities.com
@@ -26922,9 +26522,6 @@
 # relevantknowledge.com
 127.0.0.1 relevantknowledge.com
 127.0.0.1 www.relevantknowledge.com
-
-# relevanz10.de
-127.0.0.1 relevanz10.de
 
 # reliaquote.com
 127.0.0.1 reliaquote.com
@@ -27426,16 +27023,6 @@
 
 # safedownloads.net
 127.0.0.1 www.safedownloads.net
-
-# safety-system.club
-127.0.0.1 bh.safety-system.club
-127.0.0.1 br.safety-system.club
-127.0.0.1 in.safety-system.club
-127.0.0.1 ng.safety-system.club
-127.0.0.1 nga.safety-system.club
-127.0.0.1 sa.safety-system.club
-127.0.0.1 sg.safety-system.club
-127.0.0.1 uk.safety-system.club
 
 # sageanalyst.net
 127.0.0.1 amp.st.sageanalyst.net
@@ -28134,7 +27721,6 @@
 127.0.0.1 counter4.sextracker.be
 127.0.0.1 counter5.sextracker.be
 127.0.0.1 counter6.sextracker.be
-127.0.0.1 counter7.sextracker.be
 127.0.0.1 counter8.sextracker.be
 127.0.0.1 counter9.sextracker.be
 127.0.0.1 www.counter1.sextracker.be
@@ -28579,6 +28165,9 @@
 127.0.0.1 kaartenhuis.nl.site-id.nl
 127.0.0.1 startpunt.nu.site-id.nl
 127.0.0.1 www.site-id.nl
+
+# site-stats.com
+127.0.0.1 site-stats.com
 
 # siteboxparking.com
 127.0.0.1 www.siteboxparking.com
@@ -29344,7 +28933,6 @@
 127.0.0.1 u006.78.spylog.com
 127.0.0.1 u006.98.spylog.com
 127.0.0.1 u007.06.spylog.com
-127.0.0.1 u008.44.spylog.com
 127.0.0.1 u008.47.spylog.com
 127.0.0.1 u008.96.spylog.com
 127.0.0.1 u010.42.spylog.com
@@ -29398,7 +28986,6 @@
 127.0.0.1 u046.67.spylog.com
 127.0.0.1 u046.73.spylog.com
 127.0.0.1 u049.45.spylog.com
-127.0.0.1 u052.94.spylog.com
 127.0.0.1 u053.14.spylog.com
 127.0.0.1 u053.20.spylog.com
 127.0.0.1 u053.24.spylog.com
@@ -29537,7 +29124,6 @@
 127.0.0.1 u175.78.spylog.com
 127.0.0.1 u1773.34.spylog.com
 127.0.0.1 u178.75.spylog.com
-127.0.0.1 u181.05.spylog.com
 127.0.0.1 u1817.16.spylog.com
 127.0.0.1 u184.04.spylog.com
 127.0.0.1 u185.26.spylog.com
@@ -29577,7 +29163,6 @@
 127.0.0.1 u3608.20.spylog.com
 127.0.0.1 u385.24.spylog.com
 127.0.0.1 u4056.56.spylog.com
-127.0.0.1 u4122.70.spylog.com
 127.0.0.1 u432.77.spylog.com
 127.0.0.1 u4396.79.spylog.com
 127.0.0.1 u4443.84.spylog.com
@@ -30427,9 +30012,6 @@
 # systweak.com
 127.0.0.1 www.systweak.com
 
-# sysupdates.com
-127.0.0.1 www.sysupdates.com
-
 # sysupdates2.com
 127.0.0.1 www.sysupdates2.com
 
@@ -30606,7 +30188,6 @@
 
 # tbcode.com
 127.0.0.1 cache.tbcode.com
-127.0.0.1 tbcode.com
 127.0.0.1 www.tbcode.com
 
 # tbs.co.jp
@@ -30796,7 +30377,6 @@
 # tfag.de
 127.0.0.1 a.tfag.de
 127.0.0.1 ak.tfag.de
-127.0.0.1 i.tfag.de
 127.0.0.1 tfag.de
 127.0.0.1 tr.sales.tfag.de
 
@@ -30836,9 +30416,6 @@
 # theadhost.com
 127.0.0.1 ad.theadhost.com
 127.0.0.1 theadhost.com
-
-# theanswerto.com
-127.0.0.1 theanswerto.com
 
 # theatlantic.com
 127.0.0.1 metrics.theatlantic.com
@@ -31159,7 +30736,6 @@
 
 # tns-cs.net
 127.0.0.1 idg.tns-cs.net
-127.0.0.1 mno.tns-cs.net
 127.0.0.1 mtg.tns-cs.net
 
 # tns-gallup.dk
@@ -33351,9 +32927,6 @@
 # warnerbros.com
 127.0.0.1 ng3.ads.warnerbros.com
 
-# warwork.info
-127.0.0.1 warwork.info
-
 # wash1000.com
 127.0.0.1 ads.wash1000.com
 
@@ -34045,7 +33618,6 @@
 127.0.0.1 js.wizeraz.net
 
 # wizteen.com
-127.0.0.1 wizteen.com
 127.0.0.1 www.wizteen.com
 
 # wjmuseum.com
@@ -34614,9 +34186,6 @@
 # xyfex.com
 127.0.0.1 www.xyfex.com
 
-# xzoomy.com
-127.0.0.1 xzoomy.com
-
 # ya-tracker.com
 127.0.0.1 ya-tracker.com
 
@@ -34834,9 +34403,6 @@
 
 # yesupseo.com
 127.0.0.1 www.yesupseo.com
-
-# yfurtherew.info
-127.0.0.1 yfurtherew.info
 
 # yicha.jp
 127.0.0.1 adone.yicha.jp
