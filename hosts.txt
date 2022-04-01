@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2022/03/19
-# block hosts: 18871 entry
+# last updated: 2022/04/01
+# block hosts: 18879 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -2185,6 +2185,9 @@
 # access-company.com
 127.0.0.1 netad.access-company.com
 
+# access-kaiseki-tools.com
+127.0.0.1 www.access-kaiseki-tools.com
+
 # accessdeka.com
 127.0.0.1 keiro.accessdeka.com
 
@@ -3017,6 +3020,7 @@
 
 # aditic.net
 127.0.0.1 click04.aditic.net
+127.0.0.1 click07.aditic.net
 127.0.0.1 click08.aditic.net
 127.0.0.1 click10.aditic.net
 
@@ -8203,6 +8207,9 @@
 # cctv.com
 127.0.0.1 ad.cctv.com
 
+# cczew.cn
+127.0.0.1 cczew.cn
+
 # cdc.gov
 127.0.0.1 mtrics.cdc.gov
 
@@ -10801,6 +10808,7 @@
 127.0.0.1 gcirm.dmregister.com
 
 # dmtracker.com
+127.0.0.1 dmtracker.com
 127.0.0.1 enom.dmtracker.com
 127.0.0.1 extended.dmtracker.com
 127.0.0.1 external.dmtracker.com
@@ -16416,6 +16424,7 @@
 127.0.0.1 ad90.hpg.com.br
 127.0.0.1 ads127.hpg.com.br
 127.0.0.1 ads219.hpg.com.br
+127.0.0.1 ads224.hpg.com.br
 127.0.0.1 ads232.hpg.com.br
 127.0.0.1 ads250.hpg.com.br
 127.0.0.1 ads32.hpg.com.br
@@ -16425,6 +16434,7 @@
 127.0.0.1 ads97.hpg.com.br
 127.0.0.1 advert252.hpg.com.br
 127.0.0.1 advert36.hpg.com.br
+127.0.0.1 advert49.hpg.com.br
 127.0.0.1 banners123.hpg.com.br
 127.0.0.1 banners16.hpg.com.br
 127.0.0.1 banners226.hpg.com.br
@@ -23751,6 +23761,9 @@
 
 # obanner.net
 127.0.0.1 www.obanner.net
+
+# obeus.com
+127.0.0.1 obeus.com
 
 # obix.pro
 127.0.0.1 trk.obix.pro
@@ -33716,6 +33729,9 @@
 
 # worldcat.org
 127.0.0.1 metric.worldcat.org
+
+# worldhot.com
+127.0.0.1 affiliates.worldhot.com
 
 # worldmarket.com
 127.0.0.1 metrics.worldmarket.com
