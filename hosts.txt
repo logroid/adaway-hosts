@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2022/04/04
-# block hosts: 18804 entry
+# last updated: 2022/04/17
+# block hosts: 18834 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -3595,6 +3595,27 @@
 
 # ads-lite.net
 127.0.0.1 ad.ads-lite.net
+
+# ads-pixiv.net
+127.0.0.1 cd.ads-pixiv.net
+127.0.0.1 grafana.ads-pixiv.net
+127.0.0.1 kani-cream-croquette.ads-pixiv.net
+127.0.0.1 kani.ads-pixiv.net
+127.0.0.1 kanikama.ads-pixiv.net
+127.0.0.1 kibana.ads-pixiv.net
+127.0.0.1 lb-test.ads-pixiv.net
+127.0.0.1 metabase.ads-pixiv.net
+127.0.0.1 open-pixon.ads-pixiv.net
+127.0.0.1 open.ads-pixiv.net
+127.0.0.1 pixon.ads-pixiv.net
+127.0.0.1 redis.ads-pixiv.net
+127.0.0.1 stg-pixon.ads-pixiv.net
+127.0.0.1 stg.ads-pixiv.net
+127.0.0.1 tag-store.ads-pixiv.net
+127.0.0.1 tag2gender.ads-pixiv.net
+127.0.0.1 trace.ads-pixiv.net
+127.0.0.1 workflow.ads-pixiv.net
+127.0.0.1 www.ads-pixiv.net
 
 # ads-redirect.com
 127.0.0.1 ads-redirect.com
@@ -8373,6 +8394,9 @@
 127.0.0.1 adx.chip.de
 127.0.0.1 omniture.chip.de
 
+# chipmanksmochus.com
+127.0.0.1 chipmanksmochus.com
+
 # chitika.net
 127.0.0.1 chitika.net
 
@@ -13038,6 +13062,9 @@
 # favicon.com
 127.0.0.1 www.favicon.com
 
+# favorit-network.com
+127.0.0.1 download.favorit-network.com
+
 # faxo.com
 127.0.0.1 ads.faxo.com
 
@@ -16344,7 +16371,10 @@
 127.0.0.1 ad50.hpg.com.br
 127.0.0.1 ad56.hpg.com.br
 127.0.0.1 ad90.hpg.com.br
+127.0.0.1 ads06.hpg.com.br
 127.0.0.1 ads127.hpg.com.br
+127.0.0.1 ads146.hpg.com.br
+127.0.0.1 ads212.hpg.com.br
 127.0.0.1 ads219.hpg.com.br
 127.0.0.1 ads224.hpg.com.br
 127.0.0.1 ads232.hpg.com.br
@@ -16353,11 +16383,14 @@
 127.0.0.1 ads48.hpg.com.br
 127.0.0.1 ads53.hpg.com.br
 127.0.0.1 ads54.hpg.com.br
+127.0.0.1 ads87.hpg.com.br
 127.0.0.1 ads97.hpg.com.br
+127.0.0.1 advert223.hpg.com.br
 127.0.0.1 advert252.hpg.com.br
 127.0.0.1 advert36.hpg.com.br
 127.0.0.1 advert49.hpg.com.br
 127.0.0.1 banners123.hpg.com.br
+127.0.0.1 banners142.hpg.com.br
 127.0.0.1 banners147.hpg.com.br
 127.0.0.1 banners16.hpg.com.br
 127.0.0.1 banners226.hpg.com.br
@@ -16365,6 +16398,7 @@
 127.0.0.1 banners53.hpg.com.br
 127.0.0.1 banners63.hpg.com.br
 127.0.0.1 banners7.hpg.com.br
+127.0.0.1 banners74.hpg.com.br
 127.0.0.1 banners8.hpg.com.br
 
 # hpod.com
@@ -19648,6 +19682,9 @@
 127.0.0.1 linktarget.com
 127.0.0.1 www.linktarget.com
 
+# linktech.cn
+127.0.0.1 banner.linktech.cn
+
 # linkwithin.com
 127.0.0.1 linkwithin.com
 127.0.0.1 widget6.linkwithin.com
@@ -21269,6 +21306,7 @@
 
 # metriweb.be
 127.0.0.1 line01.metriweb.be
+127.0.0.1 line10.metriweb.be
 127.0.0.1 line12.metriweb.be
 
 # metromanager.com
@@ -25330,9 +25368,6 @@
 
 # post-gazette.com
 127.0.0.1 metrics.post-gazette.com
-
-# postaffiliatepro.com
-127.0.0.1 postaffiliatepro.com
 
 # postmasterbannernet.com
 127.0.0.1 postmasterbannernet.com
@@ -30882,6 +30917,9 @@
 
 # torrentq.com
 127.0.0.1 www.torrentq.com
+
+# tosho-trading.co.jp
+127.0.0.1 af.tosho-trading.co.jp
 
 # totallyfreestuff.com
 127.0.0.1 ads.totallyfreestuff.com
