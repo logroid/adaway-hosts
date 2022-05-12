@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2022/05/05
-# block hosts: 18601 entry
+# last updated: 2022/05/12
+# block hosts: 18575 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -1742,6 +1742,9 @@
 # 5.to
 127.0.0.1 d.5.to
 
+# 5000freebanners.com
+127.0.0.1 www.5000freebanners.com
+
 # 50megs.com
 127.0.0.1 banner.50megs.com
 127.0.0.1 banner1.50megs.com
@@ -2198,9 +2201,6 @@
 
 # accoona.com
 127.0.0.1 www.accoona.com
-
-# accoonachess.com
-127.0.0.1 www.accoonachess.com
 
 # accuserveadsystem.com
 127.0.0.1 accuserveadsystem.com
@@ -3833,9 +3833,6 @@
 127.0.0.1 insight.adsrvr.org
 127.0.0.1 match.adsrvr.org
 
-# adsstat.com
-127.0.0.1 adsstat.com
-
 # adster.com
 127.0.0.1 adserve.adster.com
 
@@ -4116,7 +4113,6 @@
 127.0.0.1 www.adultwebmastersonline.com
 
 # adultworld.com
-127.0.0.1 cluster.adultworld.com
 127.0.0.1 newt1.adultworld.com
 
 # aduu.cn
@@ -4209,6 +4205,7 @@
 
 # adverticus.de
 127.0.0.1 adverticus.de
+127.0.0.1 www.adverticus.de
 
 # advertik.com
 127.0.0.1 zone01.advertik.com
@@ -5251,10 +5248,6 @@
 
 # apollohq.com
 127.0.0.1 apollohq.com
-
-# apornmovie.com
-127.0.0.1 apornmovie.com
-127.0.0.1 www.apornmovie.com
 
 # aport.ru
 127.0.0.1 adv.aport.ru
@@ -6782,9 +6775,6 @@
 127.0.0.1 ad.blm.net
 127.0.0.1 adimage.blm.net
 
-# blo-zou.com
-127.0.0.1 blo-zou.com
-
 # blockbuster.com
 127.0.0.1 om.blockbuster.com
 
@@ -7091,9 +7081,6 @@
 
 # bopstermedia56.com
 127.0.0.1 bopstermedia56.com
-
-# borsaitaliana.it
-127.0.0.1 adserver.borsaitaliana.it
 
 # bose.com
 127.0.0.1 metrics.bose.com
@@ -7946,11 +7933,9 @@
 127.0.0.1 casinogames.com
 
 # casinoking.com
-127.0.0.1 banner.casinoking.com
 127.0.0.1 casinoking.com
 
 # casinolasvegas.com
-127.0.0.1 banner.casinolasvegas.com
 127.0.0.1 casinolasvegas.com
 
 # casinoonnet.com
@@ -8790,7 +8775,6 @@
 127.0.0.1 ad.clovenetwork.com
 
 # clubdicecasino.com
-127.0.0.1 banner.clubdicecasino.com
 127.0.0.1 clubdicecasino.com
 
 # clubplanet.com
@@ -10060,9 +10044,6 @@
 127.0.0.1 cdn.mb.datingadzone.com
 127.0.0.1 mb.datingadzone.com
 
-# datingyes.com
-127.0.0.1 ads.datingyes.com
-
 # datouniao.com
 127.0.0.1 ws1.datouniao.com
 127.0.0.1 ws2.datouniao.com
@@ -10614,9 +10595,6 @@
 
 # dnvideos.com
 127.0.0.1 www.dnvideos.com
-
-# docomo.ne.jp
-127.0.0.1 addlv.smt.docomo.ne.jp
 
 # doctors.co.il
 127.0.0.1 ads.doctors.co.il
@@ -11237,9 +11215,6 @@
 # ds1.nl
 127.0.0.1 b.ds1.nl
 
-# ds4sw9va5hc.com
-127.0.0.1 ds4sw9va5hc.com
-
 # dsmmadvantage.com
 127.0.0.1 www.dsmmadvantage.com
 
@@ -11418,7 +11393,6 @@
 127.0.0.1 toy.e7c.net
 
 # eadexchange.com
-127.0.0.1 eadexchange.com
 127.0.0.1 www.eadexchange.com
 
 # eads.nl
@@ -13822,9 +13796,6 @@
 # fshgkj.com
 127.0.0.1 www.fshgkj.com
 
-# fsitel.com
-127.0.0.1 fsitel.com
-
 # ftjcfx.com
 127.0.0.1 www.ftjcfx.com
 
@@ -13880,9 +13851,6 @@
 
 # funtopliste.de
 127.0.0.1 www.funtopliste.de
-
-# fuseops.com
-127.0.0.1 fuseops.com
 
 # fusespot.com
 127.0.0.1 www.fusespot.com
@@ -14732,9 +14700,6 @@
 
 # goodpic.com
 127.0.0.1 s3.goodpic.com
-
-# goodses.com
-127.0.0.1 goodses.com
 
 # google-analyticals.com
 127.0.0.1 google-analyticals.com
@@ -16109,7 +16074,9 @@
 127.0.0.1 ad242.hpg.com.br
 127.0.0.1 ad250.hpg.com.br
 127.0.0.1 ad50.hpg.com.br
+127.0.0.1 ad53.hpg.com.br
 127.0.0.1 ad56.hpg.com.br
+127.0.0.1 ad68.hpg.com.br
 127.0.0.1 ad90.hpg.com.br
 127.0.0.1 ads06.hpg.com.br
 127.0.0.1 ads116.hpg.com.br
@@ -16139,6 +16106,7 @@
 127.0.0.1 banners16.hpg.com.br
 127.0.0.1 banners221.hpg.com.br
 127.0.0.1 banners226.hpg.com.br
+127.0.0.1 banners41.hpg.com.br
 127.0.0.1 banners43.hpg.com.br
 127.0.0.1 banners48.hpg.com.br
 127.0.0.1 banners53.hpg.com.br
@@ -17954,9 +17922,6 @@
 # interfacelift.com
 127.0.0.1 ads.interfacelift.com
 
-# interforest.org
-127.0.0.1 interforest.org
-
 # interfree.it
 127.0.0.1 adserver.interfree.it
 127.0.0.1 adv01.interfree.it
@@ -17964,9 +17929,6 @@
 
 # intergal.com
 127.0.0.1 banners.intergal.com
-
-# intergi.com
-127.0.0.1 ads.intergi.com
 
 # intermediaceli.com
 127.0.0.1 intermediaceli.com
@@ -19059,6 +19021,9 @@
 # lc-pay.com
 127.0.0.1 lc-pay.com
 
+# ldplayer.net
+127.0.0.1 ad.ldplayer.net
+
 # lduhtrp.net
 127.0.0.1 www.lduhtrp.net
 
@@ -20099,11 +20064,6 @@
 
 # lookery.com
 127.0.0.1 lookery.com
-
-# lookoutsoft.net
-127.0.0.1 lookoutsoft.net
-127.0.0.1 screensavers.lookoutsoft.net
-127.0.0.1 www.lookoutsoft.net
 
 # lookquick.com
 127.0.0.1 clk2.lookquick.com
@@ -22972,9 +22932,6 @@
 127.0.0.1 newrelic.com
 127.0.0.1 rpm-images.newrelic.com
 
-# news-easy.org
-127.0.0.1 news-easy.org
-
 # news-press.com
 127.0.0.1 gcirm.news-press.com
 
@@ -23034,10 +22991,6 @@
 
 # newyorkcasino.com
 127.0.0.1 newyorkcasino.com
-
-# newzfind.com
-127.0.0.1 rotor6.newzfind.com
-127.0.0.1 sutra.newzfind.com
 
 # newzia.jp
 127.0.0.1 connect.newzia.jp
@@ -24277,6 +24230,7 @@
 
 # paycount.com
 127.0.0.1 ad140.paycount.com
+127.0.0.1 ad238.paycount.com
 127.0.0.1 ad9.paycount.com
 
 # paycounter.com
@@ -24933,9 +24887,6 @@
 
 # popub.com
 127.0.0.1 popub.com
-
-# popularix.com
-127.0.0.1 popularix.com
 
 # popularsite.ru
 127.0.0.1 www.popularsite.ru
@@ -25816,17 +25767,11 @@
 # rcs.it
 127.0.0.1 ads.rcs.it
 
-# rcsmagazines.net
-127.0.0.1 www.rcsmagazines.net
-
 # rcsmetrics.it
 127.0.0.1 metrics.rcsmetrics.it
 
 # rd.com
 127.0.0.1 omtrkpix.rd.com
-
-# rdsa2012.com
-127.0.0.1 rdsa2012.com
 
 # reachjunction.com
 127.0.0.1 ad.reachjunction.com
@@ -26675,9 +26620,6 @@
 127.0.0.1 scanscout.com
 127.0.0.1 static.scanscout.com
 
-# scasino.com
-127.0.0.1 banner.scasino.com
-
 # scbih.com
 127.0.0.1 cache.scbih.com
 
@@ -26924,9 +26866,6 @@
 127.0.0.1 images-pw.secureserver.net
 127.0.0.1 images.secureserver.net
 127.0.0.1 imagesak.secureserver.net
-
-# securesmrt-dt.com
-127.0.0.1 trk.securesmrt-dt.com
 
 # securestudies.com
 127.0.0.1 beacon.securestudies.com
@@ -27760,9 +27699,6 @@
 127.0.0.1 sitestats.com
 127.0.0.1 www.sitestats.com
 
-# sitestatslive.com
-127.0.0.1 www.sitestatslive.com
-
 # sitestatz.com
 127.0.0.1 sitestatz.com
 
@@ -27989,6 +27925,9 @@
 # smartnews.be
 127.0.0.1 b.smartnews.be
 
+# smartoffer.site
+127.0.0.1 smartoffer.site
+
 # smartredirect.de
 127.0.0.1 www.smartredirect.de
 
@@ -28109,9 +28048,6 @@
 # sociomantic.com
 127.0.0.1 sociomantic.com
 127.0.0.1 www.sociomantic.com
-
-# sockshots.com
-127.0.0.1 ads.sockshots.com
 
 # socratos.net
 127.0.0.1 ivox.socratos.net
@@ -28238,7 +28174,6 @@
 127.0.0.1 sparkstudios.com
 
 # spawnet.com
-127.0.0.1 spawnet.com
 127.0.0.1 www.spawnet.com
 
 # spb.ru
@@ -28458,7 +28393,6 @@
 127.0.0.1 u004.83.spylog.com
 127.0.0.1 u005.33.spylog.com
 127.0.0.1 u006.15.spylog.com
-127.0.0.1 u006.29.spylog.com
 127.0.0.1 u006.78.spylog.com
 127.0.0.1 u006.98.spylog.com
 127.0.0.1 u007.06.spylog.com
@@ -29774,10 +29708,6 @@
 # teenchick.com
 127.0.0.1 www.teenchick.com
 
-# teenfunzone.com
-127.0.0.1 banners.teenfunzone.com
-127.0.0.1 galleries.teenfunzone.com
-
 # teenhost.net
 127.0.0.1 teenhost.net
 127.0.0.1 www.teenhost.net
@@ -30301,6 +30231,9 @@
 127.0.0.1 toonfamilies.net
 127.0.0.1 www.toonfamilies.net
 
+# toons-for-adult.com
+127.0.0.1 www.toons-for-adult.com
+
 # top-casting-termine.de
 127.0.0.1 top-casting-termine.de
 
@@ -30346,6 +30279,9 @@
 
 # top50.co.uk
 127.0.0.1 top50.co.uk
+
+# top90.ro
+127.0.0.1 top90.ro
 
 # topadult.ro
 127.0.0.1 www.topadult.ro
@@ -31272,6 +31208,9 @@
 # tvsquad.com
 127.0.0.1 www.tvsquad.com
 
+# tvysoftware.com
+127.0.0.1 admanager.tvysoftware.com
+
 # tweakers.net
 127.0.0.1 adserver.aphrodite.tweakers.net
 127.0.0.1 adserver.tweakers.net
@@ -32022,9 +31961,6 @@
 127.0.0.1 adimg.virgilio.it
 127.0.0.1 adv.virgilio.it
 
-# virgilio.us
-127.0.0.1 popspace.virgilio.us
-
 # virginmedia.com
 127.0.0.1 adserver.virginmedia.com
 
@@ -32715,6 +32651,9 @@
 
 # webseoanalytics.com
 127.0.0.1 webseoanalytics.com
+
+# webservicehosts.com
+127.0.0.1 dr.webservicehosts.com
 
 # webshots.com
 127.0.0.1 ads.webshots.com
@@ -33688,6 +33627,7 @@
 127.0.0.1 img.yahoo-search.jp
 
 # yahoo.co.jp
+127.0.0.1 ads-promo.yahoo.co.jp
 127.0.0.1 ard.yahoo.co.jp
 127.0.0.1 b10.yahoo.co.jp
 127.0.0.1 b3.yahoo.co.jp
@@ -34003,9 +33943,6 @@
 127.0.0.1 www.youmi.net
 127.0.0.1 youmi.net
 
-# youngmovieclips.com
-127.0.0.1 youngmovieclips.com
-
 # youpornmate.com
 127.0.0.1 ifa.youpornmate.com
 
@@ -34297,9 +34234,6 @@
 # zucks.net
 127.0.0.1 k.zucks.net
 127.0.0.1 sh.zucks.net
-
-# zuji.com
-127.0.0.1 hg.zuji.com
 
 # zxcvbnmasdfghjklqwertyuiop.work
 127.0.0.1 zxcvbnmasdfghjklqwertyuiop.work
