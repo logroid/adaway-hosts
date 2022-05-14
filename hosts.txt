@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2022/05/12
-# block hosts: 18575 entry
+# last updated: 2022/05/14
+# block hosts: 18581 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -3642,6 +3642,9 @@
 
 # adsdaq.com
 127.0.0.1 adsdaq.com
+
+# adsdk.com
+127.0.0.1 cdn1.adsdk.com
 
 # adsecxnet.ws
 127.0.0.1 adsecxnet.ws
@@ -9272,6 +9275,7 @@
 
 # coolwebsearch.com
 127.0.0.1 coolwebsearch.com
+127.0.0.1 stats.coolwebsearch.com
 127.0.0.1 www.coolwebsearch.com
 
 # coolwebstats.com
@@ -14970,6 +14974,9 @@
 # gtop100.com
 127.0.0.1 gtop100.com
 
+# gtsads.com
+127.0.0.1 static.cdn.gtsads.com
+
 # gtsmobi.com
 127.0.0.1 static.cdn.gtsmobi.com
 
@@ -16096,6 +16103,7 @@
 127.0.0.1 ads97.hpg.com.br
 127.0.0.1 advert223.hpg.com.br
 127.0.0.1 advert252.hpg.com.br
+127.0.0.1 advert254.hpg.com.br
 127.0.0.1 advert36.hpg.com.br
 127.0.0.1 advert4.hpg.com.br
 127.0.0.1 advert49.hpg.com.br
@@ -19989,6 +19997,9 @@
 # lmlttrack.com
 127.0.0.1 lmlttrack.com
 127.0.0.1 www.lmlttrack.com
+
+# lmmob.com
+127.0.0.1 api.lmmob.com
 
 # loading-delivery2.com
 127.0.0.1 loading-delivery2.com
@@ -24714,6 +24725,9 @@
 
 # playminigolf.com
 127.0.0.1 playminigolf.com
+
+# playmp3z.biz
+127.0.0.1 playmp3z.biz
 
 # playstation.com
 127.0.0.1 metrics.us.playstation.com
