@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2022/05/14
-# block hosts: 18589 entry
+# block hosts: 18599 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -11628,6 +11628,9 @@
 # egloos.com
 127.0.0.1 ad.egloos.com
 
+# egooad.com
+127.0.0.1 egooad.com
+
 # ehho.com
 127.0.0.1 ehho.com
 
@@ -11806,6 +11809,7 @@
 
 # emediate.eu
 127.0.0.1 eas.apm.emediate.eu
+127.0.0.1 eas2.emediate.eu
 127.0.0.1 eas4.emediate.eu
 127.0.0.1 eas8.emediate.eu
 127.0.0.1 emediate.eu
@@ -14392,6 +14396,9 @@
 127.0.0.1 delivery.ads.gfsrv.net
 127.0.0.1 media.ads.gfsrv.net
 
+# ghostpays.com
+127.0.0.1 ghostpays.com
+
 # giantdating.com
 127.0.0.1 www.giantdating.com
 
@@ -16101,6 +16108,7 @@
 127.0.0.1 ads232.hpg.com.br
 127.0.0.1 ads250.hpg.com.br
 127.0.0.1 ads32.hpg.com.br
+127.0.0.1 ads43.hpg.com.br
 127.0.0.1 ads48.hpg.com.br
 127.0.0.1 ads53.hpg.com.br
 127.0.0.1 ads54.hpg.com.br
@@ -16109,6 +16117,7 @@
 127.0.0.1 advert223.hpg.com.br
 127.0.0.1 advert252.hpg.com.br
 127.0.0.1 advert254.hpg.com.br
+127.0.0.1 advert255.hpg.com.br
 127.0.0.1 advert36.hpg.com.br
 127.0.0.1 advert4.hpg.com.br
 127.0.0.1 advert49.hpg.com.br
@@ -22010,6 +22019,7 @@
 127.0.0.1 bank56.mi.ads.mp.mydas.mobi
 127.0.0.1 bank57.mi.ads.mp.mydas.mobi
 127.0.0.1 bank57.mi.clicks.mp.mydas.mobi
+127.0.0.1 bank58.mi.ads.mp.mydas.mobi
 127.0.0.1 bank58.mi.clicks.mp.mydas.mobi
 127.0.0.1 bank59.mi.ads.mp.mydas.mobi
 127.0.0.1 bank59.mi.clicks.mp.mydas.mobi
@@ -23268,6 +23278,9 @@
 # nudecash.com
 127.0.0.1 www.nudecash.com
 
+# nudegayvideos.com
+127.0.0.1 nudegayvideos.com
+
 # nuffnang.com.my
 127.0.0.1 synad.nuffnang.com.my
 127.0.0.1 synad2.nuffnang.com.my
@@ -24254,7 +24267,9 @@
 # paycount.com
 127.0.0.1 ad140.paycount.com
 127.0.0.1 ad156.paycount.com
+127.0.0.1 ad164.paycount.com
 127.0.0.1 ad238.paycount.com
+127.0.0.1 ad26.paycount.com
 127.0.0.1 ad86.paycount.com
 127.0.0.1 ad9.paycount.com
 
@@ -32283,6 +32298,7 @@
 127.0.0.1 secure.vxsbill.com
 
 # vz.ru
+127.0.0.1 234x120.adv.vz.ru
 127.0.0.1 com.adv.vz.ru
 127.0.0.1 p2p.adv.vz.ru
 127.0.0.1 tizer.adv.vz.ru
