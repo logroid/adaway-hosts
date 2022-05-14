@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2022/05/14
-# block hosts: 18581 entry
+# block hosts: 18589 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -8357,6 +8357,7 @@
 
 # clear-search.com
 127.0.0.1 clear-search.com
+127.0.0.1 www.clear-search.com
 
 # clearchannel.com
 127.0.0.1 ads2.clearchannel.com
@@ -11553,6 +11554,9 @@
 
 # eden21.net
 127.0.0.1 www.eden21.net
+
+# edgeio.com
+127.0.0.1 edgeio.com
 
 # edgesuite.net
 127.0.0.1 79423.analytics.edgesuite.net
@@ -16073,6 +16077,7 @@
 127.0.0.1 ad189.hpg.com.br
 127.0.0.1 ad193.hpg.com.br
 127.0.0.1 ad198.hpg.com.br
+127.0.0.1 ad2.hpg.com.br
 127.0.0.1 ad205.hpg.com.br
 127.0.0.1 ad21.hpg.com.br
 127.0.0.1 ad22.hpg.com.br
@@ -19115,6 +19120,9 @@
 # letsstat.nl
 127.0.0.1 engine.letsstat.nl
 
+# levelrate.de
+127.0.0.1 levelrate.de
+
 # lfov.net
 127.0.0.1 lfov.net
 
@@ -20990,6 +20998,7 @@
 127.0.0.1 line01.metriweb.be
 127.0.0.1 line10.metriweb.be
 127.0.0.1 line12.metriweb.be
+127.0.0.1 startpagina.metriweb.be
 
 # metromanager.com
 127.0.0.1 ads.metromanager.com
@@ -23040,6 +23049,9 @@
 # nfsx.com
 127.0.0.1 nfsx.com
 
+# ngadcenter.net
+127.0.0.1 ngadcenter.net
+
 # ngads.com
 127.0.0.1 www.ngads.com
 
@@ -24241,7 +24253,9 @@
 
 # paycount.com
 127.0.0.1 ad140.paycount.com
+127.0.0.1 ad156.paycount.com
 127.0.0.1 ad238.paycount.com
+127.0.0.1 ad86.paycount.com
 127.0.0.1 ad9.paycount.com
 
 # paycounter.com
