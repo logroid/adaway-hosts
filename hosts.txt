@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2022/05/14
-# block hosts: 18599 entry
+# last updated: 2022/05/30
+# block hosts: 18566 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -210,9 +210,6 @@
 # 207.net
 127.0.0.1 102.112.207.net
 127.0.0.1 canwest.112.207.net
-
-# 20dy.cn
-127.0.0.1 www.20dy.cn
 
 # 20six.net
 127.0.0.1 adserv.20six.net
@@ -1872,9 +1869,6 @@
 # 7x3.net
 127.0.0.1 rotator.7x3.net
 
-# 82430.com
-127.0.0.1 82430.com
-
 # 82435.com
 127.0.0.1 82435.com
 
@@ -2096,6 +2090,9 @@
 # abfry.com
 127.0.0.1 www.abfry.com
 
+# abh.jp
+127.0.0.1 abh.jp
+
 # abmr.net
 127.0.0.1 ak1.abmr.net
 127.0.0.1 www.abmr.net
@@ -2201,9 +2198,6 @@
 
 # accoona.com
 127.0.0.1 www.accoona.com
-
-# accuserveadsystem.com
-127.0.0.1 accuserveadsystem.com
 
 # accuweather.com
 127.0.0.1 metrics.accuweather.com
@@ -2388,7 +2382,6 @@
 127.0.0.1 ad-sp.biz
 
 # ad-space.net
-127.0.0.1 ad-space.net
 127.0.0.1 adserver.ad-space.net
 127.0.0.1 www.ad-space.net
 
@@ -2424,9 +2417,6 @@
 # ad-up.com
 127.0.0.1 ad-up.com
 127.0.0.1 www.ad-up.com
-
-# ad-web-ad.com
-127.0.0.1 ad-web-ad.com
 
 # ad-x.co.uk
 127.0.0.1 ad-x.co.uk
@@ -3247,9 +3237,6 @@
 127.0.0.1 admigo.ru
 127.0.0.1 data.admigo.ru
 
-# admin6.com
-127.0.0.1 admin6.com
-
 # adminder.com
 127.0.0.1 adminder.com
 127.0.0.1 www.adminder.com
@@ -3673,7 +3660,6 @@
 127.0.0.1 adserver.co.il
 
 # adserver.com
-127.0.0.1 adserver.com
 127.0.0.1 z1.adserver.com
 
 # adserver.pl
@@ -3714,9 +3700,6 @@
 
 # adsfactor.net
 127.0.0.1 servedby.adsfactor.net
-
-# adsforadults.com
-127.0.0.1 www.adsforadults.com
 
 # adsforindians.com
 127.0.0.1 www.adsforindians.com
@@ -3794,9 +3777,6 @@
 
 # adsonar.com
 127.0.0.1 foxnews.adsonar.com
-
-# adsozai.com
-127.0.0.1 adsozai.com
 
 # adspace.be
 127.0.0.1 www.adspace.be
@@ -4064,10 +4044,6 @@
 
 # adultlinkexchange.com
 127.0.0.1 www.adultlinkexchange.com
-
-# adultlinksco.com
-127.0.0.1 adultlinksco.com
-127.0.0.1 www.adultlinksco.com
 
 # adultmoda.com
 127.0.0.1 adultmoda.com
@@ -4641,9 +4617,6 @@
 # agentmediagroup.com
 127.0.0.1 agentmediagroup.com
 
-# agevs.com
-127.0.0.1 agevs.com
-
 # agilemedia.jp
 127.0.0.1 ad.agilemedia.jp
 127.0.0.1 agilemedia.jp
@@ -4676,9 +4649,6 @@
 127.0.0.1 aim4media.com
 127.0.0.1 artwork.aim4media.com
 127.0.0.1 www.aim4media.com
-
-# aimtop100.com
-127.0.0.1 aimtop100.com
 
 # air-nifty.com
 127.0.0.1 ax6.a.air-nifty.com
@@ -4752,7 +4722,6 @@
 127.0.0.1 download.alexa.com
 127.0.0.1 widgets.alexa.com
 127.0.0.1 www.alexa.com
-127.0.0.1 xslt.alexa.com
 
 # alexametrics.com
 127.0.0.1 certify.alexametrics.com
@@ -5128,6 +5097,9 @@
 
 # andg.jp
 127.0.0.1 www.andg.jp
+
+# andhub.jp
+127.0.0.1 andhub.jp
 
 # andoidtraffic.ru
 127.0.0.1 andoidtraffic.ru
@@ -5679,9 +5651,6 @@
 127.0.0.1 as.autoforums.com
 127.0.0.1 as2.autoforums.com
 
-# automatic-link.net
-127.0.0.1 www.automatic-link.net
-
 # autopartswarehouse.com
 127.0.0.1 www2.autopartswarehouse.com
 
@@ -6102,9 +6071,6 @@
 # bannerlandia.com
 127.0.0.1 bannerlandia.com
 
-# bannerlandia.com.ar
-127.0.0.1 bannerlandia.com.ar
-
 # bannermall.com
 127.0.0.1 bannermall.com
 
@@ -6479,9 +6445,6 @@
 # bianca.net
 127.0.0.1 ads.bianca.net
 
-# bibamovs.com
-127.0.0.1 bibamovs.com
-
 # bibtip.de
 127.0.0.1 recommender.bibtip.de
 
@@ -6639,9 +6602,6 @@
 
 # binlayer.com
 127.0.0.1 view.binlayer.com
-
-# binomax.net
-127.0.0.1 binomax.net
 
 # biscom.net
 127.0.0.1 ads.biscom.net
@@ -6981,6 +6941,9 @@
 
 # bninews.com
 127.0.0.1 ads.bninews.com
+
+# bnmjjwinf292.com
+127.0.0.1 bnmjjwinf292.com
 
 # bnmla.com
 127.0.0.1 ad.bnmla.com
@@ -7827,9 +7790,6 @@
 # cash-media.de
 127.0.0.1 logger.cash-media.de
 
-# cash4banner.com
-127.0.0.1 cash4banner.com
-
 # cash4banner.de
 127.0.0.1 cash4banner.de
 
@@ -8384,6 +8344,9 @@
 # click-123.com
 127.0.0.1 click-123.com
 
+# click-count.info
+127.0.0.1 click-count.info
+
 # click-fr.com
 127.0.0.1 adserver.click-fr.com
 127.0.0.1 click-fr.com
@@ -8550,9 +8513,6 @@
 127.0.0.1 fr.cim.clickintext.net
 127.0.0.1 fr.classic.clickintext.net
 127.0.0.1 fr.slidein.clickintext.net
-
-# clickit.com
-127.0.0.1 clickit.com
 
 # clicklink.jp
 127.0.0.1 clicklink.jp
@@ -9340,9 +9300,6 @@
 # count24.de
 127.0.0.1 www.count24.de
 
-# count4all.com
-127.0.0.1 count4all.com
-
 # counted.com
 127.0.0.1 counted.com
 
@@ -9689,6 +9646,7 @@
 
 # cross-a.net
 127.0.0.1 ad3.cross-a.net
+127.0.0.1 cross-a.net
 
 # crosspixel.net
 127.0.0.1 pixel.crosspixel.net
@@ -11149,9 +11107,6 @@
 
 # downloadz.us
 127.0.0.1 downloadz.us
-
-# downseek.com
-127.0.0.1 www.downseek.com
 
 # doyoo.net
 127.0.0.1 doyoo.net
@@ -12876,7 +12831,6 @@
 127.0.0.1 error.fc2.com
 127.0.0.1 game.fc2.com
 127.0.0.1 media.fc2.com
-127.0.0.1 media5.fc2.com
 127.0.0.1 news.fc2.com
 127.0.0.1 panel.counter1.fc2.com
 127.0.0.1 ranking.fc2.com
@@ -13524,6 +13478,9 @@
 127.0.0.1 fpctraffic2.com
 127.0.0.1 www.fpctraffic2.com
 
+# fpgbazgezr.online
+127.0.0.1 fpgbazgezr.online
+
 # fplive.net
 127.0.0.1 msnads-wm9.fplive.net
 
@@ -13611,9 +13568,6 @@
 
 # freebieclub.com
 127.0.0.1 freebieclub.com
-
-# freecameranow.com
-127.0.0.1 freecameranow.com
 
 # freecounter.it
 127.0.0.1 maurobb.freecounter.it
@@ -13858,9 +13812,6 @@
 # funshopfun.com
 127.0.0.1 track.funshopfun.com
 
-# funskins.com
-127.0.0.1 www.funskins.com
-
 # funtopliste.de
 127.0.0.1 www.funtopliste.de
 
@@ -14023,7 +13974,6 @@
 
 # gamigo.de
 127.0.0.1 ads.gamigo.de
-127.0.0.1 adserver.gamigo.de
 
 # gaming-universe.de
 127.0.0.1 ads.gaming-universe.de
@@ -14327,9 +14277,6 @@
 127.0.0.1 aladdin.genieesspv.jp
 127.0.0.1 genieesspv.jp
 
-# genpayment.com
-127.0.0.1 genpayment.com
-
 # geoaddicted.net
 127.0.0.1 geoaddicted.net
 
@@ -14587,6 +14534,9 @@
 # gnezdo.ru
 127.0.0.1 shop.gnezdo.ru
 
+# gnixtkjsft.online
+127.0.0.1 gnixtkjsft.online
+
 # gnspf.com
 127.0.0.1 gnspf.com
 
@@ -14800,9 +14750,6 @@
 127.0.0.1 monster.gostats.com
 127.0.0.1 www.gostats.com
 
-# gostats.ir
-127.0.0.1 gostats.ir
-
 # gostats.ro
 127.0.0.1 gostats.ro
 
@@ -14931,9 +14878,6 @@
 # grouplotto.com
 127.0.0.1 www.grouplotto.com
 
-# groupninetyfour.com
-127.0.0.1 stats.groupninetyfour.com
-
 # groupon.co.uk
 127.0.0.1 static.groupon.co.uk
 
@@ -15032,7 +14976,6 @@
 127.0.0.1 adapi.gunosy.com
 127.0.0.1 adntokyo.gunosy.com
 127.0.0.1 assets.gunosy.com
-127.0.0.1 creatives.gunosy.com
 
 # guns.ru
 127.0.0.1 banners.guns.ru
@@ -15074,9 +15017,6 @@
 
 # haina.jp
 127.0.0.1 image.haina.jp
-
-# haircare-clinic.com
-127.0.0.1 haircare-clinic.com
 
 # haklab.com
 127.0.0.1 www.haklab.com
@@ -16124,6 +16064,7 @@
 127.0.0.1 banners04.hpg.com.br
 127.0.0.1 banners123.hpg.com.br
 127.0.0.1 banners142.hpg.com.br
+127.0.0.1 banners146.hpg.com.br
 127.0.0.1 banners147.hpg.com.br
 127.0.0.1 banners16.hpg.com.br
 127.0.0.1 banners221.hpg.com.br
@@ -16633,9 +16574,6 @@
 
 # iknowthatgirl.com
 127.0.0.1 ads.iknowthatgirl.com
-
-# ikukuru-mail.com
-127.0.0.1 ikukuru-mail.com
 
 # iliky.com
 127.0.0.1 iliky.com
@@ -18417,6 +18355,9 @@
 127.0.0.1 ads.jewishfriendfinder.com
 127.0.0.1 banners.jewishfriendfinder.com
 
+# jhdajrgpag.online
+127.0.0.1 jhdajrgpag.online
+
 # jibjab.com
 127.0.0.1 metric.jibjab.com
 
@@ -18649,11 +18590,6 @@
 127.0.0.1 ad.kataweb.it
 127.0.0.1 adnetwork.kataweb.it
 127.0.0.1 scripts.kataweb.it
-
-# kau.li
-127.0.0.1 19804.y.kau.li
-127.0.0.1 ad.kau.li
-127.0.0.1 js.kau.li
 
 # kavanga.ru
 127.0.0.1 l.kavanga.ru
@@ -21015,9 +20951,6 @@
 # metropolis.co.jp
 127.0.0.1 ads.metropolis.co.jp
 
-# metsupport.com
-127.0.0.1 metsupport.com
-
 # mgcash.com
 127.0.0.1 mgcash.com
 127.0.0.1 www.mgcash.com
@@ -22660,9 +22593,6 @@
 # neoworx.net
 127.0.0.1 www.neoworx.net
 
-# net-ad-vantage.com
-127.0.0.1 ads.net-ad-vantage.com
-
 # net-communities.co.uk
 127.0.0.1 ads2.net-communities.co.uk
 
@@ -22735,6 +22665,7 @@
 
 # netflame.cc
 127.0.0.1 beta-hints.netflame.cc
+127.0.0.1 netflame.cc
 127.0.0.1 ssl-hints.netflame.cc
 
 # netflip.com
@@ -23290,6 +23221,9 @@
 
 # nuffnang.com.sg
 127.0.0.1 synad2.nuffnang.com.sg
+
+# nuggad.net
+127.0.0.1 idmnet.nuggad.net
 
 # nuseek.com
 127.0.0.1 i.nuseek.com
@@ -23873,9 +23807,6 @@
 # ouah.com
 127.0.0.1 ouah.com
 
-# ourbesthits.com
-127.0.0.1 ourbesthits.com
-
 # ourbestsearch.info
 127.0.0.1 ourbestsearch.info
 
@@ -24265,9 +24196,11 @@
 127.0.0.1 www.pay-per-search.com
 
 # paycount.com
+127.0.0.1 ad107.paycount.com
 127.0.0.1 ad140.paycount.com
 127.0.0.1 ad156.paycount.com
 127.0.0.1 ad164.paycount.com
+127.0.0.1 ad211.paycount.com
 127.0.0.1 ad238.paycount.com
 127.0.0.1 ad26.paycount.com
 127.0.0.1 ad86.paycount.com
@@ -24389,9 +24322,6 @@
 
 # peep-auktion.de
 127.0.0.1 peep-auktion.de
-
-# peer39.com
-127.0.0.1 peer39.com
 
 # peer39.net
 127.0.0.1 catrg.peer39.net
@@ -25441,6 +25371,9 @@
 # pwwysydh.com
 127.0.0.1 pwwysydh.com
 
+# pycechznrw.online
+127.0.0.1 pycechznrw.online
+
 # pythonpays.com
 127.0.0.1 www.pythonpays.com
 
@@ -25458,9 +25391,6 @@
 # qhosted.com
 127.0.0.1 images-72-26-207-6.assets.qhosted.com
 127.0.0.1 static-72-26-207-6.assets.qhosted.com
-
-# qingp.com
-127.0.0.1 qingp.com
 
 # qiyi.com
 127.0.0.1 api.cupid.qiyi.com
@@ -26221,6 +26151,9 @@
 
 # rfsl.se
 127.0.0.1 reklam.rfsl.se
+
+# rfypebzjtm.online
+127.0.0.1 rfypebzjtm.online
 
 # rg1.com
 127.0.0.1 rg1.com
@@ -27583,7 +27516,6 @@
 
 # sidefind.com
 127.0.0.1 cache.sidefind.com
-127.0.0.1 sidefind.com
 127.0.0.1 www.sidefind.com
 
 # sify.com
@@ -27613,9 +27545,6 @@
 127.0.0.1 exit.silvercash.com
 127.0.0.1 smc.silvercash.com
 127.0.0.1 www.silvercash.com
-
-# silverdisc.co.uk
-127.0.0.1 ads.silverdisc.co.uk
 
 # silveregg.net
 127.0.0.1 aigent2.silveregg.net
@@ -28199,9 +28128,6 @@
 # spamfighter.com
 127.0.0.1 analytic.spamfighter.com
 
-# spankaway.com
-127.0.0.1 adserver.spankaway.com
-
 # sparkimg.com
 127.0.0.1 sparkimg.com
 127.0.0.1 www.sparkimg.com
@@ -28732,11 +28658,6 @@
 # spywareit.com
 127.0.0.1 www.spywareit.com
 
-# spywarelabs.com
-127.0.0.1 download.spywarelabs.com
-127.0.0.1 spywarelabs.com
-127.0.0.1 www.spywarelabs.com
-
 # spywarenuker.com
 127.0.0.1 spywarenuker.com
 127.0.0.1 www.spywarenuker.com
@@ -28750,9 +28671,6 @@
 
 # sq2trk2.com
 127.0.0.1 www.sq2trk2.com
-
-# square-max.net
-127.0.0.1 mobile.square-max.net
 
 # squidanalytics.com
 127.0.0.1 aws.tracker.squidanalytics.com
@@ -28852,9 +28770,6 @@
 127.0.0.1 akaads-abc.starwave.com
 127.0.0.1 akaads-espn.starwave.com
 127.0.0.1 espn-ak.starwave.com
-
-# starwoodhotels.com
-127.0.0.1 metrics.starwoodhotels.com
 
 # stat.pl
 127.0.0.1 home.hit.stat.pl
@@ -30053,9 +29968,6 @@
 # thetrainingofo.com
 127.0.0.1 ads.thetrainingofo.com
 
-# theu.net
-127.0.0.1 theu.net
-
 # theusdrugs.com
 127.0.0.1 theusdrugs.com
 
@@ -30912,6 +30824,9 @@
 127.0.0.1 traffictraders.com
 127.0.0.1 www.traffictraders.com
 
+# trafficvendors.com
+127.0.0.1 www.trafficvendors.com
+
 # trafficwave.net
 127.0.0.1 adtrack.trafficwave.net
 127.0.0.1 trafficwave.net
@@ -31250,9 +31165,6 @@
 
 # tvsquad.com
 127.0.0.1 www.tvsquad.com
-
-# tvysoftware.com
-127.0.0.1 admanager.tvysoftware.com
 
 # tweakers.net
 127.0.0.1 adserver.aphrodite.tweakers.net
@@ -31694,6 +31606,9 @@
 127.0.0.1 ad-info.val.jp
 127.0.0.1 s3.mobile.val.jp
 
+# valary.com
+127.0.0.1 c26.valary.com
+
 # validatedsite.com
 127.0.0.1 www.validatedsite.com
 
@@ -31892,6 +31807,7 @@
 127.0.0.1 spiegel.met.vgwort.de
 127.0.0.1 stern.met.vgwort.de
 127.0.0.1 sz.met.vgwort.de
+127.0.0.1 vg00.met.vgwort.de
 127.0.0.1 vg01.met.vgwort.de
 127.0.0.1 vg02.met.vgwort.de
 127.0.0.1 vg03.met.vgwort.de
@@ -32130,9 +32046,6 @@
 # vjsoft.net
 127.0.0.1 www.vjsoft.net
 
-# vkushti.tv
-127.0.0.1 ads.vkushti.tv
-
 # vml.com
 127.0.0.1 sdc.vml.com
 
@@ -32190,9 +32103,6 @@
 
 # vombacash.com
 127.0.0.1 www.vombacash.com
-
-# vombanetwork.com
-127.0.0.1 www.vombanetwork.com
 
 # vombashots.com
 127.0.0.1 vombashots.com
@@ -32576,7 +32486,6 @@
 127.0.0.1 www.webgozar.com
 
 # webgozar.ir
-127.0.0.1 webgozar.ir
 127.0.0.1 www.webgozar.ir
 
 # webhitcounter.com
@@ -32619,6 +32528,7 @@
 127.0.0.1 ads2.weblogssl.com
 
 # webmasterplan.com
+127.0.0.1 partners.webmasterplan.com
 127.0.0.1 webmasterplan.com
 
 # webmasterplan.de
@@ -32867,6 +32777,9 @@
 
 # whippedass.com
 127.0.0.1 ads.whippedass.com
+
+# whirads.com
+127.0.0.1 www.whirads.com
 
 # whispa.com
 127.0.0.1 whispa.com
@@ -33563,6 +33476,9 @@
 # xvideos.com
 127.0.0.1 s.xvideos.com
 
+# xxaycxswtx.online
+127.0.0.1 xxaycxswtx.online
+
 # xxx-mom.com
 127.0.0.1 www.xxx-mom.com
 127.0.0.1 xxx-mom.com
@@ -33894,9 +33810,6 @@
 
 # yieldsoftware.com
 127.0.0.1 track.yieldsoftware.com
-
-# yigao.com
-127.0.0.1 monitor.yigao.com
 
 # yimg.com
 127.0.0.1 ads.yimg.com
