@@ -5,15 +5,12 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2022/05/30
-# block hosts: 18566 entry
+# last updated: 2022/06/07
+# block hosts: 18266 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
 127.0.0.1 www.00fun.com
-
-# 01net.com
-127.0.0.1 securite.01net.com
 
 # 0430.com
 127.0.0.1 cht.0430.com
@@ -2050,6 +2047,7 @@
 127.0.0.1 ezgreets.aavalue.com
 127.0.0.1 eztracks.aavalue.com
 127.0.0.1 grouplotto.aavalue.com
+127.0.0.1 mrsupergames.aavalue.com
 127.0.0.1 musicoffaith.aavalue.com
 127.0.0.1 prizeamerica.aavalue.com
 127.0.0.1 watchfreeflix.aavalue.com
@@ -2089,9 +2087,6 @@
 
 # abfry.com
 127.0.0.1 www.abfry.com
-
-# abh.jp
-127.0.0.1 abh.jp
 
 # abmr.net
 127.0.0.1 ak1.abmr.net
@@ -3166,9 +3161,6 @@
 # adloader.com
 127.0.0.1 www.adloader.com
 
-# adlove.jp
-127.0.0.1 adlove.jp
-
 # adlpo.com
 127.0.0.1 t.adlpo.com
 
@@ -3680,9 +3672,6 @@
 # adserving.dk
 127.0.0.1 ia.adserving.dk
 
-# adservinginternational.com
-127.0.0.1 adservinginternational.com
-
 # adservingnetwork.com
 127.0.0.1 adservingnetwork.com
 
@@ -3891,6 +3880,9 @@
 127.0.0.1 glbad.adtech.de
 127.0.0.1 im.adtech.de
 127.0.0.1 secserv.adtech.de
+
+# adtech.fr
+127.0.0.1 ldimage01.adtech.fr
 
 # adtech.info
 127.0.0.1 en.adtech.info
@@ -5744,9 +5736,6 @@
 # awmads.com
 127.0.0.1 www.awmads.com
 
-# axaldjqt.cn
-127.0.0.1 axaldjqt.cn
-
 # axelsfun.com
 127.0.0.1 axelsfun.com
 127.0.0.1 ttiger.axelsfun.com
@@ -6174,9 +6163,6 @@
 # bayarea.com
 127.0.0.1 advert.bayarea.com
 
-# baynote.net
-127.0.0.1 dell-global.baynote.net
-
 # bb-chat.tv
 127.0.0.1 www.bb-chat.tv
 
@@ -6308,6 +6294,9 @@
 
 # besite.be
 127.0.0.1 webtrends.besite.be
+
+# best-lucky-cat.xyz
+127.0.0.1 best-lucky-cat.xyz
 
 # best-meds.biz
 127.0.0.1 best-meds.biz
@@ -9942,9 +9931,6 @@
 # dajungle.com
 127.0.0.1 dajungle.com
 
-# dakromedia.com
-127.0.0.1 track.dakromedia.com
-
 # dallasnews.com
 127.0.0.1 metrics.dallasnews.com
 
@@ -11419,10 +11405,6 @@
 127.0.0.1 8.easymedia2.com
 127.0.0.1 9.easymedia2.com
 127.0.0.1 easymedia2.com
-
-# easymobi.cn
-127.0.0.1 adver.easymobi.cn
-127.0.0.1 app.easymobi.cn
 
 # easyrencontre.com
 127.0.0.1 imgpromo.easyrencontre.com
@@ -13478,9 +13460,6 @@
 127.0.0.1 fpctraffic2.com
 127.0.0.1 www.fpctraffic2.com
 
-# fpgbazgezr.online
-127.0.0.1 fpgbazgezr.online
-
 # fplive.net
 127.0.0.1 msnads-wm9.fplive.net
 
@@ -14261,9 +14240,6 @@
 # genericlink.com
 127.0.0.1 ads.genericlink.com
 
-# genericshotsale.com
-127.0.0.1 genericshotsale.com
-
 # genhit.com
 127.0.0.1 genhit.com
 
@@ -14289,6 +14265,9 @@
 
 # geornmd.net
 127.0.0.1 ads.geornmd.net
+
+# geotg.jp
+127.0.0.1 geotg.jp
 
 # geovisite.com
 127.0.0.1 geoloc12.geovisite.com
@@ -14482,9 +14461,6 @@
 127.0.0.1 globe7.com
 127.0.0.1 www.globe7.com
 
-# globo.com
-127.0.0.1 ads.globo.com
-
 # glopro.com
 127.0.0.1 glopro.com
 
@@ -14533,9 +14509,6 @@
 
 # gnezdo.ru
 127.0.0.1 shop.gnezdo.ru
-
-# gnixtkjsft.online
-127.0.0.1 gnixtkjsft.online
 
 # gnspf.com
 127.0.0.1 gnspf.com
@@ -16032,6 +16005,7 @@
 127.0.0.1 ad240.hpg.com.br
 127.0.0.1 ad242.hpg.com.br
 127.0.0.1 ad250.hpg.com.br
+127.0.0.1 ad33.hpg.com.br
 127.0.0.1 ad50.hpg.com.br
 127.0.0.1 ad53.hpg.com.br
 127.0.0.1 ad56.hpg.com.br
@@ -16040,8 +16014,10 @@
 127.0.0.1 ads06.hpg.com.br
 127.0.0.1 ads116.hpg.com.br
 127.0.0.1 ads127.hpg.com.br
+127.0.0.1 ads129.hpg.com.br
 127.0.0.1 ads143.hpg.com.br
 127.0.0.1 ads146.hpg.com.br
+127.0.0.1 ads196.hpg.com.br
 127.0.0.1 ads212.hpg.com.br
 127.0.0.1 ads219.hpg.com.br
 127.0.0.1 ads224.hpg.com.br
@@ -16515,9 +16491,6 @@
 127.0.0.1 iframes.us
 127.0.0.1 www.iframes.us
 
-# ifriends.net
-127.0.0.1 ifriends.net
-
 # ifsmarketing.com
 127.0.0.1 www.ifsmarketing.com
 
@@ -16640,9 +16613,6 @@
 
 # imeem.com
 127.0.0.1 ads.imeem.com
-
-# img-c.net
-127.0.0.1 img-c.net
 
 # img.co.za
 127.0.0.1 ads.img.co.za
@@ -18355,9 +18325,6 @@
 127.0.0.1 ads.jewishfriendfinder.com
 127.0.0.1 banners.jewishfriendfinder.com
 
-# jhdajrgpag.online
-127.0.0.1 jhdajrgpag.online
-
 # jibjab.com
 127.0.0.1 metric.jibjab.com
 
@@ -18520,7 +18487,6 @@
 
 # justrelevant.com
 127.0.0.1 ads.justrelevant.com
-127.0.0.1 justrelevant.com
 
 # justwebads.com
 127.0.0.1 justwebads.com
@@ -19146,6 +19112,9 @@
 
 # link-a.net
 127.0.0.1 link-a.net
+
+# link-ag.net
+127.0.0.1 link-ag.net
 
 # link-booster.de
 127.0.0.1 link-booster.de
@@ -20341,6 +20310,9 @@
 
 # maleflixxx.tv
 127.0.0.1 ads.maleflixxx.tv
+
+# malware-scan.com
+127.0.0.1 malware-scan.com
 
 # malwhere.com
 127.0.0.1 www.malwhere.com
@@ -21648,6 +21620,9 @@
 # mukulcast.com
 127.0.0.1 ad.mukulcast.com
 
+# mulan.cloud
+127.0.0.1 js.mulan.cloud
+
 # multi-searcher.com
 127.0.0.1 multi-searcher.com
 
@@ -21732,6 +21707,9 @@
 # myaffiliateprogram.com
 127.0.0.1 myaffiliateprogram.com
 127.0.0.1 www.myaffiliateprogram.com
+
+# myandu.com
+127.0.0.1 myandu.com
 
 # myareaguide.com
 127.0.0.1 images.myareaguide.com
@@ -23020,7 +22998,6 @@
 127.0.0.1 nicopon.jp
 
 # nicovideo.jp
-127.0.0.1 ad.nicovideo.jp
 127.0.0.1 ads.nicovideo.jp
 
 # nifty.com
@@ -23223,6 +23200,7 @@
 127.0.0.1 synad2.nuffnang.com.sg
 
 # nuggad.net
+127.0.0.1 httpoolat.nuggad.net
 127.0.0.1 idmnet.nuggad.net
 
 # nuseek.com
@@ -24203,6 +24181,7 @@
 127.0.0.1 ad211.paycount.com
 127.0.0.1 ad238.paycount.com
 127.0.0.1 ad26.paycount.com
+127.0.0.1 ad4.paycount.com
 127.0.0.1 ad86.paycount.com
 127.0.0.1 ad9.paycount.com
 
@@ -25371,9 +25350,6 @@
 # pwwysydh.com
 127.0.0.1 pwwysydh.com
 
-# pycechznrw.online
-127.0.0.1 pycechznrw.online
-
 # pythonpays.com
 127.0.0.1 www.pythonpays.com
 
@@ -26152,9 +26128,6 @@
 # rfsl.se
 127.0.0.1 reklam.rfsl.se
 
-# rfypebzjtm.online
-127.0.0.1 rfypebzjtm.online
-
 # rg1.com
 127.0.0.1 rg1.com
 
@@ -26876,9 +26849,6 @@
 # securitystronghold.com
 127.0.0.1 www.securitystronghold.com
 
-# sedem.bg
-127.0.0.1 banner.sedem.bg
-
 # sedoparking.com
 127.0.0.1 img.sedoparking.com
 127.0.0.1 sedoparking.com
@@ -26983,9 +26953,6 @@
 
 # sensic.net
 127.0.0.1 sensic.net
-
-# sensismediasmart.com.au
-127.0.0.1 ad.sensismediasmart.com.au
 
 # seo-hits.de
 127.0.0.1 www.seo-hits.de
@@ -28340,290 +28307,7 @@
 127.0.0.1 www.spycash.biz
 
 # spylog.com
-127.0.0.1 counter.spylog.com
-127.0.0.1 counteraport.spylog.com
-127.0.0.1 gstats.spylog.com
-127.0.0.1 hits.spylog.com
-127.0.0.1 my.spylog.com
-127.0.0.1 ru02-hits.spylog.com
-127.0.0.1 ru03-hits.spylog.com
-127.0.0.1 ru09-hits.spylog.com
-127.0.0.1 skif.spylog.com
 127.0.0.1 spylog.com
-127.0.0.1 u001.13.spylog.com
-127.0.0.1 u001.22.spylog.com
-127.0.0.1 u002.01.spylog.com
-127.0.0.1 u002.31.spylog.com
-127.0.0.1 u003.00.spylog.com
-127.0.0.1 u003.52.spylog.com
-127.0.0.1 u003.81.spylog.com
-127.0.0.1 u004.39.spylog.com
-127.0.0.1 u004.58.spylog.com
-127.0.0.1 u004.83.spylog.com
-127.0.0.1 u005.33.spylog.com
-127.0.0.1 u006.15.spylog.com
-127.0.0.1 u006.78.spylog.com
-127.0.0.1 u006.98.spylog.com
-127.0.0.1 u007.06.spylog.com
-127.0.0.1 u008.47.spylog.com
-127.0.0.1 u008.96.spylog.com
-127.0.0.1 u010.42.spylog.com
-127.0.0.1 u010.44.spylog.com
-127.0.0.1 u010.60.spylog.com
-127.0.0.1 u011.20.spylog.com
-127.0.0.1 u011.22.spylog.com
-127.0.0.1 u011.75.spylog.com
-127.0.0.1 u013.04.spylog.com
-127.0.0.1 u013.89.spylog.com
-127.0.0.1 u014.73.spylog.com
-127.0.0.1 u015.90.spylog.com
-127.0.0.1 u016.25.spylog.com
-127.0.0.1 u017.76.spylog.com
-127.0.0.1 u017.94.spylog.com
-127.0.0.1 u018.38.spylog.com
-127.0.0.1 u019.29.spylog.com
-127.0.0.1 u019.33.spylog.com
-127.0.0.1 u020.39.spylog.com
-127.0.0.1 u020.69.spylog.com
-127.0.0.1 u022.39.spylog.com
-127.0.0.1 u023.47.spylog.com
-127.0.0.1 u023.82.spylog.com
-127.0.0.1 u024.10.spylog.com
-127.0.0.1 u025.73.spylog.com
-127.0.0.1 u025.82.spylog.com
-127.0.0.1 u025.89.spylog.com
-127.0.0.1 u026.68.spylog.com
-127.0.0.1 u026.81.spylog.com
-127.0.0.1 u028.07.spylog.com
-127.0.0.1 u028.35.spylog.com
-127.0.0.1 u030.83.spylog.com
-127.0.0.1 u031.54.spylog.com
-127.0.0.1 u032.71.spylog.com
-127.0.0.1 u033.20.spylog.com
-127.0.0.1 u034.40.spylog.com
-127.0.0.1 u034.55.spylog.com
-127.0.0.1 u034.80.spylog.com
-127.0.0.1 u036.48.spylog.com
-127.0.0.1 u037.20.spylog.com
-127.0.0.1 u037.26.spylog.com
-127.0.0.1 u038.18.spylog.com
-127.0.0.1 u039.10.spylog.com
-127.0.0.1 u039.28.spylog.com
-127.0.0.1 u039.30.spylog.com
-127.0.0.1 u040.76.spylog.com
-127.0.0.1 u043.32.spylog.com
-127.0.0.1 u043.37.spylog.com
-127.0.0.1 u044.09.spylog.com
-127.0.0.1 u046.09.spylog.com
-127.0.0.1 u046.67.spylog.com
-127.0.0.1 u046.73.spylog.com
-127.0.0.1 u049.45.spylog.com
-127.0.0.1 u053.14.spylog.com
-127.0.0.1 u053.20.spylog.com
-127.0.0.1 u053.24.spylog.com
-127.0.0.1 u053.48.spylog.com
-127.0.0.1 u054.94.spylog.com
-127.0.0.1 u055.70.spylog.com
-127.0.0.1 u058.03.spylog.com
-127.0.0.1 u058.67.spylog.com
-127.0.0.1 u059.14.spylog.com
-127.0.0.1 u060.16.spylog.com
-127.0.0.1 u060.28.spylog.com
-127.0.0.1 u060.41.spylog.com
-127.0.0.1 u060.92.spylog.com
-127.0.0.1 u061.97.spylog.com
-127.0.0.1 u062.01.spylog.com
-127.0.0.1 u062.16.spylog.com
-127.0.0.1 u062.47.spylog.com
-127.0.0.1 u063.13.spylog.com
-127.0.0.1 u066.62.spylog.com
-127.0.0.1 u066.80.spylog.com
-127.0.0.1 u066.84.spylog.com
-127.0.0.1 u070.38.spylog.com
-127.0.0.1 u070.54.spylog.com
-127.0.0.1 u070.67.spylog.com
-127.0.0.1 u071.47.spylog.com
-127.0.0.1 u071.56.spylog.com
-127.0.0.1 u071.93.spylog.com
-127.0.0.1 u072.93.spylog.com
-127.0.0.1 u074.03.spylog.com
-127.0.0.1 u075.87.spylog.com
-127.0.0.1 u075.94.spylog.com
-127.0.0.1 u076.46.spylog.com
-127.0.0.1 u081.83.spylog.com
-127.0.0.1 u082.61.spylog.com
-127.0.0.1 u082.84.spylog.com
-127.0.0.1 u082.99.spylog.com
-127.0.0.1 u085.95.spylog.com
-127.0.0.1 u086.32.spylog.com
-127.0.0.1 u088.23.spylog.com
-127.0.0.1 u088.27.spylog.com
-127.0.0.1 u090.44.spylog.com
-127.0.0.1 u090.69.spylog.com
-127.0.0.1 u090.78.spylog.com
-127.0.0.1 u091.38.spylog.com
-127.0.0.1 u091.75.spylog.com
-127.0.0.1 u093.76.spylog.com
-127.0.0.1 u094.14.spylog.com
-127.0.0.1 u094.29.spylog.com
-127.0.0.1 u094.35.spylog.com
-127.0.0.1 u094.90.spylog.com
-127.0.0.1 u095.38.spylog.com
-127.0.0.1 u096.59.spylog.com
-127.0.0.1 u098.24.spylog.com
-127.0.0.1 u099.28.spylog.com
-127.0.0.1 u099.40.spylog.com
-127.0.0.1 u099.41.spylog.com
-127.0.0.1 u099.42.spylog.com
-127.0.0.1 u099.81.spylog.com
-127.0.0.1 u099.84.spylog.com
-127.0.0.1 u101.13.spylog.com
-127.0.0.1 u101.29.spylog.com
-127.0.0.1 u1025.77.spylog.com
-127.0.0.1 u104.65.spylog.com
-127.0.0.1 u105.77.spylog.com
-127.0.0.1 u108.36.spylog.com
-127.0.0.1 u108.95.spylog.com
-127.0.0.1 u1080.31.spylog.com
-127.0.0.1 u112.68.spylog.com
-127.0.0.1 u113.63.spylog.com
-127.0.0.1 u114.19.spylog.com
-127.0.0.1 u114.76.spylog.com
-127.0.0.1 u1147.60.spylog.com
-127.0.0.1 u115.39.spylog.com
-127.0.0.1 u115.46.spylog.com
-127.0.0.1 u1157.21.spylog.com
-127.0.0.1 u117.45.spylog.com
-127.0.0.1 u117.95.spylog.com
-127.0.0.1 u118.05.spylog.com
-127.0.0.1 u118.11.spylog.com
-127.0.0.1 u120.74.spylog.com
-127.0.0.1 u121.83.spylog.com
-127.0.0.1 u123.23.spylog.com
-127.0.0.1 u125.28.spylog.com
-127.0.0.1 u126.40.spylog.com
-127.0.0.1 u127.62.spylog.com
-127.0.0.1 u127.92.spylog.com
-127.0.0.1 u128.04.spylog.com
-127.0.0.1 u129.20.spylog.com
-127.0.0.1 u129.65.spylog.com
-127.0.0.1 u130.01.spylog.com
-127.0.0.1 u130.83.spylog.com
-127.0.0.1 u1308.54.spylog.com
-127.0.0.1 u132.04.spylog.com
-127.0.0.1 u132.08.spylog.com
-127.0.0.1 u132.40.spylog.com
-127.0.0.1 u134.81.spylog.com
-127.0.0.1 u135.25.spylog.com
-127.0.0.1 u136.07.spylog.com
-127.0.0.1 u136.28.spylog.com
-127.0.0.1 u136.91.spylog.com
-127.0.0.1 u138.56.spylog.com
-127.0.0.1 u139.75.spylog.com
-127.0.0.1 u140.30.spylog.com
-127.0.0.1 u140.32.spylog.com
-127.0.0.1 u140.90.spylog.com
-127.0.0.1 u144.05.spylog.com
-127.0.0.1 u144.54.spylog.com
-127.0.0.1 u145.33.spylog.com
-127.0.0.1 u145.73.spylog.com
-127.0.0.1 u147.14.spylog.com
-127.0.0.1 u152.37.spylog.com
-127.0.0.1 u152.45.spylog.com
-127.0.0.1 u154.03.spylog.com
-127.0.0.1 u155.50.spylog.com
-127.0.0.1 u1569.61.spylog.com
-127.0.0.1 u1598.51.spylog.com
-127.0.0.1 u1617.87.spylog.com
-127.0.0.1 u1617.91.spylog.com
-127.0.0.1 u166.09.spylog.com
-127.0.0.1 u166.27.spylog.com
-127.0.0.1 u166.28.spylog.com
-127.0.0.1 u166.32.spylog.com
-127.0.0.1 u166.49.spylog.com
-127.0.0.1 u166.56.spylog.com
-127.0.0.1 u167.27.spylog.com
-127.0.0.1 u167.51.spylog.com
-127.0.0.1 u167.54.spylog.com
-127.0.0.1 u167.78.spylog.com
-127.0.0.1 u167.81.spylog.com
-127.0.0.1 u167.86.spylog.com
-127.0.0.1 u167.90.spylog.com
-127.0.0.1 u168.06.spylog.com
-127.0.0.1 u168.09.spylog.com
-127.0.0.1 u168.38.spylog.com
-127.0.0.1 u1695.55.spylog.com
-127.0.0.1 u175.78.spylog.com
-127.0.0.1 u1773.34.spylog.com
-127.0.0.1 u178.75.spylog.com
-127.0.0.1 u1817.16.spylog.com
-127.0.0.1 u184.04.spylog.com
-127.0.0.1 u185.26.spylog.com
-127.0.0.1 u187.18.spylog.com
-127.0.0.1 u192.84.spylog.com
-127.0.0.1 u206.36.spylog.com
-127.0.0.1 u207.80.spylog.com
-127.0.0.1 u212.91.spylog.com
-127.0.0.1 u218.55.spylog.com
-127.0.0.1 u218.73.spylog.com
-127.0.0.1 u239.40.spylog.com
-127.0.0.1 u245.27.spylog.com
-127.0.0.1 u246.61.spylog.com
-127.0.0.1 u249.15.spylog.com
-127.0.0.1 u249.77.spylog.com
-127.0.0.1 u252.80.spylog.com
-127.0.0.1 u273.53.spylog.com
-127.0.0.1 u289.06.spylog.com
-127.0.0.1 u294.54.spylog.com
-127.0.0.1 u2965.45.spylog.com
-127.0.0.1 u2967.81.spylog.com
-127.0.0.1 u2974.05.spylog.com
-127.0.0.1 u3064.72.spylog.com
-127.0.0.1 u3102.47.spylog.com
-127.0.0.1 u311.79.spylog.com
-127.0.0.1 u3123.29.spylog.com
-127.0.0.1 u3129.10.spylog.com
-127.0.0.1 u3197.42.spylog.com
-127.0.0.1 u3215.97.spylog.com
-127.0.0.1 u3239.08.spylog.com
-127.0.0.1 u3305.71.spylog.com
-127.0.0.1 u3417.93.spylog.com
-127.0.0.1 u342.39.spylog.com
-127.0.0.1 u3436.19.spylog.com
-127.0.0.1 u3571.56.spylog.com
-127.0.0.1 u3585.14.spylog.com
-127.0.0.1 u3608.20.spylog.com
-127.0.0.1 u385.24.spylog.com
-127.0.0.1 u4056.56.spylog.com
-127.0.0.1 u432.77.spylog.com
-127.0.0.1 u4396.79.spylog.com
-127.0.0.1 u4443.84.spylog.com
-127.0.0.1 u4556.11.spylog.com
-127.0.0.1 u4573.85.spylog.com
-127.0.0.1 u4702.03.spylog.com
-127.0.0.1 u5234.87.spylog.com
-127.0.0.1 u5234.98.spylog.com
-127.0.0.1 u5303.67.spylog.com
-127.0.0.1 u539.34.spylog.com
-127.0.0.1 u567.64.spylog.com
-127.0.0.1 u5687.48.spylog.com
-127.0.0.1 u574.07.spylog.com
-127.0.0.1 u590.51.spylog.com
-127.0.0.1 u592.05.spylog.com
-127.0.0.1 u604.41.spylog.com
-127.0.0.1 u6226.44.spylog.com
-127.0.0.1 u6353.56.spylog.com
-127.0.0.1 u649.63.spylog.com
-127.0.0.1 u6504.70.spylog.com
-127.0.0.1 u674.98.spylog.com
-127.0.0.1 u7031.36.spylog.com
-127.0.0.1 u707.53.spylog.com
-127.0.0.1 u790.60.spylog.com
-127.0.0.1 u790.67.spylog.com
-127.0.0.1 u904.62.spylog.com
-127.0.0.1 u920.31.spylog.com
-127.0.0.1 u972.03.spylog.com
-127.0.0.1 u977.40.spylog.com
 127.0.0.1 www.spylog.com
 
 # spylog.ru
@@ -29052,9 +28736,6 @@
 127.0.0.1 ct2.suichu-ka.com
 127.0.0.1 x7.suichu-ka.com
 127.0.0.1 x8.suichu-ka.com
-
-# suite101.com
-127.0.0.1 stats.suite101.com
 
 # suitesmart.com
 127.0.0.1 as1.suitesmart.com
@@ -30732,9 +30413,6 @@
 # traffichome.de
 127.0.0.1 traffichome.de
 
-# trafficjp.com
-127.0.0.1 trafficjp.com
-
 # trafficjuicer.com
 127.0.0.1 trafficjuicer.com
 
@@ -31782,7 +31460,6 @@
 # veruta.com
 127.0.0.1 ads.p.veruta.com
 127.0.0.1 adserver.veruta.com
-127.0.0.1 veruta.com
 
 # vervewireless.com
 127.0.0.1 vervewireless.com
@@ -33410,11 +33087,6 @@
 127.0.0.1 www.xoomcounter.com
 127.0.0.1 xoomcounter.com
 
-# xorg.pl
-127.0.0.1 4.googlenews.xorg.pl
-127.0.0.1 googlenews.xorg.pl
-127.0.0.1 shtozazalupa2.xorg.pl
-
 # xost.ru
 127.0.0.1 neorsoft.xost.ru
 
@@ -33475,9 +33147,6 @@
 
 # xvideos.com
 127.0.0.1 s.xvideos.com
-
-# xxaycxswtx.online
-127.0.0.1 xxaycxswtx.online
 
 # xxx-mom.com
 127.0.0.1 www.xxx-mom.com
@@ -33998,9 +33667,6 @@
 # zangocash.com
 127.0.0.1 www.zangocash.com
 127.0.0.1 zangocash.com
-
-# zangomessenger.com
-127.0.0.1 www.zangomessenger.com
 
 # zanox-affiliate.de
 127.0.0.1 www.zanox-affiliate.de
