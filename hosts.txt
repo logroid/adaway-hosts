@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2022/06/07
-# block hosts: 18266 entry
+# last updated: 2022/06/08
+# block hosts: 18299 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -4569,7 +4569,27 @@
 127.0.0.1 www.afftrackinglinks.com
 
 # afi-b.com
+127.0.0.1 admin.afi-b.com
 127.0.0.1 afi-b.com
+127.0.0.1 api.afi-b.com
+127.0.0.1 beginner.afi-b.com
+127.0.0.1 blog.afi-b.com
+127.0.0.1 client.afi-b.com
+127.0.0.1 develop.afi-b.com
+127.0.0.1 expo.afi-b.com
+127.0.0.1 fb.afi-b.com
+127.0.0.1 finance.afi-b.com
+127.0.0.1 hello.afi-b.com
+127.0.0.1 lb02t.afi-b.com
+127.0.0.1 mail-admin.afi-b.com
+127.0.0.1 mail.afi-b.com
+127.0.0.1 mail02.afi-b.com
+127.0.0.1 mail04.afi-b.com
+127.0.0.1 mail06.afi-b.com
+127.0.0.1 partner.afi-b.com
+127.0.0.1 t.afi-b.com
+127.0.0.1 ts.afi-b.com
+127.0.0.1 www.afi-b.com
 
 # afixi.com
 127.0.0.1 ads.afixi.com
@@ -6300,6 +6320,9 @@
 
 # best-meds.biz
 127.0.0.1 best-meds.biz
+
+# best-top.hu
+127.0.0.1 www.best-top.hu
 
 # best2019-games-web4.com
 127.0.0.1 best2019-games-web4.com
@@ -14353,6 +14376,9 @@
 # girafa.com
 127.0.0.1 girafa.com
 
+# girlgamesbanner.com
+127.0.0.1 www.girlgamesbanner.com
+
 # girls.xyz
 127.0.0.1 cn.girls.xyz
 127.0.0.1 de.girls.xyz
@@ -15988,10 +16014,12 @@
 127.0.0.1 hp-monster.de
 
 # hpg.com.br
+127.0.0.1 ad104.hpg.com.br
 127.0.0.1 ad106.hpg.com.br
 127.0.0.1 ad113.hpg.com.br
 127.0.0.1 ad117.hpg.com.br
 127.0.0.1 ad120.hpg.com.br
+127.0.0.1 ad157.hpg.com.br
 127.0.0.1 ad170.hpg.com.br
 127.0.0.1 ad187.hpg.com.br
 127.0.0.1 ad189.hpg.com.br
@@ -16005,6 +16033,7 @@
 127.0.0.1 ad240.hpg.com.br
 127.0.0.1 ad242.hpg.com.br
 127.0.0.1 ad250.hpg.com.br
+127.0.0.1 ad3.hpg.com.br
 127.0.0.1 ad33.hpg.com.br
 127.0.0.1 ad50.hpg.com.br
 127.0.0.1 ad53.hpg.com.br
@@ -16017,10 +16046,12 @@
 127.0.0.1 ads129.hpg.com.br
 127.0.0.1 ads143.hpg.com.br
 127.0.0.1 ads146.hpg.com.br
+127.0.0.1 ads155.hpg.com.br
 127.0.0.1 ads196.hpg.com.br
 127.0.0.1 ads212.hpg.com.br
 127.0.0.1 ads219.hpg.com.br
 127.0.0.1 ads224.hpg.com.br
+127.0.0.1 ads23.hpg.com.br
 127.0.0.1 ads232.hpg.com.br
 127.0.0.1 ads250.hpg.com.br
 127.0.0.1 ads32.hpg.com.br
@@ -16028,6 +16059,7 @@
 127.0.0.1 ads48.hpg.com.br
 127.0.0.1 ads53.hpg.com.br
 127.0.0.1 ads54.hpg.com.br
+127.0.0.1 ads73.hpg.com.br
 127.0.0.1 ads87.hpg.com.br
 127.0.0.1 ads97.hpg.com.br
 127.0.0.1 advert223.hpg.com.br
@@ -16043,6 +16075,7 @@
 127.0.0.1 banners146.hpg.com.br
 127.0.0.1 banners147.hpg.com.br
 127.0.0.1 banners16.hpg.com.br
+127.0.0.1 banners206.hpg.com.br
 127.0.0.1 banners221.hpg.com.br
 127.0.0.1 banners226.hpg.com.br
 127.0.0.1 banners41.hpg.com.br
@@ -23201,6 +23234,7 @@
 
 # nuggad.net
 127.0.0.1 httpoolat.nuggad.net
+127.0.0.1 httpoolbg.nuggad.net
 127.0.0.1 idmnet.nuggad.net
 
 # nuseek.com
@@ -24177,6 +24211,7 @@
 127.0.0.1 ad107.paycount.com
 127.0.0.1 ad140.paycount.com
 127.0.0.1 ad156.paycount.com
+127.0.0.1 ad158.paycount.com
 127.0.0.1 ad164.paycount.com
 127.0.0.1 ad211.paycount.com
 127.0.0.1 ad238.paycount.com
@@ -26052,6 +26087,9 @@
 127.0.0.1 banners.resultonline.com
 127.0.0.1 resultonline.com
 
+# results-today.com
+127.0.0.1 www.results-today.com
+
 # resultsz.com
 127.0.0.1 resultsz.com
 127.0.0.1 www.resultsz.com
@@ -26631,6 +26669,9 @@
 
 # scripps.com
 127.0.0.1 apptap.scripps.com
+
+# scripte-monster.de
+127.0.0.1 scripte-monster.de
 
 # scubajournal.com
 127.0.0.1 scubajournal.com
