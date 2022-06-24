@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2022/06/08
-# block hosts: 18299 entry
+# last updated: 2022/06/24
+# block hosts: 18243 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -1693,14 +1693,8 @@
 # 47news.jp
 127.0.0.1 track.47news.jp
 
-# 493b98cce8bc1a2dd.com
-127.0.0.1 493b98cce8bc1a2dd.com
-
 # 4affiliate.net
 127.0.0.1 4affiliate.net
-
-# 4at1.com
-127.0.0.1 r.4at1.com
 
 # 4clicks.org
 127.0.0.1 adserver.4clicks.org
@@ -2381,6 +2375,7 @@
 127.0.0.1 www.ad-space.net
 
 # ad-spire.net
+127.0.0.1 ad-spire.net
 127.0.0.1 flt.ad-spire.net
 127.0.0.1 js.ad-spire.net
 
@@ -2454,9 +2449,6 @@
 
 # ad4mat.ch
 127.0.0.1 www.ad4mat.ch
-
-# ad4portal.com
-127.0.0.1 www.th.ad4portal.com
 
 # ad6media.fr
 127.0.0.1 c.ad6media.fr
@@ -3440,9 +3432,6 @@
 127.0.0.1 adreactor.com
 127.0.0.1 adserver.adreactor.com
 
-# adready.net
-127.0.0.1 adready.net
-
 # adreadytractions.com
 127.0.0.1 adreadytractions.com
 127.0.0.1 www.adreadytractions.com
@@ -3576,9 +3565,6 @@
 127.0.0.1 ads4links.com
 127.0.0.1 www.ads4links.com
 
-# ads99.cn
-127.0.0.1 a.ads99.cn
-
 # adsafeprotected.com
 127.0.0.1 pixel.adsafeprotected.com
 
@@ -3623,6 +3609,7 @@
 127.0.0.1 adsdaq.com
 
 # adsdk.com
+127.0.0.1 adsdk.com
 127.0.0.1 cdn1.adsdk.com
 
 # adsecxnet.ws
@@ -4279,6 +4266,9 @@
 127.0.0.1 images.adviews.de
 127.0.0.1 www.adviews.de
 
+# advision-adnw.jp
+127.0.0.1 advision-adnw.jp
+
 # adviva.com
 127.0.0.1 adviva.com
 
@@ -4302,7 +4292,6 @@
 127.0.0.1 www.adwarebot.com
 
 # adwarepro.com
-127.0.0.1 adwarepro.com
 127.0.0.1 www.adwarepro.com
 
 # adwarespy.com
@@ -4366,9 +4355,6 @@
 
 # adxxx.org
 127.0.0.1 adxxx.org
-
-# adyea.com
-127.0.0.1 adyea.com
 
 # adyun.com
 127.0.0.1 adyun.com
@@ -4667,6 +4653,9 @@
 
 # airad.com
 127.0.0.1 www.airad.com
+
+# airlinemeals.net
+127.0.0.1 airlinemeals.net
 
 # airmiles.ca
 127.0.0.1 adserver.airmiles.ca
@@ -5756,10 +5745,6 @@
 # awmads.com
 127.0.0.1 www.awmads.com
 
-# axelsfun.com
-127.0.0.1 axelsfun.com
-127.0.0.1 ttiger.axelsfun.com
-
 # axf8.net
 127.0.0.1 0d7292.r.axf8.net
 127.0.0.1 0f36f3.r.axf8.net
@@ -6128,7 +6113,6 @@
 # bannerspace.com
 127.0.0.1 bannerspace.com
 127.0.0.1 www.bannerspace.com
-127.0.0.1 www3.bannerspace.com
 127.0.0.1 www7.bannerspace.com
 
 # bannersponsor.com
@@ -6320,9 +6304,6 @@
 
 # best-meds.biz
 127.0.0.1 best-meds.biz
-
-# best-top.hu
-127.0.0.1 www.best-top.hu
 
 # best2019-games-web4.com
 127.0.0.1 best2019-games-web4.com
@@ -6998,10 +6979,6 @@
 127.0.0.1 x6.bokunenjin.com
 127.0.0.1 x8.bokunenjin.com
 
-# bol.bg
-127.0.0.1 ad.bol.bg
-127.0.0.1 adv.bol.bg
-
 # bol.com.br
 127.0.0.1 banners.bol.com.br
 
@@ -7650,9 +7627,6 @@
 127.0.0.1 adserver.cams.com
 127.0.0.1 banners.cams.com
 127.0.0.1 promo.cams.com
-
-# canadatop.com
-127.0.0.1 canadatop.com
 
 # canadian-drugshop.com
 127.0.0.1 www.canadian-drugshop.com
@@ -8483,6 +8457,9 @@
 # clickdensity.com
 127.0.0.1 clickdensity.com
 
+# clickdough.com
+127.0.0.1 clickdough.com
+
 # clickedyclick.com
 127.0.0.1 clickedyclick.com
 127.0.0.1 www.clickedyclick.com
@@ -8677,9 +8654,6 @@
 
 # clicmanager.fr
 127.0.0.1 clicmanager.fr
-
-# clicshop.com
-127.0.0.1 clicshop.com
 
 # clictrafic.com
 127.0.0.1 clictrafic.com
@@ -10179,7 +10153,6 @@
 
 # deqwas.net
 127.0.0.1 books.rakuten.deqwas.net
-127.0.0.1 deqwas.net
 127.0.0.1 dsp07.deqwas.net
 127.0.0.1 ichiba.rakuten.deqwas.net
 127.0.0.1 kdex001.deqwas.net
@@ -10278,11 +10251,6 @@
 
 # dianomioffers.co.uk
 127.0.0.1 www.dianomioffers.co.uk
-
-# dianru.com
-127.0.0.1 api.dianru.com
-127.0.0.1 static.dianru.com
-127.0.0.1 www.dianru.com
 
 # dice.com
 127.0.0.1 stats.dice.com
@@ -10522,7 +10490,6 @@
 127.0.0.1 ad.games.dmm.co.jp
 127.0.0.1 al.dmm.co.jp
 127.0.0.1 aqua.dmm.co.jp
-127.0.0.1 cn.dap.dmm.co.jp
 127.0.0.1 widget-view.dmm.co.jp
 
 # dmm.com
@@ -11515,9 +11482,6 @@
 # eden21.net
 127.0.0.1 www.eden21.net
 
-# edgeio.com
-127.0.0.1 edgeio.com
-
 # edgesuite.net
 127.0.0.1 79423.analytics.edgesuite.net
 127.0.0.1 adinterax.cnet.com.edgesuite.net
@@ -12399,9 +12363,6 @@
 # everyfreegift.com
 127.0.0.1 everyfreegift.com
 127.0.0.1 www.everyfreegift.com
-
-# everyone.com
-127.0.0.1 adservice.everyone.com
 
 # everyone.net
 127.0.0.1 adcycle.everyone.net
@@ -13789,9 +13750,6 @@
 # fukuishimbun.co.jp
 127.0.0.1 af.fukuishimbun.co.jp
 
-# fullddl.com
-127.0.0.1 fullddl.com
-
 # fulldls.com
 127.0.0.1 ads.fulldls.com
 
@@ -13868,9 +13826,6 @@
 # gadu-gadu.pl
 127.0.0.1 adserver.gadu-gadu.pl
 
-# gajmp.com
-127.0.0.1 tracking.gajmp.com
-
 # gallerytrafficservice.com
 127.0.0.1 www.gallerytrafficservice.com
 
@@ -13913,9 +13868,6 @@
 
 # gamecopyworld.com
 127.0.0.1 ih4.gamecopyworld.com
-
-# gamediad.com
-127.0.0.1 gamediad.com
 
 # gameduell.de
 127.0.0.1 media.gameduell.de
@@ -15293,9 +15245,6 @@
 # hiperstat.com
 127.0.0.1 www.hiperstat.com
 
-# hiphopnow.net
-127.0.0.1 hiphopnow.net
-
 # hipmarket.com
 127.0.0.1 www.hipmarket.com
 
@@ -16087,6 +16036,7 @@
 127.0.0.1 banners74.hpg.com.br
 127.0.0.1 banners8.hpg.com.br
 127.0.0.1 banners82.hpg.com.br
+127.0.0.1 banners84.hpg.com.br
 
 # hpod.com
 127.0.0.1 hpod.com
@@ -16631,9 +16581,6 @@
 
 # images-amazon.com
 127.0.0.1 ec3.images-amazon.com
-
-# imagine-inc.com
-127.0.0.1 ads.imagine-inc.com
 
 # imaginemedia.com
 127.0.0.1 www.imaginemedia.com
@@ -19087,12 +19034,12 @@
 127.0.0.1 libereco.net
 127.0.0.1 www.libereco.net
 
-# libero.it
-127.0.0.1 adv-banner.libero.it
-
 # libertysurf.fr
 127.0.0.1 abo.libertysurf.fr
 127.0.0.1 js.libertysurf.fr
+
+# librogratis.info
+127.0.0.1 librogratis.info
 
 # libstat.com
 127.0.0.1 lib1.libstat.com
@@ -19950,7 +19897,6 @@
 127.0.0.1 wbads.vo.llnwd.net
 
 # lmlttrack.com
-127.0.0.1 lmlttrack.com
 127.0.0.1 www.lmlttrack.com
 
 # lmmob.com
@@ -20018,9 +19964,6 @@
 
 # lonelywifehookup.com
 127.0.0.1 promo.lonelywifehookup.com
-
-# longlonggroup.com
-127.0.0.1 www.longlonggroup.com
 
 # longtraffic.com
 127.0.0.1 longtraffic.com
@@ -20297,6 +20240,9 @@
 127.0.0.1 top.mail.ru
 127.0.0.1 top10.mail.ru
 
+# maillovelove.net
+127.0.0.1 maillovelove.net
+
 # mainetoday.com
 127.0.0.1 ads.mainetoday.com
 
@@ -20514,7 +20460,6 @@
 
 # maxifiles.com
 127.0.0.1 goto.maxifiles.com
-127.0.0.1 maxifiles.com
 127.0.0.1 network.maxifiles.com
 127.0.0.1 xml.maxifiles.com
 
@@ -20529,9 +20474,6 @@
 # maximumhost.com
 127.0.0.1 ns1.maximumhost.com
 127.0.0.1 ns3.maximumhost.com
-
-# maximus-time.com
-127.0.0.1 maximus-time.com
 
 # maxmusics.com
 127.0.0.1 maxmusics.com
@@ -21243,9 +21185,6 @@
 # mobilesidewalk.com
 127.0.0.1 banners.mobilesidewalk.com
 
-# mobileyouandme.com
-127.0.0.1 track.mobileyouandme.com
-
 # mobilityware.com
 127.0.0.1 ads.mobilityware.com
 127.0.0.1 apps.mobilityware.com
@@ -21595,7 +21534,6 @@
 
 # mtburn.com
 127.0.0.1 ad.mtburn.com
-127.0.0.1 click.mtburn.com
 127.0.0.1 js.mtburn.com
 127.0.0.1 mtburn.com
 
@@ -22644,9 +22582,6 @@
 # netavenir.com
 127.0.0.1 engine.espace.netavenir.com
 
-# netbanner.com
-127.0.0.1 netbanner.com
-
 # netbookia.net
 127.0.0.1 netpool.netbookia.net
 
@@ -22768,9 +22703,6 @@
 
 # netrevgo.com
 127.0.0.1 delivery.adcash.dsp.netrevgo.com
-
-# netrition.com
-127.0.0.1 ads.netrition.com
 
 # netropa.com
 127.0.0.1 netropa.com
@@ -23078,9 +23010,6 @@
 
 # nitroclicks.com
 127.0.0.1 nitroclicks.com
-
-# nitronetads.com
-127.0.0.1 www.nitronetads.com
 
 # nixnet.cz
 127.0.0.1 banner.nixnet.cz
@@ -24089,9 +24018,6 @@
 127.0.0.1 ad3.pamedia.com.au
 127.0.0.1 pamedia.com.au
 
-# pandora.tv
-127.0.0.1 ads.pandora.tv
-
 # pantanalvip.com.br
 127.0.0.1 www.pantanalvip.com.br
 
@@ -24345,9 +24271,6 @@
 # peerfly.com
 127.0.0.1 peerfly.com
 
-# pegasoweb.com
-127.0.0.1 pegasoweb.com
-
 # pelikan.cz
 127.0.0.1 partner.pelikan.cz
 
@@ -24443,9 +24366,6 @@
 # permissionresearch.com
 127.0.0.1 www.permissionresearch.com
 
-# persianstat.ir
-127.0.0.1 www.persianstat.ir
-
 # personyze.com
 127.0.0.1 counter.personyze.com
 
@@ -24510,12 +24430,6 @@
 
 # phluant.com
 127.0.0.1 s3.phluant.com
-
-# phluantmobile.net
-127.0.0.1 mdn1.phluantmobile.net
-127.0.0.1 mdn2.phluantmobile.net
-127.0.0.1 mdn3.phluantmobile.net
-127.0.0.1 mdn3origin.phluantmobile.net
 
 # phonearena.com
 127.0.0.1 ads.phonearena.com
@@ -25212,9 +25126,6 @@
 
 # prohardver.hu
 127.0.0.1 img.prohardver.hu
-
-# prohledat.cz
-127.0.0.1 counter.prohledat.cz
 
 # projectcounter.org
 127.0.0.1 projectcounter.org
@@ -26468,9 +26379,6 @@
 # rushcommerce.com
 127.0.0.1 banners.rushcommerce.com
 
-# russiantwinksecrets.com
-127.0.0.1 russiantwinksecrets.com
-
 # rx-drugs-support.com
 127.0.0.1 rx-drugs-support.com
 
@@ -26547,9 +26455,6 @@
 
 # salemwebnetwork.com
 127.0.0.1 media.salemwebnetwork.com
-
-# samsungadhub.com
-127.0.0.1 ad.samsungadhub.com
 
 # sanomawsoy.fi
 127.0.0.1 adimages.sanomawsoy.fi
@@ -28032,9 +27937,6 @@
 # socratos.net
 127.0.0.1 ivox.socratos.net
 
-# sodta.com
-127.0.0.1 tracking.sodta.com
-
 # soft32.com
 127.0.0.1 ads.soft32.com
 
@@ -28099,9 +28001,6 @@
 
 # sonypictures.com
 127.0.0.1 omn.sonypictures.com
-
-# sooran.ir
-127.0.0.1 ads.sooran.ir
 
 # sophus3.com
 127.0.0.1 scripts.sophus3.com
@@ -29111,9 +29010,6 @@
 # swzone.it
 127.0.0.1 adv.swzone.it
 
-# sxplus.com
-127.0.0.1 www.sxplus.com
-
 # symantec.com
 127.0.0.1 om.symantec.com
 
@@ -29423,9 +29319,6 @@
 127.0.0.1 ads.tele.net
 127.0.0.1 adserver.tele.net
 127.0.0.1 sdc.tele.net
-
-# telegram.com
-127.0.0.1 adx.telegram.com
 
 # telemarque.com
 127.0.0.1 www2.telemarque.com
@@ -29788,10 +29681,6 @@
 # tinybar.com
 127.0.0.1 tinybar.com
 
-# tiscali.co.uk
-127.0.0.1 a.tiscali.co.uk
-127.0.0.1 sitestats.tiscali.co.uk
-
 # tiscali.de
 127.0.0.1 adsweb.tiscali.de
 
@@ -29970,9 +29859,6 @@
 # topauto10.com
 127.0.0.1 www.topauto10.com
 
-# topblogarea.com
-127.0.0.1 www.topblogarea.com
-
 # topblogarea.se
 127.0.0.1 topblogarea.se
 
@@ -30099,9 +29985,6 @@
 # topsite.lv
 127.0.0.1 topsite.lv
 
-# topsiteguide.com
-127.0.0.1 www.topsiteguide.com
-
 # topsites.com.br
 127.0.0.1 topsites.com.br
 
@@ -30144,9 +30027,6 @@
 
 # totalfax.net
 127.0.0.1 www.totalfax.net
-
-# totallyfreestuff.com
-127.0.0.1 ads.totallyfreestuff.com
 
 # totemcash.com
 127.0.0.1 totemcash.com
@@ -30253,9 +30133,6 @@
 
 # trackingsoft.com
 127.0.0.1 trackingsoft.com
-
-# tracklead.net
-127.0.0.1 tracklead.net
 
 # trackmedia101.com
 127.0.0.1 trackmedia101.com
@@ -30506,9 +30383,6 @@
 
 # trafficrank.de
 127.0.0.1 www.trafficrank.de
-
-# trafficresults.com
-127.0.0.1 www.trafficresults.com
 
 # trafficrevenue.net
 127.0.0.1 www.trafficrevenue.net
@@ -31124,10 +30998,8 @@
 127.0.0.1 cdn-akamai.unityads.unity3d.com
 127.0.0.1 dsp-tracking.unityads.unity3d.com
 127.0.0.1 eloqua-tracking.unity3d.com
-127.0.0.1 installtracker.unityads.unity3d.com
 127.0.0.1 issuetracker.unity3d.com
 127.0.0.1 tracker.unity3d.com
-127.0.0.1 tracker.unityads.unity3d.com
 
 # univision.com
 127.0.0.1 ads.univision.com
@@ -31209,11 +31081,6 @@
 
 # urpo.com
 127.0.0.1 www.urpo.com
-
-# urtbk.com
-127.0.0.1 popunder.urtbk.com
-127.0.0.1 roitrack.urtbk.com
-127.0.0.1 url.urtbk.com
 
 # usa.net
 127.0.0.1 images02.netaddress.usa.net
@@ -31323,6 +31190,7 @@
 # val.jp
 127.0.0.1 ad-image.val.jp
 127.0.0.1 ad-info.val.jp
+127.0.0.1 ad.val.jp
 127.0.0.1 s3.mobile.val.jp
 
 # valary.com
@@ -31972,9 +31840,6 @@
 127.0.0.1 ct2.wakatono.jp
 127.0.0.1 x4.wakatono.jp
 127.0.0.1 x6.wakatono.jp
-
-# wallofmobi.com
-127.0.0.1 click.wallofmobi.com
 
 # wallpapers.com
 127.0.0.1 off.wallpapers.com
@@ -32850,9 +32715,6 @@
 # wpdstat.com
 127.0.0.1 www.wpdstat.com
 
-# wrestling1.com
-127.0.0.1 www.wrestling1.com
-
 # wretch.cc
 127.0.0.1 ad.wretch.cc
 
@@ -33103,9 +32965,6 @@
 # xlocator.com
 127.0.0.1 www.xlocator.com
 127.0.0.1 xlocator.com
-
-# xlxtra.com
-127.0.0.1 ads.xlxtra.com
 
 # xmax.jp
 127.0.0.1 images.xmax.jp
@@ -33701,6 +33560,9 @@
 
 # yyep.com
 127.0.0.1 www.yyep.com
+
+# yzsjsjx.cn
+127.0.0.1 yzsjsjx.cn
 
 # z-stat.com
 127.0.0.1 stat1.z-stat.com
