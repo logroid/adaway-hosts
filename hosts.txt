@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2022/08/06
-# block hosts: 18134 entry
+# last updated: 2022/08/07
+# block hosts: 18142 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -3209,6 +3209,9 @@
 127.0.0.1 admex.com
 127.0.0.1 www.admex.com
 
+# admez.com
+127.0.0.1 www.admez.com
+
 # admigo.ru
 127.0.0.1 admigo.ru
 127.0.0.1 data.admigo.ru
@@ -3861,6 +3864,7 @@
 
 # adtech.fr
 127.0.0.1 ldimage01.adtech.fr
+127.0.0.1 service004.adtech.fr
 
 # adtech.info
 127.0.0.1 en.adtech.info
@@ -13677,6 +13681,9 @@
 # fun9.net
 127.0.0.1 fun9.net
 
+# funnytaf.com
+127.0.0.1 www.funnytaf.com
+
 # funpic.de
 127.0.0.1 404.funpic.de
 127.0.0.1 media.funpic.de
@@ -14432,6 +14439,9 @@
 # go-girly.com
 127.0.0.1 ads.go-girly.com
 
+# go-west.nl
+127.0.0.1 stats.go-west.nl
+
 # go.com
 127.0.0.1 ad.family.go.com
 127.0.0.1 ad.go.com
@@ -14659,6 +14669,9 @@
 
 # gotricities.net
 127.0.0.1 www.gotricities.net
+
+# goviral.com
+127.0.0.1 goviral.com
 
 # goviralnetwork.net
 127.0.0.1 goviralnetwork.net
@@ -15798,6 +15811,9 @@
 
 # hostlogr.com
 127.0.0.1 mydas.mobi.hostlogr.com
+
+# hot-lindsay.com
+127.0.0.1 www.hot-lindsay.com
 
 # hot-mob.com
 127.0.0.1 ad.hot-mob.com
@@ -18966,6 +18982,10 @@
 
 # line-apps.com
 127.0.0.1 torimochi.line-apps.com
+
+# line.me
+127.0.0.1 ads.line.me
+127.0.0.1 lap-click.tr.line.me
 
 # linekong.com
 127.0.0.1 img.linekong.com
