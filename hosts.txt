@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2022/08/07
-# block hosts: 18142 entry
+# last updated: 2022/08/19
+# block hosts: 18109 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -108,9 +108,6 @@
 
 # 123webmarketing.com
 127.0.0.1 www.123webmarketing.com
-
-# 124365.com
-127.0.0.1 124365.com
 
 # 140proof.com
 127.0.0.1 140proof.com
@@ -1726,9 +1723,6 @@
 # 5.to
 127.0.0.1 d.5.to
 
-# 5000freebanners.com
-127.0.0.1 www.5000freebanners.com
-
 # 50megs.com
 127.0.0.1 banner.50megs.com
 127.0.0.1 banner1.50megs.com
@@ -2743,9 +2737,6 @@
 # adecn.com
 127.0.0.1 adecn.com
 
-# adedy.com
-127.0.0.1 adedy.com
-
 # adelixir.com
 127.0.0.1 www.adelixir.com
 
@@ -3121,7 +3112,6 @@
 127.0.0.1 adlantic.nl
 
 # adlead.com
-127.0.0.1 adlead.com
 127.0.0.1 www.adlead.com
 
 # adlegend.com
@@ -3526,7 +3516,6 @@
 127.0.0.1 open.ads-pixiv.net
 127.0.0.1 pixon.ads-pixiv.net
 127.0.0.1 stg-pixon.ads-pixiv.net
-127.0.0.1 tag-store.ads-pixiv.net
 127.0.0.1 tag2gender.ads-pixiv.net
 127.0.0.1 workflow.ads-pixiv.net
 
@@ -3558,6 +3547,9 @@
 # ads4links.com
 127.0.0.1 ads4links.com
 127.0.0.1 www.ads4links.com
+
+# ads80.com
+127.0.0.1 ads80.com
 
 # adsafeprotected.com
 127.0.0.1 pixel.adsafeprotected.com
@@ -3714,9 +3706,6 @@
 
 # adsmart.com
 127.0.0.1 adsmart.com
-
-# adsmart.de
-127.0.0.1 adsmart.de
 
 # adsmart.net
 127.0.0.1 ad.adsmart.net
@@ -4011,7 +4000,6 @@
 
 # adultgames.fun
 127.0.0.1 adultgames.fun
-127.0.0.1 wcrgl.adultgames.fun
 
 # adultking.com
 127.0.0.1 ads.adultking.com
@@ -4645,9 +4633,6 @@
 
 # airad.com
 127.0.0.1 www.airad.com
-
-# airlinemeals.net
-127.0.0.1 airlinemeals.net
 
 # airmiles.ca
 127.0.0.1 adserver.airmiles.ca
@@ -8907,9 +8892,6 @@
 # collegeclub.com
 127.0.0.1 ads2.collegeclub.com
 
-# colo2.jp
-127.0.0.1 js.colo2.jp
-
 # colonize.com
 127.0.0.1 colonize.com
 
@@ -11448,6 +11430,9 @@
 127.0.0.1 edomz.com
 127.0.0.1 www.edomz.com
 
+# edua29146y.com
+127.0.0.1 edua29146y.com
+
 # effectivebrand.com
 127.0.0.1 search.effectivebrand.com
 127.0.0.1 users.effectivebrand.com
@@ -13738,25 +13723,19 @@
 127.0.0.1 campaign-builder.g123.jp
 127.0.0.1 campaign.g123.jp
 127.0.0.1 cdn-new.g123.jp
-127.0.0.1 cdn.g123.jp
 127.0.0.1 courier-comet.g123.jp
 127.0.0.1 data-fireman.g123.jp
 127.0.0.1 developers.g123.jp
 127.0.0.1 g123.jp
 127.0.0.1 h5.g123.jp
-127.0.0.1 manga-sc.g123.jp
-127.0.0.1 manga.g123.jp
 127.0.0.1 noti.g123.jp
 127.0.0.1 platform-sc.g123.jp
 127.0.0.1 psp.g123.jp
 127.0.0.1 reward-sc.g123.jp
 127.0.0.1 s.g123.jp
-127.0.0.1 s3manga.g123.jp
 127.0.0.1 shop.g123.jp
-127.0.0.1 staging.g123.jp
 127.0.0.1 stg.g123.jp
 127.0.0.1 tableau.g123.jp
-127.0.0.1 www.g123.jp
 127.0.0.1 yyhijp.g123.jp
 
 # gabia.com
@@ -14033,9 +14012,6 @@
 # geigercount.net
 127.0.0.1 geigercount.net
 
-# gem-inc.com
-127.0.0.1 gem-inc.com
-
 # gemius.pl
 127.0.0.1 activeby.hit.gemius.pl
 127.0.0.1 ad.hit.gemius.pl
@@ -14274,9 +14250,6 @@
 # girafa.com
 127.0.0.1 girafa.com
 
-# girlgamesbanner.com
-127.0.0.1 www.girlgamesbanner.com
-
 # girls.xyz
 127.0.0.1 cn.girls.xyz
 127.0.0.1 de.girls.xyz
@@ -14353,7 +14326,6 @@
 
 # globalismedia.com
 127.0.0.1 ad.globalismedia.com
-127.0.0.1 globalismedia.com
 
 # globalmailer.com
 127.0.0.1 promotools.globalmailer.com
@@ -14561,9 +14533,6 @@
 
 # goodpic.com
 127.0.0.1 s3.goodpic.com
-
-# google-analyticals.com
-127.0.0.1 google-analyticals.com
 
 # google.com
 127.0.0.1 adwords.google.com
@@ -18258,7 +18227,6 @@
 127.0.0.1 content.joinaxxess.com
 
 # joins.com
-127.0.0.1 cmpm.joins.com
 127.0.0.1 counter.joins.com
 
 # jokep.com
@@ -18850,6 +18818,9 @@
 # leadforensics.com
 127.0.0.1 secure.leadforensics.com
 
+# leadformix.com
+127.0.0.1 vlog.leadformix.com
+
 # leadhound.com
 127.0.0.1 leadhound.com
 127.0.0.1 www.leadhound.com
@@ -18937,9 +18908,6 @@
 # libertysurf.fr
 127.0.0.1 abo.libertysurf.fr
 127.0.0.1 js.libertysurf.fr
-
-# librogratis.info
-127.0.0.1 librogratis.info
 
 # libstat.com
 127.0.0.1 lib1.libstat.com
@@ -20151,7 +20119,6 @@
 127.0.0.1 ads.mainetoday.com
 
 # mainpean.de
-127.0.0.1 faq.mainpean.de
 127.0.0.1 voicecall.mainpean.de
 127.0.0.1 www.mainpean.de
 
@@ -20682,9 +20649,6 @@
 
 # megafriends.com
 127.0.0.1 megafriends.com
-
-# megalithusa.com
-127.0.0.1 megalithusa.com
 
 # megaroticlive.com
 127.0.0.1 mbs.megaroticlive.com
@@ -21574,9 +21538,6 @@
 127.0.0.1 myaffiliateprogram.com
 127.0.0.1 www.myaffiliateprogram.com
 
-# myandu.com
-127.0.0.1 myandu.com
-
 # myareaguide.com
 127.0.0.1 images.myareaguide.com
 
@@ -22459,9 +22420,6 @@
 # net-nucleus.com
 127.0.0.1 awbeta.net-nucleus.com
 127.0.0.1 www.net-nucleus.com
-
-# net-pratique.fr
-127.0.0.1 www.net-pratique.fr
 
 # net-tool.jp
 127.0.0.1 ad.net-tool.jp
@@ -24027,6 +23985,7 @@
 127.0.0.1 ad158.paycount.com
 127.0.0.1 ad160.paycount.com
 127.0.0.1 ad164.paycount.com
+127.0.0.1 ad175.paycount.com
 127.0.0.1 ad211.paycount.com
 127.0.0.1 ad238.paycount.com
 127.0.0.1 ad26.paycount.com
@@ -24167,9 +24126,6 @@
 # penki.lt
 127.0.0.1 counter.top100.penki.lt
 
-# pennerzone.de
-127.0.0.1 hamburg.pennerzone.de
-
 # pennlive.com
 127.0.0.1 geoip.pennlive.com
 127.0.0.1 metrics.pennlive.com
@@ -24232,7 +24188,6 @@
 
 # performancing.com
 127.0.0.1 performancing.com
-127.0.0.1 pmetrics.performancing.com
 
 # performgroup.com
 127.0.0.1 images.eplayer.performgroup.com
@@ -24414,10 +24369,6 @@
 127.0.0.1 insightxe-ssl.pittsburghlive.com
 127.0.0.1 insightxe.pittsburghlive.com
 
-# pivotnetworks.com
-127.0.0.1 pivotnetworks.com
-127.0.0.1 www.pivotnetworks.com
-
 # piwik.org
 127.0.0.1 piwik.org
 127.0.0.1 www.piwik.org
@@ -24527,9 +24478,6 @@
 
 # pmll.net
 127.0.0.1 pmll.net
-
-# pmsrvr.com
-127.0.0.1 ax.pmsrvr.com
 
 # pnap.net
 127.0.0.1 ns1.sfj.pnap.net
@@ -25164,9 +25112,6 @@
 
 # pussycash.com
 127.0.0.1 media.pussycash.com
-
-# pussyharem.com
-127.0.0.1 www.pussyharem.com
 
 # pvk.jp
 127.0.0.1 pvk.jp
@@ -26246,9 +26191,6 @@
 # rx-promotion.com
 127.0.0.1 clients.rx-promotion.com
 
-# rx-top.com
-127.0.0.1 rx-top.com
-
 # rxparty.net
 127.0.0.1 w.rxparty.net
 
@@ -26862,7 +26804,6 @@
 127.0.0.1 images.sexlist.com
 127.0.0.1 links.sexlist.com
 127.0.0.1 lobby.sexlist.com
-127.0.0.1 sexlist.com
 127.0.0.1 vis.sexlist.com
 127.0.0.1 vis5.sexlist.com
 127.0.0.1 xit.sexlist.com
@@ -26905,9 +26846,6 @@
 
 # sexswap2000.com
 127.0.0.1 cgi.sexswap2000.com
-
-# sextip.de
-127.0.0.1 ads.sextip.de
 
 # sextracker.be
 127.0.0.1 banners.sextracker.be
@@ -29711,9 +29649,6 @@
 # topflownews.com
 127.0.0.1 topflownews.com
 
-# topforall.com
-127.0.0.1 topforall.com
-
 # topgamesites.net
 127.0.0.1 topgamesites.net
 
@@ -31236,9 +31171,6 @@
 # vidz.com
 127.0.0.1 webdata.vidz.com
 
-# view4cash.de
-127.0.0.1 view4cash.de
-
 # viewpoint.com
 127.0.0.1 viewpoint.com
 
@@ -32253,9 +32185,6 @@
 127.0.0.1 down.winads.cn
 127.0.0.1 www.winads.cn
 
-# winc-ad.com
-127.0.0.1 js.winc-ad.com
-
 # windows-cannot-find.com
 127.0.0.1 www.windows-cannot-find.com
 
@@ -32350,9 +32279,6 @@
 
 # wizeraz.net
 127.0.0.1 js.wizeraz.net
-
-# wizteen.com
-127.0.0.1 www.wizteen.com
 
 # wjmuseum.com
 127.0.0.1 www.wjmuseum.com
@@ -33394,6 +33320,7 @@
 127.0.0.1 ads.zedo.com
 127.0.0.1 d4.zedo.com
 127.0.0.1 gw.zedo.com
+127.0.0.1 l8.zedo.com
 127.0.0.1 r1.zedo.com
 127.0.0.1 simg.zedo.com
 127.0.0.1 ss7.zedo.com
