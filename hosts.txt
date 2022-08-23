@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2022/08/19
-# block hosts: 18109 entry
+# last updated: 2022/08/24
+# block hosts: 18080 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -2196,9 +2196,6 @@
 # aceweb.net
 127.0.0.1 ads.aceweb.net
 
-# acez.com
-127.0.0.1 www.acez.com
-
 # acezip.net
 127.0.0.1 acezip.net
 127.0.0.1 www.acezip.net
@@ -2343,14 +2340,8 @@
 127.0.0.1 ad-pay.de
 127.0.0.1 www.ad-pay.de
 
-# ad-rotator.com
-127.0.0.1 ad-rotator.com
-
 # ad-seek.jp
 127.0.0.1 ad-seek.jp
-
-# ad-shot.com
-127.0.0.1 ad-shot.com
 
 # ad-sp.biz
 127.0.0.1 ad-sp.biz
@@ -3852,6 +3843,7 @@
 127.0.0.1 secserv.adtech.de
 
 # adtech.fr
+127.0.0.1 corba.adtech.fr
 127.0.0.1 ldimage01.adtech.fr
 127.0.0.1 service004.adtech.fr
 
@@ -4582,9 +4574,6 @@
 
 # agcdn.com
 127.0.0.1 dni.agcdn.com
-
-# agemature.com
-127.0.0.1 agemature.com
 
 # agent.co.il
 127.0.0.1 stats.agent.co.il
@@ -6069,9 +6058,6 @@
 # banners.com
 127.0.0.1 banners.com
 
-# bannerselect.com
-127.0.0.1 bannerselect.com
-
 # bannerserver.com
 127.0.0.1 bannerserver.com
 
@@ -6525,9 +6511,6 @@
 
 # bikers-engine.com
 127.0.0.1 banex.bikers-engine.com
-
-# bilbob.com
-127.0.0.1 bilbob.com
 
 # billboard.cz
 127.0.0.1 billboard.cz
@@ -7033,9 +7016,6 @@
 # brabys.com
 127.0.0.1 ads.brabys.com
 
-# brain.pk
-127.0.0.1 ads.brain.pk
-
 # braincash.com
 127.0.0.1 braincash.com
 127.0.0.1 track.braincash.com
@@ -7433,9 +7413,6 @@
 127.0.0.1 buxflow.com
 127.0.0.1 www.buxflow.com
 
-# buy-pharmacy.info
-127.0.0.1 www.buy-pharmacy.info
-
 # buy.com
 127.0.0.1 fp.buy.com
 127.0.0.1 images.buy.com
@@ -7595,10 +7572,6 @@
 
 # canadian-pharmacy-store.com
 127.0.0.1 canadian-pharmacy-store.com
-
-# canadianhw.ca
-127.0.0.1 canadianhw.ca
-127.0.0.1 www.canadianhw.ca
 
 # canadiantire.ca
 127.0.0.1 omni.canadiantire.ca
@@ -8007,9 +7980,6 @@
 127.0.0.1 count.channeladvisor.com
 127.0.0.1 mtcount.channeladvisor.com
 
-# channelfinder.net
-127.0.0.1 bbca.channelfinder.net
-
 # channelgator.com
 127.0.0.1 trax.channelgator.com
 
@@ -8150,7 +8120,6 @@
 127.0.0.1 te.chron.com
 
 # chunkypig.com
-127.0.0.1 chunkypig.com
 127.0.0.1 www.chunkypig.com
 
 # cibleclick.com
@@ -9548,9 +9517,6 @@
 127.0.0.1 criteo.net
 127.0.0.1 static.eu.criteo.net
 
-# crocoads.com
-127.0.0.1 www.crocoads.com
-
 # crooz.jp
 127.0.0.1 adck.crooz.jp
 127.0.0.1 cdn.pic.crooz.jp
@@ -9747,9 +9713,6 @@
 127.0.0.1 cytron.com
 127.0.0.1 www.cytron.com
 
-# czdfdq.com
-127.0.0.1 czdfdq.com
-
 # czech-sex.cz
 127.0.0.1 banner.czech-sex.cz
 
@@ -9770,9 +9733,7 @@
 127.0.0.1 res5.d.cn
 
 # d2c.ne.jp
-127.0.0.1 ad.ssp.d2c.ne.jp
 127.0.0.1 adg.d2c.ne.jp
-127.0.0.1 click.ssp.d2c.ne.jp
 
 # d2pass.com
 127.0.0.1 api.d2pass.com
@@ -9961,9 +9922,6 @@
 
 # debtbusterloans.com
 127.0.0.1 debtbusterloans.com
-
-# debtreductioncenter.com
-127.0.0.1 debtreductioncenter.com
 
 # decancor.com
 127.0.0.1 www.decancor.com
@@ -11199,9 +11157,6 @@
 # e-mailcom.co.uk
 127.0.0.1 images.e-mailcom.co.uk
 
-# e-mailpromotion.com
-127.0.0.1 www.e-mailpromotion.com
-
 # e-messenger.net
 127.0.0.1 vad.e-messenger.net
 127.0.0.1 vcontent.e-messenger.net
@@ -11613,9 +11568,6 @@
 
 # emailmarketingleads.com
 127.0.0.1 www.emailmarketingleads.com
-
-# emailretargeting.com
-127.0.0.1 emailretargeting.com
 
 # emailserving.com
 127.0.0.1 emailserving.com
@@ -12836,9 +12788,6 @@
 
 # findanopportunity.com
 127.0.0.1 findanopportunity.com
-
-# findarticles.com
-127.0.0.1 bwp.findarticles.com
 
 # findbride.link
 127.0.0.1 findbride.link
@@ -14478,6 +14427,9 @@
 # goldcows.com
 127.0.0.1 accessup.goldcows.com
 
+# golden-egg.net
+127.0.0.1 www.golden-egg.net
+
 # golden-search.com
 127.0.0.1 golden-search.com
 
@@ -14493,6 +14445,9 @@
 
 # goldstats.com
 127.0.0.1 goldstats.com
+
+# golfcountryhomes.com
+127.0.0.1 golfcountryhomes.com
 
 # golfdigest.com
 127.0.0.1 stats2.golfdigest.com
@@ -14721,6 +14676,9 @@
 # gree.net
 127.0.0.1 reward.gree.net
 
+# greenhorse.com
+127.0.0.1 greenhorse.com
+
 # greenpixels.com
 127.0.0.1 stats.greenpixels.com
 
@@ -14807,10 +14765,6 @@
 
 # guardianunlimited.co.uk
 127.0.0.1 ads.guardianunlimited.co.uk
-
-# gueb.com
-127.0.0.1 ad4.gueb.com
-127.0.0.1 ad7.gueb.com
 
 # guerillatraffic.com
 127.0.0.1 guerillatraffic.com
@@ -15870,6 +15824,7 @@
 127.0.0.1 ad123.hpg.com.br
 127.0.0.1 ad157.hpg.com.br
 127.0.0.1 ad170.hpg.com.br
+127.0.0.1 ad172.hpg.com.br
 127.0.0.1 ad187.hpg.com.br
 127.0.0.1 ad189.hpg.com.br
 127.0.0.1 ad193.hpg.com.br
@@ -15888,6 +15843,7 @@
 127.0.0.1 ad53.hpg.com.br
 127.0.0.1 ad56.hpg.com.br
 127.0.0.1 ad68.hpg.com.br
+127.0.0.1 ad83.hpg.com.br
 127.0.0.1 ad90.hpg.com.br
 127.0.0.1 ads06.hpg.com.br
 127.0.0.1 ads116.hpg.com.br
@@ -16324,9 +16280,6 @@
 
 # idolove.com
 127.0.0.1 www.idolove.com
-
-# idot.cz
-127.0.0.1 dot.idot.cz
 
 # idreamsky.com
 127.0.0.1 v1-feed.idreamsky.com
@@ -21000,7 +20953,6 @@
 
 # moad.cn
 127.0.0.1 ft.moad.cn
-127.0.0.1 pic.moad.cn
 
 # moatads.com
 127.0.0.1 js.moatads.com
@@ -21396,9 +21348,6 @@
 127.0.0.1 js.mtburn.com
 127.0.0.1 mtburn.com
 
-# mtgnewmedia.se
-127.0.0.1 no.counter.mtgnewmedia.se
-
 # mtree.com
 127.0.0.1 clicktraq.mtree.com
 127.0.0.1 counter.mtree.com
@@ -21452,9 +21401,6 @@
 
 # mulan.cloud
 127.0.0.1 js.mulan.cloud
-
-# multi-searcher.com
-127.0.0.1 multi-searcher.com
 
 # multimania.com
 127.0.0.1 hit.multimania.com
@@ -23167,9 +23113,6 @@
 # offgamers.com
 127.0.0.1 affiliate.offgamers.com
 
-# officedepot.com
-127.0.0.1 www18.officedepot.com
-
 # offsidebet.com
 127.0.0.1 ads.offsidebet.com
 
@@ -23181,9 +23124,6 @@
 
 # ofuda.cc
 127.0.0.1 e.ofuda.cc
-
-# ofxs.top
-127.0.0.1 ofxs.top
 
 # ohaguro.com
 127.0.0.1 x6.ohaguro.com
@@ -23768,7 +23708,6 @@
 127.0.0.1 adv.p2pbg.com
 
 # p3marketing.com
-127.0.0.1 p3marketing.com
 127.0.0.1 www.p3marketing.com
 
 # p80.net
@@ -23984,6 +23923,7 @@
 127.0.0.1 ad156.paycount.com
 127.0.0.1 ad158.paycount.com
 127.0.0.1 ad160.paycount.com
+127.0.0.1 ad162.paycount.com
 127.0.0.1 ad164.paycount.com
 127.0.0.1 ad175.paycount.com
 127.0.0.1 ad211.paycount.com
@@ -24593,6 +24533,9 @@
 # popcornvod.com
 127.0.0.1 www.popcornvod.com
 
+# popcounter.com
+127.0.0.1 popcounter.com
+
 # popcpm.com
 127.0.0.1 ads1.popcpm.com
 127.0.0.1 ads2.popcpm.com
@@ -24724,9 +24667,6 @@
 
 # post-gazette.com
 127.0.0.1 metrics.post-gazette.com
-
-# postmasterbannernet.com
-127.0.0.1 postmasterbannernet.com
 
 # postrelease.com
 127.0.0.1 prstats.postrelease.com
@@ -25132,10 +25072,6 @@
 # qdmil.com
 127.0.0.1 qdmil.com
 127.0.0.1 rotator.qdmil.com
-
-# qhosted.com
-127.0.0.1 images-72-26-207-6.assets.qhosted.com
-127.0.0.1 static-72-26-207-6.assets.qhosted.com
 
 # qiyi.com
 127.0.0.1 api.cupid.qiyi.com
@@ -26500,6 +26436,9 @@
 127.0.0.1 searchreinvented.com
 127.0.0.1 www.searchreinvented.com
 
+# searchspice.com
+127.0.0.1 searchspice.com
+
 # searchsquire.com
 127.0.0.1 search.searchsquire.com
 127.0.0.1 searchsquire.com
@@ -26679,6 +26618,9 @@
 
 # seo-hits.de
 127.0.0.1 www.seo-hits.de
+
+# seo1.org
+127.0.0.1 www.seo1.org
 
 # seo119.com
 127.0.0.1 bp.seo119.com
@@ -27020,9 +26962,6 @@
 # shareasale.com
 127.0.0.1 shareasale.com
 127.0.0.1 www.shareasale.com
-
-# sharepointads.com
-127.0.0.1 sharepointads.com
 
 # sharethis.com
 127.0.0.1 l.sharethis.com
@@ -28851,7 +28790,6 @@
 127.0.0.1 tailsweep.se
 
 # takru.com
-127.0.0.1 b100.takru.com
 127.0.0.1 b120.takru.com
 127.0.0.1 b130.takru.com
 127.0.0.1 b140.takru.com
@@ -29170,9 +29108,6 @@
 127.0.0.1 market2.the-adult-company.com
 127.0.0.1 media.the-adult-company.com
 127.0.0.1 statm.the-adult-company.com
-
-# the-counter.net
-127.0.0.1 the-counter.net
 
 # the-exit.com
 127.0.0.1 the-exit.com
@@ -29548,9 +29483,6 @@
 # toons-for-adult.com
 127.0.0.1 www.toons-for-adult.com
 
-# top-casting-termine.de
-127.0.0.1 top-casting-termine.de
-
 # top-site-list.com
 127.0.0.1 top-site-list.com
 
@@ -29568,9 +29500,6 @@
 
 # top100bloggers.com
 127.0.0.1 www.top100bloggers.com
-
-# top100fashionsites.com
-127.0.0.1 www.top100fashionsites.com
 
 # top10sites.com
 127.0.0.1 click.top10sites.com
@@ -30452,7 +30381,6 @@
 127.0.0.1 ad2.turn.com
 127.0.0.1 cdn.turn.com
 127.0.0.1 r.turn.com
-127.0.0.1 turn.com
 
 # turner.com
 127.0.0.1 metrics.turner.com
@@ -31675,7 +31603,6 @@
 
 # web.de
 127.0.0.1 ads.web.de
-127.0.0.1 img.web.de
 
 # web.nl
 127.0.0.1 ads.web.nl
@@ -33194,9 +33121,6 @@
 # yourfuckbook.com
 127.0.0.1 delivery.yourfuckbook.com
 
-# yourhitstats.com
-127.0.0.1 yourhitstats.com
-
 # yourtracking.net
 127.0.0.1 www.yourtracking.net
 127.0.0.1 yourtracking.net
@@ -33268,6 +33192,9 @@
 
 # z-stat.com
 127.0.0.1 stat1.z-stat.com
+
+# zango.com
+127.0.0.1 narutowallpaper.powered-by.zango.com
 
 # zangocash.com
 127.0.0.1 www.zangocash.com
