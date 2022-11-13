@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2022/11/14
-# block hosts: 17847 entry
+# block hosts: 17854 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -3503,6 +3503,9 @@
 127.0.0.1 ads4links.com
 127.0.0.1 www.ads4links.com
 
+# ads55.com
+127.0.0.1 ads55.com
+
 # adsafeprotected.com
 127.0.0.1 pixel.adsafeprotected.com
 
@@ -3537,6 +3540,9 @@
 
 # adscendmedia.com
 127.0.0.1 adscendmedia.com
+
+# adscholar.com
+127.0.0.1 adscholar.com
 
 # adsco.re
 127.0.0.1 6.adsco.re
@@ -13144,6 +13150,9 @@
 127.0.0.1 www.007.free-counter.co.uk
 127.0.0.1 www.008.free-counter.co.uk
 
+# free-counters.co.uk
+127.0.0.1 008.free-counters.co.uk
+
 # free-counters.net
 127.0.0.1 www.free-counters.net
 
@@ -15739,6 +15748,9 @@
 
 # hxad.com
 127.0.0.1 hxad.com
+
+# hyakunin.com
+127.0.0.1 www.hyakunin.com
 
 # hydramedia.com
 127.0.0.1 hydramedia.com
@@ -23578,6 +23590,7 @@
 127.0.0.1 ad164.paycount.com
 127.0.0.1 ad175.paycount.com
 127.0.0.1 ad211.paycount.com
+127.0.0.1 ad230.paycount.com
 127.0.0.1 ad238.paycount.com
 127.0.0.1 ad26.paycount.com
 127.0.0.1 ad4.paycount.com
@@ -23640,6 +23653,9 @@
 # pcmightymax.net
 127.0.0.1 pcmightymax.net
 127.0.0.1 www.pcmightymax.net
+
+# pcoach.cc
+127.0.0.1 pcoach.cc
 
 # pcpop.com
 127.0.0.1 count.pcpop.com
@@ -27255,6 +27271,9 @@
 
 # sokmil-ad.com
 127.0.0.1 sokmil-ad.com
+
+# soku.info
+127.0.0.1 soku.info
 
 # sol.no
 127.0.0.1 ads.sol.no

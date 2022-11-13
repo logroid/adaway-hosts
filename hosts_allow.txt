@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2021/09/28
-# allow hosts: 45 entry
+# last updated: 2022/11/14
+# allow hosts: 48 entry
 
 aan.amazon.co.jp
 aax-fe.amazon-adsystem.com
@@ -14,6 +14,8 @@ ad-api-v01.uliza.jp
 ad.dmm.com
 ad.doubleclick.net
 analytics.twitter.com
+api.growthbeat.com
+api.growthpush.com
 api.r10s.jp
 app-adforce.jp
 c.amazon-adsystem.com
@@ -46,6 +48,7 @@ setting.adzcore.com
 ssl.google-analytics.com
 static.xx.fbcdn.net
 staticxx.facebook.com
+t.co
 web-jp.ad-v.jp
 ws.tapjoyads.com
 www.google-analytics.com
