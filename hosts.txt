@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2022/11/28
-# block hosts: 17788 entry
+# last updated: 2022/11/29
+# block hosts: 17957 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -254,6 +254,9 @@
 
 # 2blo.net
 127.0.0.1 2blo.net
+
+# 2ch.live
+127.0.0.1 ad.2ch.live
 
 # 2ch2.net
 127.0.0.1 ad.2ch2.net
@@ -2053,7 +2056,32 @@
 127.0.0.1 ad.abctv.com
 
 # abema.io
+127.0.0.1 auth-business.ad.abema.io
 127.0.0.1 avod.ad.abema.io
+127.0.0.1 bs.ad.abema.io
+127.0.0.1 business-gateway.ad.abema.io
+127.0.0.1 business.ad.abema.io
+127.0.0.1 dev-etc.ad.abema.io
+127.0.0.1 dev-kickback.ad.abema.io
+127.0.0.1 dev-tmb.ad.abema.io
+127.0.0.1 dev-vast.ad.abema.io
+127.0.0.1 dev-yospace.ad.abema.io
+127.0.0.1 etc.ad.abema.io
+127.0.0.1 itr.ad.abema.io
+127.0.0.1 kickback.ad.abema.io
+127.0.0.1 ltrk.ad.abema.io
+127.0.0.1 sponsored.ad.abema.io
+127.0.0.1 stg-bs.ad.abema.io
+127.0.0.1 stg-etc.ad.abema.io
+127.0.0.1 stg-kickback.ad.abema.io
+127.0.0.1 stg-tmb.ad.abema.io
+127.0.0.1 stg-vast.ad.abema.io
+127.0.0.1 stg-yospace.ad.abema.io
+127.0.0.1 tmb.ad.abema.io
+127.0.0.1 trk.ad.abema.io
+127.0.0.1 vast.ad.abema.io
+127.0.0.1 vtrk.ad.abema.io
+127.0.0.1 yospace.ad.abema.io
 
 # abfry.com
 127.0.0.1 www.abfry.com
@@ -2259,6 +2287,20 @@
 127.0.0.1 ad-clix.com
 127.0.0.1 www.ad-clix.com
 
+# ad-cloud.jp
+127.0.0.1 api.ad-cloud.jp
+127.0.0.1 d-image-ad-jp.ad-cloud.jp
+127.0.0.1 d-kd.ad-cloud.jp
+127.0.0.1 d-newssuite-sony-net.ad-cloud.jp
+127.0.0.1 i-image-ad-jp.ad-cloud.jp
+127.0.0.1 i-newssuite-sony-net.ad-cloud.jp
+127.0.0.1 j-image-ad-jp.ad-cloud.jp
+127.0.0.1 j-newssuite-sony-net.ad-cloud.jp
+127.0.0.1 manage-newssuite-sony-net.ad-cloud.jp
+127.0.0.1 newssuite-sony-net.ad-cloud.jp
+127.0.0.1 origin-j-image-ad-jp.ad-cloud.jp
+127.0.0.1 prometheus.ad-cloud.jp
+
 # ad-count.jp
 127.0.0.1 ad-count.jp
 
@@ -2287,6 +2329,24 @@
 # ad-hatena.com
 127.0.0.1 ad-hatena.com
 127.0.0.1 cdn.ad-hatena.com
+
+# ad-link.jp
+127.0.0.1 click.ad-link.jp
+127.0.0.1 contents01.ad-link.jp
+127.0.0.1 contentsmng.ad-link.jp
+127.0.0.1 frdoki.ad-link.jp
+127.0.0.1 img01.ad-link.jp
+127.0.0.1 img05.ad-link.jp
+127.0.0.1 main03fw.ad-link.jp
+127.0.0.1 media.ad-link.jp
+127.0.0.1 panasonic90.ad-link.jp
+127.0.0.1 prvadm.ad-link.jp
+127.0.0.1 prvapi.ad-link.jp
+127.0.0.1 sorry.ad-link.jp
+127.0.0.1 sugoroku03.ad-link.jp
+127.0.0.1 sugoroku10.ad-link.jp
+127.0.0.1 sugoroku11.ad-link.jp
+127.0.0.1 sugoroku64.ad-link.jp
 
 # ad-lister.co.uk
 127.0.0.1 ad-lister.co.uk
@@ -2321,6 +2381,42 @@
 
 # ad-seek.jp
 127.0.0.1 ad-seek.jp
+127.0.0.1 client.ad-seek.jp
+127.0.0.1 comune.ad-seek.jp
+127.0.0.1 dev.ad-seek.jp
+127.0.0.1 ftp.ad-seek.jp
+127.0.0.1 hermes.ad-seek.jp
+127.0.0.1 host.ad-seek.jp
+127.0.0.1 img.ad-seek.jp
+127.0.0.1 lishui.ad-seek.jp
+127.0.0.1 m.ad-seek.jp
+127.0.0.1 mail01.ad-seek.jp
+127.0.0.1 mail12.ad-seek.jp
+127.0.0.1 mail5.ad-seek.jp
+127.0.0.1 mail7.ad-seek.jp
+127.0.0.1 mailin.ad-seek.jp
+127.0.0.1 mailrelay.ad-seek.jp
+127.0.0.1 mailserver.ad-seek.jp
+127.0.0.1 mbox.ad-seek.jp
+127.0.0.1 media.ad-seek.jp
+127.0.0.1 mta.ad-seek.jp
+127.0.0.1 mx.ad-seek.jp
+127.0.0.1 mx01.ad-seek.jp
+127.0.0.1 mx3.ad-seek.jp
+127.0.0.1 mx4.ad-seek.jp
+127.0.0.1 mx5.ad-seek.jp
+127.0.0.1 pop3.ad-seek.jp
+127.0.0.1 posta.ad-seek.jp
+127.0.0.1 relay.ad-seek.jp
+127.0.0.1 remote.ad-seek.jp
+127.0.0.1 server.ad-seek.jp
+127.0.0.1 smtp1.ad-seek.jp
+127.0.0.1 smtpauth.ad-seek.jp
+127.0.0.1 smtps.ad-seek.jp
+127.0.0.1 smtpseguro.ad-seek.jp
+127.0.0.1 sniper.ad-seek.jp
+127.0.0.1 srv.ad-seek.jp
+127.0.0.1 zimbra.ad-seek.jp
 
 # ad-sp.biz
 127.0.0.1 ad-sp.biz
@@ -2373,6 +2469,9 @@
 
 # ad.vu
 127.0.0.1 ad.vu
+
+# ad1111.com
+127.0.0.1 ad1111.com
 
 # ad1data.com
 127.0.0.1 go.ad1data.com
@@ -2785,8 +2884,10 @@
 127.0.0.1 adfun.ru
 
 # adfurikun.jp
+127.0.0.1 ad.adfurikun.jp
 127.0.0.1 adfurikun.jp
 127.0.0.1 api.adfurikun.jp
+127.0.0.1 gad.adfurikun.jp
 127.0.0.1 ginf.adfurikun.jp
 127.0.0.1 i.adfurikun.jp
 127.0.0.1 ipua.adfurikun.jp
@@ -4206,6 +4307,9 @@
 # adwaken.cn
 127.0.0.1 s2s.adwaken.cn
 
+# adwarealert.com
+127.0.0.1 setup.adwarealert.com
+
 # adwarebot.com
 127.0.0.1 adwarebot.com
 127.0.0.1 www.adwarebot.com
@@ -5264,6 +5368,7 @@
 127.0.0.1 aribo.net
 
 # ariboo.com
+127.0.0.1 ariboo.com
 127.0.0.1 www.ariboo.com
 
 # arielrebel.com
@@ -9687,6 +9792,9 @@
 127.0.0.1 cdn.mb.datingadzone.com
 127.0.0.1 mb.datingadzone.com
 
+# datingyes.com
+127.0.0.1 ads.datingyes.com
+
 # datouniao.com
 127.0.0.1 ws1.datouniao.com
 127.0.0.1 ws2.datouniao.com
@@ -11136,6 +11244,9 @@
 
 # edbindex.dk
 127.0.0.1 ads.edbindex.dk
+
+# edgeio.com
+127.0.0.1 edgeio.com
 
 # edgesuite.net
 127.0.0.1 79423.analytics.edgesuite.net
@@ -14509,6 +14620,11 @@
 127.0.0.1 ads.gunosy.com
 127.0.0.1 assets.gunosy.com
 127.0.0.1 channel-ads.gunosy.com
+127.0.0.1 gsad-st.gunosy.com
+127.0.0.1 lcad-st.gunosy.com
+127.0.0.1 lcad.gunosy.com
+127.0.0.1 npad-st.gunosy.com
+127.0.0.1 npad.gunosy.com
 
 # guns.ru
 127.0.0.1 banners.guns.ru
@@ -15186,6 +15302,7 @@
 
 # hittail.com
 127.0.0.1 15141.hittail.com
+127.0.0.1 19097.hittail.com
 127.0.0.1 23315.hittail.com
 127.0.0.1 31870.hittail.com
 127.0.0.1 3463.hittail.com
@@ -15567,6 +15684,7 @@
 127.0.0.1 advert4.hpg.com.br
 127.0.0.1 advert49.hpg.com.br
 127.0.0.1 banners04.hpg.com.br
+127.0.0.1 banners05.hpg.com.br
 127.0.0.1 banners123.hpg.com.br
 127.0.0.1 banners142.hpg.com.br
 127.0.0.1 banners145.hpg.com.br
@@ -16086,8 +16204,11 @@
 127.0.0.1 1.im.cz
 
 # image-ad.jp
+127.0.0.1 d.image-ad.jp
 127.0.0.1 i.image-ad.jp
 127.0.0.1 image-ad.jp
+127.0.0.1 j.image-ad.jp
+127.0.0.1 ns.image-ad.jp
 
 # image-gmkt.com
 127.0.0.1 dp.image-gmkt.com
@@ -18546,6 +18667,7 @@
 
 # lightningcast.net
 127.0.0.1 stats.lightningcast.net
+127.0.0.1 stats2.lightningcast.net
 
 # lightspeedcash.com
 127.0.0.1 lightspeedcash.com
@@ -20371,20 +20493,46 @@
 127.0.0.1 cache.microad.jp
 127.0.0.1 cache.send.microad.jp
 127.0.0.1 cache.ssend.microad.jp
+127.0.0.1 caumii.microad.jp
+127.0.0.1 cdn.microad.jp
 127.0.0.1 cm.send.microad.jp
+127.0.0.1 collaboration.microad.jp
+127.0.0.1 compass.microad.jp
+127.0.0.1 cross-border.microad.jp
 127.0.0.1 d-cache.microad.jp
 127.0.0.1 d-track.send.microad.jp
+127.0.0.1 deb.send.microad.jp
+127.0.0.1 demand-services.microad.jp
+127.0.0.1 demand-support.microad.jp
+127.0.0.1 dex.microad.jp
+127.0.0.1 dex.send.microad.jp
+127.0.0.1 item.microad.jp
+127.0.0.1 ld.send.microad.jp
+127.0.0.1 linx-cache.microad.jp
+127.0.0.1 linx.microad.jp
+127.0.0.1 linx.send.microad.jp
 127.0.0.1 microad.jp
 127.0.0.1 msend.microad.jp
+127.0.0.1 prcache.microad.jp
+127.0.0.1 redash.microad.jp
+127.0.0.1 s-cm.send.microad.jp
+127.0.0.1 s-cs.send.microad.jp
+127.0.0.1 s-rtb-pb.send.microad.jp
 127.0.0.1 send.microad.jp
+127.0.0.1 shirareru-match.microad.jp
 127.0.0.1 spvsc.send.microad.jp
 127.0.0.1 ssend.microad.jp
 127.0.0.1 track.send.microad.jp
+127.0.0.1 u-dynamic-item.microad.jp
+127.0.0.1 universe.send.microad.jp
+127.0.0.1 v6.send.microad.jp
 127.0.0.1 vsc.send.microad.jp
 127.0.0.1 www.microad.jp
 
 # microad.net
+127.0.0.1 i.microad.net
 127.0.0.1 j.microad.net
+127.0.0.1 jgl.microad.net
 
 # microsoft.com
 127.0.0.1 advertising.microsoft.com
@@ -21081,6 +21229,9 @@
 # myad.no
 127.0.0.1 myad.no
 127.0.0.1 www.myad.no
+
+# myadmarket.com
+127.0.0.1 www.myadmarket.com
 
 # myadtrack.com
 127.0.0.1 www.myadtrack.com
@@ -23081,6 +23232,9 @@
 # osdi.org
 127.0.0.1 osdi.org
 
+# osdn.com
+127.0.0.1 sfads.osdn.com
+
 # osijek031.com
 127.0.0.1 marketing.osijek031.com
 
@@ -23480,6 +23634,7 @@
 127.0.0.1 ad107.paycount.com
 127.0.0.1 ad126.paycount.com
 127.0.0.1 ad140.paycount.com
+127.0.0.1 ad144.paycount.com
 127.0.0.1 ad156.paycount.com
 127.0.0.1 ad158.paycount.com
 127.0.0.1 ad160.paycount.com
@@ -23835,6 +23990,10 @@
 127.0.0.1 secure.pinkpays.com
 
 # pinterest.com
+127.0.0.1 ads-dev.pinterest.com
+127.0.0.1 ads-mock.pinterest.com
+127.0.0.1 ads-staging.pinterest.com
+127.0.0.1 ads.pinterest.com
 127.0.0.1 assets.pinterest.com
 127.0.0.1 log.pinterest.com
 
@@ -24209,6 +24368,9 @@
 # portal.pl
 127.0.0.1 adserver.portal.pl
 
+# portmans.net
+127.0.0.1 www.portmans.net
+
 # portugalmail.net
 127.0.0.1 adserver.portugalmail.net
 
@@ -24344,7 +24506,29 @@
 127.0.0.1 partners.priceline.com
 
 # primead.jp
+127.0.0.1 ad-dev.primead.jp
+127.0.0.1 ad.primead.jp
+127.0.0.1 adcontents.primead.jp
+127.0.0.1 admin.primead.jp
+127.0.0.1 aoe-report-front-stg.primead.jp
+127.0.0.1 bmp-admin.primead.jp
+127.0.0.1 bmp.primead.jp
+127.0.0.1 cs.primead.jp
+127.0.0.1 dev-adcontents.primead.jp
+127.0.0.1 main.ad.primead.jp
 127.0.0.1 primead.jp
+127.0.0.1 r.primead.jp
+127.0.0.1 report.primead.jp
+127.0.0.1 s-dev.primead.jp
+127.0.0.1 s.primead.jp
+127.0.0.1 stg-ad.primead.jp
+127.0.0.1 stg-adcontents.primead.jp
+127.0.0.1 stg-admin.primead.jp
+127.0.0.1 stg-bmp.primead.jp
+127.0.0.1 stg-r.primead.jp
+127.0.0.1 stg-t.primead.jp
+127.0.0.1 t.primead.jp
+127.0.0.1 x.primead.jp
 
 # primecaster.net
 127.0.0.1 api.primecaster.net
@@ -24976,6 +25160,7 @@
 127.0.0.1 realbannerads.com
 
 # realcastmedia.com
+127.0.0.1 ads.realcastmedia.com
 127.0.0.1 my.realcastmedia.com
 
 # realcities.com
@@ -26099,6 +26284,9 @@
 127.0.0.1 selfnetwork.com
 127.0.0.1 www.selfnetwork.com
 
+# semfazonline.com
+127.0.0.1 semfazonline.com
+
 # sendtraffic.com
 127.0.0.1 www.sendtraffic.com
 
@@ -26496,6 +26684,7 @@
 127.0.0.1 adm.shinobi.jp
 127.0.0.1 bfile.shinobi.jp
 127.0.0.1 file.kanchigai.blog.shinobi.jp
+127.0.0.1 gad.shinobi.jp
 127.0.0.1 j1.shinobi.jp
 127.0.0.1 j2.shinobi.jp
 127.0.0.1 j3.shinobi.jp
@@ -26782,6 +26971,9 @@
 # sitetracker.com
 127.0.0.1 sitetracker.com
 127.0.0.1 www.sitetracker.com
+
+# sitewebstats.com
+127.0.0.1 www.sitewebstats.com
 
 # sixsigmatraffic.com
 127.0.0.1 sixsigmatraffic.com
@@ -28585,6 +28777,9 @@
 
 # thebrighttag.com
 127.0.0.1 s.thebrighttag.com
+
+# thebugs.ws
+127.0.0.1 www.thebugs.ws
 
 # thecounter.com
 127.0.0.1 thecounter.com
