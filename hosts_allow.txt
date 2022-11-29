@@ -9,115 +9,115 @@
 # allow hosts: 48 entry
 
 # 2mdn.net
-127.0.0.1 s0.2mdn.net
+s0.2mdn.net
 
 # ad-v.jp
-127.0.0.1 web-jp.ad-v.jp
+web-jp.ad-v.jp
 
 # adzcore.com
-127.0.0.1 setting.adzcore.com
+setting.adzcore.com
 
 # amazon-adsystem.com
-127.0.0.1 aax-fe.amazon-adsystem.com
-127.0.0.1 c.amazon-adsystem.com
-127.0.0.1 mads.amazon-adsystem.com
+aax-fe.amazon-adsystem.com
+c.amazon-adsystem.com
+mads.amazon-adsystem.com
 
 # amazon.co.jp
-127.0.0.1 aan.amazon.co.jp
-127.0.0.1 fls-fe.amazon.co.jp
+aan.amazon.co.jp
+fls-fe.amazon.co.jp
 
 # amazon.com
-127.0.0.1 device-metrics-us.amazon.com
+device-metrics-us.amazon.com
 
 # ameba.jp
-127.0.0.1 imgstat.ameba.jp
+imgstat.ameba.jp
 
 # app-adforce.jp
-127.0.0.1 app-adforce.jp
+app-adforce.jp
 
 # dartsearch.net
-127.0.0.1 clickserve.dartsearch.net
+clickserve.dartsearch.net
 
 # dmm.com
-127.0.0.1 ad.dmm.com
+ad.dmm.com
 
 # doubleclick.net
-127.0.0.1 ad.doubleclick.net
-127.0.0.1 pubads.g.doubleclick.net
+ad.doubleclick.net
+pubads.g.doubleclick.net
 
 # facebook.com
-127.0.0.1 edge-chat.facebook.com
-127.0.0.1 facebook.com
-127.0.0.1 m.facebook.com
-127.0.0.1 staticxx.facebook.com
+edge-chat.facebook.com
+facebook.com
+m.facebook.com
+staticxx.facebook.com
 
 # fbcdn.net
-127.0.0.1 fbcdn.net
-127.0.0.1 scontent-nrt1-1.xx.fbcdn.net
-127.0.0.1 scontent.xx.fbcdn.net
-127.0.0.1 static.xx.fbcdn.net
+fbcdn.net
+scontent-nrt1-1.xx.fbcdn.net
+scontent.xx.fbcdn.net
+static.xx.fbcdn.net
 
 # fbsbx.com
-127.0.0.1 fbsbx.com
+fbsbx.com
 
 # ggpht.com
-127.0.0.1 lh3.ggpht.com
-127.0.0.1 yt3.ggpht.com
+lh3.ggpht.com
+yt3.ggpht.com
 
 # google-analytics.com
-127.0.0.1 ssl.google-analytics.com
-127.0.0.1 www.google-analytics.com
+ssl.google-analytics.com
+www.google-analytics.com
 
 # googleadservices.com
-127.0.0.1 www.googleadservices.com
+www.googleadservices.com
 
 # googleapis.com
-127.0.0.1 youtube.googleapis.com
+youtube.googleapis.com
 
 # googlesyndication.com
-127.0.0.1 pagead2.googlesyndication.com
+pagead2.googlesyndication.com
 
 # googletagmanager.com
-127.0.0.1 www.googletagmanager.com
+www.googletagmanager.com
 
 # googleusercontent.com
-127.0.0.1 lh3.googleusercontent.com
+lh3.googleusercontent.com
 
 # growthbeat.com
-127.0.0.1 api.growthbeat.com
+api.growthbeat.com
 
 # growthpush.com
-127.0.0.1 api.growthpush.com
+api.growthpush.com
 
 # kakaku.com
-127.0.0.1 c.kakaku.com
+c.kakaku.com
 
 # line.me
-127.0.0.1 line.me
+line.me
 
 # r10.to
-127.0.0.1 r10.to
+r10.to
 
 # r10s.jp
-127.0.0.1 api.r10s.jp
-127.0.0.1 r.r10s.jp
+api.r10s.jp
+r.r10s.jp
 
 # rakuten.co.jp
-127.0.0.1 grp10.ias.rakuten.co.jp
-127.0.0.1 hb.afl.rakuten.co.jp
-127.0.0.1 rd.rakuten.co.jp
+grp10.ias.rakuten.co.jp
+hb.afl.rakuten.co.jp
+rd.rakuten.co.jp
 
 # t.co
-127.0.0.1 t.co
+t.co
 
 # tapjoyads.com
-127.0.0.1 ws.tapjoyads.com
+ws.tapjoyads.com
 
 # twitter.com
-127.0.0.1 analytics.twitter.com
+analytics.twitter.com
 
 # uliza.jp
-127.0.0.1 ad-api-v01.uliza.jp
+ad-api-v01.uliza.jp
 
 # yimg.jp
-127.0.0.1 s.yimg.jp
+s.yimg.jp
