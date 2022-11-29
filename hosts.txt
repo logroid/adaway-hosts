@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2022/11/30
-# block hosts: 3220 entry
+# block hosts: 3213 entry
 
 # 0u37vw5na9w0.top
 127.0.0.1 system-alert.0u37vw5na9w0.top
@@ -20,14 +20,10 @@
 # 1800cnt.com
 127.0.0.1 1800cnt.com
 
-# 207.net
-127.0.0.1 102.112.207.net
-
 # 2ch.live
 127.0.0.1 ad.2ch.live
 
 # 2o7.net
-127.0.0.1 102.112.2o7.net
 127.0.0.1 102.122.2o7.net
 127.0.0.1 10xhellometro.112.2o7.net
 127.0.0.1 1105governmentinformationgroup.122.2o7.net
@@ -516,7 +512,6 @@
 127.0.0.1 gpaper197.112.2o7.net
 127.0.0.1 gpaper199.112.2o7.net
 127.0.0.1 gpaper201.112.2o7.net
-127.0.0.1 gpaper202.112.2o7.net
 127.0.0.1 gpaper204.112.2o7.net
 127.0.0.1 gpaper211.112.2o7.net
 127.0.0.1 gpaper214.112.2o7.net
@@ -612,7 +607,6 @@
 127.0.0.1 lab88inc.112.2o7.net
 127.0.0.1 lacaixa.112.2o7.net
 127.0.0.1 laptopmag.122.2o7.net
-127.0.0.1 laxnws.112.2o7.net
 127.0.0.1 laxprs.112.2o7.net
 127.0.0.1 laxpsd.112.2o7.net
 127.0.0.1 laxtrb.112.2o7.net
@@ -738,7 +732,6 @@
 127.0.0.1 msnportalvideo.112.2o7.net
 127.0.0.1 msnservices.112.2o7.net
 127.0.0.1 msntrademarketing.112.2o7.net
-127.0.0.1 msnwinonecare.112.2o7.net
 127.0.0.1 mssbcprod.112.2o7.net
 127.0.0.1 mswlspcmktdev.112.2o7.net
 127.0.0.1 multiply.112.2o7.net
@@ -840,7 +833,6 @@
 127.0.0.1 oklahomadepartmentofcommerce.112.2o7.net
 127.0.0.1 omazeuceeazruprod.112.2o7.net
 127.0.0.1 omniscbt.112.2o7.net
-127.0.0.1 omniture.112.2o7.net
 127.0.0.1 omniturebanners.112.2o7.net
 127.0.0.1 omniturecom.112.2o7.net
 127.0.0.1 omvisidtest1.112.2o7.net
@@ -1084,7 +1076,6 @@
 127.0.0.1 vcommerce.112.2o7.net
 127.0.0.1 veeamgeneral.112.2o7.net
 127.0.0.1 verisigninc.112.2o7.net
-127.0.0.1 verisignwildcard.112.2o7.net
 127.0.0.1 vermontteddybear.112.2o7.net
 127.0.0.1 viaaddictingclips.112.2o7.net
 127.0.0.1 viaaddictinggames.112.2o7.net
