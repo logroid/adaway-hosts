@@ -5,54 +5,119 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2022/11/14
+# last updated: 2022/11/29
 # allow hosts: 48 entry
 
-aan.amazon.co.jp
-aax-fe.amazon-adsystem.com
-ad-api-v01.uliza.jp
-ad.dmm.com
-ad.doubleclick.net
-analytics.twitter.com
-api.growthbeat.com
-api.growthpush.com
-api.r10s.jp
-app-adforce.jp
-c.amazon-adsystem.com
-c.kakaku.com
-clickserve.dartsearch.net
-device-metrics-us.amazon.com
-edge-chat.facebook.com
-facebook.com
-fbcdn.net
-fbsbx.com
-fls-fe.amazon.co.jp
-grp10.ias.rakuten.co.jp
-hb.afl.rakuten.co.jp
-imgstat.ameba.jp
-lh3.ggpht.com
-lh3.googleusercontent.com
-line.me
-m.facebook.com
-mads.amazon-adsystem.com
-pagead2.googlesyndication.com
-pubads.g.doubleclick.net
-r.r10s.jp
-r10.to
-rd.rakuten.co.jp
-s.yimg.jp
-s0.2mdn.net
-scontent-nrt1-1.xx.fbcdn.net
-scontent.xx.fbcdn.net
-setting.adzcore.com
-ssl.google-analytics.com
-static.xx.fbcdn.net
-staticxx.facebook.com
-t.co
-web-jp.ad-v.jp
-ws.tapjoyads.com
-www.google-analytics.com
-www.googleadservices.com
-www.googletagmanager.com
-youtube.googleapis.com
-yt3.ggpht.com
+# 2mdn.net
+127.0.0.1 s0.2mdn.net
+
+# ad-v.jp
+127.0.0.1 web-jp.ad-v.jp
+
+# adzcore.com
+127.0.0.1 setting.adzcore.com
+
+# amazon-adsystem.com
+127.0.0.1 aax-fe.amazon-adsystem.com
+127.0.0.1 c.amazon-adsystem.com
+127.0.0.1 mads.amazon-adsystem.com
+
+# amazon.co.jp
+127.0.0.1 aan.amazon.co.jp
+127.0.0.1 fls-fe.amazon.co.jp
+
+# amazon.com
+127.0.0.1 device-metrics-us.amazon.com
+
+# ameba.jp
+127.0.0.1 imgstat.ameba.jp
+
+# app-adforce.jp
+127.0.0.1 app-adforce.jp
+
+# dartsearch.net
+127.0.0.1 clickserve.dartsearch.net
+
+# dmm.com
+127.0.0.1 ad.dmm.com
+
+# doubleclick.net
+127.0.0.1 ad.doubleclick.net
+127.0.0.1 pubads.g.doubleclick.net
+
+# facebook.com
+127.0.0.1 edge-chat.facebook.com
+127.0.0.1 facebook.com
+127.0.0.1 m.facebook.com
+127.0.0.1 staticxx.facebook.com
+
+# fbcdn.net
+127.0.0.1 fbcdn.net
+127.0.0.1 scontent-nrt1-1.xx.fbcdn.net
+127.0.0.1 scontent.xx.fbcdn.net
+127.0.0.1 static.xx.fbcdn.net
+
+# fbsbx.com
+127.0.0.1 fbsbx.com
+
+# ggpht.com
+127.0.0.1 lh3.ggpht.com
+127.0.0.1 yt3.ggpht.com
+
+# google-analytics.com
+127.0.0.1 ssl.google-analytics.com
+127.0.0.1 www.google-analytics.com
+
+# googleadservices.com
+127.0.0.1 www.googleadservices.com
+
+# googleapis.com
+127.0.0.1 youtube.googleapis.com
+
+# googlesyndication.com
+127.0.0.1 pagead2.googlesyndication.com
+
+# googletagmanager.com
+127.0.0.1 www.googletagmanager.com
+
+# googleusercontent.com
+127.0.0.1 lh3.googleusercontent.com
+
+# growthbeat.com
+127.0.0.1 api.growthbeat.com
+
+# growthpush.com
+127.0.0.1 api.growthpush.com
+
+# kakaku.com
+127.0.0.1 c.kakaku.com
+
+# line.me
+127.0.0.1 line.me
+
+# r10.to
+127.0.0.1 r10.to
+
+# r10s.jp
+127.0.0.1 api.r10s.jp
+127.0.0.1 r.r10s.jp
+
+# rakuten.co.jp
+127.0.0.1 grp10.ias.rakuten.co.jp
+127.0.0.1 hb.afl.rakuten.co.jp
+127.0.0.1 rd.rakuten.co.jp
+
+# t.co
+127.0.0.1 t.co
+
+# tapjoyads.com
+127.0.0.1 ws.tapjoyads.com
+
+# twitter.com
+127.0.0.1 analytics.twitter.com
+
+# uliza.jp
+127.0.0.1 ad-api-v01.uliza.jp
+
+# yimg.jp
+127.0.0.1 s.yimg.jp

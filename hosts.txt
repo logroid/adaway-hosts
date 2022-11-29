@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2022/11/29
-# block hosts: 3202 entry
+# block hosts: 3220 entry
 
 # 0u37vw5na9w0.top
 127.0.0.1 system-alert.0u37vw5na9w0.top
@@ -1924,6 +1924,7 @@
 127.0.0.1 amh.sh
 
 # amoad.com
+127.0.0.1 a2.amoad.com
 127.0.0.1 acs.amoad.com
 127.0.0.1 ad.ca-conv.amoad.com
 127.0.0.1 amoad.com
@@ -3460,6 +3461,7 @@
 127.0.0.1 js.mediad2.jp
 127.0.0.1 mediad2.jp
 127.0.0.1 report.mediad2.jp
+127.0.0.1 ssp.mediad2.jp
 
 # mediaforge.com
 127.0.0.1 mediaforge.com
@@ -3840,10 +3842,13 @@
 127.0.0.1 ad2.nend.net
 127.0.0.1 ad3.nend.net
 127.0.0.1 ad4.nend.net
+127.0.0.1 api.nend.net
 127.0.0.1 board.nend.net
 127.0.0.1 c1.nend.net
 127.0.0.1 cs.nend.net
+127.0.0.1 demo1.nend.net
 127.0.0.1 dev.nend.net
+127.0.0.1 docs.nend.net
 127.0.0.1 img1.nend.net
 127.0.0.1 impression.nend.net
 127.0.0.1 js1.nend.net
@@ -3851,14 +3856,27 @@
 127.0.0.1 lona.nend.net
 127.0.0.1 lonb.nend.net
 127.0.0.1 lons.nend.net
+127.0.0.1 mail.nend.net
 127.0.0.1 mtl.nend.net
+127.0.0.1 mx1.nend.net
+127.0.0.1 mx2.nend.net
+127.0.0.1 mx3.nend.net
 127.0.0.1 nend.net
 127.0.0.1 output.nend.net
+127.0.0.1 playable.nend.net
 127.0.0.1 s.nend.net
 127.0.0.1 s2.nend.net
+127.0.0.1 static-interactive-api.nend.net
+127.0.0.1 stc.nend.net
+127.0.0.1 stg.nend.net
 127.0.0.1 v1.nend.net
 127.0.0.1 vdapp.nend.net
+127.0.0.1 vdappcdn.nend.net
 127.0.0.1 www.nend.net
+127.0.0.1 www1.nend.net
+127.0.0.1 www2.nend.net
+127.0.0.1 yamada2-dev.nend.net
+127.0.0.1 zabbix.nend.net
 
 # neofield.click
 127.0.0.1 neofield.click
