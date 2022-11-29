@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2022/11/29
-# block hosts: 3233 entry
+# last updated: 2022/11/30
+# block hosts: 3220 entry
 
 # 0u37vw5na9w0.top
 127.0.0.1 system-alert.0u37vw5na9w0.top
@@ -1328,9 +1328,6 @@
 # ad-analyze.jp
 127.0.0.1 ad-analyze.jp
 
-# ad-arata.com
-127.0.0.1 ad-arata.com
-
 # ad-cheers.com
 127.0.0.1 ad-cheers.com
 
@@ -1461,9 +1458,6 @@
 
 # ad-track.jp
 127.0.0.1 ad-track.jp
-
-# ad-web-ad.com
-127.0.0.1 ad-web-ad.com
 
 # ad1data.com
 127.0.0.1 go.ad1data.com
@@ -1767,9 +1761,6 @@
 # adsinstant.com
 127.0.0.1 static.adsinstant.com
 
-# adsozai.com
-127.0.0.1 adsozai.com
-
 # adsrvr.org
 127.0.0.1 ad.adsrvr.org
 127.0.0.1 insight.adsrvr.org
@@ -1830,9 +1821,6 @@
 # advertising.com
 127.0.0.1 advertising.com
 127.0.0.1 uac.advertising.com
-
-# advg.jp
-127.0.0.1 advg.jp
 
 # advision-adnw.jp
 127.0.0.1 advision-adnw.jp
@@ -2251,9 +2239,6 @@
 # clickadu.com
 127.0.0.1 clickadu.com
 
-# clickmedias.info
-127.0.0.1 clickmedias.info
-
 # clksite.com
 127.0.0.1 clksite.com
 127.0.0.1 p236404.clksite.com
@@ -2375,9 +2360,6 @@
 
 # dep.tc
 127.0.0.1 dep.tc
-
-# deqwas.net
-127.0.0.1 deqwas.net
 
 # devo.jp
 127.0.0.1 devo.jp
@@ -2511,9 +2493,6 @@
 
 # downloads.expert
 127.0.0.1 downloads.expert
-
-# ds4sw9va5hc.com
-127.0.0.1 ds4sw9va5hc.com
 
 # dtiserv.com
 127.0.0.1 affiliate.dtiserv.com
@@ -2760,9 +2739,6 @@
 
 # fwmrm.net
 127.0.0.1 adm.fwmrm.net
-
-# fxprime-popular.com
-127.0.0.1 fxprime-popular.com
 
 # g123.jp
 127.0.0.1 ai.g123.jp
@@ -3948,7 +3924,6 @@
 127.0.0.1 bizad.nikkeibp.co.jp
 
 # november-lax.com
-127.0.0.1 november-lax.com
 127.0.0.1 zn1.november-lax.com
 127.0.0.1 zs1.november-lax.com
 
@@ -4700,9 +4675,6 @@
 # uea.edu.br
 127.0.0.1 proadm.uea.edu.br
 
-# ueuodgnrhb.com
-127.0.0.1 ueuodgnrhb.com
-
 # ugroocuw.net
 127.0.0.1 ugroocuw.net
 
@@ -4746,12 +4718,6 @@
 127.0.0.1 ad-info.val.jp
 127.0.0.1 ad.val.jp
 127.0.0.1 s3.mobile.val.jp
-
-# valueclick.jp
-127.0.0.1 valueclick.jp
-
-# valueclick.ne.jp
-127.0.0.1 valueclick.ne.jp
 
 # valuecommerce.com
 127.0.0.1 ad.jp.ap.valuecommerce.com
@@ -4830,9 +4796,6 @@
 
 # wifishare.jp
 127.0.0.1 api.wifishare.jp
-
-# winc-ad.com
-127.0.0.1 js.winc-ad.com
 
 # windows.net
 127.0.0.1 open8video.blob.core.windows.net
