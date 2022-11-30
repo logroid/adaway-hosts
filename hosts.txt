@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2022/11/30
-# block hosts: 16201 entry
+# block hosts: 16236 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -20355,6 +20355,43 @@
 
 # npvos.com
 127.0.0.1 npvos.com
+
+# nr-data.net
+127.0.0.1 bam-6.nr-data.net
+127.0.0.1 bam-7.nr-data.net
+127.0.0.1 bam-8.nr-data.net
+127.0.0.1 bam-9.nr-data.net
+127.0.0.1 bam-cell.nr-data.net
+127.0.0.1 bam-pool.nr-data.net
+127.0.0.1 bam.eu01.nr-data.net
+127.0.0.1 bam.nr-data.net
+127.0.0.1 chi-prod-cloud-collector.nr-data.net
+127.0.0.1 chi-prod-collector.nr-data.net
+127.0.0.1 chi-prod-infra-api.nr-data.net
+127.0.0.1 chi-production-insights-collector.nr-data.net
+127.0.0.1 chi-staging-cloud-collector.nr-data.net
+127.0.0.1 chi-staging-collector.nr-data.net
+127.0.0.1 chi-staging-infra-api.nr-data.net
+127.0.0.1 chi-staging-insights-collector.nr-data.net
+127.0.0.1 collector-001.eu01.nr-data.net
+127.0.0.1 gov-bam-pool.nr-data.net
+127.0.0.1 gov-bam.nr-data.net
+127.0.0.1 gov-staging-bam.nr-data.net
+127.0.0.1 gov-staging-otlp.nr-data.net
+127.0.0.1 mobile-collector.eu01.nr-data.net
+127.0.0.1 mobile-crash-origin.eu01.nr-data.net
+127.0.0.1 otlp.nr-data.net
+127.0.0.1 service.nr-data.net
+127.0.0.1 staging-bam-cell.nr-data.net
+127.0.0.1 staging-bam-pool.nr-data.net
+127.0.0.1 staging-bam.nr-data.net
+127.0.0.1 staging-insights-collector-origin.nr-data.net
+127.0.0.1 staging-otlp.nr-data.net
+127.0.0.1 staging-service.nr-data.net
+127.0.0.1 staging-synthetics-horde-admin-tmp.nr-data.net
+127.0.0.1 staging-synthetics-horde.nr-data.net
+127.0.0.1 synthetics-horde.nr-data.net
+127.0.0.1 vortex-alb-http2-fed-us-hungry-menu.nr-data.net
 
 # nrgwire.com
 127.0.0.1 nrgwire.com
