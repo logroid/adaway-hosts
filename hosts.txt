@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2022/11/30
-# block hosts: 16185 entry
+# block hosts: 16209 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -13033,6 +13033,9 @@
 # grupos.com.br
 127.0.0.1 banner.grupos.com.br
 
+# gs-ad.jp
+127.0.0.1 img.gs-ad.jp
+
 # gsanet.com
 127.0.0.1 gsanet.com
 
@@ -20230,6 +20233,7 @@
 
 # nicovideo.jp
 127.0.0.1 ads.nicovideo.jp
+127.0.0.1 dc-cdn.ads.nicovideo.jp
 127.0.0.1 nicoad.nicovideo.jp
 127.0.0.1 res.ads.nicovideo.jp
 
@@ -22733,6 +22737,7 @@
 127.0.0.1 adstest.reklamstore.com
 
 # relaido.jp
+127.0.0.1 ad-gallery.relaido.jp
 127.0.0.1 cdn.relaido.jp
 
 # relax.ru
@@ -28651,17 +28656,22 @@
 127.0.0.1 ad.yahoo.com
 127.0.0.1 ads.auctions.yahoo.com
 127.0.0.1 ads.finance.yahoo.com
+127.0.0.1 ads.yahoo.com
 127.0.0.1 adserver.yahoo.com
 127.0.0.1 ae.adserver.yahoo.com
 127.0.0.1 analytics.query.yahoo.com
 127.0.0.1 analytics.yahoo.com
+127.0.0.1 api.ads.yahoo.com
 127.0.0.1 ar.adserver.yahoo.com
 127.0.0.1 au.adserver.yahoo.com
 127.0.0.1 be.adserver.yahoo.com
+127.0.0.1 br.ads.yahoo.com
 127.0.0.1 br.adserver.yahoo.com
+127.0.0.1 brx.ads.yahoo.com
 127.0.0.1 ca.adserver.yahoo.com
 127.0.0.1 cn.adserver.yahoo.com
 127.0.0.1 cn2.adserver.yahoo.com
+127.0.0.1 data.ads.yahoo.com
 127.0.0.1 de.adserver.yahoo.com
 127.0.0.1 dk.adserver.yahoo.com
 127.0.0.1 es.adserver.yahoo.com
@@ -28675,10 +28685,12 @@
 127.0.0.1 gr.adserver.yahoo.com
 127.0.0.1 hk.adserver.yahoo.com
 127.0.0.1 in.adserver.yahoo.com
+127.0.0.1 io.ads.yahoo.com
 127.0.0.1 it.adserver.yahoo.com
 127.0.0.1 launch.adserver.yahoo.com
 127.0.0.1 marketingsolutions.yahoo.com
 127.0.0.1 mx.adserver.yahoo.com
+127.0.0.1 na.ads.yahoo.com
 127.0.0.1 nl.adserver.yahoo.com
 127.0.0.1 no.adserver.yahoo.com
 127.0.0.1 nz.adserver.yahoo.com
@@ -28688,14 +28700,28 @@
 127.0.0.1 pn2.adserver.yahoo.com
 127.0.0.1 promo.yahoo.com
 127.0.0.1 promotions.yahoo.com
+127.0.0.1 pubgw.ads.yahoo.com
 127.0.0.1 row.bc.yahoo.com
 127.0.0.1 se.adserver.yahoo.com
 127.0.0.1 sg.adserver.yahoo.com
+127.0.0.1 tadserver1.ads.yahoo.com
+127.0.0.1 tadserver2.ads.yahoo.com
+127.0.0.1 tagg1.ads.yahoo.com
+127.0.0.1 tard1.ads.yahoo.com
+127.0.0.1 tbs1.ads.yahoo.com
+127.0.0.1 tbs2.ads.yahoo.com
+127.0.0.1 tbs3.ads.yahoo.com
+127.0.0.1 tcs1.ads.yahoo.com
+127.0.0.1 tcs2.ads.yahoo.com
+127.0.0.1 tp.ads.yahoo.com
 127.0.0.1 ts.richmedia.yahoo.com
 127.0.0.1 tw.adserver.yahoo.com
 127.0.0.1 tw2.adserver.yahoo.com
+127.0.0.1 tws1.ads.yahoo.com
 127.0.0.1 uk.adserver.yahoo.com
 127.0.0.1 us.adserver.yahoo.com
+127.0.0.1 vid1-vm0.ads.yahoo.com
+127.0.0.1 vid1-vm1.ads.yahoo.com
 127.0.0.1 visit.webhosting.yahoo.com
 
 # yahooapis.jp
