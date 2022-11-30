@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2022/11/30
-# block hosts: 16192 entry
+# block hosts: 16185 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -3061,7 +3061,6 @@
 127.0.0.1 ams-mon-1.adjust.com
 127.0.0.1 api.adjust.com
 127.0.0.1 app-benchmarks.adjust.com
-127.0.0.1 app.adjust.com
 127.0.0.1 app.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.com
 127.0.0.1 app.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.com
 127.0.0.1 aq.adjust.com
@@ -9259,9 +9258,6 @@
 
 # dlpo.jp
 127.0.0.1 dlpo.jp
-
-# dlsite.jp
-127.0.0.1 dlsite.jp
 
 # dlv4.com
 127.0.0.1 es6-scripts.dlv4.com
@@ -17468,9 +17464,6 @@
 # livecams.nl
 127.0.0.1 livecams.nl
 
-# livechatinc.com
-127.0.0.1 cdn.livechatinc.com
-
 # livedelivery.com
 127.0.0.1 livedelivery.com
 
@@ -17479,7 +17472,6 @@
 127.0.0.1 gbantyou.livedoor.biz
 
 # livedoor.com
-127.0.0.1 adv.livedoor.com
 127.0.0.1 click.adv.livedoor.com
 127.0.0.1 counter2.blog.livedoor.com
 127.0.0.1 image.adv.livedoor.com
@@ -17706,7 +17698,6 @@
 127.0.0.1 hit.webcentre.lycos.co.uk
 
 # lycos.com
-127.0.0.1 adbuyer2.lycos.com
 127.0.0.1 adbuyer3.lycos.com
 127.0.0.1 advertising.lycos.com
 127.0.0.1 client.sidesearch.lycos.com
@@ -28351,9 +28342,6 @@
 # xchange.ro
 127.0.0.1 xchange.ro
 
-# xda-developers.com
-127.0.0.1 xda-developers.com
-
 # xdomain.ne.jp
 127.0.0.1 ad.xdomain.ne.jp
 
@@ -28713,7 +28701,6 @@
 # yahooapis.jp
 127.0.0.1 aag.yahooapis.jp
 127.0.0.1 ads-display.yahooapis.jp
-127.0.0.1 shopping.yahooapis.jp
 
 # yakbucks.com
 127.0.0.1 counter.yakbucks.com
