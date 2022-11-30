@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2022/11/30
-# block hosts: 16209 entry
+# block hosts: 16201 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -18066,9 +18066,6 @@
 # mbkwbar.com
 127.0.0.1 mbkwbar.com
 
-# mbsp.jp
-127.0.0.1 appad02.mbsp.jp
-
 # mbuyu.nl
 127.0.0.1 mbuyu.nl
 
@@ -29083,15 +29080,6 @@
 
 # zemanta.com
 127.0.0.1 zemanta.com
-
-# zenback.jp
-127.0.0.1 blog.zenback.jp
-127.0.0.1 designhack.zenback.jp
-127.0.0.1 oyaki.zenback.jp
-127.0.0.1 w.zenback.jp
-127.0.0.1 widget.zenback.jp
-127.0.0.1 www.zenback.jp
-127.0.0.1 zenback.jp
 
 # zencudo.co.uk
 127.0.0.1 ad.zencudo.co.uk
