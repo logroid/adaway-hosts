@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2022/11/30
-# block hosts: 3492 entry
+# block hosts: 3490 entry
 
 # 0u37vw5na9w0.top
 127.0.0.1 system-alert.0u37vw5na9w0.top
@@ -21,8 +21,6 @@
 127.0.0.1 1800cnt.com
 
 # 207.net
-127.0.0.1 "tjx.112.207.net
-127.0.0.1 *.112.207.net
 127.0.0.1 10.122.207.net
 127.0.0.1 102.122.207.net
 127.0.0.1 112.207.net
