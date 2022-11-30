@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2022/11/30
-# block hosts: 3490 entry
+# block hosts: 3525 entry
 
 # 0u37vw5na9w0.top
 127.0.0.1 system-alert.0u37vw5na9w0.top
@@ -2967,11 +2967,38 @@
 127.0.0.1 opr.formulas.jp
 
 # fout.jp
+127.0.0.1 ad.fout.jp
+127.0.0.1 ad.rfp.fout.jp
+127.0.0.1 adevent.rfp.fout.jp
+127.0.0.1 admin-log.fout.jp
+127.0.0.1 admute.fout.jp
+127.0.0.1 api.fout.jp
+127.0.0.1 appconf.rfp.fout.jp
+127.0.0.1 bid.fout.jp
+127.0.0.1 cf.fout.jp
+127.0.0.1 click.fout.jp
+127.0.0.1 click.rfp.fout.jp
+127.0.0.1 cnt.fout.jp
+127.0.0.1 conv.fout.jp
+127.0.0.1 conv.rfp.fout.jp
+127.0.0.1 d-ad.fout.jp
 127.0.0.1 dsp.fout.jp
+127.0.0.1 enq.fout.jp
+127.0.0.1 ev.fout.jp
 127.0.0.1 fout.jp
+127.0.0.1 gw12.fout.jp
+127.0.0.1 imp.rfp.fout.jp
 127.0.0.1 js.fout.jp
+127.0.0.1 js.rfp.fout.jp
+127.0.0.1 mobileapp.fout.jp
+127.0.0.1 nagios.fout.jp
+127.0.0.1 origin-js.fout.jp
+127.0.0.1 redmine.fout.jp
+127.0.0.1 sql-internal.fout.jp
 127.0.0.1 sync.dmp.fout.jp
 127.0.0.1 sync.fout.jp
+127.0.0.1 sync.rfp.fout.jp
+127.0.0.1 target.fout.jp
 
 # fpop.net
 127.0.0.1 statsp.fpop.net
@@ -3769,8 +3796,11 @@
 127.0.0.1 www.microad.co.jp
 
 # microad.jp
+127.0.0.1 adf.send.microad.jp
+127.0.0.1 adfp.send.microad.jp
 127.0.0.1 aid.send.microad.jp
 127.0.0.1 cache.microad.jp
+127.0.0.1 cache.send.microad.jp
 127.0.0.1 cache.ssend.microad.jp
 127.0.0.1 caumii.microad.jp
 127.0.0.1 cdn.microad.jp
@@ -3778,6 +3808,8 @@
 127.0.0.1 collaboration.microad.jp
 127.0.0.1 compass.microad.jp
 127.0.0.1 cross-border.microad.jp
+127.0.0.1 d-cache.microad.jp
+127.0.0.1 d-track.send.microad.jp
 127.0.0.1 deb.send.microad.jp
 127.0.0.1 demand-services.microad.jp
 127.0.0.1 demand-support.microad.jp
@@ -3789,6 +3821,7 @@
 127.0.0.1 linx.microad.jp
 127.0.0.1 linx.send.microad.jp
 127.0.0.1 microad.jp
+127.0.0.1 msend.microad.jp
 127.0.0.1 prcache.microad.jp
 127.0.0.1 redash.microad.jp
 127.0.0.1 s-cm.send.microad.jp
@@ -3796,11 +3829,13 @@
 127.0.0.1 s-rtb-pb.send.microad.jp
 127.0.0.1 send.microad.jp
 127.0.0.1 shirareru-match.microad.jp
+127.0.0.1 spvsc.send.microad.jp
 127.0.0.1 ssend.microad.jp
 127.0.0.1 track.send.microad.jp
 127.0.0.1 u-dynamic-item.microad.jp
 127.0.0.1 universe.send.microad.jp
 127.0.0.1 v6.send.microad.jp
+127.0.0.1 vsc.send.microad.jp
 
 # microad.net
 127.0.0.1 i.microad.net
