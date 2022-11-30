@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2022/11/30
-# block hosts: 16103 entry
+# block hosts: 16192 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -1715,6 +1715,7 @@
 
 # 4clvr.jp
 127.0.0.1 4clvr.jp
+127.0.0.1 ad.4clvr.jp
 
 # 4d5.net
 127.0.0.1 4d5.net
@@ -2237,7 +2238,13 @@
 127.0.0.1 ad-alp.net
 
 # ad-analyze.jp
+127.0.0.1 a.ad-analyze.jp
 127.0.0.1 ad-analyze.jp
+127.0.0.1 c.ad-analyze.jp
+127.0.0.1 console.ad-analyze.jp
+127.0.0.1 d.ad-analyze.jp
+127.0.0.1 t.ad-analyze.jp
+127.0.0.1 w.ad-analyze.jp
 
 # ad-cheers.com
 127.0.0.1 ad-cheers.com
@@ -2261,6 +2268,7 @@
 
 # ad-count.jp
 127.0.0.1 ad-count.jp
+127.0.0.1 ns.ad-count.jp
 
 # ad-fam.com
 127.0.0.1 ad-fam.com
@@ -2325,6 +2333,10 @@
 
 # ad-move.jp
 127.0.0.1 ad-move.jp
+127.0.0.1 admin.ad-move.jp
+127.0.0.1 i.ad-move.jp
+127.0.0.1 mail.ad-move.jp
+127.0.0.1 ns01.ad-move.jp
 
 # ad-nex.com
 127.0.0.1 ad-nex.com
@@ -2473,12 +2485,20 @@
 127.0.0.1 static.de.euserv.adaos-ads.net
 
 # adap.tv
+127.0.0.1 1ads.adap.tv
+127.0.0.1 2fads.adap.tv
 127.0.0.1 adap.tv
 127.0.0.1 ads.adap.tv
+127.0.0.1 corona-pad1vssp-log-geo.adap.tv
+127.0.0.1 h-ads.adap.tv
 127.0.0.1 log.adap.tv
 127.0.0.1 qlog.adap.tv
 127.0.0.1 t-ads.adap.tv
+127.0.0.1 tvads.adap.tv
+127.0.0.1 tvu-ads.adap.tv
 127.0.0.1 u-ads.adap.tv
+127.0.0.1 uads.adap.tv
+127.0.0.1 vssp-ads-geo.adap.tv
 
 # adapf.com
 127.0.0.1 adapf.com
@@ -7993,6 +8013,13 @@
 # co.kz
 127.0.0.1 counter.co.kz
 
+# cocoad.jp
+127.0.0.1 ads.cocoad.jp
+127.0.0.1 dsp.cocoad.jp
+127.0.0.1 js.cocoad.jp
+127.0.0.1 mail.cocoad.jp
+127.0.0.1 static.cocoad.jp
+
 # cocolog-nifty.com
 127.0.0.1 a.cocolog-nifty.com
 127.0.0.1 analytics.cocolog-nifty.com
@@ -12792,12 +12819,23 @@
 # goo.ne.jp
 127.0.0.1 a1.goo.ne.jp
 127.0.0.1 ad.goo.ne.jp
+127.0.0.1 ad501.goo.ne.jp
 127.0.0.1 adcdn.goo.ne.jp
 127.0.0.1 advertising.goo.ne.jp
 127.0.0.1 ams900.goo.ne.jp
 127.0.0.1 ashiato.goo.ne.jp
 127.0.0.1 bwb101.goo.ne.jp
+127.0.0.1 confluence.ad.goo.ne.jp
+127.0.0.1 jira.ad.goo.ne.jp
+127.0.0.1 jupyter.ad.goo.ne.jp
 127.0.0.1 log000.goo.ne.jp
+127.0.0.1 stash.ad.goo.ne.jp
+127.0.0.1 tools.ad.goo.ne.jp
+
+# goodad.jp
+127.0.0.1 ad.dev.goodad.jp
+127.0.0.1 cdn.goodad.jp
+127.0.0.1 media.goodad.jp
 
 # goodadvert.ru
 127.0.0.1 engine.goodadvert.ru
@@ -13286,6 +13324,11 @@
 # hexus.net
 127.0.0.1 ads.hexus.net
 127.0.0.1 uk.ads.hexus.net
+
+# heypo.com
+127.0.0.1 ad.heypo.com
+127.0.0.1 ad2.heypo.com
+127.0.0.1 ads.heypo.com
 
 # heyzo.com
 127.0.0.1 m.heyzo.com
@@ -14201,6 +14244,10 @@
 127.0.0.1 i1media.no
 
 # i2ad.jp
+127.0.0.1 ad1.i2ad.jp
+127.0.0.1 ad2.i2ad.jp
+127.0.0.1 ad3.i2ad.jp
+127.0.0.1 ad7.i2ad.jp
 127.0.0.1 i2ad.jp
 
 # i2i.com
@@ -14867,6 +14914,7 @@
 127.0.0.1 adext.inkclub.com
 
 # inmobi.com
+127.0.0.1 ads.inmobi.com
 127.0.0.1 api.inmobi.com
 127.0.0.1 c.w.inmobi.com
 127.0.0.1 cf.cdn.inmobi.com
@@ -14874,6 +14922,7 @@
 127.0.0.1 i.w.inmobi.com
 127.0.0.1 inmobi.com
 127.0.0.1 japan.inmobi.com
+127.0.0.1 mcg-ads.inmobi.com
 127.0.0.1 r.w.inmobi.com
 127.0.0.1 w.inmobi.com
 
@@ -22292,9 +22341,29 @@
 127.0.0.1 a76.p.f.qz3.net
 
 # r-ad.ne.jp
+127.0.0.1 bd-fl-stg.r-ad.ne.jp
+127.0.0.1 bd-fl.r-ad.ne.jp
+127.0.0.1 bk.r-ad.ne.jp
+127.0.0.1 cdn-t.r-ad.ne.jp
+127.0.0.1 cs-fl2.r-ad.ne.jp
+127.0.0.1 cs-stg.r-ad.ne.jp
 127.0.0.1 cs.r-ad.ne.jp
+127.0.0.1 dr-stg.r-ad.ne.jp
+127.0.0.1 dr.r-ad.ne.jp
+127.0.0.1 mb.r-ad.ne.jp
+127.0.0.1 mt.r-ad.ne.jp
+127.0.0.1 optout.r-ad.ne.jp
+127.0.0.1 s10.r-ad.ne.jp
+127.0.0.1 s8-stg.r-ad.ne.jp
+127.0.0.1 s8.r-ad.ne.jp
+127.0.0.1 s9-stg.r-ad.ne.jp
+127.0.0.1 s9.r-ad.ne.jp
+127.0.0.1 tm-stg.r-ad.ne.jp
 127.0.0.1 tm.r-ad.ne.jp
+127.0.0.1 tm2-stg.r-ad.ne.jp
 127.0.0.1 tm2.r-ad.ne.jp
+127.0.0.1 tm3.r-ad.ne.jp
+127.0.0.1 tr.r-ad.ne.jp
 
 # r3h.net
 127.0.0.1 bridgetrack.speedera.r3h.net
@@ -24337,6 +24406,9 @@
 # somd.com
 127.0.0.1 ads.somd.com
 
+# somewrite.jp
+127.0.0.1 ads.somewrite.jp
+
 # songline.com
 127.0.0.1 crux.songline.com
 
@@ -24442,8 +24514,29 @@
 127.0.0.1 cdn.spectate.com
 
 # speead.jp
+127.0.0.1 107008.speead.jp
+127.0.0.1 107254.speead.jp
+127.0.0.1 107498.speead.jp
+127.0.0.1 107554.speead.jp
+127.0.0.1 107680.speead.jp
+127.0.0.1 107681.speead.jp
+127.0.0.1 107785.speead.jp
+127.0.0.1 107937.speead.jp
+127.0.0.1 108532.speead.jp
+127.0.0.1 108553.speead.jp
+127.0.0.1 109143.speead.jp
 127.0.0.1 admin.speead.jp
+127.0.0.1 ads.speead.jp
+127.0.0.1 bx.speead.jp
+127.0.0.1 js.speead.jp
+127.0.0.1 learning.speead.jp
+127.0.0.1 med.speead.jp
+127.0.0.1 offical.speead.jp
+127.0.0.1 official.speead.jp
+127.0.0.1 online.speead.jp
 127.0.0.1 speead.jp
+127.0.0.1 static.speead.jp
+127.0.0.1 xy.speead.jp
 
 # speedbit.com
 127.0.0.1 ad1.speedbit.com
@@ -28619,6 +28712,7 @@
 
 # yahooapis.jp
 127.0.0.1 aag.yahooapis.jp
+127.0.0.1 ads-display.yahooapis.jp
 127.0.0.1 shopping.yahooapis.jp
 
 # yakbucks.com
@@ -28717,6 +28811,8 @@
 127.0.0.1 yesup.net
 
 # yicha.jp
+127.0.0.1 ad.yicha.jp
+127.0.0.1 ad1.yicha.jp
 127.0.0.1 adone.yicha.jp
 127.0.0.1 adpimg.yicha.jp
 127.0.0.1 advisionapp.yicha.jp
@@ -28725,6 +28821,7 @@
 127.0.0.1 advisionweb.yicha.jp
 127.0.0.1 advisionwebp.yicha.jp
 127.0.0.1 advpic.yicha.jp
+127.0.0.1 categoryad.yicha.jp
 127.0.0.1 s1.yicha.jp
 127.0.0.1 yicha.jp
 
