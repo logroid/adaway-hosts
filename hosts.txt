@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2022/11/30
-# block hosts: 16236 entry
+# last updated: 2022/12/01
+# block hosts: 16237 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -1528,6 +1528,7 @@
 127.0.0.1 usmtprod.112.2o7.net
 127.0.0.1 usnews.122.2o7.net
 127.0.0.1 usun.112.2o7.net
+127.0.0.1 va-pool.2o7.net
 127.0.0.1 vcomdeepdiscount.112.2o7.net
 127.0.0.1 vcommerce.112.2o7.net
 127.0.0.1 veeamgeneral.112.2o7.net
