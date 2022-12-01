@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2022/12/01
-# block hosts: 16392 entry
+# block hosts: 16393 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -2266,6 +2266,7 @@
 127.0.0.1 newssuite-sony-net.ad-cloud.jp
 127.0.0.1 origin-j-image-ad-jp.ad-cloud.jp
 127.0.0.1 prometheus.ad-cloud.jp
+127.0.0.1 zabbix.ad-cloud.jp
 
 # ad-count.jp
 127.0.0.1 ad-count.jp
