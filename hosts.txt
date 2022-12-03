@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2022/12/01
-# block hosts: 16393 entry
+# last updated: 2022/12/03
+# block hosts: 16394 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -20465,6 +20465,7 @@
 127.0.0.1 chi-staging-infra-api.nr-data.net
 127.0.0.1 chi-staging-insights-collector.nr-data.net
 127.0.0.1 collector-001.eu01.nr-data.net
+127.0.0.1 fastly-staging-bam.nr-data.net
 127.0.0.1 gov-bam-pool.nr-data.net
 127.0.0.1 gov-bam.nr-data.net
 127.0.0.1 gov-staging-bam.nr-data.net
