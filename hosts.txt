@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2022/12/03
-# block hosts: 16394 entry
+# last updated: 2022/12/05
+# block hosts: 16413 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -3067,6 +3067,7 @@
 127.0.0.1 app.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.com
 127.0.0.1 app.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.com
 127.0.0.1 aq.adjust.com
+127.0.0.1 as125sh-aas125ro-6.adjust.com
 127.0.0.1 atlas.adjust.com
 127.0.0.1 atom.adjust.com
 127.0.0.1 b43108c070cb09d6caba2b9dba10d2a6.ulink.adjust.com
@@ -3076,12 +3077,15 @@
 127.0.0.1 cdn.adjust.com
 127.0.0.1 cea01b777fa05b616440f21b2dc97678.ulink.adjust.com
 127.0.0.1 chatapp.adjust.com
+127.0.0.1 cn.adjust.com
 127.0.0.1 codm.adjust.com
 127.0.0.1 d.adjust.com
 127.0.0.1 d3b16342cf283be86ab26ebd90de5464.ulink.adjust.com
 127.0.0.1 dash-demo-1.adjust.com
+127.0.0.1 dash-dhocanhhung-1.adjust.com
 127.0.0.1 dash.adjust.com
 127.0.0.1 dasj.adjust.com
+127.0.0.1 dbia2avazeh-demo-1.adjust.com
 127.0.0.1 de.adjust.com
 127.0.0.1 deployments.adjust.com
 127.0.0.1 design.adjust.com
@@ -3090,23 +3094,29 @@
 127.0.0.1 e3e85fbda0b93c236cc70b01a5c0a393.ulink.adjust.com
 127.0.0.1 e8853397ac3c62f183c5155cf8f690f2.ulink.adjust.com
 127.0.0.1 ed65d0278deb052fb6da9dc8735581a9.ulink.adjust.com
+127.0.0.1 edandsxnsts.adjust.com
 127.0.0.1 eeb94c902787de108d18f4fd690a3316.ulink.adjust.com
 127.0.0.1 esapp.adjust.com
 127.0.0.1 esh-adjust-db-3.adjust.com
 127.0.0.1 esh-aero-1.adjust.com
 127.0.0.1 esh-kafka-poc-1.adjust.com
+127.0.0.1 evenbussard.adjust.com
 127.0.0.1 events.adjust.com
+127.0.0.1 evgrattants.adjust.com
 127.0.0.1 f389d8ad02a07b27e528a513b6899965.ulink.adjust.com
 127.0.0.1 f4a976f85912bb1032f6cf898c5a088f.ulink.adjust.com
 127.0.0.1 f6b3f5b8b507fcfb7da3162007fa7dd0.ulink.adjust.com
 127.0.0.1 fr-aud-1.adjust.com
 127.0.0.1 fra-mon-1.adjust.com
+127.0.0.1 frodemo1856tedemo1856d-1.adjust.com
 127.0.0.1 frontend-1.adjust.com
+127.0.0.1 froratznd-1.adjust.com
 127.0.0.1 gdpr.adjust.com
 127.0.0.1 go.adjust.com
 127.0.0.1 gollum.adjust.com
 127.0.0.1 help.adjust.com
 127.0.0.1 hereapp.adjust.com
+127.0.0.1 hhpbbstfblp.adjust.com
 127.0.0.1 hkg.adjust.com
 127.0.0.1 img.adjust.com
 127.0.0.1 insights-preview.adjust.com
@@ -3121,16 +3131,21 @@
 127.0.0.1 metabase.adjust.com
 127.0.0.1 mobilespreeconf.adjust.com
 127.0.0.1 mpression.adjust.com
+127.0.0.1 nebeartubet.adjust.com
 127.0.0.1 next.adjust.com
+127.0.0.1 nickersonrv.adjust.com
 127.0.0.1 odn.adjust.com
 127.0.0.1 p.adjust.com
 127.0.0.1 partners.adjust.com
+127.0.0.1 pembertonrv.adjust.com
 127.0.0.1 postmaster.adjust.com
 127.0.0.1 pp.adjust.com
 127.0.0.1 preview.adjust.com
 127.0.0.1 pubicstaticvoidmain.adjust.com
+127.0.0.1 qa-lauridsl.adjust.com
 127.0.0.1 regionapp.adjust.com
 127.0.0.1 replyapp.adjust.com
+127.0.0.1 s184185534h-aero-6.adjust.com
 127.0.0.1 s2s.adjust.com
 127.0.0.1 salesloft.adjust.com
 127.0.0.1 sandfly.adjust.com
@@ -3141,10 +3156,13 @@
 127.0.0.1 ssrv.adjust.com
 127.0.0.1 status.adjust.com
 127.0.0.1 steinhardt.adjust.com
+127.0.0.1 straub.adjust.com
 127.0.0.1 subscridexption.adjust.com
 127.0.0.1 subscription.adjust.com
 127.0.0.1 subscriptiondex.adjust.com
+127.0.0.1 sundae.adjust.com
 127.0.0.1 support.adjust.com
+127.0.0.1 swampy.adjust.com
 127.0.0.1 toreplyapp.adjust.com
 127.0.0.1 trainingapp.adjust.com
 127.0.0.1 trk.adjust.com
@@ -3154,6 +3172,7 @@
 127.0.0.1 unbotify.adjust.com
 127.0.0.1 view.adjust.com
 127.0.0.1 web-sdk-demo.adjust.com
+127.0.0.1 westburya-2.adjust.com
 127.0.0.1 wordpress.adjust.com
 127.0.0.1 www.adjust.com
 127.0.0.1 zbx-frontend.adjust.com
