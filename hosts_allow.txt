@@ -5,7 +5,7 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2022/12/05
+# last updated: 2022/12/07
 # allow hosts: 48 entry
 
 # 2mdn.net
