@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2022/12/08
-# block hosts: 16655 entry
+# block hosts: 16652 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -145,9 +145,6 @@
 
 # 1okunin.com
 127.0.0.1 ad.1okunin.com
-
-# 1x1rank.com
-127.0.0.1 1x1rank.com
 
 # 2-d.jp
 127.0.0.1 smart-gate.2-d.jp
@@ -1819,9 +1816,6 @@
 
 # 777seo.com
 127.0.0.1 777seo.com
-
-# 7794.com
-127.0.0.1 7794.com
 
 # 77search.com
 127.0.0.1 77search.com
@@ -16994,9 +16988,6 @@
 # linkstorm.net
 127.0.0.1 ak.linkstorm.net
 
-# linkstorms.com
-127.0.0.1 ad.linkstorms.com
-
 # linkswaper.com
 127.0.0.1 linkswaper.com
 
@@ -17133,7 +17124,6 @@
 127.0.0.1 08.185.87.145.liveadvert.com
 127.0.0.1 08.185.87.146.liveadvert.com
 127.0.0.1 08.185.87.147.liveadvert.com
-127.0.0.1 08.185.87.148.liveadvert.com
 127.0.0.1 08.185.87.149.liveadvert.com
 127.0.0.1 08.185.87.15.liveadvert.com
 127.0.0.1 08.185.87.150.liveadvert.com
@@ -29011,6 +29001,7 @@
 
 # yahoo.co.jp
 127.0.0.1 ads-promo.yahoo.co.jp
+127.0.0.1 ads.yahoo.co.jp
 127.0.0.1 ard.yahoo.co.jp
 127.0.0.1 b91.yahoo.co.jp
 127.0.0.1 b92.yahoo.co.jp
