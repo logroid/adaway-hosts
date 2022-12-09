@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2022/12/08
-# block hosts: 16652 entry
+# last updated: 2022/12/09
+# block hosts: 16659 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -3059,6 +3059,7 @@
 127.0.0.1 2fapp.adjust.com
 127.0.0.1 2s.adjust.com
 127.0.0.1 301e9a1fb7e4078ba1aaa7afbe517a9b.ulink.adjust.com
+127.0.0.1 31-jdk8-xml-schema-loading.adjust.com
 127.0.0.1 346a3278c2da9cf9157426a29df80e43.ulink.adjust.com
 127.0.0.1 349a9c862960132a1d96760b1a1a9e9e.ulink.adjust.com
 127.0.0.1 3832736b55fce32162a553fa871a4cc7.ulink.adjust.com
@@ -3140,6 +3141,7 @@
 127.0.0.1 d3b16342cf283be86ab26ebd90de5464.ulink.adjust.com
 127.0.0.1 dash-demo-1.adjust.com
 127.0.0.1 dash-dhocanhhung-1.adjust.com
+127.0.0.1 dash-qa-1.adjust.com
 127.0.0.1 dash.adjust.com
 127.0.0.1 dasj.adjust.com
 127.0.0.1 dbia2avazeh-demo-1.adjust.com
@@ -3178,11 +3180,14 @@
 127.0.0.1 img.adjust.com
 127.0.0.1 insights-preview.adjust.com
 127.0.0.1 insights.adjust.com
+127.0.0.1 ipalestrati.adjust.com
 127.0.0.1 iq.adjust.com
 127.0.0.1 itapp.adjust.com
+127.0.0.1 js.adjust.com
 127.0.0.1 kpi-service.adjust.com
 127.0.0.1 lax-zabbix.adjust.com
 127.0.0.1 learn.adjust.com
+127.0.0.1 lhr3.adjust.com
 127.0.0.1 line.adjust.com
 127.0.0.1 llpolicyapp.adjust.com
 127.0.0.1 metabase.adjust.com
@@ -3220,6 +3225,7 @@
 127.0.0.1 sundae.adjust.com
 127.0.0.1 support.adjust.com
 127.0.0.1 swampy.adjust.com
+127.0.0.1 the-burtons.adjust.com
 127.0.0.1 toreplyapp.adjust.com
 127.0.0.1 trainingapp.adjust.com
 127.0.0.1 trk.adjust.com
@@ -20514,6 +20520,7 @@
 127.0.0.1 chi-staging-infra-api.nr-data.net
 127.0.0.1 chi-staging-insights-collector.nr-data.net
 127.0.0.1 collector-001.eu01.nr-data.net
+127.0.0.1 fastly-staging-bam-cell.nr-data.net
 127.0.0.1 fastly-staging-bam.nr-data.net
 127.0.0.1 gov-bam-pool.nr-data.net
 127.0.0.1 gov-bam.nr-data.net
