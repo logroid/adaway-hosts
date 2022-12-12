@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2022/12/09
-# block hosts: 16659 entry
+# last updated: 2022/12/13
+# block hosts: 16657 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -13347,9 +13347,6 @@
 # heima8.com
 127.0.0.1 heima8.com
 
-# hellasnet.gr
-127.0.0.1 adserver.hellasnet.gr
-
 # helpos.com
 127.0.0.1 ads2.helpos.com
 
@@ -18175,9 +18172,6 @@
 
 # mediabuilder.com
 127.0.0.1 mediabuilder.com
-
-# mediacapital.pt
-127.0.0.1 ads1.mediacapital.pt
 
 # mediacharger.com
 127.0.0.1 devfast.mediacharger.com
