@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2022/12/13
-# block hosts: 16657 entry
+# last updated: 2022/12/14
+# block hosts: 16653 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -9385,7 +9385,6 @@
 
 # doko.jp
 127.0.0.1 adapp.doko.jp
-127.0.0.1 nw.ads.doko.jp
 
 # dol.ru
 127.0.0.1 10.6.87.194.dynamic.dol.ru
@@ -18270,9 +18269,6 @@
 # mediascale.de
 127.0.0.1 mediascale.de
 
-# mediasmart.es
-127.0.0.1 ads.mediasmart.es
-
 # mediastorm.hu
 127.0.0.1 ad.mediastorm.hu
 
@@ -23323,9 +23319,6 @@
 # sabela.com
 127.0.0.1 sabela.com
 
-# sabre.com
-127.0.0.1 sabre.com
-
 # sacbee.com
 127.0.0.1 ads.sacbee.com
 
@@ -24765,7 +24758,6 @@
 127.0.0.1 learning.speead.jp
 127.0.0.1 med.speead.jp
 127.0.0.1 offical.speead.jp
-127.0.0.1 official.speead.jp
 127.0.0.1 online.speead.jp
 127.0.0.1 speead.jp
 127.0.0.1 static.speead.jp
