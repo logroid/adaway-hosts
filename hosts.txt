@@ -5,7 +5,7 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2022/12/14
+# last updated: 2022/12/17
 # block hosts: 16653 entry
 
 # 00fun.com
@@ -4586,8 +4586,10 @@
 # akamaized.net
 127.0.0.1 browsi-a.akamaized.net
 127.0.0.1 cdn-guile.akamaized.net
+127.0.0.1 hesads.akamaized.net
 127.0.0.1 sfilegamefeat.akamaized.net
 127.0.0.1 speee-ad.akamaized.net
+127.0.0.1 st-spads-me.akamaized.net
 
 # akavita.com
 127.0.0.1 adlik.akavita.com
@@ -12653,7 +12655,6 @@
 
 # girls.xyz
 127.0.0.1 cn.girls.xyz
-127.0.0.1 de.girls.xyz
 127.0.0.1 es.girls.xyz
 127.0.0.1 fr.girls.xyz
 127.0.0.1 girls.xyz
@@ -20517,7 +20518,6 @@
 127.0.0.1 gov-staging-bam.nr-data.net
 127.0.0.1 gov-staging-otlp.nr-data.net
 127.0.0.1 mobile-collector.eu01.nr-data.net
-127.0.0.1 mobile-crash-origin.eu01.nr-data.net
 127.0.0.1 otlp.nr-data.net
 127.0.0.1 service.nr-data.net
 127.0.0.1 staging-bam-cell.nr-data.net
