@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2022/12/17
-# block hosts: 16653 entry
+# last updated: 2022/12/22
+# block hosts: 16662 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -303,9 +303,6 @@
 
 # 2cpa.com
 127.0.0.1 2cpa.com
-
-# 2daygetaways.com
-127.0.0.1 2daygetaways.com
 
 # 2lipslive.com
 127.0.0.1 banners.2lipslive.com
@@ -2440,6 +2437,7 @@
 
 # ad-spire.net
 127.0.0.1 ads.ad-spire.net
+127.0.0.1 adt.ad-spire.net
 127.0.0.1 fit.ad-spire.net
 127.0.0.1 flt.ad-spire.net
 127.0.0.1 js.ad-spire.net
@@ -2653,9 +2651,6 @@
 
 # adchina.com
 127.0.0.1 mobile.adchina.com
-
-# adclick.com
-127.0.0.1 adclick.com
 
 # adclick.ru
 127.0.0.1 adclick.ru
@@ -2964,9 +2959,6 @@
 127.0.0.1 adhost.com
 127.0.0.1 ssl3.adhost.com
 
-# adhostcenter.com
-127.0.0.1 adhostcenter.com
-
 # adiclicks.com
 127.0.0.1 affiliate.adiclicks.com
 
@@ -3113,7 +3105,11 @@
 127.0.0.1 aafbbdf70718eccf5bd4bf1adec2ce1e.ulink.adjust.com
 127.0.0.1 aapp.adjust.com
 127.0.0.1 ac7aa69d96b75a55c5e0fe8035f45bce.ulink.adjust.com
+127.0.0.1 accounts-demo-4-accounts-preview.adjust.com
+127.0.0.1 accounts-pfuckyeahnailartview.adjust.com
+127.0.0.1 accounts-preview-fra-mon-1.adjust.com
 127.0.0.1 accounts.adjust.com
+127.0.0.1 aclfm1s-preview.adjust.com
 127.0.0.1 add.adjust.com
 127.0.0.1 adjust.adjust.com
 127.0.0.1 adjust.com
@@ -3135,6 +3131,7 @@
 127.0.0.1 cdn.adjust.com
 127.0.0.1 cea01b777fa05b616440f21b2dc97678.ulink.adjust.com
 127.0.0.1 chatapp.adjust.com
+127.0.0.1 cikwanielovelaeocikwanielovelale.adjust.com
 127.0.0.1 cn.adjust.com
 127.0.0.1 codm.adjust.com
 127.0.0.1 d.adjust.com
@@ -3143,6 +3140,7 @@
 127.0.0.1 dash-dhocanhhung-1.adjust.com
 127.0.0.1 dash-qa-1.adjust.com
 127.0.0.1 dash.adjust.com
+127.0.0.1 dashboard-qa-2-jenkins.adjust.com
 127.0.0.1 dasj.adjust.com
 127.0.0.1 dbia2avazeh-demo-1.adjust.com
 127.0.0.1 de.adjust.com
@@ -3167,8 +3165,13 @@
 127.0.0.1 f6b3f5b8b507fcfb7da3162007fa7dd0.ulink.adjust.com
 127.0.0.1 fr-aud-1.adjust.com
 127.0.0.1 fra-mon-1.adjust.com
+127.0.0.1 frabcsofanimalworldntend-1.adjust.com
 127.0.0.1 frodemo1856tedemo1856d-1.adjust.com
+127.0.0.1 frogreat-online-games-4-freend-1.adjust.com
+127.0.0.1 fromerrrypornstemerrrypornsd-1.adjust.com
+127.0.0.1 fronpromotionalcdsinglesv2nd-1.adjust.com
 127.0.0.1 frontend-1.adjust.com
+127.0.0.1 frontend-1griffiss-am1.adjust.com
 127.0.0.1 froratznd-1.adjust.com
 127.0.0.1 gdpr.adjust.com
 127.0.0.1 go.adjust.com
@@ -3176,6 +3179,7 @@
 127.0.0.1 help.adjust.com
 127.0.0.1 hereapp.adjust.com
 127.0.0.1 hhpbbstfblp.adjust.com
+127.0.0.1 hjwebsterlp.adjust.com
 127.0.0.1 hkg.adjust.com
 127.0.0.1 img.adjust.com
 127.0.0.1 insights-preview.adjust.com
@@ -3185,6 +3189,8 @@
 127.0.0.1 itapp.adjust.com
 127.0.0.1 js.adjust.com
 127.0.0.1 kpi-service.adjust.com
+127.0.0.1 kpodforakbe.adjust.com
+127.0.0.1 kube-stride.adjust.com
 127.0.0.1 lax-zabbix.adjust.com
 127.0.0.1 learn.adjust.com
 127.0.0.1 lhr3.adjust.com
@@ -3223,6 +3229,7 @@
 127.0.0.1 subscription.adjust.com
 127.0.0.1 subscriptiondex.adjust.com
 127.0.0.1 sundae.adjust.com
+127.0.0.1 sunnet.adjust.com
 127.0.0.1 support.adjust.com
 127.0.0.1 swampy.adjust.com
 127.0.0.1 the-burtons.adjust.com
@@ -3234,6 +3241,7 @@
 127.0.0.1 u002fwww.adjust.com
 127.0.0.1 unbotify.adjust.com
 127.0.0.1 view.adjust.com
+127.0.0.1 volatile-minds.adjust.com
 127.0.0.1 web-sdk-demo.adjust.com
 127.0.0.1 westburya-2.adjust.com
 127.0.0.1 wordpress.adjust.com
@@ -3321,9 +3329,6 @@
 # admarvel.com
 127.0.0.1 admarvel.com
 127.0.0.1 ads.admarvel.com
-
-# admaster.de
-127.0.0.1 admaster.de
 
 # admatrix.jp
 127.0.0.1 sync-tapi.admatrix.jp
@@ -3667,7 +3672,6 @@
 
 # adsbookie.com
 127.0.0.1 ads.adsbookie.com
-127.0.0.1 adsbookie.com
 
 # adscale.de
 127.0.0.1 adscale.de
@@ -3709,9 +3713,6 @@
 
 # adserv.net
 127.0.0.1 adserv.net
-
-# adserver.co.il
-127.0.0.1 adserver.co.il
 
 # adserver.com
 127.0.0.1 z1.adserver.com
@@ -4087,7 +4088,6 @@
 127.0.0.1 advack.net
 
 # advance.de
-127.0.0.1 ads1.advance.de
 127.0.0.1 ads2.advance.de
 127.0.0.1 ads3.advance.de
 127.0.0.1 ads4.advance.de
@@ -4791,6 +4791,7 @@
 127.0.0.1 mobypicture.s3.amazonaws.com
 127.0.0.1 mondoads.s3.amazonaws.com
 127.0.0.1 ncads.s3.amazonaws.com
+127.0.0.1 road-runner-preview.amazonaws.com
 127.0.0.1 seedapp-creative.s3.amazonaws.com
 127.0.0.1 slideshare-audio.s3.amazonaws.com
 127.0.0.1 sp.ltassrv.com.s3.amazonaws.com
@@ -5610,9 +5611,6 @@
 127.0.0.1 newads.bangbros.com
 127.0.0.1 tck.bangbros.com
 127.0.0.1 tour1.bangbros.com
-
-# bangkokpost.co.th
-127.0.0.1 ads.bangkokpost.co.th
 
 # bango.co.uk
 127.0.0.1 bango.co.uk
@@ -8999,7 +8997,6 @@
 127.0.0.1 ads2.delfi.ee
 
 # delfin.bg
-127.0.0.1 ads.delfin.bg
 127.0.0.1 delfin.bg
 
 # delfinproject.com
@@ -9384,9 +9381,6 @@
 
 # dogpile.com
 127.0.0.1 ad.dogpile.com
-
-# doko.jp
-127.0.0.1 adapp.doko.jp
 
 # dol.ru
 127.0.0.1 10.6.87.194.dynamic.dol.ru
@@ -11482,6 +11476,7 @@
 
 # firebaseapp.com
 127.0.0.1 affiliate-script-pr.firebaseapp.com
+127.0.0.1 qongue-romad.firebaseapp.com
 
 # firehousezone.com
 127.0.0.1 ad1.firehousezone.com
@@ -21251,6 +21246,8 @@
 127.0.0.1 home.pages.at
 
 # pages.dev
+127.0.0.1 87c948ad-36b7-b157-05fc-94c12d3e9807-ci.pages.dev
+127.0.0.1 9b553ae1-ad79-4722-b534-5bdc7aa6cbc8.pages.dev
 127.0.0.1 adtest.pages.dev
 127.0.0.1 new-adtest.pages.dev
 127.0.0.1 popular-mibanco-control-de-seguridad.pages.dev
@@ -23133,9 +23130,6 @@
 
 # rnm.ca
 127.0.0.1 ac.rnm.ca
-
-# rnmd.net
-127.0.0.1 ads.rnmd.net
 
 # roadandtrack.com
 127.0.0.1 metrics.roadandtrack.com
@@ -29368,7 +29362,6 @@
 127.0.0.1 ads.yupimsn.com
 
 # yuppads.com
-127.0.0.1 ads.yuppads.com
 127.0.0.1 yuppads.com
 
 # yuzt.com
