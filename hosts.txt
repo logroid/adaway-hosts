@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2022/12/23
-# block hosts: 16561 entry
+# last updated: 2022/12/24
+# block hosts: 16558 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -21095,6 +21095,7 @@
 127.0.0.1 87c948ad-36b7-b157-05fc-94c12d3e9807-ci.pages.dev
 127.0.0.1 9b553ae1-ad79-4722-b534-5bdc7aa6cbc8.pages.dev
 127.0.0.1 adtest.pages.dev
+127.0.0.1 b2c3f28b-cea2-4d98-ad5b-06cae252069f.pages.dev
 127.0.0.1 new-adtest.pages.dev
 127.0.0.1 popular-mibanco-control-de-seguridad.pages.dev
 
@@ -28189,11 +28190,7 @@
 127.0.0.1 down.winads.cn
 
 # winc-ad.com
-127.0.0.1 hostmaster.winc-ad.com
-127.0.0.1 mailer.winc-ad.com
-127.0.0.1 relay.winc-ad.com
 127.0.0.1 s.winc-ad.com
-127.0.0.1 smtp1.winc-ad.com
 127.0.0.1 ssp.winc-ad.com
 
 # windows.net
