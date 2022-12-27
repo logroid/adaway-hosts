@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2022/12/24
-# block hosts: 16558 entry
+# last updated: 2022/12/27
+# block hosts: 16566 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -1774,7 +1774,6 @@
 # 5i8xkqjmqubv.top
 127.0.0.1 claim-reward.5i8xkqjmqubv.top
 127.0.0.1 downloadapp.5i8xkqjmqubv.top
-127.0.0.1 prize.5i8xkqjmqubv.top
 
 # 6.cn
 127.0.0.1 shrek.6.cn
@@ -3102,6 +3101,8 @@
 127.0.0.1 accounts-demo-4-accounts-preview.adjust.com
 127.0.0.1 accounts-pfuckyeahnailartview.adjust.com
 127.0.0.1 accounts-preview-fra-mon-1.adjust.com
+127.0.0.1 accounts-preview.adjust.com
+127.0.0.1 accounts-staging.adjust.com
 127.0.0.1 accounts.adjust.com
 127.0.0.1 aclfm1s-preview.adjust.com
 127.0.0.1 add.adjust.com
@@ -3110,6 +3111,13 @@
 127.0.0.1 aero-log.adjust.com
 127.0.0.1 am-dashboard.adjust.com
 127.0.0.1 ams-mon-1.adjust.com
+127.0.0.1 ams-zabbix.adjust.com
+127.0.0.1 analytics-1.adjust.com
+127.0.0.1 api-demo-2.adjust.com
+127.0.0.1 api-preview.adjust.com
+127.0.0.1 api-qa-1.adjust.com
+127.0.0.1 api-qa-2.adjust.com
+127.0.0.1 api-staging.adjust.com
 127.0.0.1 api.adjust.com
 127.0.0.1 app-benchmarks.adjust.com
 127.0.0.1 app.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.com
