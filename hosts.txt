@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2022/12/27
-# block hosts: 16566 entry
+# last updated: 2022/12/30
+# block hosts: 16534 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -1667,9 +1667,6 @@
 # 3d-passion.com
 127.0.0.1 3d-passion.com
 
-# 3dstats.com
-127.0.0.1 3dstats.com
-
 # 3dxchat.com
 127.0.0.1 3dxchat.com
 
@@ -1878,9 +1875,6 @@
 
 # 9991.com
 127.0.0.1 9991.com
-
-# 99x.com
-127.0.0.1 99x.com
 
 # 9vcpp.cn
 127.0.0.1 9vcpp.cn
@@ -2192,9 +2186,6 @@
 
 # aceweb.net
 127.0.0.1 ads.aceweb.net
-
-# acezip.net
-127.0.0.1 acezip.net
 
 # achievablecpmrevenue.com
 127.0.0.1 www.achievablecpmrevenue.com
@@ -2633,11 +2624,7 @@
 127.0.0.1 adcenter.net
 
 # adcentriconline.com
-127.0.0.1 adc2.adcentriconline.com
 127.0.0.1 adcentriconline.com
-127.0.0.1 bell.adcentriconline.com
-127.0.0.1 media.adcentriconline.com
-127.0.0.1 publicis.adcentriconline.com
 
 # adchimp.com
 127.0.0.1 adchimp.com
@@ -2749,10 +2736,6 @@
 
 # adcrops.net
 127.0.0.1 adcrops.net
-
-# adcube.net
-127.0.0.1 img.adcube.net
-127.0.0.1 v.adcube.net
 
 # adcycle.com
 127.0.0.1 adcycle.com
@@ -2980,7 +2963,6 @@
 127.0.0.1 adinte.jp
 
 # adinterax.com
-127.0.0.1 adinterax.com
 127.0.0.1 mi.adinterax.com
 
 # adipics.com
@@ -3212,6 +3194,7 @@
 127.0.0.1 pp.adjust.com
 127.0.0.1 preview.adjust.com
 127.0.0.1 pubicstaticvoidmain.adjust.com
+127.0.0.1 qa-1.adjust.com
 127.0.0.1 qa-lauridsl.adjust.com
 127.0.0.1 regionapp.adjust.com
 127.0.0.1 replyapp.adjust.com
@@ -4478,9 +4461,6 @@
 
 # afreehome.com
 127.0.0.1 afreehome.com
-
-# afterdownload.com
-127.0.0.1 afterdownload.com
 
 # aftrk.com
 127.0.0.1 aftrk.com
@@ -6125,9 +6105,6 @@
 # bingocabin.com
 127.0.0.1 bingocabin.com
 
-# binlayer.com
-127.0.0.1 view.binlayer.com
-
 # biscom.net
 127.0.0.1 ads.biscom.net
 
@@ -7084,7 +7061,6 @@
 127.0.0.1 popmedia.carpediem.fr
 127.0.0.1 public.carpediem.fr
 127.0.0.1 secure.carpediem.fr
-127.0.0.1 stats.carpediem.fr
 127.0.0.1 support.carpediem.fr
 
 # carphonewarehouse.com
@@ -7234,7 +7210,6 @@
 127.0.0.1 casinotreasure.com
 
 # casinotropez.com
-127.0.0.1 banner.casinotropez.com
 127.0.0.1 casinotropez.com
 
 # catholic.org
@@ -7840,9 +7815,6 @@
 # clixpy.com
 127.0.0.1 clixpy.com
 
-# clkads.com
-127.0.0.1 clkads.com
-
 # clksite.com
 127.0.0.1 clksite.com
 127.0.0.1 p236404.clksite.com
@@ -7928,9 +7900,6 @@
 127.0.0.1 ads.cnpapers.com
 127.0.0.1 openx.cnpapers.com
 127.0.0.1 webad.cnpapers.com
-
-# cnr.cn
-127.0.0.1 d1.cnr.cn
 
 # cnstats.ru
 127.0.0.1 c.cnstats.ru
@@ -8903,9 +8872,6 @@
 
 # deadjournal.com
 127.0.0.1 djbanners.deadjournal.com
-
-# dealcatcher.com
-127.0.0.1 dealcatcher.com
 
 # dealdotcom.com
 127.0.0.1 dealdotcom.com
@@ -10362,9 +10328,6 @@
 
 # endai.com
 127.0.0.1 dotnet.endai.com
-
-# enet.com.cn
-127.0.0.1 ad4.enet.com.cn
 
 # enfactory.jp
 127.0.0.1 img.enfactory.jp
@@ -12130,7 +12093,6 @@
 127.0.0.1 adserver.gadu-gadu.pl
 
 # gallfree.com
-127.0.0.1 gallfree.com
 127.0.0.1 img.gallfree.com
 
 # galttech.com
@@ -12588,8 +12550,6 @@
 
 # gits.net.th
 127.0.0.1 truehits.gits.net.th
-127.0.0.1 truehits1.gits.net.th
-127.0.0.1 truehits2.gits.net.th
 
 # giveapp.jp
 127.0.0.1 android.giveapp.jp
@@ -13653,9 +13613,6 @@
 # hitfire.com
 127.0.0.1 hitfire.com
 
-# hitiz.com
-127.0.0.1 hitiz.com
-
 # hitlist.ru
 127.0.0.1 hitlist.ru
 
@@ -14625,6 +14582,9 @@
 
 # impactengine.com
 127.0.0.1 content-ads.impactengine.com
+
+# impactify.media
+127.0.0.1 ad.impactify.media
 
 # imprese.cz
 127.0.0.1 imprese.cz
@@ -16375,9 +16335,6 @@
 # kizash.com
 127.0.0.1 kizash.com
 
-# kkal.net
-127.0.0.1 kkal.net
-
 # kleinezeitung.at
 127.0.0.1 static.kleinezeitung.at
 
@@ -17553,9 +17510,6 @@
 # loufile.ru
 127.0.0.1 loufile.ru
 
-# love-money.de
-127.0.0.1 promo.love-money.de
-
 # loveplanet.ru
 127.0.0.1 partner.loveplanet.ru
 
@@ -17636,7 +17590,6 @@
 
 # lycos.es
 127.0.0.1 ads.tripod.lycos.es
-127.0.0.1 fe.lea.lycos.es
 127.0.0.1 hit.tripod.lycos.es
 
 # lycos.fr
@@ -18500,6 +18453,7 @@
 127.0.0.1 cdn.mixx-ad.net
 127.0.0.1 client.mixx-ad.net
 127.0.0.1 media.mixx-ad.net
+127.0.0.1 server.mixx-ad.net
 
 # mizubasyou.com
 127.0.0.1 x6.mizubasyou.com
@@ -22050,7 +22004,6 @@
 
 # profiwin.de
 127.0.0.1 ad.profiwin.de
-127.0.0.1 bn.profiwin.de
 
 # proflowers.com
 127.0.0.1 wa.proflowers.com
@@ -22588,9 +22541,6 @@
 # realmedia.fr
 127.0.0.1 pub.realmedia.fr
 127.0.0.1 realmedia.fr
-
-# realmedia.ro
-127.0.0.1 realmedia.ro
 
 # realmedianetwork.net
 127.0.0.1 de.realmedianetwork.net
@@ -23481,9 +23431,6 @@
 # sekkaku.net
 127.0.0.1 scnt.sekkaku.net
 
-# selfnetwork.com
-127.0.0.1 selfnetwork.com
-
 # semfazonline.com
 127.0.0.1 semfazonline.com
 
@@ -24332,7 +24279,6 @@
 127.0.0.1 ad.smsmovies.se
 
 # smv.to
-127.0.0.1 ad.smv.to
 127.0.0.1 smv.to
 
 # snoobi.com
@@ -25764,9 +25710,6 @@
 # theatlantic.com
 127.0.0.1 metrics.theatlantic.com
 
-# thebestgame2020.com
-127.0.0.1 thebestgame2020.com
-
 # thebrighttag.com
 127.0.0.1 s.thebrighttag.com
 
@@ -25790,9 +25733,6 @@
 
 # thefreedictionary.com
 127.0.0.1 a.thefreedictionary.com
-
-# thefreenude.com
-127.0.0.1 thefreenude.com
 
 # thefreesitez.com
 127.0.0.1 thefreesitez.com
@@ -26454,9 +26394,6 @@
 127.0.0.1 syndication.traffichaus.com
 127.0.0.1 traffichaus.com
 
-# trafficholder.com
-127.0.0.1 trafficholder.com
-
 # traffichome.com
 127.0.0.1 traffichome.com
 
@@ -26861,9 +26798,6 @@
 # uarating.com
 127.0.0.1 c.uarating.com
 127.0.0.1 uarating.com
-
-# uberads.net
-127.0.0.1 uberads.net
 
 # ubiyoo.com
 127.0.0.1 adserver.ubiyoo.com
@@ -27709,7 +27643,6 @@
 
 # wapx.cn
 127.0.0.1 ads.wapx.cn
-127.0.0.1 app.wapx.cn
 
 # waqool.com
 127.0.0.1 js.waqool.com
@@ -29210,7 +29143,6 @@
 
 # zhongsou.com
 127.0.0.1 download.zhongsou.com
-127.0.0.1 pig.zhongsou.com
 
 # zhopa.net
 127.0.0.1 zhopa.net
