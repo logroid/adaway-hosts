@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2022/12/30
-# block hosts: 16534 entry
+# last updated: 2023/01/01
+# block hosts: 16532 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -2413,9 +2413,6 @@
 127.0.0.1 srv.ad-seek.jp
 127.0.0.1 zimbra.ad-seek.jp
 
-# ad-sp.biz
-127.0.0.1 ad-sp.biz
-
 # ad-space.net
 127.0.0.1 adserver.ad-space.net
 
@@ -2622,9 +2619,6 @@
 
 # adcenter.net
 127.0.0.1 adcenter.net
-
-# adcentriconline.com
-127.0.0.1 adcentriconline.com
 
 # adchimp.com
 127.0.0.1 adchimp.com
@@ -4562,6 +4556,7 @@
 # akamaized.net
 127.0.0.1 browsi-a.akamaized.net
 127.0.0.1 cdn-guile.akamaized.net
+127.0.0.1 d9c81ad3-85af-4ff6-8378-6038ea045e1b.akamaized.net
 127.0.0.1 hesads.akamaized.net
 127.0.0.1 sfilegamefeat.akamaized.net
 127.0.0.1 speee-ad.akamaized.net
@@ -27640,9 +27635,6 @@
 
 # wanderlist.com
 127.0.0.1 ad.wanderlist.com
-
-# wapx.cn
-127.0.0.1 ads.wapx.cn
 
 # waqool.com
 127.0.0.1 js.waqool.com
