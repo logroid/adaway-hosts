@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2023/01/01
-# block hosts: 16532 entry
+# last updated: 2023/01/06
+# block hosts: 16546 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -3089,13 +3089,16 @@
 127.0.0.1 ams-mon-1.adjust.com
 127.0.0.1 ams-zabbix.adjust.com
 127.0.0.1 analytics-1.adjust.com
+127.0.0.1 anickdnickd-benchmarks.adjust.com
 127.0.0.1 api-demo-2.adjust.com
 127.0.0.1 api-preview.adjust.com
 127.0.0.1 api-qa-1.adjust.com
 127.0.0.1 api-qa-2.adjust.com
 127.0.0.1 api-staging.adjust.com
 127.0.0.1 api.adjust.com
+127.0.0.1 app-benchconceptshipsks.adjust.com
 127.0.0.1 app-benchmarks.adjust.com
+127.0.0.1 app-bwestportnchmarks.adjust.com
 127.0.0.1 app.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.com
 127.0.0.1 app.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.com
 127.0.0.1 aq.adjust.com
@@ -3159,13 +3162,17 @@
 127.0.0.1 hhpbbstfblp.adjust.com
 127.0.0.1 hjwebsterlp.adjust.com
 127.0.0.1 hkg.adjust.com
+127.0.0.1 ikpnetgw.adjust.com
 127.0.0.1 img.adjust.com
 127.0.0.1 insights-preview.adjust.com
 127.0.0.1 insights.adjust.com
 127.0.0.1 ipalestrati.adjust.com
 127.0.0.1 iq.adjust.com
 127.0.0.1 itapp.adjust.com
+127.0.0.1 jahoyspornstashnkins-2.adjust.com
+127.0.0.1 japhethobare-cloud.adjust.com
 127.0.0.1 js.adjust.com
+127.0.0.1 kickpp-benchmkickrks.adjust.com
 127.0.0.1 kpi-service.adjust.com
 127.0.0.1 kpodforakbe.adjust.com
 127.0.0.1 kube-stride.adjust.com
@@ -3178,8 +3185,10 @@
 127.0.0.1 mobilespreeconf.adjust.com
 127.0.0.1 mpression.adjust.com
 127.0.0.1 nebeartubet.adjust.com
+127.0.0.1 next-qa-4-control-qa-3.adjust.com
 127.0.0.1 next.adjust.com
 127.0.0.1 nickersonrv.adjust.com
+127.0.0.1 norwood-app-benchmarks.adjust.com
 127.0.0.1 odn.adjust.com
 127.0.0.1 p.adjust.com
 127.0.0.1 partners.adjust.com
@@ -3189,6 +3198,7 @@
 127.0.0.1 preview.adjust.com
 127.0.0.1 pubicstaticvoidmain.adjust.com
 127.0.0.1 qa-1.adjust.com
+127.0.0.1 qa-2lanuevaconciencia.adjust.com
 127.0.0.1 qa-lauridsl.adjust.com
 127.0.0.1 regionapp.adjust.com
 127.0.0.1 replyapp.adjust.com
@@ -3225,7 +3235,11 @@
 127.0.0.1 westburya-2.adjust.com
 127.0.0.1 wordpress.adjust.com
 127.0.0.1 www.adjust.com
+127.0.0.1 zbx-frontartifactorynd.adjust.com
+127.0.0.1 zbx-frontenbbecker.adjust.com
 127.0.0.1 zbx-frontend.adjust.com
+127.0.0.1 zbx-fropc3525tepc3525d.adjust.com
+127.0.0.1 zbx-frsyaratco-mantend.adjust.com
 127.0.0.1 zzyzx.adjust.com
 
 # adjust.io
