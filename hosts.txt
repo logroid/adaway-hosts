@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2023/01/06
-# block hosts: 16546 entry
+# last updated: 2023/01/10
+# block hosts: 16533 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -1639,7 +1639,6 @@
 127.0.0.1 pixel.33across.com
 
 # 33drugs.com
-127.0.0.1 banner.33drugs.com
 127.0.0.1 secure.33drugs.com
 
 # 360doo.com
@@ -2370,6 +2369,13 @@
 127.0.0.1 img.ad-nex.com
 127.0.0.1 info.ad-nex.com
 127.0.0.1 manage.ad-nex.com
+
+# ad-optima.com
+127.0.0.1 ad-optima.com
+127.0.0.1 js.ad-optima.com
+127.0.0.1 mail.ad-optima.com
+127.0.0.1 master.ad-optima.com
+127.0.0.1 media.ad-optima.com
 
 # ad-pay.de
 127.0.0.1 ad-pay.de
@@ -3226,6 +3232,7 @@
 127.0.0.1 trainingapp.adjust.com
 127.0.0.1 trk.adjust.com
 127.0.0.1 try.adjust.com
+127.0.0.1 tsmc.adjust.com
 127.0.0.1 u002fapp.adjust.com
 127.0.0.1 u002fwww.adjust.com
 127.0.0.1 unbotify.adjust.com
@@ -3337,9 +3344,6 @@
 # admedia.ro
 127.0.0.1 admedia.ro
 
-# admeld.com
-127.0.0.1 admeld.com
-
 # admeme.net
 127.0.0.1 admeme.net
 
@@ -3387,9 +3391,6 @@
 
 # admonitor.com
 127.0.0.1 admonitor.com
-
-# admost.nl
-127.0.0.1 admost.nl
 
 # admtpmp124.com
 127.0.0.1 admtpmp124.com
@@ -3801,9 +3802,6 @@
 
 # adsonar.com
 127.0.0.1 foxnews.adsonar.com
-
-# adspace.ro
-127.0.0.1 adspace.ro
 
 # adspeed.com
 127.0.0.1 serv.adspeed.com
@@ -4295,9 +4293,6 @@
 # adxpower.com
 127.0.0.1 servedby.adxpower.com
 
-# adxxx.org
-127.0.0.1 adxxx.org
-
 # adzerk.net
 127.0.0.1 engine.adzerk.net
 127.0.0.1 engine2.adzerk.net
@@ -4618,9 +4613,6 @@
 
 # alivedoors.com
 127.0.0.1 blog.alivedoors.com
-
-# alivegirls.com
-127.0.0.1 alivegirls.com
 
 # all4spy.com
 127.0.0.1 all4spy.com
@@ -5264,9 +5256,6 @@
 127.0.0.1 js.astrsk.net
 
 # atdmt.com
-127.0.0.1 analytics.atdmt.com
-127.0.0.1 api.atdmt.com
-127.0.0.1 atdmt.com
 127.0.0.1 c.atdmt.com
 127.0.0.1 click.atdmt.com
 127.0.0.1 clk.atdmt.com
@@ -5385,9 +5374,6 @@
 # avanato.com
 127.0.0.1 avanato.com
 
-# avantlink.com
-127.0.0.1 avantlink.com
-
 # avatarcash.com
 127.0.0.1 avatarcash.com
 
@@ -5408,7 +5394,6 @@
 127.0.0.1 avforce.com
 
 # avokazu.com
-127.0.0.1 avokazu.com
 127.0.0.1 mail.avokazu.com
 127.0.0.1 www.avokazu.com
 
@@ -5605,9 +5590,6 @@
 
 # banner-exchange.nl
 127.0.0.1 banner-exchange.nl
-
-# banner-farm.com
-127.0.0.1 banner-farm.com
 
 # banner.com
 127.0.0.1 banner.com
@@ -10879,9 +10861,6 @@
 127.0.0.1 dynamic.exaccess.ru
 127.0.0.1 static.exaccess.ru
 
-# exactdrive.com
-127.0.0.1 ads.exactdrive.com
-
 # exactseek.com
 127.0.0.1 ads.exactseek.com
 127.0.0.1 exactseek.com
@@ -11384,6 +11363,7 @@
 127.0.0.1 banner.finn.no
 
 # firebaseapp.com
+127.0.0.1 ads-game-187f4.firebaseapp.com
 127.0.0.1 affiliate-script-pr.firebaseapp.com
 127.0.0.1 qongue-romad.firebaseapp.com
 
@@ -11602,7 +11582,6 @@
 127.0.0.1 ads-i.focalink.com
 127.0.0.1 ads-instrument.focalink.com
 127.0.0.1 ads-ussj1.focalink.com
-127.0.0.1 ads-ussnv2.focalink.com
 127.0.0.1 ads.focalink.com
 127.0.0.1 ads01.focalink.com
 127.0.0.1 ads02.focalink.com
@@ -12165,9 +12144,6 @@
 # gamesbannernet.com
 127.0.0.1 ads.gamesbannernet.com
 
-# gameservers.com
-127.0.0.1 ads.gameservers.com
-
 # gamesites200.com
 127.0.0.1 gamesites200.com
 
@@ -12186,9 +12162,6 @@
 
 # gamevil.com
 127.0.0.1 appad.gamevil.com
-
-# gamigo.de
-127.0.0.1 ads.gamigo.de
 
 # gaming-universe.de
 127.0.0.1 ads.gaming-universe.de
@@ -14526,7 +14499,6 @@
 127.0.0.1 alpha.impact-ad.jp
 127.0.0.1 as.ad.impact-ad.jp
 127.0.0.1 as.ao.impact-ad.jp
-127.0.0.1 as.bi.impact-ad.jp
 127.0.0.1 as.cd.impact-ad.jp
 127.0.0.1 as.ch.impact-ad.jp
 127.0.0.1 as.cw.impact-ad.jp
@@ -19093,7 +19065,6 @@
 127.0.0.1 bank30.mi.ads.mp.mydas.mobi
 127.0.0.1 bank30.mi.clicks.mp.mydas.mobi
 127.0.0.1 bank31.clicks.mp.mydas.mobi
-127.0.0.1 bank31.mi.ads.mp.mydas.mobi
 127.0.0.1 bank31.mi.clicks.mp.mydas.mobi
 127.0.0.1 bank32.clicks.mp.mydas.mobi
 127.0.0.1 bank32.mi.ads.mp.mydas.mobi
@@ -19129,8 +19100,6 @@
 127.0.0.1 bank42.mi.ads.mp.mydas.mobi
 127.0.0.1 bank42.mi.clicks.mp.mydas.mobi
 127.0.0.1 bank43.ads.mp.mydas.mobi
-127.0.0.1 bank43.clicks.mp.mydas.mobi
-127.0.0.1 bank43.mi.ads.mp.mydas.mobi
 127.0.0.1 bank43.mi.clicks.mp.mydas.mobi
 127.0.0.1 bank44.ads.mp.mydas.mobi
 127.0.0.1 bank44.clicks.mp.mydas.mobi
