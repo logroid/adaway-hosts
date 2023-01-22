@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2023/01/20
-# block hosts: 16464 entry
+# last updated: 2023/01/23
+# block hosts: 16467 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -3056,6 +3056,7 @@
 127.0.0.1 a811dc1d0d0f44e31780bcb0996d506e.ulink.adjust.com
 127.0.0.1 a94828c6a08d914296a1d178d1de5102.ulink.adjust.com
 127.0.0.1 aafbbdf70718eccf5bd4bf1adec2ce1e.ulink.adjust.com
+127.0.0.1 aalmarusyts.adjust.com
 127.0.0.1 aapp.adjust.com
 127.0.0.1 ac7aa69d96b75a55c5e0fe8035f45bce.ulink.adjust.com
 127.0.0.1 accounts-demo-4-accounts-preview.adjust.com
@@ -3080,8 +3081,10 @@
 127.0.0.1 api-qa-2.adjust.com
 127.0.0.1 api-staging.adjust.com
 127.0.0.1 api.adjust.com
+127.0.0.1 app-bbiztechchmarks.adjust.com
 127.0.0.1 app-benchconceptshipsks.adjust.com
 127.0.0.1 app-benchmarks.adjust.com
+127.0.0.1 app-benchmarprintservs.adjust.com
 127.0.0.1 app-bwestportnchmarks.adjust.com
 127.0.0.1 app.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.com
 127.0.0.1 app.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.com
@@ -3092,6 +3095,7 @@
 127.0.0.1 b43108c070cb09d6caba2b9dba10d2a6.ulink.adjust.com
 127.0.0.1 b5c3cd05645e38884a6207c125a572c1.ulink.adjust.com
 127.0.0.1 benchmarks-api.adjust.com
+127.0.0.1 bigearshelp.adjust.com
 127.0.0.1 c744614fbac6d9af42f91bc304a80bc0.ulink.adjust.com
 127.0.0.1 cdn.adjust.com
 127.0.0.1 cea01b777fa05b616440f21b2dc97678.ulink.adjust.com
@@ -3099,12 +3103,15 @@
 127.0.0.1 cikwanielovelaeocikwanielovelale.adjust.com
 127.0.0.1 cn.adjust.com
 127.0.0.1 codm.adjust.com
+127.0.0.1 corystorchpp-benchmcorystorchrks.adjust.com
 127.0.0.1 d.adjust.com
 127.0.0.1 d3b16342cf283be86ab26ebd90de5464.ulink.adjust.com
 127.0.0.1 dash-demo-1.adjust.com
 127.0.0.1 dash-dhocanhhung-1.adjust.com
 127.0.0.1 dash-qa-1.adjust.com
 127.0.0.1 dash.adjust.com
+127.0.0.1 dashboard-demo-1-graphite-oauth.adjust.com
+127.0.0.1 dashboard-qa-2-esh-aero-3.adjust.com
 127.0.0.1 dashboard-qa-2-jenkins.adjust.com
 127.0.0.1 dasj.adjust.com
 127.0.0.1 dbia2avazeh-demo-1.adjust.com
@@ -3118,9 +3125,12 @@
 127.0.0.1 ed65d0278deb052fb6da9dc8735581a9.ulink.adjust.com
 127.0.0.1 edandsxnsts.adjust.com
 127.0.0.1 eeb94c902787de108d18f4fd690a3316.ulink.adjust.com
+127.0.0.1 elinux-software-news-tutorialsts.adjust.com
 127.0.0.1 esapp.adjust.com
 127.0.0.1 esh-adjust-db-3.adjust.com
 127.0.0.1 esh-aero-1.adjust.com
+127.0.0.1 esh-atrao-6.adjust.com
+127.0.0.1 esh-dawnsstampingthoughtso-5.adjust.com
 127.0.0.1 esh-kafka-poc-1.adjust.com
 127.0.0.1 evenbussard.adjust.com
 127.0.0.1 events.adjust.com
@@ -3135,6 +3145,7 @@
 127.0.0.1 frogreat-online-games-4-freend-1.adjust.com
 127.0.0.1 fromerrrypornstemerrrypornsd-1.adjust.com
 127.0.0.1 fronpromotionalcdsinglesv2nd-1.adjust.com
+127.0.0.1 frontend-1-dash-staging.adjust.com
 127.0.0.1 frontend-1.adjust.com
 127.0.0.1 frontend-1griffiss-am1.adjust.com
 127.0.0.1 froratznd-1.adjust.com
@@ -3156,10 +3167,13 @@
 127.0.0.1 jahoyspornstashnkins-2.adjust.com
 127.0.0.1 japhethobare-cloud.adjust.com
 127.0.0.1 js.adjust.com
+127.0.0.1 keindahanpria-asiaesh-aero-5.adjust.com
 127.0.0.1 kickpp-benchmkickrks.adjust.com
 127.0.0.1 kpi-service.adjust.com
 127.0.0.1 kpodforakbe.adjust.com
 127.0.0.1 kube-stride.adjust.com
+127.0.0.1 lax-frontend-3esh-backend-4.adjust.com
+127.0.0.1 lax-mon-4-esh-aero-14.adjust.com
 127.0.0.1 lax-zabbix.adjust.com
 127.0.0.1 learn.adjust.com
 127.0.0.1 lhr3.adjust.com
@@ -3176,16 +3190,21 @@
 127.0.0.1 odn.adjust.com
 127.0.0.1 p.adjust.com
 127.0.0.1 partners.adjust.com
+127.0.0.1 pedroams-zbx-frontend-3.adjust.com
 127.0.0.1 pembertonrv.adjust.com
+127.0.0.1 pnewkirk-app-benchmarks.adjust.com
 127.0.0.1 postmaster.adjust.com
 127.0.0.1 pp.adjust.com
+127.0.0.1 prearaguaiahistoriaemovimentow.adjust.com
 127.0.0.1 preview.adjust.com
 127.0.0.1 pubicstaticvoidmain.adjust.com
 127.0.0.1 qa-1.adjust.com
 127.0.0.1 qa-2lanuevaconciencia.adjust.com
 127.0.0.1 qa-lauridsl.adjust.com
+127.0.0.1 quenda.adjust.com
 127.0.0.1 regionapp.adjust.com
 127.0.0.1 replyapp.adjust.com
+127.0.0.1 researchro-5.adjust.com
 127.0.0.1 s184185534h-aero-6.adjust.com
 127.0.0.1 s2s.adjust.com
 127.0.0.1 salesloft.adjust.com
@@ -3194,6 +3213,8 @@
 127.0.0.1 seg-1.adjust.com
 127.0.0.1 seg-2.adjust.com
 127.0.0.1 shard-2.adjust.com
+127.0.0.1 simplyme091909h-aero-6.adjust.com
+127.0.0.1 spellsjewellery.adjust.com
 127.0.0.1 ssrv.adjust.com
 127.0.0.1 status.adjust.com
 127.0.0.1 steinhardt.adjust.com
@@ -3223,6 +3244,7 @@
 127.0.0.1 zbx-frontartifactorynd.adjust.com
 127.0.0.1 zbx-frontenbbecker.adjust.com
 127.0.0.1 zbx-frontend.adjust.com
+127.0.0.1 zbx-frontendelasticbeanstalk.adjust.com
 127.0.0.1 zbx-fropc3525tepc3525d.adjust.com
 127.0.0.1 zbx-frsyaratco-mantend.adjust.com
 127.0.0.1 zzyzx.adjust.com
@@ -7211,9 +7233,6 @@
 # center-vip.com
 127.0.0.1 center-vip.com
 
-# centralad.com
-127.0.0.1 centralad.com
-
 # centraliprom.com
 127.0.0.1 ads.centraliprom.com
 
@@ -7340,7 +7359,6 @@
 
 # chip.de
 127.0.0.1 adx.chip.de
-127.0.0.1 omniture.chip.de
 
 # chitika.net
 127.0.0.1 chitika.net
@@ -7484,9 +7502,6 @@
 # click-internet.fr
 127.0.0.1 stats.click-internet.fr
 
-# click168.com
-127.0.0.1 click168.com
-
 # click2boost.com
 127.0.0.1 click2boost.com
 
@@ -7547,9 +7562,6 @@
 127.0.0.1 apps.clickcash.com
 127.0.0.1 clickcash.com
 127.0.0.1 promo.clickcash.com
-
-# clickcashmoney.com
-127.0.0.1 clickcashmoney.com
 
 # clickcompare.co.uk
 127.0.0.1 clickcompare.co.uk
@@ -10199,9 +10211,6 @@
 # emailcash.com.au
 127.0.0.1 emailcash.com.au
 
-# emailretargeting.com
-127.0.0.1 emailretargeting.com
-
 # emailserving.com
 127.0.0.1 emailserving.com
 
@@ -10325,9 +10334,6 @@
 
 # epochtimes.com
 127.0.0.1 ad.epochtimes.com
-
-# eps-analyzer.de
-127.0.0.1 eps-analyzer.de
 
 # eqsview.jp
 127.0.0.1 ad.eqsview.jp
@@ -10722,9 +10728,6 @@
 # europacasino.com
 127.0.0.1 banner.europacasino.com
 127.0.0.1 cachewww.europacasino.com
-
-# europuls.eu
-127.0.0.1 hits.europuls.eu
 
 # euroranking.de
 127.0.0.1 euroranking.de
@@ -11924,9 +11927,6 @@
 # fulltiltpoker.com
 127.0.0.1 ads.fulltiltpoker.com
 
-# fun9.net
-127.0.0.1 fun9.net
-
 # funpic.de
 127.0.0.1 404.funpic.de
 127.0.0.1 media.funpic.de
@@ -13058,9 +13058,6 @@
 
 # harrenmedianetwork.com
 127.0.0.1 harrenmedianetwork.com
-
-# has.it
-127.0.0.1 has.it
 
 # hatena.ne.jp
 127.0.0.1 ad.hatena.ne.jp
@@ -14564,7 +14561,6 @@
 
 # inclk.com
 127.0.0.1 beta.inclk.com
-127.0.0.1 inclk.com
 127.0.0.1 p159109.inclk.com
 127.0.0.1 p232207.inclk.com
 
@@ -16702,9 +16698,6 @@
 # linkstorm.net
 127.0.0.1 ak.linkstorm.net
 
-# linkswaper.com
-127.0.0.1 linkswaper.com
-
 # linksynergy.com
 127.0.0.1 ad.linksynergy.com
 127.0.0.1 aftp.linksynergy.com
@@ -18313,7 +18306,6 @@
 
 # mixpanel.com
 127.0.0.1 api.mixpanel.com
-127.0.0.1 mixpanel.com
 
 # mixx-ad.net
 127.0.0.1 cdn.mixx-ad.net
@@ -19913,9 +19905,6 @@
 127.0.0.1 add.newmedia.cz
 127.0.0.1 ads.newmedia.cz
 
-# newnudecash.com
-127.0.0.1 newnudecash.com
-
 # newrelic.com
 127.0.0.1 js-agent.newrelic.com
 127.0.0.1 newrelic.com
@@ -20870,9 +20859,6 @@
 
 # p2pbg.com
 127.0.0.1 adv.p2pbg.com
-
-# p3marketing.com
-127.0.0.1 p3marketing.com
 
 # p80.net
 127.0.0.1 aka.p80.net
@@ -21980,9 +21966,6 @@
 # pudo.no
 127.0.0.1 pudo.no
 
-# puls.lv
-127.0.0.1 hits.puls.lv
-
 # pulse360.com
 127.0.0.1 pulse360.com
 
@@ -22183,9 +22166,6 @@
 
 # radiate.com
 127.0.0.1 radiate.com
-
-# radio-canada.ca
-127.0.0.1 sdc.radio-canada.ca
 
 # radiocompanion.com
 127.0.0.1 stats2.radiocompanion.com
@@ -23005,9 +22985,6 @@
 
 # scambiositi.com
 127.0.0.1 pagerank.scambiositi.com
-
-# scanmedios.com
-127.0.0.1 content.scanmedios.com
 
 # scanscout.com
 127.0.0.1 scanscout.com
@@ -24577,7 +24554,6 @@
 127.0.0.1 spyshield.org
 
 # spyspotter.com
-127.0.0.1 download.spyspotter.com
 127.0.0.1 spyspotter.com
 
 # spywarecrusher.com
@@ -28098,9 +28074,6 @@
 
 # worldstarhiphop.com
 127.0.0.1 ads.worldstarhiphop.com
-
-# worldstats.com
-127.0.0.1 nl.count.worldstats.com
 
 # worldwide-cash.net
 127.0.0.1 worldwide-cash.net
