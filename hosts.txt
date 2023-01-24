@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2023/01/23
-# block hosts: 16467 entry
+# last updated: 2023/01/24
+# block hosts: 16471 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -4963,7 +4963,6 @@
 127.0.0.1 dynamic.aol.com
 127.0.0.1 free.aol.com
 127.0.0.1 specialoffers.aol.com
-127.0.0.1 vtot.proxy.aol.com
 
 # aol.fr
 127.0.0.1 adserver.aol.fr
@@ -16056,6 +16055,9 @@
 # kabanga.com
 127.0.0.1 kabanga.com
 
+# kabutocho-dsp.net
+127.0.0.1 js.kabutocho-dsp.net
+
 # kagennotuki.com
 127.0.0.1 x8.kagennotuki.com
 
@@ -20158,23 +20160,31 @@
 127.0.0.1 bam.nr-data.net
 127.0.0.1 chi-prod-cloud-collector.nr-data.net
 127.0.0.1 chi-prod-collector.nr-data.net
+127.0.0.1 chi-prod-infra-alert-auth.nr-data.net
 127.0.0.1 chi-prod-infra-api.nr-data.net
+127.0.0.1 chi-prod-infra-inventory-ingest.nr-data.net
 127.0.0.1 chi-production-insights-collector.nr-data.net
 127.0.0.1 chi-staging-cloud-collector.nr-data.net
 127.0.0.1 chi-staging-collector.nr-data.net
+127.0.0.1 chi-staging-infra-alert-auth.nr-data.net
 127.0.0.1 chi-staging-infra-api.nr-data.net
+127.0.0.1 chi-staging-infra-inventory-ingest.nr-data.net
 127.0.0.1 chi-staging-insights-collector.nr-data.net
 127.0.0.1 collector-001.eu01.nr-data.net
+127.0.0.1 csec.nr-data.net
 127.0.0.1 fastly-bam-cell.nr-data.net
 127.0.0.1 fastly-bam.nr-data.net
 127.0.0.1 fastly-staging-bam-cell.nr-data.net
 127.0.0.1 fastly-staging-bam.nr-data.net
+127.0.0.1 fastly-staging-otlp.nr-data.net
 127.0.0.1 gov-bam-pool.nr-data.net
 127.0.0.1 gov-bam.nr-data.net
+127.0.0.1 gov-staging-bam-pool.nr-data.net
 127.0.0.1 gov-staging-bam.nr-data.net
 127.0.0.1 gov-staging-otlp.nr-data.net
 127.0.0.1 mobile-collector.eu01.nr-data.net
 127.0.0.1 otlp.nr-data.net
+127.0.0.1 request-reflector.nr-data.net
 127.0.0.1 service.nr-data.net
 127.0.0.1 staging-bam-cell.nr-data.net
 127.0.0.1 staging-bam-pool.nr-data.net
@@ -20185,7 +20195,9 @@
 127.0.0.1 staging-synthetics-horde-admin-tmp.nr-data.net
 127.0.0.1 staging-synthetics-horde.nr-data.net
 127.0.0.1 synthetics-horde.nr-data.net
+127.0.0.1 vortex-alb-http2-fed-stg-purple-price.nr-data.net
 127.0.0.1 vortex-alb-http2-fed-us-hungry-menu.nr-data.net
+127.0.0.1 vortex-alb-http2-fed-us-taut-purple.nr-data.net
 
 # nscash.com
 127.0.0.1 creative.nscash.com
@@ -24957,7 +24969,6 @@
 127.0.0.1 textomatic.superstats.com
 
 # superstats.de
-127.0.0.1 stats.superstats.de
 127.0.0.1 superstats.de
 
 # superstats.nl
@@ -27554,9 +27565,6 @@
 # webcams.com
 127.0.0.1 banners.webcams.com
 
-# webcash.nl
-127.0.0.1 webcash.nl
-
 # webcashmaker.com
 127.0.0.1 webcashmaker.com
 
@@ -28294,9 +28302,6 @@
 127.0.0.1 images.xmax.jp
 127.0.0.1 imp.xmax.jp
 
-# xmoboffer.com
-127.0.0.1 xmoboffer.com
-
 # xmtrading.com
 127.0.0.1 www.xmtrading.com
 
@@ -28424,9 +28429,6 @@
 
 # xxxymovies.com
 127.0.0.1 404.xxxymovies.com
-
-# ya-tracker.com
-127.0.0.1 ya-tracker.com
 
 # ya.com
 127.0.0.1 advertpro.ya.com
@@ -28718,9 +28720,6 @@
 # yo.cz
 127.0.0.1 adv.yo.cz
 
-# yoast.com
-127.0.0.1 yoast.com
-
 # yobtcams.com
 127.0.0.1 ifa.yobtcams.com
 127.0.0.1 static.ifa.yobtcams.com
@@ -28877,7 +28876,6 @@
 127.0.0.1 ads.zedo.com
 127.0.0.1 l8.zedo.com
 127.0.0.1 r1.zedo.com
-127.0.0.1 simg.zedo.com
 127.0.0.1 ss7.zedo.com
 127.0.0.1 xads.zedo.com
 127.0.0.1 z.zedo.com
