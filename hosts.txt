@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2023/01/24
-# block hosts: 16471 entry
+# last updated: 2023/01/30
+# block hosts: 16476 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -1218,6 +1218,7 @@
 127.0.0.1 novell.112.2o7.net
 127.0.0.1 novellcom.112.2o7.net
 127.0.0.1 novonordiskas.112.2o7.net
+127.0.0.1 ns-1.2o7.net
 127.0.0.1 ns-4.2o7.net
 127.0.0.1 nsdldlese.112.2o7.net
 127.0.0.1 nttcommunications.122.2o7.net
@@ -2220,9 +2221,6 @@
 # acxiom.com
 127.0.0.1 acxiom.com
 
-# ad-alp.net
-127.0.0.1 ad-alp.net
-
 # ad-analyze.jp
 127.0.0.1 a.ad-analyze.jp
 127.0.0.1 ad-analyze.jp
@@ -2251,6 +2249,9 @@
 
 # ad-cheers.com
 127.0.0.1 ad-cheers.com
+
+# ad-clcount.com
+127.0.0.1 ad-clcount.com
 
 # ad-clix.com
 127.0.0.1 ad-clix.com
@@ -2736,7 +2737,6 @@
 127.0.0.1 img.addeluxe.jp
 
 # addfreestats.com
-127.0.0.1 addfreestats.com
 127.0.0.1 top.addfreestats.com
 
 # addme.com
@@ -4551,8 +4551,10 @@
 # akamaized.net
 127.0.0.1 browsi-a.akamaized.net
 127.0.0.1 cdn-guile.akamaized.net
+127.0.0.1 colibri-js.akamaized.net
 127.0.0.1 d9c81ad3-85af-4ff6-8378-6038ea045e1b.akamaized.net
 127.0.0.1 hesads.akamaized.net
+127.0.0.1 jioads.akamaized.net
 127.0.0.1 sfilegamefeat.akamaized.net
 127.0.0.1 speee-ad.akamaized.net
 127.0.0.1 st-spads-me.akamaized.net
@@ -7777,6 +7779,7 @@
 
 # cloudfunctions.net
 127.0.0.1 asia-northeast1-affiliate-pr.cloudfunctions.net
+127.0.0.1 asia-northeast3-kmplex-905ad.cloudfunctions.net
 127.0.0.1 us-central1-eyewind-ads.cloudfunctions.net
 127.0.0.1 us-central1-powerblue-861ad.cloudfunctions.net
 
@@ -11039,6 +11042,7 @@
 127.0.0.1 fannavi.fancs.com
 127.0.0.1 freespot.fancs.com
 127.0.0.1 gatekeeper01.fancs.com
+127.0.0.1 gatekeeper02.fancs.com
 127.0.0.1 gatekeeper10.fancs.com
 127.0.0.1 gatekeeper11.fancs.com
 127.0.0.1 gatekeeper12.fancs.com
@@ -19303,6 +19307,7 @@
 127.0.0.1 bsap.nakanohito.jp
 127.0.0.1 bsh.nakanohito.jp
 127.0.0.1 c.nakanohito.jp
+127.0.0.1 c00.nakanohito.jp
 127.0.0.1 c01.nakanohito.jp
 127.0.0.1 c02.nakanohito.jp
 127.0.0.1 c03.nakanohito.jp
@@ -23650,6 +23655,7 @@
 127.0.0.1 rcm.shinobi.jp
 127.0.0.1 recommend.shinobi.jp
 127.0.0.1 shinobi.jp
+127.0.0.1 swarm-tmp.shinobi.jp
 127.0.0.1 swarm.shinobi.jp
 127.0.0.1 sync.shinobi.jp
 127.0.0.1 v2st.shinobi.jp
@@ -28441,7 +28447,6 @@
 127.0.0.1 ad.yadro.ru
 127.0.0.1 ads.yadro.ru
 127.0.0.1 counter.yadro.ru
-127.0.0.1 quad.yadro.ru
 127.0.0.1 yadro.ru
 
 # yaekumo.com
