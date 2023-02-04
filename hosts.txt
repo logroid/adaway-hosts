@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2023/01/30
-# block hosts: 16476 entry
+# last updated: 2023/02/05
+# block hosts: 16442 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -3309,9 +3309,6 @@
 127.0.0.1 admagnet.net
 127.0.0.1 n.admagnet.net
 
-# admailtiser.com
-127.0.0.1 admailtiser.com
-
 # admanage.com
 127.0.0.1 admanage.com
 127.0.0.1 xml.admanage.com
@@ -3343,9 +3340,6 @@
 
 # admedia.ro
 127.0.0.1 admedia.ro
-
-# admeme.net
-127.0.0.1 admeme.net
 
 # admeta.com
 127.0.0.1 admeta.com
@@ -3907,7 +3901,6 @@
 
 # adtechus.com
 127.0.0.1 adserver.adtechus.com
-127.0.0.1 adtechus.com
 127.0.0.1 aka-cdn-ns.adtechus.com
 127.0.0.1 aka-cdn.adtechus.com
 127.0.0.1 glb.adtechus.com
@@ -4047,7 +4040,6 @@
 
 # adultrevenueservice.com
 127.0.0.1 adultrevenueservice.com
-127.0.0.1 banners.adultrevenueservice.com
 
 # adultswim.com
 127.0.0.1 stats.adultswim.com
@@ -4070,7 +4062,6 @@
 # advance.de
 127.0.0.1 ads2.advance.de
 127.0.0.1 ads3.advance.de
-127.0.0.1 ads4.advance.de
 
 # advancecashloans.com
 127.0.0.1 advancecashloans.com
@@ -4972,9 +4963,6 @@
 # aol.jp
 127.0.0.1 info.aol.jp
 
-# aolp.jp
-127.0.0.1 bannerfarm.aolp.jp
-
 # apartmentfinder.com
 127.0.0.1 metrics.apartmentfinder.com
 
@@ -5255,9 +5243,6 @@
 # atlasdmt.com
 127.0.0.1 atlasdmt.com
 
-# atnext.com
-127.0.0.1 adx.atnext.com
-
 # atomiconline.com
 127.0.0.1 analytics.atomiconline.com
 
@@ -5286,7 +5271,6 @@
 
 # auctionads.com
 127.0.0.1 ads.auctionads.com
-127.0.0.1 auctionads.com
 
 # auctionads.net
 127.0.0.1 auctionads.net
@@ -5560,9 +5544,6 @@
 # bango.net
 127.0.0.1 bango.net
 
-# banner-exchange-24.de
-127.0.0.1 banner-exchange-24.de
-
 # banner-exchange.nl
 127.0.0.1 banner-exchange.nl
 
@@ -5696,9 +5677,6 @@
 # bannerspace.com
 127.0.0.1 bannerspace.com
 
-# bannersponsor.com
-127.0.0.1 bannersponsor.com
-
 # bannerswap.com
 127.0.0.1 bannerswap.com
 
@@ -5776,9 +5754,6 @@
 
 # be2hand.com
 127.0.0.1 ads.be2hand.com
-
-# beam.to
-127.0.0.1 beam.to
 
 # become.co.jp
 127.0.0.1 partner.become.co.jp
@@ -6054,9 +6029,6 @@
 
 # billingsupportcenter.com
 127.0.0.1 billingsupportcenter.com
-
-# billpics.com
-127.0.0.1 billpics.com
 
 # bimedia.net
 127.0.0.1 images.bimedia.net
@@ -7798,9 +7770,6 @@
 # clubseventeen.com
 127.0.0.1 banners.clubseventeen.com
 
-# clustrmaps.com
-127.0.0.1 clustrmaps.com
-
 # cmcore.com
 127.0.0.1 data.cmcore.com
 
@@ -7846,7 +7815,6 @@
 127.0.0.1 c.cnstats.ru
 
 # cntv.cn
-127.0.0.1 a.cntv.cn
 127.0.0.1 d.cntv.cn
 
 # cnw.cz
@@ -8036,9 +8004,6 @@
 127.0.0.1 ct2.comclick.com
 127.0.0.1 fl01.ct2.comclick.com
 127.0.0.1 ihm01.ct2.comclick.com
-
-# comclick.net
-127.0.0.1 comclick.net
 
 # come.cc
 127.0.0.1 ranklet.come.cc
@@ -8646,9 +8611,6 @@
 # cygo.net
 127.0.0.1 search.cygo.net
 
-# cytron.com
-127.0.0.1 cytron.com
-
 # czech-sex.cz
 127.0.0.1 banner.czech-sex.cz
 
@@ -9071,9 +9033,6 @@
 
 # directionsmag.com
 127.0.0.1 ads.directionsmag.com
-
-# directivepub.com
-127.0.0.1 directivepub.com
 
 # directleads.com
 127.0.0.1 directleads.com
@@ -9942,9 +9901,6 @@
 # eads.org
 127.0.0.1 eads.org
 
-# eads.to
-127.0.0.1 eads.to
-
 # eagletribune.com
 127.0.0.1 ads.eagletribune.com
 
@@ -10728,11 +10684,7 @@
 127.0.0.1 promo.eurolive.com
 
 # europacasino.com
-127.0.0.1 banner.europacasino.com
 127.0.0.1 cachewww.europacasino.com
-
-# euroranking.de
-127.0.0.1 euroranking.de
 
 # eurorevenue.com
 127.0.0.1 geoads.eurorevenue.com
@@ -11856,9 +11808,6 @@
 
 # freewha.com
 127.0.0.1 freewha.com
-
-# freewrinklecream.com
-127.0.0.1 freewrinklecream.com
 
 # freeyellow.com
 127.0.0.1 count.freeyellow.com
@@ -18419,9 +18368,6 @@
 # mobrand.net
 127.0.0.1 t.mobrand.net
 
-# mobsmart.net
-127.0.0.1 adv.mobsmart.net
-
 # mobu.jp
 127.0.0.1 get.mobu.jp
 
@@ -18447,9 +18393,6 @@
 
 # modry.cz
 127.0.0.1 ceskydomov.alias.ngs.modry.cz
-
-# mods.de
-127.0.0.1 clicks.mods.de
 
 # mofos.com
 127.0.0.1 ads.mofos.com
@@ -18563,7 +18506,6 @@
 127.0.0.1 motormarket.com
 
 # mouseflow.com
-127.0.0.1 a.mouseflow.com
 127.0.0.1 mouseflow.com
 
 # mouseplanet.com
@@ -22510,9 +22452,6 @@
 # regulationprivilegescan.top
 127.0.0.1 regulationprivilegescan.top
 
-# rehabdollars.com
-127.0.0.1 ads.rehabdollars.com
-
 # reimageplus.com
 127.0.0.1 ja.reimageplus.com
 
@@ -24111,7 +24050,6 @@
 127.0.0.1 ad.smsmovies.se
 
 # smv.to
-127.0.0.1 ad.smv.to
 127.0.0.1 smv.to
 
 # snoobi.com
@@ -24215,9 +24153,6 @@
 
 # soku.info
 127.0.0.1 soku.info
-
-# sol.no
-127.0.0.1 ads.sol.no
 
 # solarwinds.com
 127.0.0.1 metrics.solarwinds.com
@@ -25496,9 +25431,6 @@
 
 # tfd.com
 127.0.0.1 img.tfd.com
-
-# tgknt.com
-127.0.0.1 c.tgknt.com
 
 # tgptraffic.biz
 127.0.0.1 tgptraffic.biz
@@ -26894,9 +26826,6 @@
 127.0.0.1 ad.val.jp
 127.0.0.1 s3.mobile.val.jp
 
-# valary.com
-127.0.0.1 c26.valary.com
-
 # validclick.com
 127.0.0.1 feed.validclick.com
 127.0.0.1 validclick.com
@@ -26995,9 +26924,7 @@
 127.0.0.1 veille-referencement.com
 
 # veinteractive.com
-127.0.0.1 cdsusa.veinteractive.com
 127.0.0.1 config1.veinteractive.com
-127.0.0.1 drs2.veinteractive.com
 
 # velocecdn.com
 127.0.0.1 velocecdn.com
@@ -27549,8 +27476,6 @@
 127.0.0.1 webads.nl
 
 # webadvertising.ch
-127.0.0.1 ad.webadvertising.ch
-127.0.0.1 adv.webadvertising.ch
 127.0.0.1 nx-adv.webadvertising.ch
 
 # webalize.com
@@ -28062,7 +27987,6 @@
 
 # world-ad.jp
 127.0.0.1 world-ad.jp
-127.0.0.1 www2.world-ad.jp
 
 # world-fusigi.net
 127.0.0.1 ads.world-fusigi.net
