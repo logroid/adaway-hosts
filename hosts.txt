@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2023/02/05
-# block hosts: 16442 entry
+# last updated: 2023/02/06
+# block hosts: 16443 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -1623,7 +1623,6 @@
 
 # 3322.net
 127.0.0.1 ad.3322.net
-127.0.0.1 guannan.3322.net
 
 # 337.com
 127.0.0.1 analytic.337.com
@@ -1662,7 +1661,6 @@
 # 3g.cn
 127.0.0.1 cache.3g.cn
 127.0.0.1 gostore.3g.cn
-127.0.0.1 imupdate.3g.cn
 127.0.0.1 launchermsg.3g.cn
 
 # 3gmimo.com
@@ -3065,12 +3063,14 @@
 127.0.0.1 accounts-preview.adjust.com
 127.0.0.1 accounts-staging.adjust.com
 127.0.0.1 accounts.adjust.com
+127.0.0.1 accschsh-aaccschro-44.adjust.com
 127.0.0.1 aclfm1s-preview.adjust.com
 127.0.0.1 add.adjust.com
 127.0.0.1 adjust.adjust.com
 127.0.0.1 adjust.com
 127.0.0.1 aero-log.adjust.com
 127.0.0.1 am-dashboard.adjust.com
+127.0.0.1 ams-frontend-1-vpn.adjust.com
 127.0.0.1 ams-mon-1.adjust.com
 127.0.0.1 ams-zabbix.adjust.com
 127.0.0.1 analytics-1.adjust.com
@@ -3096,7 +3096,9 @@
 127.0.0.1 b5c3cd05645e38884a6207c125a572c1.ulink.adjust.com
 127.0.0.1 benchmarks-api.adjust.com
 127.0.0.1 bigearshelp.adjust.com
+127.0.0.1 blocka-144.adjust.com
 127.0.0.1 c744614fbac6d9af42f91bc304a80bc0.ulink.adjust.com
+127.0.0.1 calcestisud.adjust.com
 127.0.0.1 cdn.adjust.com
 127.0.0.1 cea01b777fa05b616440f21b2dc97678.ulink.adjust.com
 127.0.0.1 chatapp.adjust.com
@@ -3104,15 +3106,18 @@
 127.0.0.1 cn.adjust.com
 127.0.0.1 codm.adjust.com
 127.0.0.1 corystorchpp-benchmcorystorchrks.adjust.com
+127.0.0.1 cuatro.adjust.com
 127.0.0.1 d.adjust.com
 127.0.0.1 d3b16342cf283be86ab26ebd90de5464.ulink.adjust.com
 127.0.0.1 dash-demo-1.adjust.com
 127.0.0.1 dash-dhocanhhung-1.adjust.com
 127.0.0.1 dash-qa-1.adjust.com
+127.0.0.1 dash-staging-remote.adjust.com
 127.0.0.1 dash.adjust.com
 127.0.0.1 dashboard-demo-1-graphite-oauth.adjust.com
 127.0.0.1 dashboard-qa-2-esh-aero-3.adjust.com
 127.0.0.1 dashboard-qa-2-jenkins.adjust.com
+127.0.0.1 dashboard-qa-2-lab.adjust.com
 127.0.0.1 dasj.adjust.com
 127.0.0.1 dbia2avazeh-demo-1.adjust.com
 127.0.0.1 de.adjust.com
@@ -3129,11 +3134,18 @@
 127.0.0.1 esapp.adjust.com
 127.0.0.1 esh-adjust-db-3.adjust.com
 127.0.0.1 esh-aero-1.adjust.com
+127.0.0.1 esh-aero-3accounts-demo-5.adjust.com
+127.0.0.1 esh-aero-44-bligoo.adjust.com
+127.0.0.1 esh-aero-44-cybird.adjust.com
+127.0.0.1 esh-aero-62network.adjust.com
+127.0.0.1 esh-aetocard-nenuo-44.adjust.com
 127.0.0.1 esh-atrao-6.adjust.com
 127.0.0.1 esh-dawnsstampingthoughtso-5.adjust.com
 127.0.0.1 esh-kafka-poc-1.adjust.com
+127.0.0.1 evclassnets.adjust.com
 127.0.0.1 evenbussard.adjust.com
 127.0.0.1 events.adjust.com
+127.0.0.1 everestview.adjust.com
 127.0.0.1 evgrattants.adjust.com
 127.0.0.1 f389d8ad02a07b27e528a513b6899965.ulink.adjust.com
 127.0.0.1 f4a976f85912bb1032f6cf898c5a088f.ulink.adjust.com
@@ -3149,9 +3161,13 @@
 127.0.0.1 frontend-1.adjust.com
 127.0.0.1 frontend-1griffiss-am1.adjust.com
 127.0.0.1 froratznd-1.adjust.com
+127.0.0.1 gallerydocs.adjust.com
+127.0.0.1 gambarseleb.adjust.com
 127.0.0.1 gdpr.adjust.com
 127.0.0.1 go.adjust.com
 127.0.0.1 gollum.adjust.com
+127.0.0.1 helcapucine.adjust.com
+127.0.0.1 help-quarto.adjust.com
 127.0.0.1 help.adjust.com
 127.0.0.1 hereapp.adjust.com
 127.0.0.1 hhpbbstfblp.adjust.com
@@ -3169,8 +3185,10 @@
 127.0.0.1 js.adjust.com
 127.0.0.1 keindahanpria-asiaesh-aero-5.adjust.com
 127.0.0.1 kickpp-benchmkickrks.adjust.com
+127.0.0.1 kosherscene.adjust.com
 127.0.0.1 kpi-service.adjust.com
 127.0.0.1 kpodforakbe.adjust.com
+127.0.0.1 kube-pyrrha.adjust.com
 127.0.0.1 kube-stride.adjust.com
 127.0.0.1 lax-frontend-3esh-backend-4.adjust.com
 127.0.0.1 lax-mon-4-esh-aero-14.adjust.com
@@ -3184,12 +3202,14 @@
 127.0.0.1 mpression.adjust.com
 127.0.0.1 nebeartubet.adjust.com
 127.0.0.1 next-qa-4-control-qa-3.adjust.com
+127.0.0.1 next-stage3.adjust.com
 127.0.0.1 next.adjust.com
 127.0.0.1 nickersonrv.adjust.com
 127.0.0.1 norwood-app-benchmarks.adjust.com
 127.0.0.1 odn.adjust.com
 127.0.0.1 p.adjust.com
 127.0.0.1 partners.adjust.com
+127.0.0.1 pc5699sh-apc5699ro-44.adjust.com
 127.0.0.1 pedroams-zbx-frontend-3.adjust.com
 127.0.0.1 pembertonrv.adjust.com
 127.0.0.1 pnewkirk-app-benchmarks.adjust.com
@@ -3199,6 +3219,7 @@
 127.0.0.1 preview.adjust.com
 127.0.0.1 pubicstaticvoidmain.adjust.com
 127.0.0.1 qa-1.adjust.com
+127.0.0.1 qa-2-wtikgs.adjust.com
 127.0.0.1 qa-2lanuevaconciencia.adjust.com
 127.0.0.1 qa-lauridsl.adjust.com
 127.0.0.1 quenda.adjust.com
@@ -3216,6 +3237,7 @@
 127.0.0.1 simplyme091909h-aero-6.adjust.com
 127.0.0.1 spellsjewellery.adjust.com
 127.0.0.1 ssrv.adjust.com
+127.0.0.1 states.adjust.com
 127.0.0.1 status.adjust.com
 127.0.0.1 steinhardt.adjust.com
 127.0.0.1 straub.adjust.com
@@ -3237,9 +3259,11 @@
 127.0.0.1 unbotify.adjust.com
 127.0.0.1 view.adjust.com
 127.0.0.1 volatile-minds.adjust.com
+127.0.0.1 w5-partners.adjust.com
 127.0.0.1 web-sdk-demo.adjust.com
 127.0.0.1 westburya-2.adjust.com
 127.0.0.1 wordpress.adjust.com
+127.0.0.1 wsus-status.adjust.com
 127.0.0.1 www.adjust.com
 127.0.0.1 zbx-frontartifactorynd.adjust.com
 127.0.0.1 zbx-frontenbbecker.adjust.com
@@ -3557,7 +3581,6 @@
 127.0.0.1 masterh2.adriver.ru
 127.0.0.1 masterh3.adriver.ru
 127.0.0.1 masterh4.adriver.ru
-127.0.0.1 masterh5.adriver.ru
 127.0.0.1 masterh6.adriver.ru
 127.0.0.1 sad1.adriver.ru
 
@@ -5009,9 +5032,6 @@
 
 # appcloud-center.com
 127.0.0.1 appcloud-center.com
-
-# appdriver.cn
-127.0.0.1 sandbox.appdriver.cn
 
 # appdriver.jp
 127.0.0.1 appdriver.jp
@@ -10072,9 +10092,6 @@
 # ehost-services.com
 127.0.0.1 wsc.ehost-services.com
 
-# ehostpros.com
-127.0.0.1 ns106.ehostpros.com
-
 # eimg.jp
 127.0.0.1 c.adingo.jp.eimg.jp
 127.0.0.1 contents.adingo.jp.eimg.jp
@@ -11736,9 +11753,6 @@
 # freebieclub.com
 127.0.0.1 freebieclub.com
 
-# freecounter.it
-127.0.0.1 maurobb.freecounter.it
-
 # freecountersnow.com
 127.0.0.1 freecountersnow.com
 
@@ -12071,9 +12085,6 @@
 
 # gator.com
 127.0.0.1 gator.com
-
-# gaug.es
-127.0.0.1 secure.gaug.es
 
 # gaycash.com
 127.0.0.1 statsv3.gaycash.com
@@ -12788,9 +12799,6 @@
 # gree.net
 127.0.0.1 reward.gree.net
 
-# greenhorse.com
-127.0.0.1 greenhorse.com
-
 # greenpixels.com
 127.0.0.1 stats.greenpixels.com
 
@@ -12971,9 +12979,6 @@
 
 # hao123img.com
 127.0.0.1 s0.hao123img.com
-
-# haodong.net
-127.0.0.1 haodong.net
 
 # happypuppy.com
 127.0.0.1 adserv.happypuppy.com
@@ -13593,9 +13598,6 @@
 # homes.co.jp
 127.0.0.1 adp.homes.co.jp
 
-# homestad.com
-127.0.0.1 homestad.com
-
 # homestead.com
 127.0.0.1 bbpntg3.homestead.com
 127.0.0.1 delta223.homestead.com
@@ -13920,9 +13922,6 @@
 
 # hxad.com
 127.0.0.1 hxad.com
-
-# hydramedia.com
-127.0.0.1 hydramedia.com
 
 # hyena.cz
 127.0.0.1 ad.hyena.cz
@@ -15630,9 +15629,6 @@
 # iq.pl
 127.0.0.1 banners.iq.pl
 
-# iqh.net.cn
-127.0.0.1 iqh.net.cn
-
 # ir.ru
 127.0.0.1 ad.ir.ru
 
@@ -17192,7 +17188,6 @@
 
 # liveinternet.ru
 127.0.0.1 ad.liveinternet.ru
-127.0.0.1 liveinternet.ru
 
 # livejasmin.com
 127.0.0.1 creatives.livejasmin.com
@@ -17420,7 +17415,6 @@
 
 # lycos.it
 127.0.0.1 ads.tripod.lycos.it
-127.0.0.1 hit.tripod.lycos.it
 
 # lycos.nl
 127.0.0.1 ads.tripod.lycos.nl
@@ -19190,9 +19184,6 @@
 # myx.net
 127.0.0.1 ads.myx.net
 
-# n24.de
-127.0.0.1 n24.de
-
 # n69.com
 127.0.0.1 n69.com
 
@@ -20124,6 +20115,8 @@
 127.0.0.1 fastly-staging-bam-cell.nr-data.net
 127.0.0.1 fastly-staging-bam.nr-data.net
 127.0.0.1 fastly-staging-otlp.nr-data.net
+127.0.0.1 fastly-tls12-bam-cell.nr-data.net
+127.0.0.1 fastly-tls12-bam.nr-data.net
 127.0.0.1 gov-bam-pool.nr-data.net
 127.0.0.1 gov-bam.nr-data.net
 127.0.0.1 gov-staging-bam-pool.nr-data.net
@@ -20810,9 +20803,6 @@
 # p-bxm.com
 127.0.0.1 p-bxm.com
 
-# p090303.info
-127.0.0.1 p090303.info
-
 # p2l.info
 127.0.0.1 p2l.info
 
@@ -21018,9 +21008,6 @@
 127.0.0.1 out.paycounter.com
 127.0.0.1 paycounter.com
 127.0.0.1 stats.paycounter.com
-
-# paymonsters.biz
-127.0.0.1 paymonsters.biz
 
 # paypal.com
 127.0.0.1 t.paypal.com
@@ -21555,7 +21542,6 @@
 127.0.0.1 h0rnd0g.popunder.ru
 127.0.0.1 jabu.popunder.ru
 127.0.0.1 kamasutra.popunder.ru
-127.0.0.1 kinofree.popunder.ru
 127.0.0.1 kondratev.popunder.ru
 127.0.0.1 low-hacker.popunder.ru
 127.0.0.1 luksona.popunder.ru
@@ -21641,12 +21627,6 @@
 
 # pr-cy.ru
 127.0.0.1 pr-cy.ru
-
-# pr-star.de
-127.0.0.1 pr-star.de
-
-# pr-ten.de
-127.0.0.1 pr-ten.de
 
 # prchecker.info
 127.0.0.1 prchecker.info
@@ -22541,9 +22521,6 @@
 # retrostats.com
 127.0.0.1 retrostats.com
 
-# returnpath.net
-127.0.0.1 pixel.monitor1.returnpath.net
-
 # reutersmedia.net
 127.0.0.1 s2.reutersmedia.net
 
@@ -22793,9 +22770,6 @@
 # rss.tc
 127.0.0.1 rss.tc
 
-# rsvpgenius.com
-127.0.0.1 gbjfc.rsvpgenius.com
-
 # rtad.io
 127.0.0.1 clicks.rtad.io
 
@@ -22996,9 +22970,6 @@
 
 # scripps.com
 127.0.0.1 apptap.scripps.com
-
-# scripte-monster.de
-127.0.0.1 scripte-monster.de
 
 # scubajournal.com
 127.0.0.1 scubajournal.com
@@ -23563,6 +23534,7 @@
 127.0.0.1 dr-heaven-58.shinobi.jp
 127.0.0.1 dr-heaven-gate.shinobi.jp
 127.0.0.1 dr-mens-vanilla.shinobi.jp
+127.0.0.1 dr-mgstage.shinobi.jp
 127.0.0.1 dr-nights.shinobi.jp
 127.0.0.1 dr-picmo.shinobi.jp
 127.0.0.1 dr-upstage-02.shinobi.jp
@@ -25638,9 +25610,6 @@
 127.0.0.1 affiliate-id.tiktok.com
 127.0.0.1 affiliate.tiktok.com
 
-# timeinc.net
-127.0.0.1 img.timeinc.net
-
 # timeout.com
 127.0.0.1 metrics.timeout.com
 
@@ -25669,7 +25638,6 @@
 
 # tiscali.it
 127.0.0.1 adsweb.tiscali.it
-127.0.0.1 ss.tiscali.it
 
 # tiser.com.au
 127.0.0.1 mercury.tiser.com.au
@@ -26957,9 +26925,6 @@
 # verizonmedia.com
 127.0.0.1 adjp.apacact.verizonmedia.com
 
-# vermontteddybear.com
-127.0.0.1 sleep.vermontteddybear.com
-
 # versiontracker.com
 127.0.0.1 bwp.versiontracker.com
 127.0.0.1 image.versiontracker.com
@@ -26995,7 +26960,6 @@
 # vgwort.de
 127.0.0.1 golem.met.vgwort.de
 127.0.0.1 heise.met.vgwort.de
-127.0.0.1 n-tv.met.vgwort.de
 127.0.0.1 spiegel.met.vgwort.de
 127.0.0.1 stern.met.vgwort.de
 127.0.0.1 sz.met.vgwort.de
@@ -27474,9 +27438,6 @@
 # webads.nl
 127.0.0.1 adserver.webads.nl
 127.0.0.1 webads.nl
-
-# webadvertising.ch
-127.0.0.1 nx-adv.webadvertising.ch
 
 # webalize.com
 127.0.0.1 webalize.com
