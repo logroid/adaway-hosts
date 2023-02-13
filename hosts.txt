@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2023/02/06
-# block hosts: 16443 entry
+# last updated: 2023/02/14
+# block hosts: 16417 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -1517,7 +1517,6 @@
 127.0.0.1 usmtprod.112.2o7.net
 127.0.0.1 usnews.122.2o7.net
 127.0.0.1 usun.112.2o7.net
-127.0.0.1 va-pool.2o7.net
 127.0.0.1 vcomdeepdiscount.112.2o7.net
 127.0.0.1 vcommerce.112.2o7.net
 127.0.0.1 veeamgeneral.112.2o7.net
@@ -1925,6 +1924,7 @@
 127.0.0.1 ad-api.a8.net
 127.0.0.1 ad-verification.a8.net
 127.0.0.1 ad.a8.net
+127.0.0.1 ad2.a8.net
 127.0.0.1 adtest.a8.net
 127.0.0.1 adv.a8.net
 127.0.0.1 advertiser.a8.net
@@ -1934,11 +1934,14 @@
 127.0.0.1 datafeed.a8.net
 127.0.0.1 document.a8.net
 127.0.0.1 ecsales-api.a8.net
+127.0.0.1 email01.a8.net
+127.0.0.1 feed.a8.net
 127.0.0.1 ifrb.a8.net
 127.0.0.1 items.a8.net
 127.0.0.1 lm.a8.net
 127.0.0.1 localhost.a8.net
 127.0.0.1 ml.a8.net
+127.0.0.1 nat.a8.net
 127.0.0.1 nat2.a8.net
 127.0.0.1 nat3.a8.net
 127.0.0.1 ns6.a8.net
@@ -1959,11 +1962,14 @@
 127.0.0.1 rot9.a8.net
 127.0.0.1 rpx.a8.net
 127.0.0.1 rws.a8.net
+127.0.0.1 sftp.a8.net
 127.0.0.1 shopify-app.a8.net
 127.0.0.1 sis.a8.net
 127.0.0.1 sp-api.a8.net
 127.0.0.1 statics.a8.net
+127.0.0.1 stg-sp-api.a8.net
 127.0.0.1 support.a8.net
+127.0.0.1 techdev-portal.a8.net
 127.0.0.1 trck-v3.a8.net
 127.0.0.1 trck-v4.a8.net
 127.0.0.1 trck.a8.net
@@ -1999,9 +2005,6 @@
 
 # aaaf.jp
 127.0.0.1 aaaf.jp
-
-# aaddzz.com
-127.0.0.1 aaddzz.com
 
 # aafp.org
 127.0.0.1 nossl.aafp.org
@@ -3083,6 +3086,7 @@
 127.0.0.1 api.adjust.com
 127.0.0.1 app-bbiztechchmarks.adjust.com
 127.0.0.1 app-benchconceptshipsks.adjust.com
+127.0.0.1 app-benchmark.adjust.com
 127.0.0.1 app-benchmarks.adjust.com
 127.0.0.1 app-benchmarprintservs.adjust.com
 127.0.0.1 app-bwestportnchmarks.adjust.com
@@ -3220,6 +3224,7 @@
 127.0.0.1 pubicstaticvoidmain.adjust.com
 127.0.0.1 qa-1.adjust.com
 127.0.0.1 qa-2-wtikgs.adjust.com
+127.0.0.1 qa-2.adjust.com
 127.0.0.1 qa-2lanuevaconciencia.adjust.com
 127.0.0.1 qa-lauridsl.adjust.com
 127.0.0.1 quenda.adjust.com
@@ -3706,9 +3711,6 @@
 # adsee.jp
 127.0.0.1 adsee.jp
 127.0.0.1 linker.adsee.jp
-
-# adsend.de
-127.0.0.1 adsend.de
 
 # adsensecamp.com
 127.0.0.1 adsensecamp.com
@@ -6326,9 +6328,6 @@
 
 # bluewin.ch
 127.0.0.1 o.bluewin.ch
-
-# bm23.com
-127.0.0.1 watershed.bm23.com
 
 # bmmetrix.com
 127.0.0.1 t.bmmetrix.com
@@ -10759,7 +10758,6 @@
 # exaccess.ru
 127.0.0.1 advert.exaccess.ru
 127.0.0.1 dynamic.exaccess.ru
-127.0.0.1 static.exaccess.ru
 
 # exactseek.com
 127.0.0.1 ads.exactseek.com
@@ -10829,12 +10827,6 @@
 
 # exigomedia.com
 127.0.0.1 ad.exigomedia.com
-
-# exit-ad.com
-127.0.0.1 d.exit-ad.com
-127.0.0.1 exit-ad.com
-127.0.0.1 i.exit-ad.com
-127.0.0.1 j.exit-ad.com
 
 # exit-ad.de
 127.0.0.1 exit-ad.de
@@ -11956,9 +11948,6 @@
 
 # gabia.net
 127.0.0.1 errdoc.gabia.net
-
-# gactv.com
-127.0.0.1 te.gactv.com
 
 # gadu-gadu.pl
 127.0.0.1 adserver.gadu-gadu.pl
@@ -15577,7 +15566,6 @@
 
 # iogous.com
 127.0.0.1 rssad.iogous.com
-127.0.0.1 tk.iogous.com
 127.0.0.1 web.iogous.com
 
 # iol.co.za
@@ -18114,8 +18102,8 @@
 127.0.0.1 d-cache.microad.jp
 127.0.0.1 d-track.send.microad.jp
 127.0.0.1 deb.send.microad.jp
+127.0.0.1 demand-services-lp.microad.jp
 127.0.0.1 demand-services.microad.jp
-127.0.0.1 demand-support.microad.jp
 127.0.0.1 dex.microad.jp
 127.0.0.1 dex.send.microad.jp
 127.0.0.1 item.microad.jp
@@ -21491,7 +21479,6 @@
 # popads.net
 127.0.0.1 c1.popads.net
 127.0.0.1 out.popads.net
-127.0.0.1 popads.net
 127.0.0.1 serve.popads.net
 
 # popadscdn.net
@@ -22155,9 +22142,6 @@
 # rampidads.com
 127.0.0.1 ads.rampidads.com
 127.0.0.1 main.rampidads.com
-
-# randallpub.com
-127.0.0.1 webtrends.randallpub.com
 
 # random-logic.com
 127.0.0.1 clientreport.random-logic.com
@@ -22854,11 +22838,8 @@
 127.0.0.1 sadsabz.com
 
 # sageanalyst.net
-127.0.0.1 amp.st.sageanalyst.net
 127.0.0.1 matchnet.st.sageanalyst.net
 127.0.0.1 sageanalyst.net
-127.0.0.1 st.sageanalyst.net
-127.0.0.1 su.sageanalyst.net
 
 # sail-horizon.com
 127.0.0.1 cdn.sail-horizon.com
@@ -23507,7 +23488,6 @@
 127.0.0.1 dr-cocoa.shinobi.jp
 127.0.0.1 dr-dlsite-01.shinobi.jp
 127.0.0.1 dr-dlsite-02.shinobi.jp
-127.0.0.1 dr-dmm-book-all.shinobi.jp
 127.0.0.1 dr-dmm-com-douga.shinobi.jp
 127.0.0.1 dr-dmm-order-pc.shinobi.jp
 127.0.0.1 dr-dmm-order-sp.shinobi.jp
@@ -24681,9 +24661,6 @@
 # stats.de
 127.0.0.1 js.stats.de
 
-# stats.net
-127.0.0.1 stats.net
-
 # stats4you.com
 127.0.0.1 stats4you.com
 
@@ -24736,9 +24713,6 @@
 
 # streamateaccess.com
 127.0.0.1 ifa.streamateaccess.com
-
-# streamcastnetworks.com
-127.0.0.1 streamcastnetworks.com
 
 # streamen.com
 127.0.0.1 static.gfx.streamen.com
@@ -25545,9 +25519,6 @@
 # thesurfshield.com
 127.0.0.1 thesurfshield.com
 
-# theteenxxx.com
-127.0.0.1 theteenxxx.com
-
 # thetrainingofo.com
 127.0.0.1 ads.thetrainingofo.com
 
@@ -25729,9 +25700,6 @@
 # toon-families.com
 127.0.0.1 toon-families.com
 
-# toonfamilies.net
-127.0.0.1 toonfamilies.net
-
 # top-casting-termine.de
 127.0.0.1 top-casting-termine.de
 
@@ -25828,9 +25796,6 @@
 
 # topsajt.com
 127.0.0.1 topsajt.com
-
-# topscore.in
-127.0.0.1 topscore.in
 
 # topsir.com
 127.0.0.1 topsir.com
@@ -26124,7 +26089,6 @@
 127.0.0.1 ht-cdn.trafficjunky.net
 127.0.0.1 media.trafficjunky.net
 127.0.0.1 tracking.trafficjunky.net
-127.0.0.1 trafficjunky.net
 
 # trafficleader.com
 127.0.0.1 trafficleader.com
@@ -26160,9 +26124,6 @@
 
 # trafficspaces.net
 127.0.0.1 trafficspaces.net
-
-# trafficstars.com
-127.0.0.1 trafficstars.com
 
 # trafficswarm.com
 127.0.0.1 trafficswarm.com
@@ -26214,9 +26175,6 @@
 
 # traktrafficflow.com
 127.0.0.1 www.traktrafficflow.com
-
-# transparty.net
-127.0.0.1 transparty.net
 
 # travellogger.com
 127.0.0.1 ads.travellogger.com
@@ -26431,9 +26389,6 @@
 # tvguide.com
 127.0.0.1 metrics.tvguide.com
 
-# tvmtracker.com
-127.0.0.1 tvmtracker.com
-
 # tvnewscheck.com
 127.0.0.1 oascentral.tvnewscheck.com
 
@@ -26615,9 +26570,6 @@
 # unibet.com
 127.0.0.1 adserving.unibet.com
 
-# unicaondemand.com
-127.0.0.1 svr1.unicaondemand.com
-
 # unimhk.com
 127.0.0.1 ad.unimhk.com
 
@@ -26720,9 +26672,6 @@
 
 # usedstone.com
 127.0.0.1 usedstone.com
-
-# usercash.com
-127.0.0.1 ads.usercash.com
 
 # userdive.com
 127.0.0.1 userdive.com
@@ -27473,9 +27422,6 @@
 # webcounter.be
 127.0.0.1 webcounter.be
 
-# webcounter.cc
-127.0.0.1 webcounter.cc
-
 # webcounter.com
 127.0.0.1 webcounter.com
 
@@ -27635,9 +27581,6 @@
 
 # webstat.no
 127.0.0.1 webstat.no
-
-# webstats4u.com
-127.0.0.1 webstats4u.com
 
 # webtools24.net
 127.0.0.1 ads.webtools24.net
@@ -28257,9 +28200,6 @@
 # xvideos.com
 127.0.0.1 s.xvideos.com
 
-# xxx-mom.com
-127.0.0.1 xxx-mom.com
-
 # xxxblackbook.com
 127.0.0.1 ard.xxxblackbook.com
 127.0.0.1 flashbanners.static.ard.xxxblackbook.com
@@ -28292,21 +28232,12 @@
 # xxxmatch.com
 127.0.0.1 textad.xxxmatch.com
 
-# xxxreactor.com
-127.0.0.1 xxxreactor.com
-
 # xxxrewards.com
 127.0.0.1 stats.xxxrewards.com
-
-# xxxset.net
-127.0.0.1 xxxset.net
 
 # xxxtoolbar.com
 127.0.0.1 install.xxxtoolbar.com
 127.0.0.1 xxxtoolbar.com
-
-# xxxvogue.net
-127.0.0.1 xxxvogue.net
 
 # xxxwebhosting.com
 127.0.0.1 banners.xxxwebhosting.com
@@ -28581,6 +28512,9 @@
 127.0.0.1 ybinst8.ec.yimg.com
 127.0.0.1 ybinst9.ec.yimg.com
 
+# yimg.jp
+127.0.0.1 yads.c.yimg.jp
+
 # yjtag.jp
 127.0.0.1 s.yjtag.jp
 
@@ -28804,9 +28738,6 @@
 # zhopa.net
 127.0.0.1 zhopa.net
 
-# zibotengyue.com
-127.0.0.1 zibotengyue.com
-
 # ziffdavisinternet.com
 127.0.0.1 enewsletters.ziffdavisinternet.com
 
@@ -28854,9 +28785,6 @@
 
 # zouri.jp
 127.0.0.1 x5.zouri.jp
-
-# zr0.net
-127.0.0.1 zr0.net
 
 # zryydi.com
 127.0.0.1 ssp.zryydi.com
