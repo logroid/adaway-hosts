@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2023/02/14
-# block hosts: 16417 entry
+# block hosts: 16421 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -1781,6 +1781,9 @@
 
 # 74.ru
 127.0.0.1 74.ru
+
+# 7711755.com
+127.0.0.1 www.koyamatou-co.aios.7711755.com
 
 # 777blogz.com
 127.0.0.1 777blogz.com
@@ -20837,12 +20840,15 @@
 127.0.0.1 home.pages.at
 
 # pages.dev
+127.0.0.1 12123ads-github-io.pages.dev
 127.0.0.1 87c948ad-36b7-b157-05fc-94c12d3e9807-ci.pages.dev
 127.0.0.1 9b553ae1-ad79-4722-b534-5bdc7aa6cbc8.pages.dev
 127.0.0.1 adtest.pages.dev
 127.0.0.1 b2c3f28b-cea2-4d98-ad5b-06cae252069f.pages.dev
+127.0.0.1 desku-chat-widget-js.pages.dev
 127.0.0.1 new-adtest.pages.dev
 127.0.0.1 popular-mibanco-control-de-seguridad.pages.dev
+127.0.0.1 simple-ad-server.pages.dev
 
 # pagesjaunes.fr
 127.0.0.1 sbx.pagesjaunes.fr
