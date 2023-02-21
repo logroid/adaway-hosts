@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2023/02/14
-# block hosts: 16421 entry
+# last updated: 2023/02/21
+# block hosts: 16360 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -2333,7 +2333,6 @@
 
 # ad-locus.com
 127.0.0.1 1.ad-locus.com
-127.0.0.1 ad-locus.com
 
 # ad-m.asia
 127.0.0.1 sync-dsp.ad-m.asia
@@ -3320,9 +3319,7 @@
 127.0.0.1 adlegend.com
 
 # adlink.de
-127.0.0.1 adlink.de
 127.0.0.1 banner.adlink.de
-127.0.0.1 regio.adlink.de
 127.0.0.1 wap.adlink.de
 127.0.0.1 west.adlink.de
 
@@ -3453,9 +3450,6 @@
 
 # adnetworkperformance.com
 127.0.0.1 adnetworkperformance.com
-
-# adnext.fr
-127.0.0.1 adnext.fr
 
 # adnico.jp
 127.0.0.1 adnico.jp
@@ -3902,9 +3896,6 @@
 127.0.0.1 inview.amanad.adtdp.com
 127.0.0.1 pv.amanad.adtdp.com
 127.0.0.1 rs-ap.adtdp.com
-
-# adtear.com
-127.0.0.1 adtear.com
 
 # adtech.de
 127.0.0.1 ad-dc2.adtech.de
@@ -4555,9 +4546,6 @@
 127.0.0.1 ac.ajur.info
 127.0.0.1 openx.ajur.info
 
-# aka-root.com
-127.0.0.1 aka-root.com
-
 # akamai.net
 127.0.0.1 a248.e.akamai.net
 
@@ -4589,7 +4577,6 @@
 127.0.0.1 alenty.com
 
 # alexa.com
-127.0.0.1 data.alexa.com
 127.0.0.1 download.alexa.com
 
 # alfatraffic.com
@@ -4632,9 +4619,6 @@
 
 # allinsearch.net
 127.0.0.1 allinsearch.net
-
-# allotraffic.com
-127.0.0.1 allotraffic.com
 
 # alloydigital.com
 127.0.0.1 alloydigital.com
@@ -5070,9 +5054,6 @@
 127.0.0.1 a.applvn.com
 127.0.0.1 d.applvn.com
 127.0.0.1 rt.applvn.com
-
-# appnexus.com
-127.0.0.1 appnexus.com
 
 # appollo.jp
 127.0.0.1 appollo.jp
@@ -5862,9 +5843,6 @@
 # bestprice.net
 127.0.0.1 ranking.bestprice.net
 
-# bestproduct.in
-127.0.0.1 bestproduct.in
-
 # bestsearch.com
 127.0.0.1 bestsearch.com
 
@@ -6176,10 +6154,6 @@
 
 # blizzard.com
 127.0.0.1 ads.blizzard.com
-
-# blm.net
-127.0.0.1 ad.blm.net
-127.0.0.1 adimage.blm.net
 
 # blockbuster.com
 127.0.0.1 om.blockbuster.com
@@ -6713,9 +6687,6 @@
 # broadwords.com
 127.0.0.1 broadwords.com
 
-# brokertraffic.com
-127.0.0.1 brokertraffic.com
-
 # brothersoft.com
 127.0.0.1 brothersoft.com
 
@@ -6797,9 +6768,6 @@
 
 # butlereagle.com
 127.0.0.1 ads.butlereagle.com
-
-# buttcandy.com
-127.0.0.1 buttcandy.com
 
 # buxflow.com
 127.0.0.1 buxflow.com
@@ -7438,9 +7406,6 @@
 127.0.0.1 banners.cj.com
 127.0.0.1 cj.com
 
-# cjlog.com
-127.0.0.1 cjlog.com
-
 # claria.com
 127.0.0.1 claria.com
 
@@ -8018,14 +7983,6 @@
 
 # comcast.net
 127.0.0.1 serviceo.comcast.net
-
-# comclick.com
-127.0.0.1 bdx.comclick.com
-127.0.0.1 br.comclick.com
-127.0.0.1 comclick.com
-127.0.0.1 ct2.comclick.com
-127.0.0.1 fl01.ct2.comclick.com
-127.0.0.1 ihm01.ct2.comclick.com
 
 # come.cc
 127.0.0.1 ranklet.come.cc
@@ -9148,7 +9105,6 @@
 
 # dlbooks.to
 127.0.0.1 ad.dlbooks.to
-127.0.0.1 gum.dlbooks.to
 
 # dlpo.jp
 127.0.0.1 dlpo.jp
@@ -9717,9 +9673,6 @@
 # downloadz.us
 127.0.0.1 downloadz.us
 
-# doyoo.net
-127.0.0.1 doyoo.net
-
 # dpbill.com
 127.0.0.1 click.dpbill.com
 
@@ -9868,9 +9821,6 @@
 
 # dvdbox.com
 127.0.0.1 track.dvdbox.com
-
-# dvdhentai.net
-127.0.0.1 dvdhentai.net
 
 # dvdreview.com
 127.0.0.1 ads.dvdreview.com
@@ -10645,9 +10595,6 @@
 # estats.com
 127.0.0.1 estats.com
 
-# estrategiavirtual.com
-127.0.0.1 estrategiavirtual.com
-
 # etahub.com
 127.0.0.1 etahub.com
 
@@ -10813,7 +10760,6 @@
 
 # exct.net
 127.0.0.1 cl.exct.net
-127.0.0.1 exct.net
 
 # execpc.com
 127.0.0.1 counter.execpc.com
@@ -11048,9 +10994,6 @@
 
 # faptitans.com
 127.0.0.1 faptitans.com
-
-# faracoon.com
-127.0.0.1 faracoon.com
 
 # farlex.com
 127.0.0.1 a.farlex.com
@@ -11821,9 +11764,6 @@
 # freeyellow.com
 127.0.0.1 count.freeyellow.com
 
-# fresheye.com
-127.0.0.1 relart.fresheye.com
-
 # freshmeat.net
 127.0.0.1 ads.freshmeat.net
 127.0.0.1 images-aud.freshmeat.net
@@ -11881,9 +11821,6 @@
 
 # fulldls.com
 127.0.0.1 ads.fulldls.com
-
-# fullsitehost.info
-127.0.0.1 fullsitehost.info
 
 # fulltiltpoker.com
 127.0.0.1 ads.fulltiltpoker.com
@@ -12785,8 +12722,6 @@
 # gree.jp
 127.0.0.1 a.gree.jp
 127.0.0.1 gree.jp
-127.0.0.1 i.share.gree.jp
-127.0.0.1 share.gree.jp
 
 # gree.net
 127.0.0.1 reward.gree.net
@@ -13733,9 +13668,6 @@
 # hotplugins.com
 127.0.0.1 search.hotplugins.com
 
-# hotrank.com.tw
-127.0.0.1 hotrank.com.tw
-
 # hotwire.com
 127.0.0.1 om.hotwire.com
 
@@ -14058,9 +13990,6 @@
 # ib-ibi.com
 127.0.0.1 ev.ib-ibi.com
 
-# ibario.com
-127.0.0.1 ibario.com
-
 # ibcustomerzone.com
 127.0.0.1 qrcdownload.ibcustomerzone.com
 
@@ -14125,9 +14054,6 @@
 
 # icorp.ro
 127.0.0.1 ado.icorp.ro
-
-# icount.com
-127.0.0.1 icount.com
 
 # icptrack.com
 127.0.0.1 click.icptrack.com
@@ -16151,9 +16077,6 @@
 # kiwicasino.com
 127.0.0.1 kiwicasino.com
 
-# kizash.com
-127.0.0.1 kizash.com
-
 # kleinezeitung.at
 127.0.0.1 static.kleinezeitung.at
 
@@ -16336,18 +16259,11 @@
 # lanacion.com.ar
 127.0.0.1 adserver.lanacion.com.ar
 
-# land.to
-127.0.0.1 ad.land.to
-
 # landsend.com
 127.0.0.1 affiliate.landsend.com
 
 # largecash.com
 127.0.0.1 banners.largecash.com
-
-# lasvegasusacasino.com
-127.0.0.1 banner.lasvegasusacasino.com
-127.0.0.1 lasvegasusacasino.com
 
 # law.com
 127.0.0.1 a.law.com
@@ -17932,9 +17848,6 @@
 # mediumpimpin.com
 127.0.0.1 popit.mediumpimpin.com
 
-# medius.net
-127.0.0.1 adman.medius.net
-
 # medleyads.com
 127.0.0.1 graphics.medleyads.com
 127.0.0.1 medleyads.com
@@ -18269,9 +18182,6 @@
 127.0.0.1 geoip.mlive.com
 127.0.0.1 metrics.mlive.com
 127.0.0.1 science.mlive.com
-
-# mlm.de
-127.0.0.1 mlm.de
 
 # mmaaxx.com
 127.0.0.1 www.mmaaxx.com
@@ -19733,9 +19643,6 @@
 # netrevgo.com
 127.0.0.1 delivery.adcash.dsp.netrevgo.com
 
-# netropa.com
-127.0.0.1 netropa.com
-
 # netscape.com
 127.0.0.1 cgi.netscape.com
 127.0.0.1 get.netscape.com
@@ -20651,9 +20558,6 @@
 # osusumate.com
 127.0.0.1 osusumate.com
 
-# otherprofit.com
-127.0.0.1 otherprofit.com
-
 # otoshiana.com
 127.0.0.1 x8.otoshiana.com
 
@@ -20816,9 +20720,6 @@
 
 # page-not-found.net
 127.0.0.1 page-not-found.net
-
-# page-x.com
-127.0.0.1 page-x.com
 
 # pagecount.com
 127.0.0.1 pagecount.com
@@ -21851,9 +21752,6 @@
 # ptengine.jp
 127.0.0.1 ptengine.jp
 
-# ptp4ever.net
-127.0.0.1 ptp4ever.net
-
 # pubdirecte.com
 127.0.0.1 pubdirecte.com
 
@@ -22108,11 +22006,6 @@
 # rainbow-mail.net
 127.0.0.1 rainbow-mail.net
 
-# rainy.to
-127.0.0.1 ad.rainy.to
-127.0.0.1 adi.rainy.to
-127.0.0.1 spadv.rainy.to
-
 # rainydaymarketing.com
 127.0.0.1 trk.rainydaymarketing.com
 
@@ -22302,9 +22195,6 @@
 # realsrv.com
 127.0.0.1 ads.realsrv.com
 127.0.0.1 syndication.realsrv.com
-
-# realteencash.com
-127.0.0.1 realteencash.com
 
 # realtimeads.com
 127.0.0.1 realtimeads.com
@@ -22754,9 +22644,6 @@
 # rs6.net
 127.0.0.1 r20.rs6.net
 
-# rss-loader.com
-127.0.0.1 rss-loader.com
-
 # rss.tc
 127.0.0.1 rss.tc
 
@@ -22842,10 +22729,6 @@
 
 # sadsabz.com
 127.0.0.1 sadsabz.com
-
-# sageanalyst.net
-127.0.0.1 matchnet.st.sageanalyst.net
-127.0.0.1 sageanalyst.net
 
 # sail-horizon.com
 127.0.0.1 cdn.sail-horizon.com
@@ -23052,9 +22935,6 @@
 127.0.0.1 searchteria.co.jp
 127.0.0.1 sem.searchteria.co.jp
 
-# searchwe.com
-127.0.0.1 searchwe.com
-
 # seattlepi.com
 127.0.0.1 metrics.seattlepi.com
 
@@ -23118,9 +22998,6 @@
 127.0.0.1 img.sedoparking.com
 127.0.0.1 sedoparking.com
 
-# sedotracker.com
-127.0.0.1 sedotracker.com
-
 # sedotracker.de
 127.0.0.1 sedotracker.de
 
@@ -23138,9 +23015,6 @@
 
 # seenon.com
 127.0.0.1 metrics.seenon.com
-
-# seeq.com
-127.0.0.1 seeq.com
 
 # seervicee.info
 127.0.0.1 seervicee.info
@@ -23720,7 +23594,6 @@
 
 # sina.com.cn
 127.0.0.1 ad3.sina.com.cn
-127.0.0.1 ad4.sina.com.cn
 
 # sina.com.hk
 127.0.0.1 adimages.sina.com.hk
@@ -24007,9 +23880,6 @@
 # smsmovies.se
 127.0.0.1 ad.smsmovies.se
 
-# smv.to
-127.0.0.1 smv.to
-
 # snoobi.com
 127.0.0.1 eu1.snoobi.com
 127.0.0.1 snoobi.com
@@ -24085,9 +23955,6 @@
 
 # socratos.net
 127.0.0.1 ivox.socratos.net
-
-# soft32.com
-127.0.0.1 ads.soft32.com
 
 # softclick.com.br
 127.0.0.1 softclick.com.br
@@ -25405,9 +25272,6 @@
 127.0.0.1 ad.theadhost.com
 127.0.0.1 theadhost.com
 
-# theatlantic.com
-127.0.0.1 metrics.theatlantic.com
-
 # thebrighttag.com
 127.0.0.1 s.thebrighttag.com
 
@@ -25546,9 +25410,6 @@
 127.0.0.1 g.thinktarget.com
 127.0.0.1 search.thinktarget.com
 
-# thisbanner.com
-127.0.0.1 serve.thisbanner.com
-
 # thisis.co.uk
 127.0.0.1 webtrends.thisis.co.uk
 
@@ -25583,7 +25444,6 @@
 127.0.0.1 ads-service.tiktok.com
 127.0.0.1 ads-va.tiktok.com
 127.0.0.1 ads.tiktok.com
-127.0.0.1 aff-id.tiktok.com
 127.0.0.1 affiliate-id.tiktok.com
 127.0.0.1 affiliate.tiktok.com
 
@@ -27116,7 +26976,6 @@
 
 # vodone.cn
 127.0.0.1 autou.vodone.cn
-127.0.0.1 mobus.vodone.cn
 127.0.0.1 stat.vodone.cn
 
 # vodone.com
