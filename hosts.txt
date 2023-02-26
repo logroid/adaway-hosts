@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2023/02/21
-# block hosts: 16360 entry
+# last updated: 2023/02/27
+# block hosts: 16354 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -2408,6 +2408,11 @@
 127.0.0.1 srv.ad-seek.jp
 127.0.0.1 zimbra.ad-seek.jp
 
+# ad-site55.net
+127.0.0.1 ad-site55.net
+127.0.0.1 ns1.ad-site55.net
+127.0.0.1 ns2.ad-site55.net
+
 # ad-space.net
 127.0.0.1 adserver.ad-space.net
 
@@ -4197,7 +4202,6 @@
 127.0.0.1 tradearabia.advertserve.com
 
 # advertstream.com
-127.0.0.1 ad.advertstream.com
 127.0.0.1 advertstream.com
 127.0.0.1 l.advertstream.com
 
@@ -9102,9 +9106,6 @@
 
 # dl-rms.com
 127.0.0.1 content.dl-rms.com
-
-# dlbooks.to
-127.0.0.1 ad.dlbooks.to
 
 # dlpo.jp
 127.0.0.1 dlpo.jp
@@ -15493,10 +15494,6 @@
 # inyourpocket.com
 127.0.0.1 banner.inyourpocket.com
 
-# iogous.com
-127.0.0.1 rssad.iogous.com
-127.0.0.1 web.iogous.com
-
 # iol.co.za
 127.0.0.1 adsrv.iol.co.za
 
@@ -20504,6 +20501,7 @@
 
 # orange-park.jp
 127.0.0.1 ad.orange-park.jp
+127.0.0.1 ads.orange-park.jp
 
 # orangeads.fr
 127.0.0.1 all.orfr.adgtw.orangeads.fr
@@ -24519,9 +24517,6 @@
 # static-files.com
 127.0.0.1 adn.static-files.com
 
-# statistiche.ws
-127.0.0.1 stat.statistiche.ws
-
 # statistics.ro
 127.0.0.1 statistics.ro
 
@@ -25633,9 +25628,6 @@
 # toplist.sk
 127.0.0.1 toplist.sk
 
-# topmango.com
-127.0.0.1 topmango.com
-
 # topmeds10.com
 127.0.0.1 topmeds10.com
 
@@ -25671,9 +25663,6 @@
 
 # topsites.com.br
 127.0.0.1 topsites.com.br
-
-# topstat.com
-127.0.0.1 topstat.com
 
 # topstats.com
 127.0.0.1 topstats.com
@@ -25771,7 +25760,6 @@
 
 # tracking202.com
 127.0.0.1 ads.tracking202.com
-127.0.0.1 static.tracking202.com
 
 # trackingsoft.com
 127.0.0.1 trackingsoft.com
@@ -26071,9 +26059,6 @@
 # treasuredata.com
 127.0.0.1 cdn.treasuredata.com
 127.0.0.1 in.treasuredata.com
-
-# treasuredome.com
-127.0.0.1 treasuredome.com
 
 # treasuretrooper.com
 127.0.0.1 treasuretrooper.com
@@ -27728,7 +27713,6 @@
 
 # wooboo.com.cn
 127.0.0.1 m.wooboo.com.cn
-127.0.0.1 static.wooboo.com.cn
 127.0.0.1 wap.wooboo.com.cn
 
 # woolyboys.com
