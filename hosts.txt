@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2023/02/27
-# block hosts: 16354 entry
+# last updated: 2023/02/28
+# block hosts: 16343 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -1837,9 +1837,6 @@
 127.0.0.1 marketing.888.com
 127.0.0.1 setupspcp1.888.com
 
-# 8885n.com
-127.0.0.1 8885n.com
-
 # 91.com
 127.0.0.1 agency.91.com
 127.0.0.1 d.91.com
@@ -2998,6 +2995,7 @@
 
 # adjust.com
 127.0.0.1 085e78e6d452e4c60d88f4083541fab0.ulink.adjust.com
+127.0.0.1 10-6.adjust.com
 127.0.0.1 123.41.54.45.rdns.adjust.com
 127.0.0.1 12e87efed2eb0eac1462ac1fc2f70cf8.ulink.adjust.com
 127.0.0.1 160.41.54.45.rdns.adjust.com
@@ -3700,9 +3698,6 @@
 # adsco.re
 127.0.0.1 6.adsco.re
 127.0.0.1 c.adsco.re
-
-# adsdaq.com
-127.0.0.1 adsdaq.com
 
 # adsdk.com
 127.0.0.1 cdn1.adsdk.com
@@ -6688,9 +6683,6 @@
 # broadstreetads.com
 127.0.0.1 broadstreetads.com
 
-# broadwords.com
-127.0.0.1 broadwords.com
-
 # brothersoft.com
 127.0.0.1 brothersoft.com
 
@@ -6940,9 +6932,6 @@
 # carbonads.com
 127.0.0.1 carbonads.com
 
-# carbonads.net
-127.0.0.1 carbonads.net
-
 # carbonite.com
 127.0.0.1 metrics.carbonite.com
 
@@ -7003,9 +6992,6 @@
 
 # cartoonnrtwork.com
 127.0.0.1 cartoonnrtwork.com
-
-# cartoonpornguide.com
-127.0.0.1 cartoonpornguide.com
 
 # cartrawler.com
 127.0.0.1 ota.cartrawler.com
@@ -7629,9 +7615,6 @@
 
 # clicktaxi.com
 127.0.0.1 clicktaxi.com
-
-# clickthru.net
-127.0.0.1 clickthru.net
 
 # clickthruhost.com
 127.0.0.1 clickthruhost.com
@@ -16138,7 +16121,6 @@
 127.0.0.1 cps.kongzhong.com
 
 # konibet.com
-127.0.0.1 ads.konibet.com
 127.0.0.1 affiliate.konibet.com
 
 # kontaktanzeigen-fotos.de
@@ -16570,9 +16552,6 @@
 
 # linktarget.com
 127.0.0.1 linktarget.com
-
-# linktech.cn
-127.0.0.1 banner.linktech.cn
 
 # linkwithin.com
 127.0.0.1 linkwithin.com
@@ -19088,9 +19067,6 @@
 # nabebugyou.com
 127.0.0.1 x4.nabebugyou.com
 127.0.0.1 x7.nabebugyou.com
-
-# nachtagenten.de
-127.0.0.1 ad.nachtagenten.de
 
 # nacorp.com
 127.0.0.1 ftp.nacorp.com
@@ -25279,9 +25255,6 @@
 # thedenverchannel.com
 127.0.0.1 scrooge.thedenverchannel.com
 
-# thediabetesnetwork.com
-127.0.0.1 advertising.thediabetesnetwork.com
-
 # thedieselstop.com
 127.0.0.1 ads.thedieselstop.com
 
@@ -26722,9 +26695,6 @@
 # verajohn.com
 127.0.0.1 www.verajohn.com
 
-# verizonmedia.com
-127.0.0.1 adjp.apacact.verizonmedia.com
-
 # versiontracker.com
 127.0.0.1 bwp.versiontracker.com
 127.0.0.1 image.versiontracker.com
@@ -27794,7 +27764,6 @@
 127.0.0.1 wtlive.com
 
 # wundercounter.com
-127.0.0.1 api.wundercounter.com
 127.0.0.1 wundercounter.com
 
 # wunderground.com
