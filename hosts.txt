@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2023/02/28
-# block hosts: 16343 entry
+# last updated: 2023/03/11
+# block hosts: 16298 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -4198,7 +4198,6 @@
 
 # advertstream.com
 127.0.0.1 advertstream.com
-127.0.0.1 l.advertstream.com
 
 # advertwizard.com
 127.0.0.1 advertwizard.com
@@ -6153,9 +6152,6 @@
 
 # blizzard.com
 127.0.0.1 ads.blizzard.com
-
-# blockbuster.com
-127.0.0.1 om.blockbuster.com
 
 # blog-feed.net
 127.0.0.1 list.blog-feed.net
@@ -8626,9 +8622,6 @@
 127.0.0.1 ad1.dada.it
 127.0.0.1 ads.dada.it
 
-# dadapro.com
-127.0.0.1 tracy.sadv.dadapro.com
-
 # daem0n.com
 127.0.0.1 count.daem0n.com
 
@@ -9054,9 +9047,6 @@
 127.0.0.1 img.discovery.com
 127.0.0.1 omnikool.discovery.com
 
-# dishnetwork.com
-127.0.0.1 sdc.dishnetwork.com
-
 # disk11.com
 127.0.0.1 ns1.disk11.com
 127.0.0.1 ns2.disk11.com
@@ -9432,11 +9422,6 @@
 # domainplayersclub.com
 127.0.0.1 domainplayersclub.com
 127.0.0.1 reviews.domainplayersclub.com
-
-# domainsponsor.com
-127.0.0.1 domainsponsor.com
-127.0.0.1 images.domainsponsor.com
-127.0.0.1 spi.domainsponsor.com
 
 # domeus.com
 127.0.0.1 ads.domeus.com
@@ -10190,9 +10175,6 @@
 # enjoytraffic.com
 127.0.0.1 enjoytraffic.com
 
-# enliven.org
-127.0.0.1 enliven.org
-
 # enokorogusa.com
 127.0.0.1 ct2.enokorogusa.com
 
@@ -10896,9 +10878,6 @@
 # ezgreen.com
 127.0.0.1 ezgreen.com
 
-# ezula.com
-127.0.0.1 ezula.com
-
 # f5biz.com
 127.0.0.1 f5biz.com
 
@@ -11004,9 +10983,6 @@
 # fastcounter.com
 127.0.0.1 fastcounter.com
 
-# fastgraphics.com
-127.0.0.1 fastgraphics.com
-
 # fatcow.com
 127.0.0.1 counter.fatcow.com
 
@@ -11021,6 +10997,7 @@
 
 # fc2.com
 127.0.0.1 11329921.ranking.fc2.com
+127.0.0.1 ads.contents.fc2.com
 127.0.0.1 aimg.fc2.com
 127.0.0.1 analyzer-img.fc2.com
 127.0.0.1 analyzer.fc2.com
@@ -12656,7 +12633,6 @@
 
 # goweb.de
 127.0.0.1 goweb.de
-127.0.0.1 webcounter.goweb.de
 
 # goyk.com
 127.0.0.1 ads.goyk.com
@@ -12678,9 +12654,6 @@
 
 # gradfinder.com
 127.0.0.1 ads.gradfinder.com
-
-# graffitifonts.com
-127.0.0.1 graffitifonts.com
 
 # grafika.cz
 127.0.0.1 ad.grafika.cz
@@ -12789,9 +12762,6 @@
 
 # guerillatraffic.com
 127.0.0.1 guerillatraffic.com
-
-# guid.org
-127.0.0.1 guid.org
 
 # guile.jp
 127.0.0.1 guile.jp
@@ -15471,9 +15441,6 @@
 # inwind.it
 127.0.0.1 adserver.inwind.it
 
-# inxhost.com
-127.0.0.1 pics3.inxhost.com
-
 # inyourpocket.com
 127.0.0.1 banner.inyourpocket.com
 
@@ -16045,7 +16012,6 @@
 
 # kissmyads.com
 127.0.0.1 affiliates.kissmyads.com
-127.0.0.1 kissmyads.com
 127.0.0.1 tracking.kissmyads.com
 
 # kit.net
@@ -16526,9 +16492,6 @@
 127.0.0.1 ad.linkshare.ne.jp
 127.0.0.1 linkshare.ne.jp
 
-# linksmile.com
-127.0.0.1 linksmile.com
-
 # linkstattrack.com
 127.0.0.1 click.linkstattrack.com
 
@@ -16546,9 +16509,6 @@
 127.0.0.1 mftp.linksynergy.com
 127.0.0.1 r2.linksynergy.com
 127.0.0.1 ssl.linksynergy.com
-
-# linksyu.net
-127.0.0.1 sogolink.linksyu.net
 
 # linktarget.com
 127.0.0.1 linktarget.com
@@ -17801,7 +17761,6 @@
 127.0.0.1 1274.mediatraffic.com
 127.0.0.1 cpcfeed.mediatraffic.com
 127.0.0.1 cpvfeed.mediatraffic.com
-127.0.0.1 mediatraffic.com
 
 # mediatrafficagency.com
 127.0.0.1 mediatrafficagency.com
@@ -17844,9 +17803,6 @@
 # megacash.de
 127.0.0.1 megacash.de
 
-# megacounter.de
-127.0.0.1 megacounter.de
-
 # megafriends.com
 127.0.0.1 megafriends.com
 
@@ -17855,9 +17811,6 @@
 
 # megastats.com
 127.0.0.1 megastats.com
-
-# megawerbung.de
-127.0.0.1 megawerbung.de
 
 # meiluziai.info
 127.0.0.1 meiluziai.info
@@ -18376,9 +18329,6 @@
 # motormarket.com
 127.0.0.1 motormarket.com
 
-# mouseflow.com
-127.0.0.1 mouseflow.com
-
 # mouseplanet.com
 127.0.0.1 ads.mouseplanet.com
 
@@ -18470,9 +18420,6 @@
 127.0.0.1 stjjp.msn.com
 127.0.0.1 utm.sankei.jp.msn.com
 
-# msn.it
-127.0.0.1 soldi.msn.it
-
 # msnavi.com
 127.0.0.1 rb.msnavi.com
 
@@ -18525,7 +18472,6 @@
 127.0.0.1 mt83.mtree.com
 127.0.0.1 mt94.mtree.com
 127.0.0.1 mtree.com
-127.0.0.1 porn.mtree.com
 127.0.0.1 psy.mtree.com
 127.0.0.1 ss.mtree.com
 127.0.0.1 the.mtree.com
@@ -21204,9 +21150,6 @@
 # pkr.com
 127.0.0.1 accounts.pkr.com
 
-# placemypixel.com
-127.0.0.1 p.placemypixel.com
-
 # planet-multiplayer.de
 127.0.0.1 adserver.planet-multiplayer.de
 
@@ -21405,11 +21348,6 @@
 127.0.0.1 clik2008.popunder.ru
 127.0.0.1 darseo.popunder.ru
 127.0.0.1 djeps.popunder.ru
-127.0.0.1 freegroupvideo.popunder.ru
-127.0.0.1 gajime.popunder.ru
-127.0.0.1 h0rnd0g.popunder.ru
-127.0.0.1 jabu.popunder.ru
-127.0.0.1 kamasutra.popunder.ru
 127.0.0.1 kondratev.popunder.ru
 127.0.0.1 low-hacker.popunder.ru
 127.0.0.1 luksona.popunder.ru
@@ -22757,9 +22695,6 @@
 127.0.0.1 aws-ad.scadnet.com
 127.0.0.1 scadnet.com
 
-# scambiositi.com
-127.0.0.1 pagerank.scambiositi.com
-
 # scanscout.com
 127.0.0.1 scanscout.com
 127.0.0.1 static.scanscout.com
@@ -23011,9 +22946,6 @@
 
 # semfazonline.com
 127.0.0.1 semfazonline.com
-
-# sendyou123.com
-127.0.0.1 sendyou123.com
 
 # seniorfriendfinder.com
 127.0.0.1 ads.seniorfriendfinder.com
@@ -24323,9 +24255,6 @@
 # srbijacafe.org
 127.0.0.1 srbijacafe.org
 
-# srvcraft.com
-127.0.0.1 srvcraft.com
-
 # srwww1.com
 127.0.0.1 srwww1.com
 
@@ -24992,9 +24921,6 @@
 # tanganrss.com
 127.0.0.1 tanganrss.com
 
-# tangerinenet.biz
-127.0.0.1 tangerinenet.biz
-
 # tanto.de
 127.0.0.1 banner.tanto.de
 
@@ -25573,9 +25499,6 @@
 127.0.0.1 clickheat.topbucks.com
 127.0.0.1 cluster-03.topbucks.com
 127.0.0.1 mainstream.topbucks.com
-127.0.0.1 rainbow.topbucks.com
-127.0.0.1 referral.topbucks.com
-127.0.0.1 referral.vod.topbucks.com
 127.0.0.1 topbucks.com
 127.0.0.1 vod.topbucks.com
 127.0.0.1 webmaster.topbucks.com
@@ -26253,9 +26176,6 @@
 # twittercounter.com
 127.0.0.1 twittercounter.com
 
-# twpss.jp
-127.0.0.1 twpss.jp
-
 # twyn.com
 127.0.0.1 et.twyn.com
 127.0.0.1 tracknet.twyn.com
@@ -26714,9 +26634,6 @@
 
 # vervewireless.com
 127.0.0.1 vervewireless.com
-
-# veryfastsearch.com
-127.0.0.1 veryfastsearch.com
 
 # veryfunnyads.com
 127.0.0.1 metrics.veryfunnyads.com
@@ -27339,9 +27256,6 @@
 # weboverdrive.com
 127.0.0.1 banners.weboverdrive.com
 
-# webproworld.com
-127.0.0.1 webproworld.com
-
 # webroot.com
 127.0.0.1 osc.webroot.com
 
@@ -27381,9 +27295,6 @@
 
 # websitesponsor.de
 127.0.0.1 websitesponsor.de
-
-# websitetrafficreport.com
-127.0.0.1 websitetrafficreport.com
 
 # websponsors.com
 127.0.0.1 a.websponsors.com
@@ -27446,7 +27357,6 @@
 
 # weownthetraffic.com
 127.0.0.1 ads.weownthetraffic.com
-127.0.0.1 weownthetraffic.com
 
 # wesh.com
 127.0.0.1 scrooge.wesh.com
@@ -27555,9 +27465,6 @@
 # wildmatch.com
 127.0.0.1 pcash.wildmatch.com
 
-# wildmistress.com
-127.0.0.1 wildmistress.com
-
 # wildporntube.com
 127.0.0.1 wildporntube.com
 
@@ -27615,9 +27522,6 @@
 
 # wired.com
 127.0.0.1 stats.wired.com
-
-# wiredminds.de
-127.0.0.1 ctsde01.wiredminds.de
 
 # wiredpussy.com
 127.0.0.1 ads.wiredpussy.com
@@ -27943,9 +27847,6 @@
 
 # xlisting.jp
 127.0.0.1 keywordlink3.xlisting.jp
-
-# xlivedoor.com
-127.0.0.1 xlivedoor.com
 
 # xlocator.com
 127.0.0.1 xlocator.com
@@ -28404,9 +28305,6 @@
 # your.com
 127.0.0.1 your.com
 
-# yourcartoons.com
-127.0.0.1 yourcartoons.com
-
 # yourdictionary.com
 127.0.0.1 adjuggler.yourdictionary.com
 
@@ -28591,9 +28489,6 @@
 
 # zmags.com
 127.0.0.1 stats.zmags.com
-
-# zoomovies.org
-127.0.0.1 zoomovies.org
 
 # zoosextv.com
 127.0.0.1 zoosextv.com
