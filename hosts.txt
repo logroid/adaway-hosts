@@ -5,17 +5,14 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2023/03/11
-# block hosts: 16298 entry
+# last updated: 2023/03/17
+# block hosts: 16280 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
 
 # 0430.com
 127.0.0.1 cht.0430.com
-
-# 100-100.ru
-127.0.0.1 100-100.ru
 
 # 100free.com
 127.0.0.1 adserver.100free.com
@@ -1788,9 +1785,6 @@
 # 777blogz.com
 127.0.0.1 777blogz.com
 
-# 777partner.com
-127.0.0.1 777partner.com
-
 # 777seo.com
 127.0.0.1 777seo.com
 
@@ -1808,9 +1802,6 @@
 
 # 7bpeople.com
 127.0.0.1 7bpeople.com
-
-# 7host.com
-127.0.0.1 7host.com
 
 # 7search.com
 127.0.0.1 7search.com
@@ -2404,11 +2395,6 @@
 127.0.0.1 sniper.ad-seek.jp
 127.0.0.1 srv.ad-seek.jp
 127.0.0.1 zimbra.ad-seek.jp
-
-# ad-site55.net
-127.0.0.1 ad-site55.net
-127.0.0.1 ns1.ad-site55.net
-127.0.0.1 ns2.ad-site55.net
 
 # ad-space.net
 127.0.0.1 adserver.ad-space.net
@@ -3602,9 +3588,6 @@
 # adrotator.com
 127.0.0.1 adrotator.com
 
-# adrotator.net
-127.0.0.1 adrotator.net
-
 # adrunnr.com
 127.0.0.1 adrunnr.com
 
@@ -4280,9 +4263,6 @@
 127.0.0.1 ads.adxpansion.com
 127.0.0.1 adxpansion.com
 127.0.0.1 cs.adxpansion.com
-
-# adxpose.com
-127.0.0.1 adxpose.com
 
 # adxpower.com
 127.0.0.1 servedby.adxpower.com
@@ -5562,9 +5542,6 @@
 
 # banner.dk
 127.0.0.1 banner.dk
-
-# bannerads.de
-127.0.0.1 bannerads.de
 
 # bannerads.nl
 127.0.0.1 bannerads.nl
@@ -7522,7 +7499,6 @@
 127.0.0.1 clickedyclick.com
 
 # clickequations.net
-127.0.0.1 beacon.clickequations.net
 127.0.0.1 js.clickequations.net
 
 # clickey.com
@@ -12677,7 +12653,6 @@
 127.0.0.1 ads.greatoutdoors.com
 
 # gree.jp
-127.0.0.1 a.gree.jp
 127.0.0.1 gree.jp
 
 # gree.net
@@ -17572,9 +17547,6 @@
 # maxymiser.net
 127.0.0.1 service.maxymiser.net
 
-# mb-click.jp
-127.0.0.1 api.mb-click.jp
-
 # mb01.com
 127.0.0.1 mb01.com
 
@@ -17764,9 +17736,6 @@
 
 # mediatrafficagency.com
 127.0.0.1 mediatrafficagency.com
-
-# mediatwo.com
-127.0.0.1 ads.mediatwo.com
 
 # mediaweaver.jp
 127.0.0.1 mediaweaver.jp
@@ -18394,9 +18363,6 @@
 # msn.ca
 127.0.0.1 adtag.msn.ca
 
-# msn.co.il
-127.0.0.1 ads.msn.co.il
-
 # msn.com
 127.0.0.1 0.r.msn.com
 127.0.0.1 a.ads1.msn.com
@@ -18404,7 +18370,6 @@
 127.0.0.1 ads.eu.msn.com
 127.0.0.1 ads.jp.msn.com
 127.0.0.1 ads.msn.com
-127.0.0.1 ads1.jp.msn.com
 127.0.0.1 ads1.msn.com
 127.0.0.1 ads2.msn.com
 127.0.0.1 adsyndication.msn.com
@@ -19593,9 +19558,6 @@
 # nettravel.com
 127.0.0.1 ad56.nettravel.com
 127.0.0.1 ad89.nettravel.com
-
-# nettsnakk.no
-127.0.0.1 ads.nettsnakk.no
 
 # netvenda.com
 127.0.0.1 content.netvenda.com
@@ -24946,9 +24908,6 @@
 # taptica.com
 127.0.0.1 clk.taptica.com
 
-# tapulous.com
-127.0.0.1 blog.analytics.tapulous.com
-
 # tapuz.co.il
 127.0.0.1 go.tapuz.co.il
 127.0.0.1 rm.tapuz.co.il
@@ -27354,9 +27313,6 @@
 
 # welmotch.jp
 127.0.0.1 welmotch.jp
-
-# weownthetraffic.com
-127.0.0.1 ads.weownthetraffic.com
 
 # wesh.com
 127.0.0.1 scrooge.wesh.com
