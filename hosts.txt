@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2023/03/17
-# block hosts: 16280 entry
+# last updated: 2023/03/20
+# block hosts: 16258 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -4214,9 +4214,6 @@
 # advolution.de
 127.0.0.1 advolution.de
 
-# adwaken.cn
-127.0.0.1 s2s.adwaken.cn
-
 # adwarealert.com
 127.0.0.1 setup.adwarealert.com
 
@@ -7345,9 +7342,6 @@
 127.0.0.1 gcirm.cincinnati.com
 127.0.0.1 tnt.cincinnati.com
 
-# cinematoday.jp
-127.0.0.1 log.cinematoday.jp
-
 # cint.com
 127.0.0.1 cint.com
 
@@ -7497,9 +7491,6 @@
 
 # clickedyclick.com
 127.0.0.1 clickedyclick.com
-
-# clickequations.net
-127.0.0.1 js.clickequations.net
 
 # clickey.com
 127.0.0.1 clickey.com
@@ -7697,6 +7688,7 @@
 
 # cloudfunctions.net
 127.0.0.1 asia-northeast1-affiliate-pr.cloudfunctions.net
+127.0.0.1 asia-northeast1-dalread-web.cloudfunctions.net
 127.0.0.1 asia-northeast3-kmplex-905ad.cloudfunctions.net
 127.0.0.1 us-central1-eyewind-ads.cloudfunctions.net
 127.0.0.1 us-central1-powerblue-861ad.cloudfunctions.net
@@ -7914,9 +7906,6 @@
 # colossal.jp
 127.0.0.1 colossal.jp
 
-# com-com.ws
-127.0.0.1 mtn6.com-com.ws
-
 # com.com
 127.0.0.1 adimg.com.com
 127.0.0.1 adlog.com.com
@@ -7951,9 +7940,6 @@
 
 # commissionpartner.com
 127.0.0.1 banner.commissionpartner.com
-
-# communiad.com
-127.0.0.1 show.communiad.com
 
 # communitech.net
 127.0.0.1 ads.communitech.net
@@ -8212,9 +8198,6 @@
 
 # coupondiscounts.com
 127.0.0.1 coupondiscounts.com
-
-# coupons-inc.com
-127.0.0.1 coupons-inc.com
 
 # courier-journal.com
 127.0.0.1 gcirm.courier-journal.com
@@ -9012,9 +8995,6 @@
 # directvalue.nl
 127.0.0.1 directvalue.nl
 
-# dirtcheapadvertising.com
-127.0.0.1 dirtcheapadvertising.com
-
 # discountclick.com
 127.0.0.1 discountclick.com
 127.0.0.1 server2.discountclick.com
@@ -9088,7 +9068,6 @@
 127.0.0.1 gcirm.dmregister.com
 
 # dmtracker.com
-127.0.0.1 dmtracker.com
 127.0.0.1 enom.dmtracker.com
 127.0.0.1 extended.dmtracker.com
 127.0.0.1 external.dmtracker.com
@@ -10004,9 +9983,6 @@
 127.0.0.1 product.adingo.jp.eimg.jp
 127.0.0.1 sp.adingo.jp.eimg.jp
 
-# einfachstarten.com
-127.0.0.1 einfachstarten.com
-
 # einmedia.com
 127.0.0.1 ads.einmedia.com
 
@@ -10147,9 +10123,6 @@
 
 # enjoy.be
 127.0.0.1 cams.enjoy.be
-
-# enjoytraffic.com
-127.0.0.1 enjoytraffic.com
 
 # enokorogusa.com
 127.0.0.1 ct2.enokorogusa.com
@@ -11136,6 +11109,7 @@
 127.0.0.1 ads-game-187f4.firebaseapp.com
 127.0.0.1 affiliate-script-pr.firebaseapp.com
 127.0.0.1 qongue-romad.firebaseapp.com
+127.0.0.1 rad867-jgtub88.firebaseapp.com
 
 # firehousezone.com
 127.0.0.1 ad1.firehousezone.com
@@ -13791,9 +13765,6 @@
 # hypermall.com
 127.0.0.1 hypermall.com
 
-# hyperspacenetwork.com
-127.0.0.1 hyperspacenetwork.com
-
 # hypertracker.com
 127.0.0.1 hypertracker.com
 
@@ -13833,9 +13804,6 @@
 127.0.0.1 spsvc5.i-mobile.co.jp
 127.0.0.1 ssp-bidapi.i-mobile.co.jp
 127.0.0.1 xid.i-mobile.co.jp
-
-# i12.de
-127.0.0.1 max.i12.de
 
 # i1img.com
 127.0.0.1 i1img.com
@@ -14391,7 +14359,6 @@
 127.0.0.1 netspiderads3.indiatimes.com
 
 # indieclick.com
-127.0.0.1 indieclick.com
 127.0.0.1 optimize.indieclick.com
 127.0.0.1 pixel.indieclick.com
 
@@ -17113,9 +17080,6 @@
 # lonelyplanet.com
 127.0.0.1 om.lonelyplanet.com
 
-# lonelywifehookup.com
-127.0.0.1 promo.lonelywifehookup.com
-
 # longtraffic.com
 127.0.0.1 longtraffic.com
 
@@ -17869,10 +17833,6 @@
 # mgn.net
 127.0.0.1 pubs.mgn.net
 
-# mgogo.com
-127.0.0.1 m.mgogo.com
-127.0.0.1 m1.mgogo.com
-
 # mhub.work
 127.0.0.1 mhub.work
 
@@ -18328,9 +18288,6 @@
 
 # mrskin.com
 127.0.0.1 ads.mrskin.com
-
-# mrskincash.com
-127.0.0.1 mrskincash.com
 
 # ms-mvp.org
 127.0.0.1 ms-mvp.org
@@ -20213,9 +20170,6 @@
 # onenetworkdirect.net
 127.0.0.1 show.onenetworkdirect.net
 
-# onepassnetwork.com
-127.0.0.1 onepassnetwork.com
-
 # oneplace.com
 127.0.0.1 ads.oneplace.com
 
@@ -21050,7 +21004,6 @@
 127.0.0.1 public.pinballpublishernetwork.com
 
 # pingdom.com
-127.0.0.1 pingdom.com
 127.0.0.1 royal.pingdom.com
 
 # pingdom.net
@@ -21672,9 +21625,6 @@
 
 # pulse360.com
 127.0.0.1 pulse360.com
-
-# pulsetv.com
-127.0.0.1 pulsetv.com
 
 # pulsix.com
 127.0.0.1 pulsix.com
@@ -22429,9 +22379,6 @@
 # roar.com
 127.0.0.1 roar.com
 
-# roars.com
-127.0.0.1 roars.com
-
 # robtex.com
 127.0.0.1 bis.robtex.com
 
@@ -22945,9 +22892,6 @@
 
 # sephora.com
 127.0.0.1 metrics.sephora.com
-
-# serials.ws
-127.0.0.1 serials.ws
 
 # serv0.com
 127.0.0.1 serv0.com
@@ -24029,9 +23973,6 @@
 
 # spiderbait.com
 127.0.0.1 tracking.spiderbait.com
-
-# spill.com
-127.0.0.1 h.spill.com
 
 # spinbox.net
 127.0.0.1 abscbn.spinbox.net
@@ -27542,7 +27483,6 @@
 127.0.0.1 wondoads.de
 
 # wooboo.com.cn
-127.0.0.1 m.wooboo.com.cn
 127.0.0.1 wap.wooboo.com.cn
 
 # woolyboys.com
