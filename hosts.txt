@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2023/04/06
-# block hosts: 16242 entry
+# last updated: 2023/04/11
+# block hosts: 16240 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -19869,7 +19869,6 @@
 127.0.0.1 meter-svc.nytimes.com
 127.0.0.1 nytadvertising.nytimes.com
 127.0.0.1 up.nytimes.com
-127.0.0.1 wt.o.nytimes.com
 
 # nyx.cz
 127.0.0.1 ads.nyx.cz
@@ -22698,7 +22697,6 @@
 127.0.0.1 img.securewebsiteaccess.com
 127.0.0.1 interstitial.powered-by.securewebsiteaccess.com
 127.0.0.1 js.securewebsiteaccess.com
-127.0.0.1 uci.securewebsiteaccess.com
 127.0.0.1 xfreelesbianmovies.com.powered-by.securewebsiteaccess.com
 
 # security-rd.com
