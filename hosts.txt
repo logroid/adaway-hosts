@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2023/04/11
-# block hosts: 16240 entry
+# last updated: 2023/05/01
+# block hosts: 16201 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -1668,9 +1668,6 @@
 # 4-you.net
 127.0.0.1 www.4-you.net
 
-# 404ads.net
-127.0.0.1 404ads.net
-
 # 40ch.com
 127.0.0.1 40ch.com
 
@@ -2277,9 +2274,6 @@
 127.0.0.1 ssp-jenkins-master.dev.ad-generation.jp
 127.0.0.1 vmap.v.ad-generation.jp
 
-# ad-groups.com
-127.0.0.1 ad-groups.com
-
 # ad-hatena.com
 127.0.0.1 ad-hatena.com
 127.0.0.1 cdn.ad-hatena.com
@@ -2544,9 +2538,6 @@
 
 # adbrite.com
 127.0.0.1 adbrite.com
-
-# adbroker.de
-127.0.0.1 adbroker.de
 
 # adbucks.com
 127.0.0.1 adbucks.com
@@ -2971,6 +2962,7 @@
 127.0.0.1 0.adjust.com
 127.0.0.1 085e78e6d452e4c60d88f4083541fab0.ulink.adjust.com
 127.0.0.1 0ins-2.adjust.com
+127.0.0.1 1.adjust.com
 127.0.0.1 10-4.adjust.com
 127.0.0.1 10-6.adjust.com
 127.0.0.1 123.41.54.45.rdns.adjust.com
@@ -3057,11 +3049,27 @@
 127.0.0.1 adjust.com
 127.0.0.1 aelectronom.adjust.com
 127.0.0.1 aero-log.adjust.com
+127.0.0.1 allabouthappylifeelp.adjust.com
 127.0.0.1 am-dashboard.adjust.com
 127.0.0.1 am-dashboardesh-qa-1.adjust.com
+127.0.0.1 ama2c-net99-frontend-1.adjust.com
+127.0.0.1 amediaberitaindonesiaom.adjust.com
+127.0.0.1 ams-fjuicycoutureoutlet95ntend-1.adjust.com
+127.0.0.1 ams-frmorrison-xptodownloadsntend-1.adjust.com
+127.0.0.1 ams-fro7420c418ate7420c418ad-1.adjust.com
+127.0.0.1 ams-froncfatherstencfathersd-1.adjust.com
 127.0.0.1 ams-frontend-1-accounts-demo-2.adjust.com
 127.0.0.1 ams-frontend-1-vpn.adjust.com
+127.0.0.1 ams-frontend-1.adjust.com
+127.0.0.1 ams-frontend-1cbullitt.adjust.com
+127.0.0.1 ams-frontennorthisland-mil-tac-1.adjust.com
+127.0.0.1 ams-frontmommybagsd-1.adjust.com
+127.0.0.1 ams-frothisizgametethisizgamed-1.adjust.com
+127.0.0.1 ams-fxgtechnologyscamntend-1.adjust.com
+127.0.0.1 ams-hpjlolnbrontend-1.adjust.com
 127.0.0.1 ams-mon-1.adjust.com
+127.0.0.1 ams-storage-1-esh-ch-3.adjust.com
+127.0.0.1 ams-strategyreportsrontend-1.adjust.com
 127.0.0.1 ams-zabbix.adjust.com
 127.0.0.1 ams-zbx-frontend-1cloudflare-resolve-to.adjust.com
 127.0.0.1 analytics-1.adjust.com
@@ -3093,11 +3101,14 @@
 127.0.0.1 benchmarks-api-qa-3-esh-aero-48.adjust.com
 127.0.0.1 benchmarks-api.adjust.com
 127.0.0.1 beta-demo-0-ams-zbx-frontend-1.adjust.com
+127.0.0.1 beta-qa-4esh-k8s-2.adjust.com
 127.0.0.1 bigearshelp.adjust.com
 127.0.0.1 blocka-144.adjust.com
+127.0.0.1 branfordnts.adjust.com
 127.0.0.1 c744614fbac6d9af42f91bc304a80bc0.ulink.adjust.com
 127.0.0.1 calcestisud.adjust.com
 127.0.0.1 capture.adjust.com
+127.0.0.1 ccotedivoirebienaimeoud.adjust.com
 127.0.0.1 cdn.adjust.com
 127.0.0.1 cea01b777fa05b616440f21b2dc97678.ulink.adjust.com
 127.0.0.1 chatapp.adjust.com
@@ -3106,7 +3117,9 @@
 127.0.0.1 cloudvtopus.adjust.com
 127.0.0.1 cn.adjust.com
 127.0.0.1 codm.adjust.com
+127.0.0.1 controlpanel.adjust.com
 127.0.0.1 corystorchpp-benchmcorystorchrks.adjust.com
+127.0.0.1 cresta.adjust.com
 127.0.0.1 cuatro.adjust.com
 127.0.0.1 d.adjust.com
 127.0.0.1 d3b16342cf283be86ab26ebd90de5464.ulink.adjust.com
@@ -3123,6 +3136,7 @@
 127.0.0.1 dashboard-qa-2-lab.adjust.com
 127.0.0.1 dashboard-qa-3-cdn.adjust.com
 127.0.0.1 dasj.adjust.com
+127.0.0.1 dasps-e-562-bontend-1.adjust.com
 127.0.0.1 dbia2avazeh-demo-1.adjust.com
 127.0.0.1 de.adjust.com
 127.0.0.1 demoartisan.adjust.com
@@ -3141,16 +3155,26 @@
 127.0.0.1 esan-franci-jacs5058s.adjust.com
 127.0.0.1 esapp.adjust.com
 127.0.0.1 esh-adjust-db-3.adjust.com
+127.0.0.1 esh-aeradtsecuritysystems-25.adjust.com
+127.0.0.1 esh-aerdurgon-3.adjust.com
 127.0.0.1 esh-aero-1.adjust.com
+127.0.0.1 esh-aero-25-novidadesautomotivas.adjust.com
+127.0.0.1 esh-aero-25.adjust.com
 127.0.0.1 esh-aero-3accounts-demo-5.adjust.com
 127.0.0.1 esh-aero-3anderson.adjust.com
 127.0.0.1 esh-aero-44-bligoo.adjust.com
 127.0.0.1 esh-aero-44-cybird.adjust.com
 127.0.0.1 esh-aero-62network.adjust.com
+127.0.0.1 esh-aero-bia2avaze.adjust.com
+127.0.0.1 esh-aero-bingvaxu5.adjust.com
 127.0.0.1 esh-aetocard-nenuo-44.adjust.com
+127.0.0.1 esh-apuma-3.adjust.com
 127.0.0.1 esh-atrao-6.adjust.com
+127.0.0.1 esh-awtco-3.adjust.com
 127.0.0.1 esh-dawnsstampingthoughtso-5.adjust.com
+127.0.0.1 esh-kafka-4esh-proxy-3.adjust.com
 127.0.0.1 esh-kafka-poc-1.adjust.com
+127.0.0.1 esh-mon-1benchmarks-api-qa-2.adjust.com
 127.0.0.1 evclassnets.adjust.com
 127.0.0.1 evedesqview.adjust.com
 127.0.0.1 evenbussard.adjust.com
@@ -3162,6 +3186,7 @@
 127.0.0.1 f4a976f85912bb1032f6cf898c5a088f.ulink.adjust.com
 127.0.0.1 f6b3f5b8b507fcfb7da3162007fa7dd0.ulink.adjust.com
 127.0.0.1 fapp.adjust.com
+127.0.0.1 fcamnet-kees-r02ntend-1.adjust.com
 127.0.0.1 ford-wdl32sh-aford-wdl32ro-34.adjust.com
 127.0.0.1 fr-aud-1.adjust.com
 127.0.0.1 fra-mon-1.adjust.com
@@ -3175,22 +3200,29 @@
 127.0.0.1 frontend-1-dash-staging.adjust.com
 127.0.0.1 frontend-1.adjust.com
 127.0.0.1 frontend-1griffiss-am1.adjust.com
+127.0.0.1 fronttravis-piv-1d-1.adjust.com
+127.0.0.1 fropassionend-1.adjust.com
 127.0.0.1 froratznd-1.adjust.com
 127.0.0.1 frosignificado-de-suenosend-1.adjust.com
+127.0.0.1 frovampires-mp3tevampires-mp3d-1.adjust.com
 127.0.0.1 froworkstationsteworkstationsd-1.adjust.com
 127.0.0.1 gallerydocs.adjust.com
 127.0.0.1 gambarseleb.adjust.com
 127.0.0.1 gdpr.adjust.com
 127.0.0.1 go.adjust.com
+127.0.0.1 golddustube.adjust.com
 127.0.0.1 gollum.adjust.com
+127.0.0.1 heaperturep.adjust.com
 127.0.0.1 hecherubini.adjust.com
 127.0.0.1 helcapucine.adjust.com
 127.0.0.1 help-quarto.adjust.com
+127.0.0.1 help-sunder.adjust.com
 127.0.0.1 help.adjust.com
 127.0.0.1 hereapp.adjust.com
 127.0.0.1 hhpbbstfblp.adjust.com
 127.0.0.1 hjwebsterlp.adjust.com
 127.0.0.1 hkg.adjust.com
+127.0.0.1 ignet-cphenry-ams-frontend-1.adjust.com
 127.0.0.1 ikpnetgw.adjust.com
 127.0.0.1 img.adjust.com
 127.0.0.1 insights-preview.adjust.com
@@ -3200,15 +3232,19 @@
 127.0.0.1 itapp.adjust.com
 127.0.0.1 jahoyspornstashnkins-2.adjust.com
 127.0.0.1 japhethobare-cloud.adjust.com
+127.0.0.1 jenkins-8-fra-mon-1.adjust.com
 127.0.0.1 js.adjust.com
 127.0.0.1 keindahanpria-asiaesh-aero-5.adjust.com
 127.0.0.1 kickpp-benchmkickrks.adjust.com
 127.0.0.1 kosherscene.adjust.com
+127.0.0.1 kpaulogoulartanunciaissobembe.adjust.com
 127.0.0.1 kpi-service.adjust.com
 127.0.0.1 kpodforakbe.adjust.com
 127.0.0.1 kube-pyrrha.adjust.com
 127.0.0.1 kube-stride.adjust.com
 127.0.0.1 kube-string.adjust.com
+127.0.0.1 kupmarshall.adjust.com
+127.0.0.1 lamaster-1.adjust.com
 127.0.0.1 lax-frontend-3esh-backend-4.adjust.com
 127.0.0.1 lax-mon-1-esh-aero-24.adjust.com
 127.0.0.1 lax-mon-4-esh-aero-14.adjust.com
@@ -3220,7 +3256,9 @@
 127.0.0.1 llpolicyapp.adjust.com
 127.0.0.1 metabase.adjust.com
 127.0.0.1 mobilespreeconf.adjust.com
+127.0.0.1 moehringen-ignetloud.adjust.com
 127.0.0.1 mpression.adjust.com
+127.0.0.1 nawtygirls-frontend-1.adjust.com
 127.0.0.1 nebeartubet.adjust.com
 127.0.0.1 network.adjust.com
 127.0.0.1 next-qa-4-control-qa-3.adjust.com
@@ -3230,8 +3268,10 @@
 127.0.0.1 nl-partners.adjust.com
 127.0.0.1 norwood-app-benchmarks.adjust.com
 127.0.0.1 odn.adjust.com
+127.0.0.1 oxds02.adjust.com
 127.0.0.1 p.adjust.com
 127.0.0.1 partners.adjust.com
+127.0.0.1 pc3420sh-apc3420ro-25.adjust.com
 127.0.0.1 pc5699sh-apc5699ro-44.adjust.com
 127.0.0.1 pedroams-zbx-frontend-3.adjust.com
 127.0.0.1 pembertonrv.adjust.com
@@ -3249,6 +3289,7 @@
 127.0.0.1 qa-lauridsl.adjust.com
 127.0.0.1 qcinetube-2.adjust.com
 127.0.0.1 quenda.adjust.com
+127.0.0.1 redirect.adjust.com
 127.0.0.1 regionapp.adjust.com
 127.0.0.1 replyapp.adjust.com
 127.0.0.1 researchro-5.adjust.com
@@ -3259,11 +3300,13 @@
 127.0.0.1 salesloft.adjust.com
 127.0.0.1 sandbox-dashboard.adjust.com
 127.0.0.1 sandfly.adjust.com
+127.0.0.1 sap-ams-zbx-frontend-1.adjust.com
 127.0.0.1 search.adjust.com
 127.0.0.1 seg-1.adjust.com
 127.0.0.1 seg-2.adjust.com
 127.0.0.1 serifosvserifosnts.adjust.com
 127.0.0.1 shard-2.adjust.com
+127.0.0.1 sharethetricks-frontend-1.adjust.com
 127.0.0.1 shomepaddocking-acquired-2.adjust.com
 127.0.0.1 simplyme091909h-aero-6.adjust.com
 127.0.0.1 slibertesinternetsing-acquired-2.adjust.com
@@ -3294,6 +3337,7 @@
 127.0.0.1 stpc3162ing-acquired-2.adjust.com
 127.0.0.1 stpc5606ging-pc5606cquired-2.adjust.com
 127.0.0.1 straub.adjust.com
+127.0.0.1 stunningwebsitetemplatesh-aero-3.adjust.com
 127.0.0.1 subscridexption.adjust.com
 127.0.0.1 subscription.adjust.com
 127.0.0.1 subscriptiondex.adjust.com
@@ -3305,7 +3349,9 @@
 127.0.0.1 the-burtons.adjust.com
 127.0.0.1 theadventuresofpaulnataliecloud.adjust.com
 127.0.0.1 thedigitalconsultant-frontend-1.adjust.com
+127.0.0.1 tickets-prometheus.adjust.com
 127.0.0.1 toreplyapp.adjust.com
+127.0.0.1 totalmachohunkvtotalmachohunknts.adjust.com
 127.0.0.1 trainingapp.adjust.com
 127.0.0.1 trk.adjust.com
 127.0.0.1 try.adjust.com
@@ -3320,6 +3366,7 @@
 127.0.0.1 web-sdk-demo.adjust.com
 127.0.0.1 westburya-2.adjust.com
 127.0.0.1 wordpress.adjust.com
+127.0.0.1 worldbestlinksams-frontend-1.adjust.com
 127.0.0.1 wsus-status.adjust.com
 127.0.0.1 www.adjust.com
 127.0.0.1 zbx-frontartifactorynd.adjust.com
@@ -3465,9 +3512,6 @@
 
 # admonitor.com
 127.0.0.1 admonitor.com
-
-# admtpmp124.com
-127.0.0.1 admtpmp124.com
 
 # admulti.com
 127.0.0.1 assets3.admulti.com
@@ -3747,9 +3791,6 @@
 # adsdk.com
 127.0.0.1 cdn1.adsdk.com
 
-# adsecxnet.ws
-127.0.0.1 adsecxnet.ws
-
 # adsee.jp
 127.0.0.1 adsee.jp
 127.0.0.1 linker.adsee.jp
@@ -3872,7 +3913,6 @@
 127.0.0.1 adspirit.de
 127.0.0.1 limg.adspirit.de
 127.0.0.1 trtc.adspirit.de
-127.0.0.1 wwm.adspirit.de
 
 # adspirit.net
 127.0.0.1 rgmarket.adspirit.net
@@ -3930,7 +3970,6 @@
 # adtdp.com
 127.0.0.1 acs.adtdp.com
 127.0.0.1 ad.amanad.adtdp.com
-127.0.0.1 ad.caprofitx.adtdp.com
 127.0.0.1 adp-pubd-static.adtdp.com
 127.0.0.1 adsd-sync.amanad.adtdp.com
 127.0.0.1 adsd.amanad.adtdp.com
@@ -3944,7 +3983,6 @@
 
 # adtech.de
 127.0.0.1 ad-dc2.adtech.de
-127.0.0.1 ad.dc2.adtech.de
 127.0.0.1 adserver.adtech.de
 127.0.0.1 adtech.de
 127.0.0.1 aka-cdn-ns.adtech.de
@@ -3985,10 +4023,6 @@
 
 # adthru.com
 127.0.0.1 adthru.com
-
-# adticker.net
-127.0.0.1 d.adticker.net
-127.0.0.1 j.adticker.net
 
 # adtiger.de
 127.0.0.1 ads.adtiger.de
@@ -4240,7 +4274,6 @@
 # adview.cn
 127.0.0.1 adview.cn
 127.0.0.1 config.adview.cn
-127.0.0.1 report.adview.cn
 
 # adview.pl
 127.0.0.1 ad.adview.pl
@@ -4979,9 +5012,6 @@
 # ao.co.uk
 127.0.0.1 ao.co.uk
 
-# aol.co.uk
-127.0.0.1 ads.aol.co.uk
-
 # aol.com
 127.0.0.1 aimtoday.aol.com
 127.0.0.1 c.aol.com
@@ -4989,12 +5019,6 @@
 127.0.0.1 dynamic.aol.com
 127.0.0.1 free.aol.com
 127.0.0.1 specialoffers.aol.com
-
-# aol.fr
-127.0.0.1 adserver.aol.fr
-
-# aol.jp
-127.0.0.1 info.aol.jp
 
 # apartmentfinder.com
 127.0.0.1 metrics.apartmentfinder.com
@@ -5970,12 +5994,6 @@
 # big-boards.com
 127.0.0.1 stats.big-boards.com
 
-# bigasia.com
-127.0.0.1 ads.bigasia.com
-127.0.0.1 ads3.bigasia.com
-127.0.0.1 ads4.bigasia.com
-127.0.0.1 ads5.bigasia.com
-
 # bigbangmedia.com
 127.0.0.1 bigbangmedia.com
 
@@ -6399,9 +6417,6 @@
 # boston.com
 127.0.0.1 rmedia.boston.com
 
-# boxadstop.com
-127.0.0.1 boxadstop.com
-
 # boyfriendnetwork.com
 127.0.0.1 stats.boyfriendnetwork.com
 
@@ -6655,9 +6670,6 @@
 # bristolpress.com
 127.0.0.1 oascentral.bristolpress.com
 
-# british-banners.com
-127.0.0.1 british-banners.com
-
 # britishgas.co.uk
 127.0.0.1 webtrends1.britishgas.co.uk
 
@@ -6775,7 +6787,6 @@
 127.0.0.1 ct2.buzama.com
 
 # buzzcity.net
-127.0.0.1 ads.buzzcity.net
 127.0.0.1 apps.buzzcity.net
 127.0.0.1 click.buzzcity.net
 127.0.0.1 show.buzzcity.net
@@ -6899,9 +6910,6 @@
 # capitalinteractive.co.uk
 127.0.0.1 ads1.capitalinteractive.co.uk
 
-# caprofitx.com
-127.0.0.1 ad.caprofitx.com
-
 # car.com
 127.0.0.1 metrics.car.com
 
@@ -6984,9 +6992,6 @@
 127.0.0.1 isg01.casalemedia.com
 127.0.0.1 js.casalemedia.com
 127.0.0.1 r.casalemedia.com
-
-# casalmedia.com
-127.0.0.1 casalmedia.com
 
 # casee.cn
 127.0.0.1 wap.casee.cn
@@ -7166,9 +7171,6 @@
 
 # centralserver.net
 127.0.0.1 download.centralserver.net
-
-# centrport.com
-127.0.0.1 centrport.com
 
 # centrum.cz
 127.0.0.1 ad.centrum.cz
@@ -7497,9 +7499,6 @@
 # clickedyclick.com
 127.0.0.1 clickedyclick.com
 
-# clickey.com
-127.0.0.1 clickey.com
-
 # clickeye.cn
 127.0.0.1 clickeye.cn
 
@@ -7640,7 +7639,6 @@
 # clickzzs.nl
 127.0.0.1 cz4.clickzzs.nl
 127.0.0.1 cz5.clickzzs.nl
-127.0.0.1 vip.clickzzs.nl
 
 # clicmanager.fr
 127.0.0.1 clicmanager.fr
@@ -7683,6 +7681,7 @@
 127.0.0.1 asia-northeast1-affiliate-pr.cloudfunctions.net
 127.0.0.1 asia-northeast1-dalread-web.cloudfunctions.net
 127.0.0.1 asia-northeast3-kmplex-905ad.cloudfunctions.net
+127.0.0.1 us-central1-ad-server-f1010.cloudfunctions.net
 127.0.0.1 us-central1-eyewind-ads.cloudfunctions.net
 127.0.0.1 us-central1-launchpad-169908.cloudfunctions.net
 127.0.0.1 us-central1-powerblue-861ad.cloudfunctions.net
@@ -7961,9 +7960,6 @@
 # comprabanner.it
 127.0.0.1 comprabanner.it
 
-# compteur.com
-127.0.0.1 compteur.com
-
 # compteur.fr
 127.0.0.1 count1.compteur.fr
 
@@ -8180,9 +8176,6 @@
 
 # countomat.com
 127.0.0.1 countomat.com
-
-# countonline3.de
-127.0.0.1 countonline3.de
 
 # countz.com
 127.0.0.1 countz.com
@@ -8468,10 +8461,6 @@
 
 # custom-click.com
 127.0.0.1 custom-click.com
-
-# custom-click.net
-127.0.0.1 cast.custom-click.net
-127.0.0.1 motu.custom-click.net
 
 # customcoupon.com
 127.0.0.1 gcirm.customcoupon.com
@@ -9666,13 +9655,11 @@
 127.0.0.1 atlas.dtiserv2.com
 127.0.0.1 click.dtiserv2.com
 127.0.0.1 clickheat.dtiserv2.com
-127.0.0.1 homer.dtiserv2.com
 127.0.0.1 ipsales.dtiserv2.com
 127.0.0.1 login.dtiserv2.com
 127.0.0.1 mail0342.dtiserv2.com
 127.0.0.1 maintenance.dtiserv2.com
 127.0.0.1 ntp.dtiserv2.com
-127.0.0.1 sdms.dtiserv2.com
 127.0.0.1 search.dtiserv2.com
 127.0.0.1 smtp.dtiserv2.com
 127.0.0.1 stats.dtiserv2.com
@@ -10036,9 +10023,6 @@
 # emailserving.com
 127.0.0.1 emailserving.com
 
-# emarketmakers.com
-127.0.0.1 emarketmakers.com
-
 # embarcaderopublishing.com
 127.0.0.1 advertising.embarcaderopublishing.com
 
@@ -10138,9 +10122,6 @@
 
 # epi.es
 127.0.0.1 ads.epi.es
-
-# epiccash.com
-127.0.0.1 epiccash.com
 
 # epltalk.com
 127.0.0.1 ads.epltalk.com
@@ -10900,9 +10881,6 @@
 # fastcompany.com
 127.0.0.1 stats.fastcompany.com
 
-# fastcounter.com
-127.0.0.1 fastcounter.com
-
 # fatcow.com
 127.0.0.1 counter.fatcow.com
 
@@ -11074,6 +11052,7 @@
 127.0.0.1 banner.finn.no
 
 # firebaseapp.com
+127.0.0.1 ads-config.firebaseapp.com
 127.0.0.1 ads-game-187f4.firebaseapp.com
 127.0.0.1 affiliate-script-pr.firebaseapp.com
 127.0.0.1 qongue-romad.firebaseapp.com
@@ -11508,9 +11487,6 @@
 
 # fplive.net
 127.0.0.1 msnads-wm9.fplive.net
-
-# fpop.net
-127.0.0.1 statsp.fpop.net
 
 # fractionalmedia.com
 127.0.0.1 fractionalmedia.com
@@ -12206,7 +12182,6 @@
 127.0.0.1 kr.girls.xyz
 127.0.0.1 nl.girls.xyz
 127.0.0.1 pt.girls.xyz
-127.0.0.1 ua.girls.xyz
 127.0.0.1 www.girls.xyz
 
 # giveapp.jp
@@ -12315,9 +12290,6 @@
 127.0.0.1 ads.gmtracker.com
 127.0.0.1 affiliate.gmtracker.com
 127.0.0.1 gmtracker.com
-
-# gnezdo.ru
-127.0.0.1 shop.gnezdo.ru
 
 # go-clicks.de
 127.0.0.1 go-clicks.de
@@ -12796,9 +12768,6 @@
 
 # harrenmedia.com
 127.0.0.1 harrenmedia.com
-
-# harrenmedianetwork.com
-127.0.0.1 harrenmedianetwork.com
 
 # hatena.ne.jp
 127.0.0.1 ad.hatena.ne.jp
@@ -14089,9 +14058,6 @@
 # imgvc.com
 127.0.0.1 a.imgvc.com
 
-# imiclk.com
-127.0.0.1 imiclk.com
-
 # imlive.com
 127.0.0.1 pcash.imlive.com
 
@@ -15243,9 +15209,6 @@
 # intermediads.com
 127.0.0.1 intermediads.com
 
-# internet-safe.com
-127.0.0.1 internet-safe.com
-
 # internet.cz
 127.0.0.1 internet.cz
 
@@ -15512,8 +15475,6 @@
 127.0.0.1 ads2.iwon.com
 127.0.0.1 c4.iwon.com
 127.0.0.1 cc.iwon.com
-127.0.0.1 docs1.iwon.com
-127.0.0.1 my.iwon.com
 127.0.0.1 plus.iwon.com
 127.0.0.1 prizemachine.games.iwon.com
 127.0.0.1 searchassistant.iwon.com
@@ -16998,12 +16959,6 @@
 # lonelypartners.com
 127.0.0.1 lonelypartners.com
 
-# lonelyplanet.com
-127.0.0.1 om.lonelyplanet.com
-
-# longtraffic.com
-127.0.0.1 longtraffic.com
-
 # lookery.com
 127.0.0.1 lookery.com
 
@@ -17195,9 +17150,6 @@
 # madserving.cn
 127.0.0.1 ad1.madserving.cn
 
-# madsone.com
-127.0.0.1 eu1.madsone.com
-
 # madvertise.de
 127.0.0.1 madvertise.de
 
@@ -17271,9 +17223,6 @@
 
 # maleflixxx.tv
 127.0.0.1 ads.maleflixxx.tv
-
-# malware-scan.com
-127.0.0.1 malware-scan.com
 
 # mammanett.no
 127.0.0.1 ads.mammanett.no
@@ -17666,9 +17615,6 @@
 
 # megacash.de
 127.0.0.1 megacash.de
-
-# megafriends.com
-127.0.0.1 megafriends.com
 
 # megaroticlive.com
 127.0.0.1 mbs.megaroticlive.com
@@ -18139,6 +18085,9 @@
 
 # montrealplus.ca
 127.0.0.1 cs.montrealplus.ca
+
+# moo-mam-tai.com
+127.0.0.1 ad.moo-mam-tai.com
 
 # mookie1.com
 127.0.0.1 b3-uk.mookie1.com
@@ -18716,9 +18665,6 @@
 # myetracker.com
 127.0.0.1 myetracker.com
 
-# myfirstwebnet.com
-127.0.0.1 myfirstwebnet.com
-
 # myiads.com
 127.0.0.1 clk.myiads.com
 127.0.0.1 media.myiads.com
@@ -18846,10 +18792,8 @@
 127.0.0.1 speedbar.myway.com
 
 # mywebsearch.com
-127.0.0.1 edits.mywebsearch.com
 127.0.0.1 mywebsearch.com
 127.0.0.1 search.mywebsearch.com
-127.0.0.1 weatherbugbrowserbar.mywebsearch.com
 
 # myx.net
 127.0.0.1 ads.myx.net
@@ -18879,6 +18823,8 @@
 127.0.0.1 02.nakanohito.jp
 127.0.0.1 03.nakanohito.jp
 127.0.0.1 05.nakanohito.jp
+127.0.0.1 06.nakanohito.jp
+127.0.0.1 09.nakanohito.jp
 127.0.0.1 13.nakanohito.jp
 127.0.0.1 133bs.nakanohito.jp
 127.0.0.1 1s.nakanohito.jp
@@ -19025,7 +18971,6 @@
 127.0.0.1 gallysorig.nastydollars.com
 127.0.0.1 grab.nastydollars.com
 127.0.0.1 graphics.nastydollars.com
-127.0.0.1 nastydollars.com
 
 # natpal.com
 127.0.0.1 labs.natpal.com
@@ -19199,8 +19144,6 @@
 
 # need2find.com
 127.0.0.1 cm.need2find.com
-127.0.0.1 kc.search.need2find.com
-127.0.0.1 kz.search.need2find.com
 
 # nefficient.jp
 127.0.0.1 rokushiki.nefficient.jp
@@ -19535,9 +19478,6 @@
 # newsnet5.com
 127.0.0.1 scrooge.newsnet5.com
 
-# newsobserver.com
-127.0.0.1 ads.newsobserver.com
-
 # newsok.com
 127.0.0.1 promos.newsok.com
 
@@ -19632,12 +19572,10 @@
 127.0.0.1 beacon.nikkansports.com
 
 # nikkei.com
-127.0.0.1 adpriv.nikkei.com
 127.0.0.1 nkis.nikkei.com
 
 # nikkeibp.co.jp
 127.0.0.1 adserve5.nikkeibp.co.jp
-127.0.0.1 bizad.nikkeibp.co.jp
 127.0.0.1 cmad.nikkeibp.co.jp
 
 # ninja-systems.com
@@ -19705,9 +19643,6 @@
 # norton.com
 127.0.0.1 stats.norton.com
 
-# nova.cz
-127.0.0.1 first.nova.cz
-
 # novem.pl
 127.0.0.1 adseu.novem.pl
 127.0.0.1 novem.pl
@@ -19720,14 +19655,10 @@
 # novinar.bg
 127.0.0.1 adv.novinar.bg
 
-# novuslink.net
-127.0.0.1 novuslink.net
-
 # nowvisitors.com
 127.0.0.1 s01.nowvisitors.com
 
 # nozonedata.com
-127.0.0.1 ad.nozonedata.com
 127.0.0.1 ad1.nozonedata.com
 
 # npmpecd.com
@@ -19843,9 +19774,6 @@
 # nvidia.com
 127.0.0.1 nsomniture.nvidia.com
 
-# nwi.jp
-127.0.0.1 ad.nwi.jp
-
 # nwsource.com
 127.0.0.1 metric.nwsource.com
 
@@ -19867,7 +19795,6 @@
 127.0.0.1 et.nytimes.com
 127.0.0.1 graphics7.nytimes.com
 127.0.0.1 meter-svc.nytimes.com
-127.0.0.1 nytadvertising.nytimes.com
 127.0.0.1 up.nytimes.com
 
 # nyx.cz
@@ -20261,7 +20188,6 @@
 # orangeads.fr
 127.0.0.1 all.orfr.adgtw.orangeads.fr
 127.0.0.1 ap.read.mediation.pns.ap.orangeads.fr
-127.0.0.1 aujourdhui.refr.adgtw.orangeads.fr
 
 # orangesoda.com
 127.0.0.1 orangesoda.com
@@ -20731,9 +20657,6 @@
 # pearch.net
 127.0.0.1 pearch.net
 
-# peel.com
-127.0.0.1 ads.peel.com
-
 # peep-auktion.de
 127.0.0.1 peep-auktion.de
 
@@ -20816,9 +20739,6 @@
 # performancerevenues.com
 127.0.0.1 tracking.performancerevenues.com
 
-# performancing.com
-127.0.0.1 performancing.com
-
 # performgroup.com
 127.0.0.1 images.eplayer.performgroup.com
 127.0.0.1 static.eplayer.performgroup.com
@@ -20875,9 +20795,6 @@
 
 # philly.com
 127.0.0.1 metrics.philly.com
-
-# phluant.com
-127.0.0.1 s3.phluant.com
 
 # phonearena.com
 127.0.0.1 ads.phonearena.com
@@ -20979,9 +20896,6 @@
 
 # pixiv.org
 127.0.0.1 d.pixiv.org
-
-# pkghost.cn
-127.0.0.1 pkghost.cn
 
 # pkr.com
 127.0.0.1 accounts.pkr.com
@@ -21164,9 +21078,6 @@
 
 # popon.ru
 127.0.0.1 popon.ru
-
-# poponclick.com
-127.0.0.1 poponclick.com
 
 # popub.com
 127.0.0.1 popub.com
@@ -21652,9 +21563,6 @@
 # questnet.de
 127.0.0.1 questnet.de
 
-# quick-downloads.com
-127.0.0.1 quick-downloads.com
-
 # quickcleaner.com
 127.0.0.1 quickcleaner.com
 
@@ -21969,7 +21877,6 @@
 127.0.0.1 oascentral.redherring.com
 
 # rediff.com
-127.0.0.1 ads.rediff.com
 127.0.0.1 adworks.rediff.com
 127.0.0.1 im.rediff.com
 127.0.0.1 imads.rediff.com
@@ -22022,9 +21929,6 @@
 127.0.0.1 rt.dsp.reemo-ad.jp
 127.0.0.1 sync.dsp.reemo-ad.jp
 127.0.0.1 view.dsp.reemo-ad.jp
-
-# reference-sexe.com
-127.0.0.1 hit.reference-sexe.com
 
 # referer.org
 127.0.0.1 referer.org
@@ -22118,9 +22022,6 @@
 
 # restaurant.com
 127.0.0.1 metrics.restaurant.com
-
-# restore-pc.com
-127.0.0.1 restore-pc.com
 
 # resultonline.com
 127.0.0.1 banners.resultonline.com
@@ -22983,9 +22884,6 @@
 # sexwave.com
 127.0.0.1 sexwave.com
 
-# sexy-parade.com
-127.0.0.1 logs.sexy-parade.com
-
 # sexyads.com
 127.0.0.1 bbw.sexyads.com
 127.0.0.1 reseller.sexyads.com
@@ -23579,13 +23477,6 @@
 # snoobi.com
 127.0.0.1 eu1.snoobi.com
 127.0.0.1 snoobi.com
-
-# snowball.com
-127.0.0.1 ads.snowball.com
-127.0.0.1 adserver.snowball.com
-127.0.0.1 media.snowball.com
-127.0.0.1 t.snowball.com
-127.0.0.1 tracker.snowball.com
 
 # socdm.com
 127.0.0.1 abematv.socdm.com
@@ -24213,9 +24104,6 @@
 # static-files.com
 127.0.0.1 adn.static-files.com
 
-# statistics.ro
-127.0.0.1 statistics.ro
-
 # statistik-gallup.net
 127.0.0.1 statistik-gallup.net
 
@@ -24437,9 +24325,6 @@
 
 # supret.com
 127.0.0.1 supret.com
-
-# sureads.com
-127.0.0.1 sureads.com
 
 # surehits.com
 127.0.0.1 surehits.com
@@ -24739,9 +24624,6 @@
 
 # tarasoft.bg
 127.0.0.1 tarasoft.bg
-
-# targad.com
-127.0.0.1 targad.com
 
 # target.com
 127.0.0.1 weeklyad.target.com
@@ -25247,9 +25129,6 @@
 # top-site-list.com
 127.0.0.1 top-site-list.com
 
-# top-speed-techie-webs.pw
-127.0.0.1 cdn.top-speed-techie-webs.pw
-
 # top.ge
 127.0.0.1 counter.top.ge
 
@@ -25280,15 +25159,11 @@
 127.0.0.1 clickheat.topbucks.com
 127.0.0.1 cluster-03.topbucks.com
 127.0.0.1 mainstream.topbucks.com
-127.0.0.1 topbucks.com
 127.0.0.1 vod.topbucks.com
 127.0.0.1 webmaster.topbucks.com
 
 # topc.org
 127.0.0.1 hit.topc.org
-
-# topeuro.biz
-127.0.0.1 topeuro.biz
 
 # topflownews.com
 127.0.0.1 topflownews.com
@@ -25358,6 +25233,7 @@
 127.0.0.1 resources.torimochi-ad.net
 127.0.0.1 script.torimochi-ad.net
 127.0.0.1 scripts-v1.torimochi-ad.net
+127.0.0.1 scripts-v2.torimochi-ad.net
 127.0.0.1 torimochi-ad.net
 
 # toronto.com
@@ -25664,9 +25540,6 @@
 127.0.0.1 xml.trafficsyndicate.com
 127.0.0.1 xml2.trafficsyndicate.com
 
-# traffictraders.com
-127.0.0.1 traffictraders.com
-
 # trafficwave.net
 127.0.0.1 adtrack.trafficwave.net
 127.0.0.1 trafficwave.net
@@ -25920,10 +25793,6 @@
 # tvplusnewtab.com
 127.0.0.1 tvplusnewtab.com
 
-# tweakers.net
-127.0.0.1 adserver.aphrodite.tweakers.net
-127.0.0.1 adserver.tweakers.net
-
 # tweakpc.de
 127.0.0.1 ad.tweakpc.de
 
@@ -26091,9 +25960,6 @@
 
 # uniqueleads.com
 127.0.0.1 uniqueleads.com
-
-# unitag.jp
-127.0.0.1 nspt.unitag.jp
 
 # unitedblades.co.jp
 127.0.0.1 unitedblades.co.jp
@@ -26315,9 +26181,6 @@
 
 # vantagenet.com
 127.0.0.1 images.vantagenet.com
-
-# vast.com
-127.0.0.1 analytics.vast.com
 
 # vasta.co.jp
 127.0.0.1 lp.vasta.co.jp
@@ -26700,9 +26563,6 @@
 127.0.0.1 sf.vserv.mobi
 127.0.0.1 vserv.mobi
 
-# vsgardens.com
-127.0.0.1 vsgardens.com
-
 # vstats.net
 127.0.0.1 vstats.net
 
@@ -26886,9 +26746,6 @@
 # webalize.net
 127.0.0.1 webalize.net
 
-# webaudit.hu
-127.0.0.1 webaudit.hu
-
 # webcafe.bg
 127.0.0.1 ads.webcafe.bg
 
@@ -26977,9 +26834,6 @@
 # webmasterpoint.org
 127.0.0.1 ads.webmasterpoint.org
 
-# webmasterpro.de
-127.0.0.1 fc.webmasterpro.de
-
 # webmd.com
 127.0.0.1 ads.webmd.com
 127.0.0.1 adv.webmd.com
@@ -27059,7 +26913,6 @@
 # webstat.com
 127.0.0.1 hits.webstat.com
 127.0.0.1 hv3.webstat.com
-127.0.0.1 webstat.com
 
 # webstat.net
 127.0.0.1 webstat.net
@@ -27184,9 +27037,6 @@
 
 # widespace.com
 127.0.0.1 widespace.com
-
-# widgetadvertising.biz
-127.0.0.1 widgetadvertising.biz
 
 # widgetbucks.com
 127.0.0.1 widgetbucks.com
@@ -27332,9 +27182,6 @@
 
 # wondoads.de
 127.0.0.1 wondoads.de
-
-# wooboo.com.cn
-127.0.0.1 wap.wooboo.com.cn
 
 # woolyboys.com
 127.0.0.1 woolyboys.com
@@ -27651,9 +27498,6 @@
 # xtra.co.nz
 127.0.0.1 ads.xtra.co.nz
 
-# xtremetop100.com
-127.0.0.1 xtremetop100.com
-
 # xtshare.com
 127.0.0.1 xtshare.com
 
@@ -27730,6 +27574,7 @@
 127.0.0.1 x8.yaekumo.com
 
 # yahoo.co.jp
+127.0.0.1 ads-feedback.yahoo.co.jp
 127.0.0.1 ads-promo.yahoo.co.jp
 127.0.0.1 ads.yahoo.co.jp
 127.0.0.1 ard.yahoo.co.jp
@@ -28052,9 +27897,6 @@
 # yourtracking.net
 127.0.0.1 yourtracking.net
 
-# yousearchdirect.com
-127.0.0.1 yousearchdirect.com
-
 # youtube.com
 127.0.0.1 ads.youtube.com
 
@@ -28133,19 +27975,11 @@
 # zastag.com
 127.0.0.1 zastag.com
 
-# zbiornik.com
-127.0.0.1 zbiornik.com
-
 # zbs.ru
 127.0.0.1 banners.zbs.ru
 
 # zdnet.de
 127.0.0.1 ads.zdnet.de
-
-# zdworks.com
-127.0.0.1 clock.stat.zdworks.com
-127.0.0.1 clock.update.zdworks.com
-127.0.0.1 zpns.zdworks.com
 
 # zedge.net
 127.0.0.1 api.zedge.net
@@ -28172,9 +28006,6 @@
 
 # zenoviaexchange.com
 127.0.0.1 ads1.zenoviaexchange.com
-
-# zepterads.com
-127.0.0.1 ads.zepterads.com
 
 # zeusclicks.com
 127.0.0.1 cdn.zeusclicks.com
