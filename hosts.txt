@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2023/06/08
-# block hosts: 16142 entry
+# last updated: 2023/08/04
+# block hosts: 15341 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -32,13 +32,6 @@
 
 # 101order.com
 127.0.0.1 101order.com
-
-# 103092804.com
-127.0.0.1 ad.103092804.com
-127.0.0.1 server1.103092804.com
-127.0.0.1 server2.103092804.com
-127.0.0.1 server3.103092804.com
-127.0.0.1 server4.103092804.com
 
 # 103bees.com
 127.0.0.1 103bees.com
@@ -107,9 +100,6 @@
 
 # 180hits.de
 127.0.0.1 180hits.de
-
-# 180searchassistant.com
-127.0.0.1 180searchassistant.com
 
 # 192.com
 127.0.0.1 192.com
@@ -1808,6 +1798,9 @@
 # 8866.org
 127.0.0.1 chinaron.8866.org
 
+# 886644.com
+127.0.0.1 ad.886644.com
+
 # 888.com
 127.0.0.1 888.com
 127.0.0.1 chat.888.com
@@ -1912,6 +1905,7 @@
 127.0.0.1 feed.a8.net
 127.0.0.1 guide-adv.a8.net
 127.0.0.1 ifrb.a8.net
+127.0.0.1 image.a8.net
 127.0.0.1 items.a8.net
 127.0.0.1 lm.a8.net
 127.0.0.1 localhost.a8.net
@@ -2104,9 +2098,6 @@
 # access-analyze.org
 127.0.0.1 access-analyze.org
 
-# access-company.com
-127.0.0.1 netad.access-company.com
-
 # accessdeka.com
 127.0.0.1 keiro.accessdeka.com
 
@@ -2159,9 +2150,6 @@
 
 # actionsplash.com
 127.0.0.1 actionsplash.com
-
-# activeagent.at
-127.0.0.1 activeagent.at
 
 # activeboard.com
 127.0.0.1 activeboard.com
@@ -2583,6 +2571,8 @@
 # adcolony.com
 127.0.0.1 accounts.adcolony.com
 127.0.0.1 adc-launch-gcp-dev.adcolony.com
+127.0.0.1 adc-launch-gcp-prod-v2.adcolony.com
+127.0.0.1 adc-launch-gcp-prod.adcolony.com
 127.0.0.1 adc-launch-gcp-stage.adcolony.com
 127.0.0.1 adc-launch-gcp.adcolony.com
 127.0.0.1 adc3-assets-origin.adcolony.com
@@ -2593,6 +2583,7 @@
 127.0.0.1 ads.adcolony.com
 127.0.0.1 ads20.adcolony.com
 127.0.0.1 ads30.adcolony.com
+127.0.0.1 adserver-gcp-v2.adcolony.com
 127.0.0.1 akamai-adc3-assets.adcolony.com
 127.0.0.1 akamai-alpha-assets.adcolony.com
 127.0.0.1 akamai-c4d-cdn.adcolony.com
@@ -2613,6 +2604,7 @@
 127.0.0.1 androidads4-8.adcolony.com
 127.0.0.1 blog.adcolony.com
 127.0.0.1 c4d-cdn.adcolony.com
+127.0.0.1 c4d-dev.adcolony.com
 127.0.0.1 c4d-stage.adcolony.com
 127.0.0.1 c4d.adcolony.com
 127.0.0.1 c4da-dev.adcolony.com
@@ -2632,13 +2624,14 @@
 127.0.0.1 creative-showcase.adcolony.com
 127.0.0.1 data-preferences.adcolony.com
 127.0.0.1 de.adcolony.com
-127.0.0.1 dev.adcolony.com
-127.0.0.1 director.adcolony.com
 127.0.0.1 dl.adcolony.com
 127.0.0.1 events20.adcolony.com
 127.0.0.1 events3.adcolony.com
 127.0.0.1 events3alt.adcolony.com
+127.0.0.1 events3staging.adcolony.com
 127.0.0.1 ftp.adcolony.com
+127.0.0.1 gcp-grafana.adcolony.com
+127.0.0.1 gcp-service-deployer.adcolony.com
 127.0.0.1 go-pardot.adcolony.com
 127.0.0.1 iosads20.adcolony.com
 127.0.0.1 iosads22.adcolony.com
@@ -2946,6 +2939,7 @@
 # adjust.com
 127.0.0.1 0.adjust.com
 127.0.0.1 085e78e6d452e4c60d88f4083541fab0.ulink.adjust.com
+127.0.0.1 0app.adjust.com
 127.0.0.1 0ins-2.adjust.com
 127.0.0.1 1.adjust.com
 127.0.0.1 10-4.adjust.com
@@ -3036,6 +3030,7 @@
 127.0.0.1 add.adjust.com
 127.0.0.1 adjust.adjust.com
 127.0.0.1 adjust.com
+127.0.0.1 aeapp.adjust.com
 127.0.0.1 aelectronom.adjust.com
 127.0.0.1 aero-log.adjust.com
 127.0.0.1 allabouthappylifeelp.adjust.com
@@ -3066,6 +3061,7 @@
 127.0.0.1 anickdnickd-benchmarks.adjust.com
 127.0.0.1 api-demo-2.adjust.com
 127.0.0.1 api-demo-2estudieenelexterior.adjust.com
+127.0.0.1 api-demo-4fr-aud-2.adjust.com
 127.0.0.1 api-preview.adjust.com
 127.0.0.1 api-qa-1.adjust.com
 127.0.0.1 api-qa-2.adjust.com
@@ -3079,9 +3075,13 @@
 127.0.0.1 app-bwestportnchmarks.adjust.com
 127.0.0.1 app.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.com
 127.0.0.1 app.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.com
+127.0.0.1 app3.adjust.com
+127.0.0.1 appapp.adjust.com
 127.0.0.1 aq.adjust.com
+127.0.0.1 arapp.adjust.com
 127.0.0.1 as125sh-aas125ro-6.adjust.com
 127.0.0.1 at365verzen.adjust.com
+127.0.0.1 atapp.adjust.com
 127.0.0.1 atlas.adjust.com
 127.0.0.1 atom-usacec.adjust.com
 127.0.0.1 atom.adjust.com
@@ -3093,12 +3093,16 @@
 127.0.0.1 b5c3cd05645e38884a6207c125a572c1.ulink.adjust.com
 127.0.0.1 backend-4dashboard-qa-2.adjust.com
 127.0.0.1 bdapp.adjust.com
+127.0.0.1 beapp.adjust.com
 127.0.0.1 benchmarks-api-qa-3-esh-aero-48.adjust.com
 127.0.0.1 benchmarks-api.adjust.com
 127.0.0.1 beta-demo-0-ams-zbx-frontend-1.adjust.com
+127.0.0.1 beta-qa-2-web-sdk-demo.adjust.com
 127.0.0.1 beta-qa-4esh-k8s-2.adjust.com
+127.0.0.1 bfapp.adjust.com
 127.0.0.1 bigearshelp.adjust.com
 127.0.0.1 billing-esh-frontend-1.adjust.com
+127.0.0.1 bizapp.adjust.com
 127.0.0.1 blocka-144.adjust.com
 127.0.0.1 branfordnts.adjust.com
 127.0.0.1 bybapp.adjust.com
@@ -3106,9 +3110,11 @@
 127.0.0.1 caapp.adjust.com
 127.0.0.1 calcestisud.adjust.com
 127.0.0.1 capture.adjust.com
+127.0.0.1 ccb0dbfdb1db8937160ff8c28d03f131347deb7e.adjust.com
 127.0.0.1 ccotedivoirebienaimeoud.adjust.com
 127.0.0.1 cdn.adjust.com
 127.0.0.1 cea01b777fa05b616440f21b2dc97678.ulink.adjust.com
+127.0.0.1 cfapp.adjust.com
 127.0.0.1 cgiantgudgientrgiantgudgiel-qa-1.adjust.com
 127.0.0.1 chatapp.adjust.com
 127.0.0.1 cikwanielovelaeocikwanielovelale.adjust.com
@@ -3120,6 +3126,7 @@
 127.0.0.1 cn.adjust.com
 127.0.0.1 coapp.adjust.com
 127.0.0.1 codm.adjust.com
+127.0.0.1 comwww.adjust.com
 127.0.0.1 control-trucosenlaweb-1.adjust.com
 127.0.0.1 control-wsmr-emh11a-1.adjust.com
 127.0.0.1 controlock-qa-1.adjust.com
@@ -3149,12 +3156,15 @@
 127.0.0.1 dcec-psatbe.adjust.com
 127.0.0.1 de.adjust.com
 127.0.0.1 deapp.adjust.com
+127.0.0.1 demo-1.adjust.com
 127.0.0.1 demoartisan.adjust.com
 127.0.0.1 deployments.adjust.com
 127.0.0.1 design.adjust.com
 127.0.0.1 designapp.adjust.com
+127.0.0.1 developers-esh-oauth.adjust.com
 127.0.0.1 dextr.adjust.com
 127.0.0.1 dgis-events.adjust.com
+127.0.0.1 digitalapp.adjust.com
 127.0.0.1 dochost151-tehost151t.adjust.com
 127.0.0.1 docs-trwgst.adjust.com
 127.0.0.1 docs.adjust.com
@@ -3164,9 +3174,12 @@
 127.0.0.1 ed65d0278deb052fb6da9dc8735581a9.ulink.adjust.com
 127.0.0.1 edandsxnsts.adjust.com
 127.0.0.1 eduapp.adjust.com
+127.0.0.1 educationapp.adjust.com
 127.0.0.1 eeapp.adjust.com
 127.0.0.1 eeb94c902787de108d18f4fd690a3316.ulink.adjust.com
+127.0.0.1 elastic-1.adjust.com
 127.0.0.1 elinux-software-news-tutorialsts.adjust.com
+127.0.0.1 engineering.adjust.com
 127.0.0.1 enterpriseenrollmentwebservices.adjust.com
 127.0.0.1 epica-zapts.adjust.com
 127.0.0.1 esan-franci-jacs5058s.adjust.com
@@ -3176,10 +3189,13 @@
 127.0.0.1 esh-aerdurgon-3.adjust.com
 127.0.0.1 esh-aero-1.adjust.com
 127.0.0.1 esh-aero-12control.adjust.com
+127.0.0.1 esh-aero-15-api-qa-3.adjust.com
 127.0.0.1 esh-aero-21-config.adjust.com
 127.0.0.1 esh-aero-25-novidadesautomotivas.adjust.com
 127.0.0.1 esh-aero-25.adjust.com
+127.0.0.1 esh-aero-29magento.adjust.com
 127.0.0.1 esh-aero-36netherlands.adjust.com
+127.0.0.1 esh-aero-38-benchmarks-api-qa-2.adjust.com
 127.0.0.1 esh-aero-39control.adjust.com
 127.0.0.1 esh-aero-3accounts-demo-5.adjust.com
 127.0.0.1 esh-aero-3anderson.adjust.com
@@ -3193,6 +3209,7 @@
 127.0.0.1 esh-atrao-6.adjust.com
 127.0.0.1 esh-awtco-3.adjust.com
 127.0.0.1 esh-dawnsstampingthoughtso-5.adjust.com
+127.0.0.1 esh-graphite-2-esh-db-misc-3.adjust.com
 127.0.0.1 esh-kafka-4esh-proxy-3.adjust.com
 127.0.0.1 esh-kafka-poc-1.adjust.com
 127.0.0.1 esh-mon-1benchmarks-api-qa-2.adjust.com
@@ -3242,17 +3259,21 @@
 127.0.0.1 go.adjust.com
 127.0.0.1 golddustube.adjust.com
 127.0.0.1 gollum.adjust.com
+127.0.0.1 grapp.adjust.com
 127.0.0.1 heaperturep.adjust.com
+127.0.0.1 heat-events.adjust.com
 127.0.0.1 hecherubini.adjust.com
 127.0.0.1 helcapucine.adjust.com
 127.0.0.1 help-mundo-telenovelas.adjust.com
 127.0.0.1 help-quarto.adjust.com
 127.0.0.1 help-sunder.adjust.com
 127.0.0.1 help.adjust.com
+127.0.0.1 helpcenter.adjust.com
 127.0.0.1 hereapp.adjust.com
 127.0.0.1 hhpbbstfblp.adjust.com
 127.0.0.1 hjwebsterlp.adjust.com
 127.0.0.1 hkg.adjust.com
+127.0.0.1 host.adjust.com
 127.0.0.1 hrtm-public-events.adjust.com
 127.0.0.1 husc-rt234p.adjust.com
 127.0.0.1 ignet-cphenry-ams-frontend-1.adjust.com
@@ -3274,6 +3295,7 @@
 127.0.0.1 jgolferns-1.adjust.com
 127.0.0.1 jgooglehaendlerblogkins-1.adjust.com
 127.0.0.1 jira.adjust.com
+127.0.0.1 jpapp.adjust.com
 127.0.0.1 js.adjust.com
 127.0.0.1 kaisaevents.adjust.com
 127.0.0.1 keindahanpria-asiaesh-aero-5.adjust.com
@@ -3293,6 +3315,7 @@
 127.0.0.1 lax-mon-1-esh-aero-24.adjust.com
 127.0.0.1 lax-mon-4-esh-aero-14.adjust.com
 127.0.0.1 lax-zabbix.adjust.com
+127.0.0.1 lax0-prometheus-1.adjust.com
 127.0.0.1 learn.adjust.com
 127.0.0.1 lesbianswholooklikejustinbieber.adjust.com
 127.0.0.1 lhr3.adjust.com
@@ -3302,6 +3325,7 @@
 127.0.0.1 mcsecertificationtoday-accounts.adjust.com
 127.0.0.1 membersview.adjust.com
 127.0.0.1 metabase.adjust.com
+127.0.0.1 mia.adjust.com
 127.0.0.1 mixingbowlkidsvmixingbowlkidsnts.adjust.com
 127.0.0.1 mobilespreeconf.adjust.com
 127.0.0.1 moehringen-ignetloud.adjust.com
@@ -3316,6 +3340,7 @@
 127.0.0.1 nickersonrv.adjust.com
 127.0.0.1 nl-partners.adjust.com
 127.0.0.1 norwood-app-benchmarks.adjust.com
+127.0.0.1 npapp.adjust.com
 127.0.0.1 odn.adjust.com
 127.0.0.1 orgapp.adjust.com
 127.0.0.1 oxds02.adjust.com
@@ -3326,6 +3351,7 @@
 127.0.0.1 pc5699sh-apc5699ro-44.adjust.com
 127.0.0.1 pedroams-zbx-frontend-3.adjust.com
 127.0.0.1 pembertonrv.adjust.com
+127.0.0.1 plapp.adjust.com
 127.0.0.1 pnewkirk-app-benchmarks.adjust.com
 127.0.0.1 postmaster.adjust.com
 127.0.0.1 pp.adjust.com
@@ -3347,6 +3373,9 @@
 127.0.0.1 regionapp.adjust.com
 127.0.0.1 replyapp.adjust.com
 127.0.0.1 researchro-5.adjust.com
+127.0.0.1 roadmap.adjust.com
+127.0.0.1 rsapp.adjust.com
+127.0.0.1 ruapp.adjust.com
 127.0.0.1 rusvax.adjust.com
 127.0.0.1 s184185534h-aero-6.adjust.com
 127.0.0.1 s277679616vs277679616nts.adjust.com
@@ -3356,9 +3385,11 @@
 127.0.0.1 sandfly.adjust.com
 127.0.0.1 sap-ams-zbx-frontend-1.adjust.com
 127.0.0.1 search.adjust.com
+127.0.0.1 secure.adjust.com
 127.0.0.1 seg-1.adjust.com
 127.0.0.1 seg-2.adjust.com
 127.0.0.1 serifosvserifosnts.adjust.com
+127.0.0.1 settings.adjust.com
 127.0.0.1 shard-2.adjust.com
 127.0.0.1 sharethetricks-frontend-1.adjust.com
 127.0.0.1 shomepaddocking-acquired-2.adjust.com
@@ -3412,11 +3443,13 @@
 127.0.0.1 toreplyapp.adjust.com
 127.0.0.1 totalmachohunkvtotalmachohunknts.adjust.com
 127.0.0.1 trainingapp.adjust.com
+127.0.0.1 trapp.adjust.com
 127.0.0.1 trk.adjust.com
 127.0.0.1 try.adjust.com
 127.0.0.1 tsmc.adjust.com
 127.0.0.1 u002fapp.adjust.com
 127.0.0.1 u002fwww.adjust.com
+127.0.0.1 uaapp.adjust.com
 127.0.0.1 unbotify.adjust.com
 127.0.0.1 view.adjust.com
 127.0.0.1 volatile-minds.adjust.com
@@ -3427,6 +3460,7 @@
 127.0.0.1 wiki.adjust.com
 127.0.0.1 wordpress.adjust.com
 127.0.0.1 worldbestlinksams-frontend-1.adjust.com
+127.0.0.1 wp.adjust.com
 127.0.0.1 wsus-status.adjust.com
 127.0.0.1 www.adjust.com
 127.0.0.1 zbx-frontartifactorynd.adjust.com
@@ -3435,6 +3469,7 @@
 127.0.0.1 zbx-frontendelasticbeanstalk.adjust.com
 127.0.0.1 zbx-frontendfiles.adjust.com
 127.0.0.1 zbx-frontendjenkins-9.adjust.com
+127.0.0.1 zbx-frontendprueba.adjust.com
 127.0.0.1 zbx-fropc3525tepc3525d.adjust.com
 127.0.0.1 zbx-frsyaratco-mantend.adjust.com
 127.0.0.1 zona-orang-gila.adjust.com
@@ -3628,7 +3663,6 @@
 127.0.0.1 tt11.adobe.com
 
 # adocean.pl
-127.0.0.1 ad.adocean.pl
 127.0.0.1 adocean.pl
 127.0.0.1 b92rs.adocean.pl
 127.0.0.1 bg.adocean.pl
@@ -3703,7 +3737,6 @@
 127.0.0.1 click.adrcf.com
 
 # adreactor.com
-127.0.0.1 adreactor.com
 127.0.0.1 adserver.adreactor.com
 
 # adreadytractions.com
@@ -3711,9 +3744,6 @@
 
 # adrenalads.com
 127.0.0.1 api.adrenalads.com
-
-# adresult.jp
-127.0.0.1 ad.adresult.jp
 
 # adrevolver.com
 127.0.0.1 ad5.adrevolver.com
@@ -3783,7 +3813,6 @@
 127.0.0.1 open.ads-pixiv.net
 127.0.0.1 pixon.ads-pixiv.net
 127.0.0.1 stg-pixon.ads-pixiv.net
-127.0.0.1 tag2gender.ads-pixiv.net
 127.0.0.1 workflow.ads-pixiv.net
 
 # ads-redirect.com
@@ -3806,9 +3835,6 @@
 
 # ads4homes.com
 127.0.0.1 ads4homes.com
-
-# ads4links.com
-127.0.0.1 ads4links.com
 
 # ads55.com
 127.0.0.1 ads55.com
@@ -3914,13 +3940,6 @@
 
 # adskape.ru
 127.0.0.1 adskape.ru
-127.0.0.1 p13178.adskape.ru
-127.0.0.1 p1574.adskape.ru
-127.0.0.1 p2408.adskape.ru
-127.0.0.1 p4010.adskape.ru
-127.0.0.1 p543.adskape.ru
-127.0.0.1 p96582.adskape.ru
-127.0.0.1 p9762.adskape.ru
 
 # adsklick.de
 127.0.0.1 adsklick.de
@@ -3991,10 +4010,6 @@
 # adstore.jp
 127.0.0.1 adstore.jp
 
-# adsummos.net
-127.0.0.1 c03.adsummos.net
-127.0.0.1 c04.adsummos.net
-
 # adsunion.com
 127.0.0.1 cctv.adsunion.com
 
@@ -4006,9 +4021,6 @@
 
 # adswap.com
 127.0.0.1 adswap.com
-
-# adsymptotic.com
-127.0.0.1 ads.adsymptotic.com
 
 # adsynergy.com
 127.0.0.1 adsynergy.com
@@ -4205,9 +4217,6 @@
 # advancecashloans.com
 127.0.0.1 advancecashloans.com
 
-# advancedadapters.com
-127.0.0.1 advancedadapters.com
-
 # advantage.as
 127.0.0.1 euroad1.advantage.as
 
@@ -4254,7 +4263,6 @@
 127.0.0.1 adverticus.de
 
 # advertise.com
-127.0.0.1 ad.advertise.com
 127.0.0.1 advertise.com
 
 # advertiseireland.com
@@ -4553,9 +4561,6 @@
 127.0.0.1 aftrk.com
 127.0.0.1 banners.aftrk.com
 
-# afy11.net
-127.0.0.1 afy11.net
-
 # ag-affiliate.com
 127.0.0.1 sub.ag-affiliate.com
 
@@ -4742,9 +4747,6 @@
 
 # altervista.org
 127.0.0.1 ad.altervista.org
-
-# altmedia101.com
-127.0.0.1 altmedia101.com
 
 # altnet.com
 127.0.0.1 altnet.com
@@ -4946,7 +4948,6 @@
 127.0.0.1 widgets.amung.us
 
 # amusive.com
-127.0.0.1 ads.amusive.com
 127.0.0.1 amusive.com
 
 # anandtech.com
@@ -5019,7 +5020,6 @@
 127.0.0.1 antiviruspcsuite.com
 
 # antventure.com
-127.0.0.1 ad.antventure.com
 127.0.0.1 antventure.com
 
 # anuntis.com
@@ -5157,10 +5157,6 @@
 # apsalar.com
 127.0.0.1 e.apsalar.com
 
-# apserver.net
-127.0.0.1 apserver.net
-127.0.0.1 rankc1.apserver.net
-
 # aptimus.com
 127.0.0.1 network.aptimus.com
 
@@ -5285,7 +5281,6 @@
 
 # astrsk.net
 127.0.0.1 ads-adm.astrsk.net
-127.0.0.1 astrsk.net
 127.0.0.1 js.astrsk.net
 
 # atemda.com
@@ -5441,9 +5436,6 @@
 # awin1.com
 127.0.0.1 awin1.com
 
-# awm-dream.com
-127.0.0.1 awm-dream.com
-
 # axf8.net
 127.0.0.1 0d7292.r.axf8.net
 127.0.0.1 0f36f3.r.axf8.net
@@ -5543,6 +5535,7 @@
 
 # baidu.com
 127.0.0.1 a.baidu.com
+127.0.0.1 ad.baidu.com
 127.0.0.1 adm.baidu.com
 127.0.0.1 bar.baidu.com
 127.0.0.1 cb.baidu.com
@@ -5550,6 +5543,7 @@
 127.0.0.1 conf.international.baidu.com
 127.0.0.1 cpro.baidu.com
 127.0.0.1 e.baidu.com
+127.0.0.1 eduad.baidu.com
 127.0.0.1 eiv.baidu.com
 127.0.0.1 gimg.baidu.com
 127.0.0.1 hm.baidu.com
@@ -5784,7 +5778,6 @@
 # bcfads.com
 127.0.0.1 android.bcfads.com
 127.0.0.1 api.bcfads.com
-127.0.0.1 bcfads.com
 
 # bcnewsgroup.com
 127.0.0.1 ads.bcnewsgroup.com
@@ -6059,12 +6052,6 @@
 # biscom.net
 127.0.0.1 ads.biscom.net
 
-# bit.ly
-127.0.0.1 s.bit.ly
-
-# bitbop.com
-127.0.0.1 offers.bitbop.com
-
 # bitcasino.io
 127.0.0.1 play.bitcasino.io
 
@@ -6101,9 +6088,6 @@
 
 # biznews.bg
 127.0.0.1 ads.biznews.bg
-
-# bizo.com
-127.0.0.1 ad.bizo.com
 
 # bizographics.com
 127.0.0.1 js.bizographics.com
@@ -6406,9 +6390,6 @@
 
 # boostservice.com
 127.0.0.1 ns2.boostservice.com
-
-# bopstermedia56.com
-127.0.0.1 bopstermedia56.com
 
 # bose.com
 127.0.0.1 metrics.bose.com
@@ -6735,9 +6716,6 @@
 # bumq.com
 127.0.0.1 ads.bumq.com
 
-# burstdirectads.com
-127.0.0.1 ad.burstdirectads.com
-
 # burstnet.com
 127.0.0.1 ads.burstnet.com
 127.0.0.1 bet.burstnet.com
@@ -6873,9 +6851,6 @@
 127.0.0.1 banners.cams.com
 127.0.0.1 promo.cams.com
 
-# canadian-healthcare-shop.com
-127.0.0.1 canadian-healthcare-shop.com
-
 # canadian-medshop-247.com
 127.0.0.1 canadian-medshop-247.com
 
@@ -6912,9 +6887,6 @@
 # caranddriver.com
 127.0.0.1 metrics.caranddriver.com
 127.0.0.1 sdc.caranddriver.com
-
-# carbonads.com
-127.0.0.1 carbonads.com
 
 # carbonite.com
 127.0.0.1 metrics.carbonite.com
@@ -7647,6 +7619,7 @@
 127.0.0.1 d1miuq6afqay8u.cloudfront.net
 127.0.0.1 d1ros97qkrwjf5.cloudfront.net
 127.0.0.1 d1yt8zt4633tzi.cloudfront.net
+127.0.0.1 d25jbgvg9kmxad.cloudfront.net
 127.0.0.1 d28nwox1gdjlve.cloudfront.net
 127.0.0.1 d2cjo8xlt6fbwy.cloudfront.net
 127.0.0.1 d2x2losda9vsjs.cloudfront.net
@@ -7662,15 +7635,13 @@
 127.0.0.1 asia-northeast3-kmplex-905ad.cloudfunctions.net
 127.0.0.1 us-central1-ad-server-f1010.cloudfunctions.net
 127.0.0.1 us-central1-azan-994ad.cloudfunctions.net
+127.0.0.1 us-central1-dancing-road.cloudfunctions.net
 127.0.0.1 us-central1-eyewind-ads.cloudfunctions.net
 127.0.0.1 us-central1-launchpad-169908.cloudfunctions.net
 127.0.0.1 us-central1-powerblue-861ad.cloudfunctions.net
 
 # cloudmobi.net
 127.0.0.1 cloudmobi.net
-
-# clovenetwork.com
-127.0.0.1 ad.clovenetwork.com
 
 # clubdicecasino.com
 127.0.0.1 clubdicecasino.com
@@ -7972,9 +7943,6 @@
 127.0.0.1 js.connead.net
 127.0.0.1 ssp.connead.net
 
-# connectionads.com
-127.0.0.1 ad.connectionads.com
-
 # connectoffer.com
 127.0.0.1 link.connectoffer.com
 
@@ -7986,9 +7954,6 @@
 127.0.0.1 dd.connextra.com
 127.0.0.1 ee.connextra.com
 127.0.0.1 ff.connextra.com
-
-# consolemul.com
-127.0.0.1 ads.consolemul.com
 
 # consumeraffairs.com
 127.0.0.1 ads.consumeraffairs.com
@@ -8041,7 +8006,6 @@
 # cookpad-ads.com
 127.0.0.1 a.cookpad-ads.com
 127.0.0.1 staging.cookpad-ads.com
-127.0.0.1 t.cookpad-ads.com
 
 # cooks.com
 127.0.0.1 ad.cooks.com
@@ -8207,7 +8171,6 @@
 127.0.0.1 ads.cpxcenter.com
 
 # cpxinteractive.com
-127.0.0.1 content.cpxinteractive.com
 127.0.0.1 cpxinteractive.com
 
 # cqcounter.com
@@ -8387,11 +8350,6 @@
 127.0.0.1 vidilife.crwdcntrl.net
 127.0.0.1 wwtdd.tags.crwdcntrl.net
 127.0.0.1 yardbarker.tags.crwdcntrl.net
-
-# csbew.com
-127.0.0.1 csbew.com
-127.0.0.1 static.csbew.com
-127.0.0.1 tga.csbew.com
 
 # csmonitor.com
 127.0.0.1 metrics.csmonitor.com
@@ -8589,10 +8547,6 @@
 # datingyes.com
 127.0.0.1 ads.datingyes.com
 
-# datouniao.com
-127.0.0.1 ws1.datouniao.com
-127.0.0.1 ws2.datouniao.com
-
 # daum-img.net
 127.0.0.1 amsimg.daum-img.net
 
@@ -8705,9 +8659,6 @@
 # dennisnet.co.uk
 127.0.0.1 ads.dennisnet.co.uk
 127.0.0.1 ads.tso.dennisnet.co.uk
-
-# densmail.com
-127.0.0.1 densmail.com
 
 # dentalplans.com
 127.0.0.1 images.dentalplans.com
@@ -8855,9 +8806,6 @@
 127.0.0.1 ads.dir.bg
 127.0.0.1 banners.dir.bg
 127.0.0.1 r5.dir.bg
-
-# direct-stats.com
-127.0.0.1 direct-stats.com
 
 # direct-xxx-access.com
 127.0.0.1 direct-xxx-access.com
@@ -9303,9 +9251,6 @@
 # domino.it
 127.0.0.1 adv.domino.it
 
-# dominoad.com
-127.0.0.1 dominoad.com
-
 # domob.cn
 127.0.0.1 api.domob.cn
 127.0.0.1 s.domob.cn
@@ -9657,7 +9602,6 @@
 127.0.0.1 passnaviad.durasite.net
 127.0.0.1 proto2ad.durasite.net
 127.0.0.1 sankei2ad.durasite.net
-127.0.0.1 sankei2img.durasite.net
 127.0.0.1 sankeiad.durasite.net
 
 # dvdbox.com
@@ -9848,9 +9792,6 @@
 # edomz.com
 127.0.0.1 edomz.com
 
-# edua29146y.com
-127.0.0.1 edua29146y.com
-
 # effectivebrand.com
 127.0.0.1 search.effectivebrand.com
 127.0.0.1 users.effectivebrand.com
@@ -9957,9 +9898,6 @@
 
 # elsitiodc.com
 127.0.0.1 img.wmp10.elsitiodc.com
-
-# eluniversal.com.mx
-127.0.0.1 hits.eluniversal.com.mx
 
 # email-newsletters.com
 127.0.0.1 email-newsletters.com
@@ -10438,7 +10376,6 @@
 127.0.0.1 ad.ettoday.net
 
 # eu-adcenter.net
-127.0.0.1 eu-adcenter.net
 127.0.0.1 thinknyc.eu-adcenter.net
 
 # eu-survey.com
@@ -10535,7 +10472,6 @@
 
 # exblog.jp
 127.0.0.1 logping.exblog.jp
-127.0.0.1 logping1.exblog.jp
 127.0.0.1 rep.exblog.jp
 
 # exchange-it.com
@@ -10557,9 +10493,6 @@
 
 # excite.co.uk
 127.0.0.1 utm.excite.co.uk
-
-# excite.com
-127.0.0.1 image.excite.com
 
 # excite.it
 127.0.0.1 utm.excite.it
@@ -10710,9 +10643,6 @@
 
 # ezakus.net
 127.0.0.1 asq.ezakus.net
-
-# ezcybersearch.com
-127.0.0.1 ezcybersearch.com
 
 # ezgreen.com
 127.0.0.1 ezgreen.com
@@ -10991,6 +10921,9 @@
 127.0.0.1 ads-config.firebaseapp.com
 127.0.0.1 ads-game-187f4.firebaseapp.com
 127.0.0.1 affiliate-script-pr.firebaseapp.com
+127.0.0.1 meta-restriction-ads-d5b6d.firebaseapp.com
+127.0.0.1 meta-support-ads-case-6e913.firebaseapp.com
+127.0.0.1 meta-support-ads-case-838d7.firebaseapp.com
 127.0.0.1 qongue-romad.firebaseapp.com
 127.0.0.1 rad867-jgtub88.firebaseapp.com
 127.0.0.1 ynetads-10fd1.firebaseapp.com
@@ -11352,9 +11285,6 @@
 # foundmoney.com
 127.0.0.1 foundmoney.com
 
-# foundrymusic.com
-127.0.0.1 phpads.foundrymusic.com
-
 # foundwow.com
 127.0.0.1 foundwow.com
 
@@ -11401,7 +11331,6 @@
 
 # foxnetworks.com
 127.0.0.1 ad.foxnetworks.com
-127.0.0.1 ads.foxnetworks.com
 
 # foxnews.com
 127.0.0.1 tracking.foxnews.com
@@ -11644,8 +11573,6 @@
 # g123.jp
 127.0.0.1 ai.g123.jp
 127.0.0.1 api.g123.jp
-127.0.0.1 campaign-builder.g123.jp
-127.0.0.1 campaign.g123.jp
 127.0.0.1 cdn-new.g123.jp
 127.0.0.1 courier-comet.g123.jp
 127.0.0.1 data-fireman.g123.jp
@@ -11765,13 +11692,10 @@
 127.0.0.1 tgp.gammacash.com
 
 # gammae.com
-127.0.0.1 advertising.gammae.com
-127.0.0.1 cgi.gammae.com
 127.0.0.1 common.gammae.com
 127.0.0.1 hourly.gammae.com
 127.0.0.1 php.gammae.com
 127.0.0.1 tracking.gammae.com
-127.0.0.1 videostore.gammae.com
 
 # gamyun.net
 127.0.0.1 server.gamyun.net
@@ -12000,9 +11924,6 @@
 # genericlink.com
 127.0.0.1 ads.genericlink.com
 
-# genhit.com
-127.0.0.1 genhit.com
-
 # geniee.jp
 127.0.0.1 geniee.jp
 
@@ -12094,9 +12015,6 @@
 # ginzaworld.com
 127.0.0.1 ginzaworld.com
 
-# girafa.com
-127.0.0.1 girafa.com
-
 # girls.xyz
 127.0.0.1 girls.xyz
 127.0.0.1 il.girls.xyz
@@ -12146,9 +12064,6 @@
 # globalinteractive.com
 127.0.0.1 ad.globalinteractive.com
 127.0.0.1 content.globalinteractive.com
-
-# globalismedia.com
-127.0.0.1 ad.globalismedia.com
 
 # globalmailer.com
 127.0.0.1 promotools.globalmailer.com
@@ -12289,9 +12204,6 @@
 # goldstats.com
 127.0.0.1 goldstats.com
 
-# golfcountryhomes.com
-127.0.0.1 golfcountryhomes.com
-
 # golfdigest.com
 127.0.0.1 stats2.golfdigest.com
 
@@ -12391,16 +12303,12 @@
 127.0.0.1 adtools.gossipkings.com
 
 # gostats.com
-127.0.0.1 as.gostats.com
-127.0.0.1 c1.gostats.com
 127.0.0.1 c2.gostats.com
 127.0.0.1 c3.gostats.com
 127.0.0.1 c4.gostats.com
 127.0.0.1 c5.gostats.com
 127.0.0.1 ded.gostats.com
 127.0.0.1 gostats.com
-127.0.0.1 img.gostats.com
-127.0.0.1 monster.gostats.com
 
 # gostats.ru
 127.0.0.1 c4.gostats.ru
@@ -12783,9 +12691,6 @@
 
 # hgtvpro.com
 127.0.0.1 te.hgtvpro.com
-
-# hh-btr.com
-127.0.0.1 hh-btr.com
 
 # hi5.com
 127.0.0.1 ad.hi5.com
@@ -13202,9 +13107,6 @@
 
 # hogtied.com
 127.0.0.1 ads.hogtied.com
-
-# hola.com
-127.0.0.1 smart.hola.com
 
 # hollywood.com
 127.0.0.1 ads.hollywood.com
@@ -13898,9 +13800,6 @@
 # ilsole24ore.it
 127.0.0.1 adv.ilsole24ore.it
 
-# im-apps.net
-127.0.0.1 im-apps.net
-
 # im.cz
 127.0.0.1 1.im.cz
 
@@ -14243,9 +14142,6 @@
 # infoseek.com
 127.0.0.1 ad.infoseek.com
 
-# infospace.com
-127.0.0.1 infospace.com
-
 # infotop.jp
 127.0.0.1 infotop.jp
 
@@ -14370,700 +14266,6 @@
 
 # intellitracker.com
 127.0.0.1 intellitracker.com
-
-# intellitxt.com
-127.0.0.1 10best.us.intellitxt.com
-127.0.0.1 1src.us.intellitxt.com
-127.0.0.1 247wallstreet.us.intellitxt.com
-127.0.0.1 2snaps.us.intellitxt.com
-127.0.0.1 2spyware.us.intellitxt.com
-127.0.0.1 4w-wrestling.us.intellitxt.com
-127.0.0.1 4x4review.us.intellitxt.com
-127.0.0.1 5starsupport.us.intellitxt.com
-127.0.0.1 9down.us.intellitxt.com
-127.0.0.1 able2know.us.intellitxt.com
-127.0.0.1 accuweather.us.intellitxt.com
-127.0.0.1 aceshowbiz.us.intellitxt.com
-127.0.0.1 aclasscelebs.us.intellitxt.com
-127.0.0.1 activewin.us.intellitxt.com
-127.0.0.1 actualite-de-stars.fr.intellitxt.com
-127.0.0.1 ad-hoc-news.de.intellitxt.com
-127.0.0.1 adv-g009.us.intellitxt.com
-127.0.0.1 advancedmn.us.intellitxt.com
-127.0.0.1 adwarereport.us.intellitxt.com
-127.0.0.1 afraidtoask.us.intellitxt.com
-127.0.0.1 afterdawn.us.intellitxt.com
-127.0.0.1 albinoblacksheep.us.intellitxt.com
-127.0.0.1 alive.us.intellitxt.com
-127.0.0.1 allcarselectric.us.intellitxt.com
-127.0.0.1 allgetaways.us.intellitxt.com
-127.0.0.1 allhiphop.us.intellitxt.com
-127.0.0.1 allrefer.us.intellitxt.com
-127.0.0.1 allwomenstalk.us.intellitxt.com
-127.0.0.1 amygrindhouse.uk.intellitxt.com
-127.0.0.1 andpop.us.intellitxt.com
-127.0.0.1 androidcommunity.us.intellitxt.com
-127.0.0.1 anorak.uk.intellitxt.com
-127.0.0.1 answerbag.us.intellitxt.com
-127.0.0.1 answers.us.intellitxt.com
-127.0.0.1 antimusic.us.intellitxt.com
-127.0.0.1 anythinghollywood.us.intellitxt.com
-127.0.0.1 appscout.us.intellitxt.com
-127.0.0.1 aquasoft.us.intellitxt.com
-127.0.0.1 architecturaldesigns.us.intellitxt.com
-127.0.0.1 artistdirect.us.intellitxt.com
-127.0.0.1 askmen.us.intellitxt.com
-127.0.0.1 askmen2.us.intellitxt.com
-127.0.0.1 atspace.de.intellitxt.com
-127.0.0.1 audio.de.intellitxt.com
-127.0.0.1 autoforums.us.intellitxt.com
-127.0.0.1 autoforumuniverse.us.intellitxt.com
-127.0.0.1 automobilemag.us.intellitxt.com
-127.0.0.1 automotive.us.intellitxt.com
-127.0.0.1 autospies.us.intellitxt.com
-127.0.0.1 awardspace.de.intellitxt.com
-127.0.0.1 away.us.intellitxt.com
-127.0.0.1 babes.ign.us.intellitxt.com
-127.0.0.1 backseatcuddler.us.intellitxt.com
-127.0.0.1 bargainpda.us.intellitxt.com
-127.0.0.1 baselinemag.us.intellitxt.com
-127.0.0.1 beliefnet.us.intellitxt.com
-127.0.0.1 betanews.us.intellitxt.com
-127.0.0.1 bigbigforums.us.intellitxt.com
-127.0.0.1 bigsoccer.us.intellitxt.com
-127.0.0.1 bild.de.intellitxt.com
-127.0.0.1 bit-tech.uk.intellitxt.com
-127.0.0.1 bittenandbound.us.intellitxt.com
-127.0.0.1 blabbermouth.us.intellitxt.com
-127.0.0.1 blacksportsonline.us.intellitxt.com
-127.0.0.1 bleepingcomputer.us.intellitxt.com
-127.0.0.1 bolt.us.intellitxt.com
-127.0.0.1 bootdaily.us.intellitxt.com
-127.0.0.1 boxingscene.us.intellitxt.com
-127.0.0.1 boxofficeprophets.us.intellitxt.com
-127.0.0.1 bradpittnow.us.intellitxt.com
-127.0.0.1 brighthub.us.intellitxt.com
-127.0.0.1 britneyexperts.us.intellitxt.com
-127.0.0.1 bullz-eye.us.intellitxt.com
-127.0.0.1 businessinsider.us.intellitxt.com
-127.0.0.1 businessknowhow.us.intellitxt.com
-127.0.0.1 canmag.us.intellitxt.com
-127.0.0.1 car-stuff.us.intellitxt.com
-127.0.0.1 cars.ign.us.intellitxt.com
-127.0.0.1 castingshow-news.de.intellitxt.com
-127.0.0.1 cavemancircus.us.intellitxt.com
-127.0.0.1 cbstv.us.intellitxt.com
-127.0.0.1 cdmagurus.us.intellitxt.com
-127.0.0.1 cdrinfo.us.intellitxt.com
-127.0.0.1 cdrom-guide.us.intellitxt.com
-127.0.0.1 celebridiot.us.intellitxt.com
-127.0.0.1 celebridoodle.us.intellitxt.com
-127.0.0.1 celebrity-gossip.us.intellitxt.com
-127.0.0.1 celebrityhack.us.intellitxt.com
-127.0.0.1 celebritymound.us.intellitxt.com
-127.0.0.1 celebritynation.us.intellitxt.com
-127.0.0.1 celebrityodor.us.intellitxt.com
-127.0.0.1 celebrityviplounge.us.intellitxt.com
-127.0.0.1 celebscentral.us.intellitxt.com
-127.0.0.1 celebslam.us.intellitxt.com
-127.0.0.1 channelinsider.us.intellitxt.com
-127.0.0.1 cheatcc.us.intellitxt.com
-127.0.0.1 cheatingdome.us.intellitxt.com
-127.0.0.1 chip.de.intellitxt.com
-127.0.0.1 cmp.us.intellitxt.com
-127.0.0.1 cnet.us.intellitxt.com
-127.0.0.1 coedmagazine.us.intellitxt.com
-127.0.0.1 collegefootballnews.us.intellitxt.com
-127.0.0.1 comicbookmovie.us.intellitxt.com
-127.0.0.1 comicbookresources.us.intellitxt.com
-127.0.0.1 comics.ign.us.intellitxt.com
-127.0.0.1 comingsoon.us.intellitxt.com
-127.0.0.1 compatdb.us.intellitxt.com
-127.0.0.1 complex.us.intellitxt.com
-127.0.0.1 compnet.us.intellitxt.com
-127.0.0.1 compulenta.ru.intellitxt.com
-127.0.0.1 computeractive.uk.intellitxt.com
-127.0.0.1 computerbase.de.intellitxt.com
-127.0.0.1 computerhilfen.de.intellitxt.com
-127.0.0.1 computershopper.uk.intellitxt.com
-127.0.0.1 computerwoche.de.intellitxt.com
-127.0.0.1 computing.uk.intellitxt.com
-127.0.0.1 consumerreview.us.intellitxt.com
-127.0.0.1 contactmusic.uk.intellitxt.com
-127.0.0.1 cooksrecipes.us.intellitxt.com
-127.0.0.1 cooltechzone.us.intellitxt.com
-127.0.0.1 countryweekly.us.intellitxt.com
-127.0.0.1 courierpostonline.us.intellitxt.com
-127.0.0.1 coxtv.us.intellitxt.com
-127.0.0.1 crackberry.us.intellitxt.com
-127.0.0.1 crmbuyer.us.intellitxt.com
-127.0.0.1 csharpcorner.us.intellitxt.com
-127.0.0.1 csnation.us.intellitxt.com
-127.0.0.1 ctv.us.intellitxt.com
-127.0.0.1 cube.ign.us.intellitxt.com
-127.0.0.1 dabcc.us.intellitxt.com
-127.0.0.1 dailygab.us.intellitxt.com
-127.0.0.1 dailystab.us.intellitxt.com
-127.0.0.1 dailytech.us.intellitxt.com
-127.0.0.1 damnimcute.us.intellitxt.com
-127.0.0.1 danasdirt.us.intellitxt.com
-127.0.0.1 daniweb.us.intellitxt.com
-127.0.0.1 darkhorizons.us.intellitxt.com
-127.0.0.1 darlamack.us.intellitxt.com
-127.0.0.1 dbtechno.us.intellitxt.com
-127.0.0.1 delawareonline.us.intellitxt.com
-127.0.0.1 demonews.us.intellitxt.com
-127.0.0.1 denguru.us.intellitxt.com
-127.0.0.1 derekhail.us.intellitxt.com
-127.0.0.1 destructoid.us.intellitxt.com
-127.0.0.1 devshed.us.intellitxt.com
-127.0.0.1 dietsinreview.us.intellitxt.com
-127.0.0.1 digit-life.uk.intellitxt.com
-127.0.0.1 digital-world.de.intellitxt.com
-127.0.0.1 digitalmediaonline.us.intellitxt.com
-127.0.0.1 digitalmediawire.us.intellitxt.com
-127.0.0.1 digitaltrends.us.intellitxt.com
-127.0.0.1 dlmag.us.intellitxt.com
-127.0.0.1 dnps.us.intellitxt.com
-127.0.0.1 doubleviking.us.intellitxt.com
-127.0.0.1 drdobbs.us.intellitxt.com
-127.0.0.1 driverguide.us.intellitxt.com
-127.0.0.1 drugscom.us.intellitxt.com
-127.0.0.1 ds.ign.us.intellitxt.com
-127.0.0.1 eastsideboxing.us.intellitxt.com
-127.0.0.1 eatingwell.us.intellitxt.com
-127.0.0.1 ebaumsworld.us.intellitxt.com
-127.0.0.1 ecanadanow.us.intellitxt.com
-127.0.0.1 ecommercetimes.us.intellitxt.com
-127.0.0.1 eepn.us.intellitxt.com
-127.0.0.1 efanguide.us.intellitxt.com
-127.0.0.1 efluxmedia.uk.intellitxt.com
-127.0.0.1 egotastic.us.intellitxt.com
-127.0.0.1 eharmony.us.intellitxt.com
-127.0.0.1 ehealthforum.us.intellitxt.com
-127.0.0.1 ehomeupgrade.us.intellitxt.com
-127.0.0.1 ehow.us.intellitxt.com
-127.0.0.1 electronista.us.intellitxt.com
-127.0.0.1 emaxhealth.us.intellitxt.com
-127.0.0.1 encyclocentral.us.intellitxt.com
-127.0.0.1 entertainment.msn.us.intellitxt.com
-127.0.0.1 entertainmentwise.us.intellitxt.com
-127.0.0.1 entrepreneur.us.intellitxt.com
-127.0.0.1 eontarionow.us.intellitxt.com
-127.0.0.1 estelle.us.intellitxt.com
-127.0.0.1 evilbeetgossip.us.intellitxt.com
-127.0.0.1 eweek.us.intellitxt.com
-127.0.0.1 examnotes.us.intellitxt.com
-127.0.0.1 excite.us.intellitxt.com
-127.0.0.1 experts.us.intellitxt.com
-127.0.0.1 expertvillage.us.intellitxt.com
-127.0.0.1 extntechnologies.us.intellitxt.com
-127.0.0.1 extremetech.us.intellitxt.com
-127.0.0.1 eztracks.us.intellitxt.com
-127.0.0.1 fangoria.us.intellitxt.com
-127.0.0.1 faqts.us.intellitxt.com
-127.0.0.1 fatbackandcollards.us.intellitxt.com
-127.0.0.1 fatbackmedia.us.intellitxt.com
-127.0.0.1 fatfreekitchen.us.intellitxt.com
-127.0.0.1 feedsweep.us.intellitxt.com
-127.0.0.1 femalefirst.uk.intellitxt.com
-127.0.0.1 ferrago.uk.intellitxt.com
-127.0.0.1 fhmonline.us.intellitxt.com
-127.0.0.1 fightline.us.intellitxt.com
-127.0.0.1 filedudes.us.intellitxt.com
-127.0.0.1 filmdrunk.us.intellitxt.com
-127.0.0.1 filmforcedvd.ign.us.intellitxt.com
-127.0.0.1 filmstew.us.intellitxt.com
-127.0.0.1 filmthreat.us.intellitxt.com
-127.0.0.1 firingsquad.us.intellitxt.com
-127.0.0.1 fixya.us.intellitxt.com
-127.0.0.1 flashmagazine.us.intellitxt.com
-127.0.0.1 flexbeta.us.intellitxt.com
-127.0.0.1 footymad.uk.intellitxt.com
-127.0.0.1 forbes.us.intellitxt.com
-127.0.0.1 fortunecity.us.intellitxt.com
-127.0.0.1 forumediainc.us.intellitxt.com
-127.0.0.1 foxnews.us.intellitxt.com
-127.0.0.1 foxsports.us.intellitxt.com
-127.0.0.1 foxtv.us.intellitxt.com
-127.0.0.1 freecodecs.us.intellitxt.com
-127.0.0.1 freedownloadcenter.uk.intellitxt.com
-127.0.0.1 freedownloadmanager.uk.intellitxt.com
-127.0.0.1 freewarefiles.us.intellitxt.com
-127.0.0.1 freewarehome.us.intellitxt.com
-127.0.0.1 freewarepalm.uk.intellitxt.com
-127.0.0.1 friendtest.us.intellitxt.com
-127.0.0.1 froggytest.fr.intellitxt.com
-127.0.0.1 futurelooks.us.intellitxt.com
-127.0.0.1 futurepublications.uk.intellitxt.com
-127.0.0.1 g2.us.intellitxt.com
-127.0.0.1 g3.us.intellitxt.com
-127.0.0.1 g4.us.intellitxt.com
-127.0.0.1 g5.us.intellitxt.com
-127.0.0.1 gabsmash.us.intellitxt.com
-127.0.0.1 galleryoftheabsurd.us.intellitxt.com
-127.0.0.1 gameboy.ign.us.intellitxt.com
-127.0.0.1 gamedev.us.intellitxt.com
-127.0.0.1 gamerstemple.us.intellitxt.com
-127.0.0.1 gamesindustry.uk.intellitxt.com
-127.0.0.1 gamesradar.us.intellitxt.com
-127.0.0.1 gannettbroadcast.us.intellitxt.com
-127.0.0.1 gannettwisconsin.us.intellitxt.com
-127.0.0.1 gather.us.intellitxt.com
-127.0.0.1 gear.ign.us.intellitxt.com
-127.0.0.1 geek.us.intellitxt.com
-127.0.0.1 geekstogo.us.intellitxt.com
-127.0.0.1 generation-nt.fr.intellitxt.com
-127.0.0.1 genmay.us.intellitxt.com
-127.0.0.1 ghacks.de.intellitxt.com
-127.0.0.1 girlsaskguys.us.intellitxt.com
-127.0.0.1 givememyremote.us.intellitxt.com
-127.0.0.1 gjerrigknark.no.intellitxt.com
-127.0.0.1 goal.us.intellitxt.com
-127.0.0.1 golem.de.intellitxt.com
-127.0.0.1 gonintendo.us.intellitxt.com
-127.0.0.1 gossiponthis.us.intellitxt.com
-127.0.0.1 gossipteen.us.intellitxt.com
-127.0.0.1 gottabemobile.us.intellitxt.com
-127.0.0.1 govpro.us.intellitxt.com
-127.0.0.1 graytv.us.intellitxt.com
-127.0.0.1 gsmarena.us.intellitxt.com
-127.0.0.1 gtmedia.us.intellitxt.com
-127.0.0.1 gtrforums.us.intellitxt.com
-127.0.0.1 gulli.de.intellitxt.com
-127.0.0.1 guru3d.us.intellitxt.com
-127.0.0.1 guyism.us.intellitxt.com
-127.0.0.1 hackedgadgets.us.intellitxt.com
-127.0.0.1 hairboutique.us.intellitxt.com
-127.0.0.1 hardcoreware.us.intellitxt.com
-127.0.0.1 hardforum.us.intellitxt.com
-127.0.0.1 hardocp.us.intellitxt.com
-127.0.0.1 hardwareanalysis.us.intellitxt.com
-127.0.0.1 hardwaregeeks.us.intellitxt.com
-127.0.0.1 hardwarezone.us.intellitxt.com
-127.0.0.1 haveuheard.us.intellitxt.com
-127.0.0.1 health.msnbc.us.intellitxt.com
-127.0.0.1 helium.us.intellitxt.com
-127.0.0.1 hexus.uk.intellitxt.com
-127.0.0.1 highdefforum.us.intellitxt.com
-127.0.0.1 hiphopdx.us.intellitxt.com
-127.0.0.1 hiphopgalaxy.fr.intellitxt.com
-127.0.0.1 hiphoprx.us.intellitxt.com
-127.0.0.1 hitsquad.us.intellitxt.com
-127.0.0.1 hollyrude.us.intellitxt.com
-127.0.0.1 hollywood.us.intellitxt.com
-127.0.0.1 hollywoodbackwash.us.intellitxt.com
-127.0.0.1 hollywoodchicago.us.intellitxt.com
-127.0.0.1 hollywooddame.us.intellitxt.com
-127.0.0.1 hollywoodstreetking.us.intellitxt.com
-127.0.0.1 hollywoodtuna.us.intellitxt.com
-127.0.0.1 hometheaterhifi.us.intellitxt.com
-127.0.0.1 hondahookup.us.intellitxt.com
-127.0.0.1 hoopsvibe.us.intellitxt.com
-127.0.0.1 hoopsworld.us.intellitxt.com
-127.0.0.1 hoovers.us.intellitxt.com
-127.0.0.1 horoscope.us.intellitxt.com
-127.0.0.1 hostboard.us.intellitxt.com
-127.0.0.1 hothardware.us.intellitxt.com
-127.0.0.1 hotmommagossip.us.intellitxt.com
-127.0.0.1 hotonlinenews.us.intellitxt.com
-127.0.0.1 howardchui.us.intellitxt.com
-127.0.0.1 hq-celebrity.us.intellitxt.com
-127.0.0.1 htmlcenter.us.intellitxt.com
-127.0.0.1 huliq.us.intellitxt.com
-127.0.0.1 i4u.us.intellitxt.com
-127.0.0.1 iamnotageek.us.intellitxt.com
-127.0.0.1 icentric.us.intellitxt.com
-127.0.0.1 ichef.us.intellitxt.com
-127.0.0.1 icydk.us.intellitxt.com
-127.0.0.1 idm.us.intellitxt.com
-127.0.0.1 idontlikeyouinthatway.us.intellitxt.com
-127.0.0.1 iesb.us.intellitxt.com
-127.0.0.1 ign.us.intellitxt.com
-127.0.0.1 images.intellitxt.com
-127.0.0.1 imnotobsessed.us.intellitxt.com
-127.0.0.1 impactwrestling.us.intellitxt.com
-127.0.0.1 imreportcard.us.intellitxt.com
-127.0.0.1 infopackets.us.intellitxt.com
-127.0.0.1 infos-du-net.fr.intellitxt.com
-127.0.0.1 inquake.de.intellitxt.com
-127.0.0.1 insidemacgames.us.intellitxt.com
-127.0.0.1 intellitxt.com
-127.0.0.1 intermix.us.intellitxt.com
-127.0.0.1 internetautoguide.us.intellitxt.com
-127.0.0.1 intomobile.us.intellitxt.com
-127.0.0.1 investingchannel.us.intellitxt.com
-127.0.0.1 investopedia.us.intellitxt.com
-127.0.0.1 itpro.no.intellitxt.com
-127.0.0.1 itpro.uk.intellitxt.com
-127.0.0.1 itreviews.uk.intellitxt.com
-127.0.0.1 ittoolbox.us.intellitxt.com
-127.0.0.1 itworld.us.intellitxt.com
-127.0.0.1 itxt2.us.intellitxt.com
-127.0.0.1 itxt3.us.intellitxt.com
-127.0.0.1 ivillage.us.intellitxt.com
-127.0.0.1 iwon.us.intellitxt.com
-127.0.0.1 jacksonsun.us.intellitxt.com
-127.0.0.1 jakeludington.us.intellitxt.com
-127.0.0.1 jkontherun.us.intellitxt.com
-127.0.0.1 joblo.us.intellitxt.com
-127.0.0.1 juicy-news.blogspot.us.intellitxt.com
-127.0.0.1 jupiter.us.intellitxt.com
-127.0.0.1 justjared.us.intellitxt.com
-127.0.0.1 justmovietrailers.us.intellitxt.com
-127.0.0.1 kaboose.us.intellitxt.com
-127.0.0.1 killerstartups.us.intellitxt.com
-127.0.0.1 knac.us.intellitxt.com
-127.0.0.1 knowyourmobile.uk.intellitxt.com
-127.0.0.1 laboroflove.us.intellitxt.com
-127.0.0.1 laptoplogic.us.intellitxt.com
-127.0.0.1 laptopmag.us.intellitxt.com
-127.0.0.1 lat34.us.intellitxt.com
-127.0.0.1 latinoreview.us.intellitxt.com
-127.0.0.1 letsgodigital.uk.intellitxt.com
-127.0.0.1 letsrun.us.intellitxt.com
-127.0.0.1 lifescript.us.intellitxt.com
-127.0.0.1 linuxdevcenter.us.intellitxt.com
-127.0.0.1 linuxjournal.us.intellitxt.com
-127.0.0.1 lmcd.us.intellitxt.com
-127.0.0.1 loady.de.intellitxt.com
-127.0.0.1 lockergnome.us.intellitxt.com
-127.0.0.1 lohud.us.intellitxt.com
-127.0.0.1 longhornblogs.us.intellitxt.com
-127.0.0.1 lse.uk.intellitxt.com
-127.0.0.1 lxer.us.intellitxt.com
-127.0.0.1 lyrics.us.intellitxt.com
-127.0.0.1 macdailynews.us.intellitxt.com
-127.0.0.1 macgamefiles.us.intellitxt.com
-127.0.0.1 macmegasite.us.intellitxt.com
-127.0.0.1 macnewsworld.us.intellitxt.com
-127.0.0.1 macnn.us.intellitxt.com
-127.0.0.1 macobserver.us.intellitxt.com
-127.0.0.1 macwelt.de.intellitxt.com
-127.0.0.1 mad.uk.intellitxt.com
-127.0.0.1 madpenguin.us.intellitxt.com
-127.0.0.1 mainstreet.us.intellitxt.com
-127.0.0.1 majorgeeks.us.intellitxt.com
-127.0.0.1 makeherup.us.intellitxt.com
-127.0.0.1 makemeheal.us.intellitxt.com
-127.0.0.1 makeushot.us.intellitxt.com
-127.0.0.1 masalatalk.us.intellitxt.com
-127.0.0.1 mazdaworld.us.intellitxt.com
-127.0.0.1 medicinenet.us.intellitxt.com
-127.0.0.1 medindia.us.intellitxt.com
-127.0.0.1 memoclic.fr.intellitxt.com
-127.0.0.1 memphisrap.us.intellitxt.com
-127.0.0.1 meredithtv.us.intellitxt.com
-127.0.0.1 methodshop.us.intellitxt.com
-127.0.0.1 microsoft-watch.us.intellitxt.com
-127.0.0.1 military.us.intellitxt.com
-127.0.0.1 missjia.us.intellitxt.com
-127.0.0.1 mmafighting.us.intellitxt.com
-127.0.0.1 mobile9.us.intellitxt.com
-127.0.0.1 mobileburn.us.intellitxt.com
-127.0.0.1 mobilecomputermag.uk.intellitxt.com
-127.0.0.1 mobiletechreview.us.intellitxt.com
-127.0.0.1 mobilewhack.us.intellitxt.com
-127.0.0.1 mobilityguru.us.intellitxt.com
-127.0.0.1 mobilitysite.us.intellitxt.com
-127.0.0.1 monstersandcritics.uk.intellitxt.com
-127.0.0.1 morningstar.us.intellitxt.com
-127.0.0.1 motortrend.us.intellitxt.com
-127.0.0.1 moviehole.us.intellitxt.com
-127.0.0.1 movies.us.intellitxt.com
-127.0.0.1 movieweb.us.intellitxt.com
-127.0.0.1 msfn.us.intellitxt.com
-127.0.0.1 msmobiles.de.intellitxt.com
-127.0.0.1 msnbc.us.intellitxt.com
-127.0.0.1 muscleandfitnesshers.us.intellitxt.com
-127.0.0.1 music.ign.us.intellitxt.com
-127.0.0.1 mydigitallife.us.intellitxt.com
-127.0.0.1 myfavoritegames.us.intellitxt.com
-127.0.0.1 n-tv.de.intellitxt.com
-127.0.0.1 nasioc.us.intellitxt.com
-127.0.0.1 nationalenquirer.us.intellitxt.com
-127.0.0.1 nationalledger.us.intellitxt.com
-127.0.0.1 naturalhealth.us.intellitxt.com
-127.0.0.1 nbcsports.us.intellitxt.com
-127.0.0.1 nbcuniversaltv.us.intellitxt.com
-127.0.0.1 neoseeker.us.intellitxt.com
-127.0.0.1 neowin.us.intellitxt.com
-127.0.0.1 neteco.fr.intellitxt.com
-127.0.0.1 newlaunches.uk.intellitxt.com
-127.0.0.1 news.msnbc.us.intellitxt.com
-127.0.0.1 newsoxy.us.intellitxt.com
-127.0.0.1 newstoob.us.intellitxt.com
-127.0.0.1 newyork.cbslocal.us.intellitxt.com
-127.0.0.1 nextround.us.intellitxt.com
-127.0.0.1 ngohq.us.intellitxt.com
-127.0.0.1 nihoncar.us.intellitxt.com
-127.0.0.1 ninjadude.us.intellitxt.com
-127.0.0.1 nodevice.uk.intellitxt.com
-127.0.0.1 ntcompatible.us.intellitxt.com
-127.0.0.1 obgyn.us.intellitxt.com
-127.0.0.1 oceanup.us.intellitxt.com
-127.0.0.1 octools.us.intellitxt.com
-127.0.0.1 ocworkbench.us.intellitxt.com
-127.0.0.1 officer.us.intellitxt.com
-127.0.0.1 ok.uk.intellitxt.com
-127.0.0.1 okmagazine.us.intellitxt.com
-127.0.0.1 onlamp.us.intellitxt.com
-127.0.0.1 oocenter.us.intellitxt.com
-127.0.0.1 osdir.us.intellitxt.com
-127.0.0.1 ostg.us.intellitxt.com
-127.0.0.1 outofsightmedia.us.intellitxt.com
-127.0.0.1 outsidethebeltway.us.intellitxt.com
-127.0.0.1 overclockersonline.us.intellitxt.com
-127.0.0.1 overthelimit.us.intellitxt.com
-127.0.0.1 pal-item.us.intellitxt.com
-127.0.0.1 pc-infopratique.fr.intellitxt.com
-127.0.0.1 pcadvisor.uk.intellitxt.com
-127.0.0.1 pcinpact.fr.intellitxt.com
-127.0.0.1 pcmag.us.intellitxt.com
-127.0.0.1 pcper.us.intellitxt.com
-127.0.0.1 pcpro.uk.intellitxt.com
-127.0.0.1 pcw.uk.intellitxt.com
-127.0.0.1 pcwelt.de.intellitxt.com
-127.0.0.1 pencomputing.us.intellitxt.com
-127.0.0.1 penton.us.intellitxt.com
-127.0.0.1 perezhilton.us.intellitxt.com
-127.0.0.1 philadelphia_cbslocal.us.intellitxt.com
-127.0.0.1 phonearena.us.intellitxt.com
-127.0.0.1 php-mag.de.intellitxt.com
-127.0.0.1 physorg.uk.intellitxt.com
-127.0.0.1 physorg.us.intellitxt.com
-127.0.0.1 pickmeupnews.us.intellitxt.com
-127.0.0.1 pimprig.us.intellitxt.com
-127.0.0.1 planet-source-code.us.intellitxt.com
-127.0.0.1 planetgamecube.us.intellitxt.com
-127.0.0.1 playboy.us.intellitxt.com
-127.0.0.1 playfuls.uk.intellitxt.com
-127.0.0.1 pocketlint.uk.intellitxt.com
-127.0.0.1 popdirt.us.intellitxt.com
-127.0.0.1 popfill.us.intellitxt.com
-127.0.0.1 popoholic.us.intellitxt.com
-127.0.0.1 poponthepop.us.intellitxt.com
-127.0.0.1 popularmechanics.us.intellitxt.com
-127.0.0.1 portableplanet.us.intellitxt.com
-127.0.0.1 postchronicle.us.intellitxt.com
-127.0.0.1 prettyboring.us.intellitxt.com
-127.0.0.1 primedia.us.intellitxt.com
-127.0.0.1 priusonline.us.intellitxt.com
-127.0.0.1 product-reviews.uk.intellitxt.com
-127.0.0.1 profootballweekly.us.intellitxt.com
-127.0.0.1 programme-tv.fr.intellitxt.com
-127.0.0.1 programmerworld.us.intellitxt.com
-127.0.0.1 ps2.ign.us.intellitxt.com
-127.0.0.1 ps3.ign.us.intellitxt.com
-127.0.0.1 ps3news.us.intellitxt.com
-127.0.0.1 psp.ign.us.intellitxt.com
-127.0.0.1 psx.ign.us.intellitxt.com
-127.0.0.1 punchjump.us.intellitxt.com
-127.0.0.1 pwinsider.us.intellitxt.com
-127.0.0.1 qj.us.intellitxt.com
-127.0.0.1 quickpwn.us.intellitxt.com
-127.0.0.1 quinstreet.us.intellitxt.com
-127.0.0.1 rankmytattoos.us.intellitxt.com
-127.0.0.1 rapdirt.us.intellitxt.com
-127.0.0.1 rawstory.us.intellitxt.com
-127.0.0.1 raymond.uk.intellitxt.com
-127.0.0.1 rbmods.se.intellitxt.com
-127.0.0.1 rcpmag.us.intellitxt.com
-127.0.0.1 realitytvmagazine.us.intellitxt.com
-127.0.0.1 recipegoldmine.us.intellitxt.com
-127.0.0.1 recipeland.us.intellitxt.com
-127.0.0.1 redbalcony.us.intellitxt.com
-127.0.0.1 reelmovienews.us.intellitxt.com
-127.0.0.1 reseaux-telecoms.fr.intellitxt.com
-127.0.0.1 revolution.ign.us.intellitxt.com
-127.0.0.1 rickey.us.intellitxt.com
-127.0.0.1 rightpundits.us.intellitxt.com
-127.0.0.1 ringsurf.us.intellitxt.com
-127.0.0.1 rnbdirt.us.intellitxt.com
-127.0.0.1 roadcatalogs.us.intellitxt.com
-127.0.0.1 rockdirt.us.intellitxt.com
-127.0.0.1 rojakpot.us.intellitxt.com
-127.0.0.1 rpg.us.intellitxt.com
-127.0.0.1 rx8club.us.intellitxt.com
-127.0.0.1 rydium.us.intellitxt.com
-127.0.0.1 s.ivillage.us.intellitxt.com
-127.0.0.1 screensavers.us.intellitxt.com
-127.0.0.1 sdcexecs.us.intellitxt.com
-127.0.0.1 sdtimes.us.intellitxt.com
-127.0.0.1 serverwatch.de.intellitxt.com
-127.0.0.1 shallownation.us.intellitxt.com
-127.0.0.1 sharecast.uk.intellitxt.com
-127.0.0.1 sheknows.us.intellitxt.com
-127.0.0.1 shoutwire.us.intellitxt.com
-127.0.0.1 siliconera.us.intellitxt.com
-127.0.0.1 sjc-g007.us.intellitxt.com
-127.0.0.1 slashfilm.us.intellitxt.com
-127.0.0.1 slashphone.us.intellitxt.com
-127.0.0.1 smartabouthealth.us.intellitxt.com
-127.0.0.1 smartdevicecentral.us.intellitxt.com
-127.0.0.1 soccergaming.us.intellitxt.com
-127.0.0.1 socialitelife.us.intellitxt.com
-127.0.0.1 soft32.us.intellitxt.com
-127.0.0.1 softonic.de.intellitxt.com
-127.0.0.1 softonic.us.intellitxt.com
-127.0.0.1 softpedia.uk.intellitxt.com
-127.0.0.1 sohh.us.intellitxt.com
-127.0.0.1 somethingawful.us.intellitxt.com
-127.0.0.1 soundslam.us.intellitxt.com
-127.0.0.1 space.us.intellitxt.com
-127.0.0.1 speedguide.us.intellitxt.com
-127.0.0.1 speedtv.us.intellitxt.com
-127.0.0.1 sportingnews.us.intellitxt.com
-127.0.0.1 sports.ign.us.intellitxt.com
-127.0.0.1 sports.msnbc.us.intellitxt.com
-127.0.0.1 sports.rightpundits.us.intellitxt.com
-127.0.0.1 sportscarillustrated.us.intellitxt.com
-127.0.0.1 sprintusers.us.intellitxt.com
-127.0.0.1 spymac.us.intellitxt.com
-127.0.0.1 sqlservercentral.us.intellitxt.com
-127.0.0.1 squarefootball.uk.intellitxt.com
-127.0.0.1 starcasm.us.intellitxt.com
-127.0.0.1 starpulse.us.intellitxt.com
-127.0.0.1 steadyhealth.us.intellitxt.com
-127.0.0.1 stockgroup.us.intellitxt.com
-127.0.0.1 storknet.us.intellitxt.com
-127.0.0.1 supercars.us.intellitxt.com
-127.0.0.1 superherohype.us.intellitxt.com
-127.0.0.1 supernature-forum.de.intellitxt.com
-127.0.0.1 supportnet.de.intellitxt.com
-127.0.0.1 surebaby.us.intellitxt.com
-127.0.0.1 symbian-freak.us.intellitxt.com
-127.0.0.1 symbianone.us.intellitxt.com
-127.0.0.1 tastefulcelebs.us.intellitxt.com
-127.0.0.1 tbohiphop.us.intellitxt.com
-127.0.0.1 tcmagazine.uk.intellitxt.com
-127.0.0.1 teamtalk.uk.intellitxt.com
-127.0.0.1 tecchannel.de.intellitxt.com
-127.0.0.1 tech-faq.us.intellitxt.com
-127.0.0.1 techeblog.us.intellitxt.com
-127.0.0.1 techgadgets.in.intellitxt.com
-127.0.0.1 techgage.us.intellitxt.com
-127.0.0.1 techguy.us.intellitxt.com
-127.0.0.1 techimo.us.intellitxt.com
-127.0.0.1 technewsworld.us.intellitxt.com
-127.0.0.1 technology.msnbc.us.intellitxt.com
-127.0.0.1 technologyguide.us.intellitxt.com
-127.0.0.1 techpowerup.us.intellitxt.com
-127.0.0.1 techradar.uk.intellitxt.com
-127.0.0.1 techspot.us.intellitxt.com
-127.0.0.1 techsupportforum.us.intellitxt.com
-127.0.0.1 techworld.nl.intellitxt.com
-127.0.0.1 telefonica.es.intellitxt.com
-127.0.0.1 telefonino.it.intellitxt.com
-127.0.0.1 tenmagazines.us.intellitxt.com
-127.0.0.1 tennessean.us.intellitxt.com
-127.0.0.1 tgdaily.us.intellitxt.com
-127.0.0.1 thathappened.us.intellitxt.com
-127.0.0.1 theadvertiser.us.intellitxt.com
-127.0.0.1 theblemish.us.intellitxt.com
-127.0.0.1 thebosh.us.intellitxt.com
-127.0.0.1 thecarconnection.us.intellitxt.com
-127.0.0.1 thecelebritycafe.us.intellitxt.com
-127.0.0.1 theeldergeek.us.intellitxt.com
-127.0.0.1 thefinalfantasy.us.intellitxt.com
-127.0.0.1 theforce.us.intellitxt.com
-127.0.0.1 thefutoncritic.us.intellitxt.com
-127.0.0.1 thegauntlet.us.intellitxt.com
-127.0.0.1 theglobeandmail.us.intellitxt.com
-127.0.0.1 thehdroom.us.intellitxt.com
-127.0.0.1 thehollywoodgossip.us.intellitxt.com
-127.0.0.1 thehollywoodnews.uk.intellitxt.com
-127.0.0.1 theinquirer.uk.intellitxt.com
-127.0.0.1 themanroom.us.intellitxt.com
-127.0.0.1 theonenetwork.us.intellitxt.com
-127.0.0.1 thepaparazzis.us.intellitxt.com
-127.0.0.1 theregister.uk.intellitxt.com
-127.0.0.1 thestreet.us.intellitxt.com
-127.0.0.1 thesuperficial.us.intellitxt.com
-127.0.0.1 thetechherald.uk.intellitxt.com
-127.0.0.1 thetechlounge.us.intellitxt.com
-127.0.0.1 thetechzone.us.intellitxt.com
-127.0.0.1 theunwired.us.intellitxt.com
-127.0.0.1 thinkcomputers.us.intellitxt.com
-127.0.0.1 thoughtsmedia.us.intellitxt.com
-127.0.0.1 threadwatch.us.intellitxt.com
-127.0.0.1 tmz.us.intellitxt.com
-127.0.0.1 todayshow.us.intellitxt.com
-127.0.0.1 toms.us.intellitxt.com
-127.0.0.1 tomsforumz.us.intellitxt.com
-127.0.0.1 tomshardware.fr.intellitxt.com
-127.0.0.1 tomshardware.se.intellitxt.com
-127.0.0.1 tomsnetworking.us.intellitxt.com
-127.0.0.1 toofab.us.intellitxt.com
-127.0.0.1 topdownloads.nl.intellitxt.com
-127.0.0.1 topsocialite.us.intellitxt.com
-127.0.0.1 toptechreviews.us.intellitxt.com
-127.0.0.1 torquenews.us.intellitxt.com
-127.0.0.1 tothecenter.us.intellitxt.com
-127.0.0.1 tradingmarkets.us.intellitxt.com
-127.0.0.1 traileraddict.us.intellitxt.com
-127.0.0.1 trekweb.us.intellitxt.com
-127.0.0.1 tribal.us.intellitxt.com
-127.0.0.1 triumphrat.us.intellitxt.com
-127.0.0.1 tsxclub.us.intellitxt.com
-127.0.0.1 tutorialoutpost.us.intellitxt.com
-127.0.0.1 tv-rightcelebrity.us.intellitxt.com
-127.0.0.1 tvfanatic.us.intellitxt.com
-127.0.0.1 tvseriesfinale.us.intellitxt.com
-127.0.0.1 tweaks.us.intellitxt.com
-127.0.0.1 tweaktown.us.intellitxt.com
-127.0.0.1 tweakvista.us.intellitxt.com
-127.0.0.1 tweetsoup.us.intellitxt.com
-127.0.0.1 twitchguru.us.intellitxt.com
-127.0.0.1 ubergizmo.us.intellitxt.com
-127.0.0.1 ultimate-guitar.us.intellitxt.com
-127.0.0.1 uncoached.us.intellitxt.com
-127.0.0.1 upi.us.intellitxt.com
-127.0.0.1 vault9.us.intellitxt.com
-127.0.0.1 viaarena.us.intellitxt.com
-127.0.0.1 videocodezone.us.intellitxt.com
-127.0.0.1 videojug.uk.intellitxt.com
-127.0.0.1 vidnet.us.intellitxt.com
-127.0.0.1 vitalfootball.uk.intellitxt.com
-127.0.0.1 vladtv.us.intellitxt.com
-127.0.0.1 vnunet.uk.intellitxt.com
-127.0.0.1 voodoofiles.us.intellitxt.com
-127.0.0.1 warcry.us.intellitxt.com
-127.0.0.1 warp2search.us.intellitxt.com
-127.0.0.1 wdxcyber.us.intellitxt.com
-127.0.0.1 webuser.uk.intellitxt.com
-127.0.0.1 webwereld.nl.intellitxt.com
-127.0.0.1 weightlossforall.us.intellitxt.com
-127.0.0.1 whatthetech.us.intellitxt.com
-127.0.0.1 whoateallthepies.uk.intellitxt.com
-127.0.0.1 whyfame.us.intellitxt.com
-127.0.0.1 wincert.us.intellitxt.com
-127.0.0.1 windows7news.uk.intellitxt.com
-127.0.0.1 windowsbbs.us.intellitxt.com
-127.0.0.1 windowsitpro.us.intellitxt.com
-127.0.0.1 winfuture.de.intellitxt.com
-127.0.0.1 winmatrix.us.intellitxt.com
-127.0.0.1 winterrowd.us.intellitxt.com
-127.0.0.1 wiregirl.us.intellitxt.com
-127.0.0.1 wireless.ign.us.intellitxt.com
-127.0.0.1 wirelessforums.us.intellitxt.com
-127.0.0.1 withleather.us.intellitxt.com
-127.0.0.1 wm5fixsite.us.intellitxt.com
-127.0.0.1 womensforum.us.intellitxt.com
-127.0.0.1 worldnetdaily.us.intellitxt.com
-127.0.0.1 worldtravelguide.uk.intellitxt.com
-127.0.0.1 wowinterface.us.intellitxt.com
-127.0.0.1 wrestling-edge.us.intellitxt.com
-127.0.0.1 x17online.us.intellitxt.com
-127.0.0.1 xbox.ign.us.intellitxt.com
-127.0.0.1 xbox360.ign.us.intellitxt.com
-127.0.0.1 xmlpitstop.us.intellitxt.com
-127.0.0.1 yeeeah.us.intellitxt.com
-127.0.0.1 yourtango.us.intellitxt.com
-127.0.0.1 zataz.fr.intellitxt.com
-127.0.0.1 zatznotfunny.us.intellitxt.com
-127.0.0.1 zeldalily.us.intellitxt.com
-127.0.0.1 zug.us.intellitxt.com
 
 # intensifier.de
 127.0.0.1 api.intensifier.de
@@ -15350,15 +14552,6 @@
 
 # iwarp.com
 127.0.0.1 barafranca.iwarp.com
-
-# iwon.com
-127.0.0.1 ads.iwon.com
-127.0.0.1 ads2.iwon.com
-127.0.0.1 c4.iwon.com
-127.0.0.1 cc.iwon.com
-127.0.0.1 plus.iwon.com
-127.0.0.1 prizemachine.games.iwon.com
-127.0.0.1 searchassistant.iwon.com
 
 # iwoop.com
 127.0.0.1 track.iwoop.com
@@ -15685,9 +14878,6 @@
 # kikizo.com
 127.0.0.1 adserve.kikizo.com
 
-# kimcurlrvsms.com
-127.0.0.1 kimcurlrvsms.com
-
 # king.com
 127.0.0.1 adtrack.king.com
 
@@ -15868,9 +15058,6 @@
 
 # kxcdn.com
 127.0.0.1 taponejs-184e.kxcdn.com
-
-# kyalon.net
-127.0.0.1 ads.kyalon.net
 
 # kyoceramita-europe.com
 127.0.0.1 adserver.kyoceramita-europe.com
@@ -16253,10 +15440,6 @@
 
 # live365.com
 127.0.0.1 ads.live365.com
-
-# livead.jp
-127.0.0.1 827489726101809589.livead.jp
-127.0.0.1 livead.jp
 
 # liveads.jp
 127.0.0.1 af.liveads.jp
@@ -16837,7 +16020,6 @@
 127.0.0.1 looksa.com
 
 # looksmart.com
-127.0.0.1 ads-rm.looksmart.com
 127.0.0.1 cnn.looksmart.com
 127.0.0.1 looksmart.com
 127.0.0.1 r.looksmart.com
@@ -16945,9 +16127,6 @@
 # lycos.nl
 127.0.0.1 ads.tripod.lycos.nl
 127.0.0.1 hit.tripod.lycos.nl
-
-# lynxtrack.com
-127.0.0.1 lynxtrack.com
 
 # lzjl.com
 127.0.0.1 ads.lzjl.com
@@ -17081,9 +16260,6 @@
 # mako.co.il
 127.0.0.1 sdc.mako.co.il
 127.0.0.1 stats.mako.co.il
-
-# maktoobblog.com
-127.0.0.1 oas.maktoobblog.com
 
 # maleflixxx.tv
 127.0.0.1 ads.maleflixxx.tv
@@ -17267,6 +16443,11 @@
 # mdchoice.com
 127.0.0.1 ads.mdchoice.com
 
+# mdmd.info
+127.0.0.1 ad.mdmd.info
+127.0.0.1 cpanel.ad.mdmd.info
+127.0.0.1 webmail.ad.mdmd.info
+
 # mdnhinc.com
 127.0.0.1 c.mdnhinc.com
 127.0.0.1 cb.mdnhinc.com
@@ -17299,10 +16480,6 @@
 127.0.0.1 adc01.media-rep.com
 127.0.0.1 adc02.media-rep.com
 127.0.0.1 adc03.media-rep.com
-
-# media-servers.net
-127.0.0.1 ad.media-servers.net
-127.0.0.1 media-servers.net
 
 # media-system.de
 127.0.0.1 banner.media-system.de
@@ -17507,9 +16684,6 @@
 # menue.jp
 127.0.0.1 adc.menue.jp
 
-# merc.com
-127.0.0.1 adserver.merc.com
-
 # merchant.com
 127.0.0.1 merchant.com
 
@@ -17622,6 +16796,7 @@
 127.0.0.1 linx-cache.microad.jp
 127.0.0.1 linx.microad.jp
 127.0.0.1 linx.send.microad.jp
+127.0.0.1 machiage.microad.jp
 127.0.0.1 microad.jp
 127.0.0.1 msend.microad.jp
 127.0.0.1 prcache.microad.jp
@@ -17880,9 +17055,6 @@
 # modernpostcard.com
 127.0.0.1 metrics.modernpostcard.com
 
-# modry.cz
-127.0.0.1 ceskydomov.alias.ngs.modry.cz
-
 # mofos.com
 127.0.0.1 ads.mofos.com
 127.0.0.1 scripts.mofos.com
@@ -18046,9 +17218,6 @@
 
 # msmstatic.com
 127.0.0.1 dn.msmstatic.com
-
-# msmtrakk06d.com
-127.0.0.1 global.msmtrakk06d.com
 
 # msn-ppe.com
 127.0.0.1 ads.msn-ppe.com
@@ -18641,7 +17810,6 @@
 127.0.0.1 myvacationguide.com
 
 # myway.com
-127.0.0.1 cm.myway.com
 127.0.0.1 speedbar.myway.com
 
 # mywebsearch.com
@@ -18776,6 +17944,7 @@
 127.0.0.1 support-beacon.nakanohito.jp
 127.0.0.1 support-widg.nakanohito.jp
 127.0.0.1 support-widget.nakanohito.jp
+127.0.0.1 support-widjet.nakanohito.jp
 127.0.0.1 ts.nakanohito.jp
 127.0.0.1 u.nakanohito.jp
 127.0.0.1 ua.nakanohito.jp
@@ -18991,9 +18160,6 @@
 
 # nedstatbasic.com
 127.0.0.1 nedstatbasic.com
-
-# need2find.com
-127.0.0.1 cm.need2find.com
 
 # nefficient.jp
 127.0.0.1 rokushiki.nefficient.jp
@@ -19403,6 +18569,7 @@
 
 # nicovideo.jp
 127.0.0.1 ads.nicovideo.jp
+127.0.0.1 dc-cdn-ts.ads.nicovideo.jp
 127.0.0.1 dc-cdn.ads.nicovideo.jp
 127.0.0.1 nicoad.nicovideo.jp
 127.0.0.1 res.ads.nicovideo.jp
@@ -19513,9 +18680,6 @@
 # nprove.com
 127.0.0.1 cdn.nprove.com
 
-# npvos.com
-127.0.0.1 npvos.com
-
 # nr-data.net
 127.0.0.1 bam-6.nr-data.net
 127.0.0.1 bam-7.nr-data.net
@@ -19538,6 +18702,7 @@
 127.0.0.1 chi-staging-infra-inventory-ingest.nr-data.net
 127.0.0.1 chi-staging-insights-collector.nr-data.net
 127.0.0.1 collector-001.eu01.nr-data.net
+127.0.0.1 csec-gov.nr-data.net
 127.0.0.1 csec-staging.nr-data.net
 127.0.0.1 csec.nr-data.net
 127.0.0.1 fastly-bam-cell.nr-data.net
@@ -19549,6 +18714,7 @@
 127.0.0.1 fastly-tls12-bam.nr-data.net
 127.0.0.1 gov-bam-pool.nr-data.net
 127.0.0.1 gov-bam.nr-data.net
+127.0.0.1 gov-otlp.nr-data.net
 127.0.0.1 gov-staging-bam-pool.nr-data.net
 127.0.0.1 gov-staging-bam.nr-data.net
 127.0.0.1 gov-staging-otlp.nr-data.net
@@ -19563,11 +18729,14 @@
 127.0.0.1 staging-otlp.nr-data.net
 127.0.0.1 staging-service.nr-data.net
 127.0.0.1 staging-synthetics-horde-admin-tmp.nr-data.net
+127.0.0.1 staging-synthetics-horde-gpc.nr-data.net
 127.0.0.1 staging-synthetics-horde.nr-data.net
+127.0.0.1 synthetics-horde-gpc.nr-data.net
 127.0.0.1 synthetics-horde.nr-data.net
 127.0.0.1 vortex-alb-http2-fed-stg-purple-price.nr-data.net
 127.0.0.1 vortex-alb-http2-fed-us-hungry-menu.nr-data.net
 127.0.0.1 vortex-alb-http2-fed-us-taut-purple.nr-data.net
+127.0.0.1 vortex-nlb-http2-fed-stg-purple-price.nr-data.net
 127.0.0.1 vortex-nlb-http2-fed-us-hungry-menu.nr-data.net
 127.0.0.1 vortex-nlb-http2-fed-us-taut-purple.nr-data.net
 
@@ -19665,9 +18834,6 @@
 
 # oainternetservices.com
 127.0.0.1 track.oainternetservices.com
-
-# obix.pro
-127.0.0.1 trk.obix.pro
 
 # object.bg
 127.0.0.1 object.bg
@@ -19883,9 +19049,6 @@
 # online-metrix.net
 127.0.0.1 h.online-metrix.net
 
-# online.com
-127.0.0.1 online.com
-
 # online.net
 127.0.0.1 404.online.net
 
@@ -19898,18 +19061,8 @@
 # onlinehome.de
 127.0.0.1 cgicounter.onlinehome.de
 
-# onlinerewardcenter.com
-127.0.0.1 onlinerewardcenter.com
-
 # onlineshoes.com
 127.0.0.1 om.onlineshoes.com
-
-# onlinewebstat.com
-127.0.0.1 logo.onlinewebstat.com
-127.0.0.1 sayac.onlinewebstat.com
-
-# onlinewebstats.com
-127.0.0.1 sayac.onlinewebstats.com
 
 # onlinewelten.com
 127.0.0.1 lifemediahouse1.onlinewelten.com
@@ -20124,9 +19277,6 @@
 # outputfx.com
 127.0.0.1 oc.outputfx.com
 
-# outsidehub.com
-127.0.0.1 ad.outsidehub.com
-
 # outster.com
 127.0.0.1 banners.outster.com
 127.0.0.1 c1.outster.com
@@ -20218,9 +19368,6 @@
 
 # p-bxm.com
 127.0.0.1 p-bxm.com
-
-# p2l.info
-127.0.0.1 p2l.info
 
 # p2pbg.com
 127.0.0.1 adv.p2pbg.com
@@ -20331,19 +19478,12 @@
 # parom.hu
 127.0.0.1 ad.parom.hu
 
-# parse.ly
-127.0.0.1 parse.ly
-127.0.0.1 static.parse.ly
-
 # parsely.com
 127.0.0.1 config.parsely.com
 127.0.0.1 static.parsely.com
 
 # parship.co.uk
 127.0.0.1 parship.co.uk
-
-# parstools.com
-127.0.0.1 stats.parstools.com
 
 # partage-facile.com
 127.0.0.1 partage-facile.com
@@ -20386,14 +19526,8 @@
 # patchwork.net
 127.0.0.1 patchwork.net
 
-# pathfinder.com
-127.0.0.1 image.pathfinder.com
-
 # paulsnetwork.com
 127.0.0.1 paulsnetwork.com
-
-# paxnet.co.kr
-127.0.0.1 ads.paxnet.co.kr
 
 # pay-click.ru
 127.0.0.1 n.pay-click.ru
@@ -20644,9 +19778,6 @@
 # php4you.biz
 127.0.0.1 php4you.biz
 
-# phpclasses.org
-127.0.0.1 ads.phpclasses.org
-
 # physorg.com
 127.0.0.1 adms.physorg.com
 
@@ -20730,9 +19861,6 @@
 # pixiv.org
 127.0.0.1 d.pixiv.org
 
-# pkr.com
-127.0.0.1 accounts.pkr.com
-
 # planet-multiplayer.de
 127.0.0.1 adserver.planet-multiplayer.de
 
@@ -20785,7 +19913,6 @@
 127.0.0.1 affiliate.plugnpay.com
 
 # plugrush.com
-127.0.0.1 plugrush.com
 127.0.0.1 pu.plugrush.com
 
 # plus.net
@@ -20869,6 +19996,7 @@
 127.0.0.1 ad.polymorphicads.jp
 127.0.0.1 admin.polymorphicads.jp
 127.0.0.1 img.polymorphicads.jp
+127.0.0.1 lp.polymorphicads.jp
 
 # pongoresume.com
 127.0.0.1 pongoresume.com
@@ -20886,7 +20014,6 @@
 
 # popcash.net
 127.0.0.1 cdn.popcash.net
-127.0.0.1 popcash.net
 
 # popcornvod.com
 127.0.0.1 www.popcornvod.com
@@ -21172,9 +20299,6 @@
 # projectwonderful.com
 127.0.0.1 projectwonderful.com
 
-# promo-bc.com
-127.0.0.1 promo-bc.com
-
 # promobenef.com
 127.0.0.1 promobenef.com
 
@@ -21272,9 +20396,6 @@
 # pulse360.com
 127.0.0.1 pulse360.com
 
-# pulsix.com
-127.0.0.1 pulsix.com
-
 # punyu.com
 127.0.0.1 advert.punyu.com
 
@@ -21305,7 +20426,6 @@
 127.0.0.1 qctop.com
 
 # qdmil.com
-127.0.0.1 qdmil.com
 127.0.0.1 rotator.qdmil.com
 
 # qhosted.com
@@ -21380,9 +20500,6 @@
 
 # queendom.com
 127.0.0.1 ads.queendom.com
-
-# questaffiliates.net
-127.0.0.1 questaffiliates.net
 
 # questnet.de
 127.0.0.1 questnet.de
@@ -21459,9 +20576,6 @@
 # radar.bg
 127.0.0.1 ads.radar.bg
 
-# radarstats.com
-127.0.0.1 radarstats.com
-
 # radiate.com
 127.0.0.1 radiate.com
 
@@ -21487,10 +20601,8 @@
 127.0.0.1 grp07.ias.rakuten.co.jp
 127.0.0.1 grp08.ias.rakuten.co.jp
 127.0.0.1 hbb.afl.rakuten.co.jp
-127.0.0.1 m.rt.rakuten.co.jp
 127.0.0.1 mall.ashiato.rakuten.co.jp
 127.0.0.1 pzd.rakuten.co.jp
-127.0.0.1 rt.rakuten.co.jp
 127.0.0.1 static.affiliate.rakuten.co.jp
 127.0.0.1 xml.affiliate.rakuten.co.jp
 
@@ -21582,11 +20694,7 @@
 127.0.0.1 metrics.rcsmetrics.it
 
 # reachjunction.com
-127.0.0.1 ad.reachjunction.com
 127.0.0.1 reachjunction.com
-
-# reachlocal.com
-127.0.0.1 ad.reachlocal.com
 
 # reachppc.com
 127.0.0.1 ad.reachppc.com
@@ -21719,9 +20827,7 @@
 
 # redtram.com
 127.0.0.1 img2.ru.redtram.com
-127.0.0.1 img22.ru.redtram.com
 127.0.0.1 js.redtram.com
-127.0.0.1 js.ru.redtram.com
 127.0.0.1 ru.redtram.com
 
 # reduxmedia.com
@@ -21962,9 +21068,6 @@
 
 # riskwaters.com
 127.0.0.1 db.riskwaters.com
-
-# rivals.com
-127.0.0.1 oas.rivals.com
 
 # rk400.com
 127.0.0.1 rk400.com
@@ -22403,9 +21506,6 @@
 # securetabs.com
 127.0.0.1 securetabs.com
 
-# securetabs.net
-127.0.0.1 securetabs.net
-
 # securewebsiteaccess.com
 127.0.0.1 img.securewebsiteaccess.com
 127.0.0.1 interstitial.powered-by.securewebsiteaccess.com
@@ -22772,18 +21872,15 @@
 127.0.0.1 chikayo-dsp.shinobi.jp
 127.0.0.1 clematismontana.blog.shinobi.jp
 127.0.0.1 dmm-ac.shinobi.jp
-127.0.0.1 dmm-bg.shinobi.jp
 127.0.0.1 dmm-dj.shinobi.jp
 127.0.0.1 dmm-drt.shinobi.jp
 127.0.0.1 dr-cocoa.shinobi.jp
 127.0.0.1 dr-dlsite-01.shinobi.jp
 127.0.0.1 dr-dlsite-02.shinobi.jp
-127.0.0.1 dr-dmm-com-douga.shinobi.jp
 127.0.0.1 dr-dmm-order-pc.shinobi.jp
 127.0.0.1 dr-dmm-order-sp.shinobi.jp
 127.0.0.1 dr-dmmdouga.shinobi.jp
 127.0.0.1 dr-dmmmono.shinobi.jp
-127.0.0.1 dr-fanza-monthly.shinobi.jp
 127.0.0.1 dr-fanza-order-pc.shinobi.jp
 127.0.0.1 dr-fanza-order-sp.shinobi.jp
 127.0.0.1 dr-gate-city-heaven-v2.shinobi.jp
@@ -22829,6 +21926,7 @@
 127.0.0.1 j7.shinobi.jp
 127.0.0.1 j8.shinobi.jp
 127.0.0.1 kekkon541.blog.shinobi.jp
+127.0.0.1 minque-app.shinobi.jp
 127.0.0.1 moetsukite.blog.shinobi.jp
 127.0.0.1 mu.shinobi.jp
 127.0.0.1 omatome.shinobi.jp
@@ -23153,9 +22251,6 @@
 # slate.com
 127.0.0.1 metrics.slate.com
 
-# slidesearch.net
-127.0.0.1 slidesearch.net
-
 # slimcdn.com
 127.0.0.1 dtrk.slimcdn.com
 
@@ -23169,9 +22264,6 @@
 
 # sm-ac.jp
 127.0.0.1 sm-ac.jp
-
-# sma-clsys.info
-127.0.0.1 stj.sma-clsys.info
 
 # smaad.jp
 127.0.0.1 ad.smaad.jp
@@ -23284,9 +22376,6 @@
 
 # smsmovies.net
 127.0.0.1 ad.smsmovies.net
-
-# smsmovies.se
-127.0.0.1 ad.smsmovies.se
 
 # snoobi.com
 127.0.0.1 eu1.snoobi.com
@@ -23471,7 +22560,6 @@
 127.0.0.1 adopt.specificclick.net
 127.0.0.1 afe.specificclick.net
 127.0.0.1 afe2.specificclick.net
-127.0.0.1 afe3.specificclick.net
 127.0.0.1 bp.specificclick.net
 127.0.0.1 dg.specificclick.net
 127.0.0.1 dp.specificclick.net
@@ -23589,9 +22677,6 @@
 
 # sponsorships.net
 127.0.0.1 sponsorships.net
-
-# sporta.bg
-127.0.0.1 ads.tv7.sporta.bg
 
 # spotscenered.info
 127.0.0.1 engine.spotscenered.info
@@ -23821,34 +22906,11 @@
 127.0.0.1 stat-tracker.net
 
 # stat.pl
-127.0.0.1 home.hit.stat.pl
-127.0.0.1 onet.hit.stat.pl
-127.0.0.1 s1.hit.stat.pl
-127.0.0.1 s2.hit.stat.pl
-127.0.0.1 s3.hit.stat.pl
-127.0.0.1 s4.hit.stat.pl
-127.0.0.1 sisco.hit.stat.pl
 127.0.0.1 stat.pl
 
 # stat24.com
-127.0.0.1 active.hit.stat24.com
-127.0.0.1 lt3.hit.stat24.com
-127.0.0.1 nl4.hit.stat24.com
-127.0.0.1 pro.hit.stat24.com
 127.0.0.1 redefine.hit.stat24.com
-127.0.0.1 redefine2.hit.stat24.com
-127.0.0.1 ru2.hit.stat24.com
-127.0.0.1 s1.hit.stat24.com
-127.0.0.1 s2.hit.stat24.com
-127.0.0.1 s3.hit.stat24.com
-127.0.0.1 s4.hit.stat24.com
 127.0.0.1 stat24.com
-127.0.0.1 ua1.hit.stat24.com
-127.0.0.1 ua2.hit.stat24.com
-127.0.0.1 ua3.hit.stat24.com
-127.0.0.1 ua4.hit.stat24.com
-127.0.0.1 ua5.hit.stat24.com
-127.0.0.1 uk4.hit.stat24.com
 
 # statcounter.com
 127.0.0.1 c.statcounter.com
@@ -24228,9 +23290,6 @@
 # surfcounters.com
 127.0.0.1 counter.surfcounters.com
 
-# surfenhance.com
-127.0.0.1 surfenhance.com
-
 # surfernetwork.com
 127.0.0.1 rd1.surfernetwork.com
 
@@ -24512,7 +23571,6 @@
 
 # technoratimedia.com
 127.0.0.1 ad-cdn.technoratimedia.com
-127.0.0.1 ad.technoratimedia.com
 127.0.0.1 ads.technoratimedia.com
 127.0.0.1 stats.technoratimedia.com
 
@@ -24623,7 +23681,6 @@
 127.0.0.1 x8.the-ninja.jp
 
 # theadhost.com
-127.0.0.1 ad.theadhost.com
 127.0.0.1 theadhost.com
 
 # thebrighttag.com
@@ -24685,10 +23742,6 @@
 # themes.org
 127.0.0.1 ads.themes.org
 
-# thench.net
-127.0.0.1 stimgc.thench.net
-127.0.0.1 thench.net
-
 # theolympian.com
 127.0.0.1 ads.theolympian.com
 127.0.0.1 gcirm.theolympian.com
@@ -24701,9 +23754,6 @@
 
 # theonionavclub.com
 127.0.0.1 oascentral.theonionavclub.com
-
-# theonlygames.com
-127.0.0.1 theonlygames.com
 
 # thephoenix.com
 127.0.0.1 oascentral.thephoenix.com
@@ -25476,9 +24526,6 @@
 127.0.0.1 s1.trrsf.com
 127.0.0.1 s2.trrsf.com
 
-# trsnd.com
-127.0.0.1 trsnd.com
-
 # truecash.com
 127.0.0.1 banners.truecash.com
 
@@ -25687,9 +24734,6 @@
 # uit.edu
 127.0.0.1 uit.edu
 
-# uknetguide.co.uk
-127.0.0.1 ads.uknetguide.co.uk
-
 # ukrbanner.net
 127.0.0.1 ukrbanner.net
 
@@ -25872,9 +24916,6 @@
 # utrade.com
 127.0.0.1 utrade.com
 
-# utv.bg
-127.0.0.1 openads.utv.bg
-
 # uur.at
 127.0.0.1 uur.at
 
@@ -25948,12 +24989,6 @@
 
 # valuecommerce.ne.jp
 127.0.0.1 valuecommerce.ne.jp
-
-# valuehit.com
-127.0.0.1 valuehit.com
-
-# valuepass.com
-127.0.0.1 affiliates.valuepass.com
 
 # valuepay.com
 127.0.0.1 valuepay.com
@@ -26667,9 +25702,6 @@
 # webseoanalytics.com
 127.0.0.1 webseoanalytics.com
 
-# webservicehosts.com
-127.0.0.1 dr.webservicehosts.com
-
 # webshots.com
 127.0.0.1 ads.webshots.com
 
@@ -27111,7 +26143,6 @@
 127.0.0.1 counter.xeanon.com
 
 # xertive.com
-127.0.0.1 ad.xertive.com
 127.0.0.1 xertive.com
 
 # xg4ken.com
@@ -27355,6 +26386,8 @@
 127.0.0.1 x8.yaekumo.com
 
 # yahoo.co.jp
+127.0.0.1 ad-personalize-center.yahoo.co.jp
+127.0.0.1 ads-developers.yahoo.co.jp
 127.0.0.1 ads-feedback.yahoo.co.jp
 127.0.0.1 ads-help.yahoo.co.jp
 127.0.0.1 ads-promo.yahoo.co.jp
@@ -27367,7 +26400,6 @@
 127.0.0.1 im.ov.yahoo.co.jp
 127.0.0.1 ov.yahoo.co.jp
 127.0.0.1 promotionalads.yahoo.co.jp
-127.0.0.1 rd.ane.yahoo.co.jp
 127.0.0.1 rd.listing.yahoo.co.jp
 127.0.0.1 yads.yahoo.co.jp
 127.0.0.1 yads.yjtag.yahoo.co.jp
@@ -27445,7 +26477,6 @@
 127.0.0.1 us.adserver.yahoo.com
 127.0.0.1 vid1-vm0.ads.yahoo.com
 127.0.0.1 vid1-vm1.ads.yahoo.com
-127.0.0.1 visit.webhosting.yahoo.com
 
 # yahooapis.jp
 127.0.0.1 aag.yahooapis.jp
@@ -27560,10 +26591,6 @@
 
 # yieldlab.net
 127.0.0.1 ad.yieldlab.net
-
-# yieldmanager.com
-127.0.0.1 ad.yieldmanager.com
-127.0.0.1 yieldmanager.com
 
 # yieldmanager.net
 127.0.0.1 e.yieldmanager.net
