@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2023/08/10
-# block hosts: 15404 entry
+# last updated: 2023/08/12
+# block hosts: 15409 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -2547,9 +2547,6 @@
 127.0.0.1 adcent.jp
 127.0.0.1 danlead.adcent.jp
 
-# adcenter.net
-127.0.0.1 adcenter.net
-
 # adchimp.com
 127.0.0.1 adchimp.com
 
@@ -2833,9 +2830,6 @@
 127.0.0.1 public.adgger.jp
 127.0.0.1 static.adgger.jp
 
-# adgridwork.com
-127.0.0.1 adgridwork.com
-
 # adgroups.com
 127.0.0.1 adgroups.com
 
@@ -2939,6 +2933,7 @@
 127.0.0.1 085e78e6d452e4c60d88f4083541fab0.ulink.adjust.com
 127.0.0.1 0app.adjust.com
 127.0.0.1 0ins-2.adjust.com
+127.0.0.1 0ins-2a04419c2ee5f610378234660908e2ed9.adjust.com
 127.0.0.1 1.adjust.com
 127.0.0.1 10-4.adjust.com
 127.0.0.1 10-6.adjust.com
@@ -3010,6 +3005,7 @@
 127.0.0.1 a2c57fd7998a2d67d16e7bda91c7fd06.ulink.adjust.com
 127.0.0.1 a811dc1d0d0f44e31780bcb0996d506e.ulink.adjust.com
 127.0.0.1 a94828c6a08d914296a1d178d1de5102.ulink.adjust.com
+127.0.0.1 aa04419c2ee5f610378234660908e2ed9.adjust.com
 127.0.0.1 aafbbdf70718eccf5bd4bf1adec2ce1e.ulink.adjust.com
 127.0.0.1 aalmarusyts.adjust.com
 127.0.0.1 aapp.adjust.com
@@ -3083,6 +3079,7 @@
 127.0.0.1 aq.adjust.com
 127.0.0.1 arapp.adjust.com
 127.0.0.1 as125sh-aas125ro-6.adjust.com
+127.0.0.1 asiaapp.adjust.com
 127.0.0.1 at365verzen.adjust.com
 127.0.0.1 atapp.adjust.com
 127.0.0.1 atlas.adjust.com
@@ -3308,8 +3305,10 @@
 127.0.0.1 host-77-168.adjust.com
 127.0.0.1 host-78-209.adjust.com
 127.0.0.1 host.adjust.com
+127.0.0.1 host169-51.adjust.com
 127.0.0.1 host170-159.adjust.com
 127.0.0.1 host172-126-backup.adjust.com
+127.0.0.1 host173-151.adjust.com
 127.0.0.1 host8-252.adjust.com
 127.0.0.1 hrtm-public-events.adjust.com
 127.0.0.1 husc-rt234p.adjust.com
@@ -3327,6 +3326,7 @@
 127.0.0.1 ip-186-173.adjust.com
 127.0.0.1 ip-187-49.adjust.com
 127.0.0.1 ip-19-32.adjust.com
+127.0.0.1 ip-59-237.adjust.com
 127.0.0.1 ip-60-146.adjust.com
 127.0.0.1 ip-60-18.adjust.com
 127.0.0.1 ip101-134.adjust.com
@@ -3347,6 +3347,7 @@
 127.0.0.1 jpapp.adjust.com
 127.0.0.1 js.adjust.com
 127.0.0.1 kaisaevents.adjust.com
+127.0.0.1 kanzlei.adjust.com
 127.0.0.1 keapp.adjust.com
 127.0.0.1 keindahanpria-asiaesh-aero-5.adjust.com
 127.0.0.1 kickpp-benchmkickrks.adjust.com
@@ -3372,6 +3373,7 @@
 127.0.0.1 lhr3.adjust.com
 127.0.0.1 line.adjust.com
 127.0.0.1 link-stripe.adjust.com
+127.0.0.1 live.adjust.com
 127.0.0.1 llpolicyapp.adjust.com
 127.0.0.1 ltdapp.adjust.com
 127.0.0.1 mail-quentyn.adjust.com
@@ -3463,6 +3465,7 @@
 127.0.0.1 salesloft.adjust.com
 127.0.0.1 sandbox-dashboard.adjust.com
 127.0.0.1 sandbox-ip-185-73.adjust.com
+127.0.0.1 sandbox-ip-62-227.adjust.com
 127.0.0.1 sandboxhost81-102.adjust.com
 127.0.0.1 sandfly.adjust.com
 127.0.0.1 sap-ams-zbx-frontend-1.adjust.com
@@ -24560,9 +24563,6 @@
 # trulia.com
 127.0.0.1 origin-tracking.trulia.com
 
-# trusearch.net
-127.0.0.1 trusearch.net
-
 # truste.com
 127.0.0.1 consent.truste.com
 
@@ -25631,9 +25631,6 @@
 # webgains.com
 127.0.0.1 track.webgains.com
 127.0.0.1 webgains.com
-
-# webgozar.com
-127.0.0.1 webgozar.com
 
 # webhitcounter.com
 127.0.0.1 webhitcounter.com
