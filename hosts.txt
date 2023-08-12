@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2023/08/12
-# block hosts: 15409 entry
+# last updated: 2023/08/13
+# block hosts: 15396 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -3690,9 +3690,6 @@
 127.0.0.1 jp.admob.com
 127.0.0.1 media.admob.com
 
-# admobitrack.com
-127.0.0.1 admobitrack.com
-
 # admoda.com
 127.0.0.1 admoda.com
 
@@ -5368,9 +5365,6 @@
 # associateprograms.com
 127.0.0.1 associateprograms.com
 
-# astalavista.us
-127.0.0.1 ads.astalavista.us
-
 # astrsk.net
 127.0.0.1 ads-adm.astrsk.net
 127.0.0.1 js.astrsk.net
@@ -5514,9 +5508,6 @@
 127.0.0.1 analytics.aweber.com
 127.0.0.1 aweber.com
 127.0.0.1 clicks.aweber.com
-
-# awemedia.net
-127.0.0.1 awemedia.net
 
 # awempire.com
 127.0.0.1 adson.awempire.com
@@ -5955,9 +5946,6 @@
 
 # best-meds.biz
 127.0.0.1 best-meds.biz
-
-# best2019-games-web4.com
-127.0.0.1 best2019-games-web4.com
 
 # bestprice.net
 127.0.0.1 ranking.bestprice.net
@@ -7056,9 +7044,6 @@
 # cashcounter.com
 127.0.0.1 cashcounter.com
 
-# cashcrate.com
-127.0.0.1 cashcrate.com
-
 # cashdorado.de
 127.0.0.1 ad.cashdorado.de
 
@@ -7195,9 +7180,6 @@
 
 # celebritybling.com
 127.0.0.1 banners.celebritybling.com
-
-# cellularphones.com
-127.0.0.1 cellularphones.com
 
 # celtra.com
 127.0.0.1 cdn.celtra.com
@@ -7489,9 +7471,6 @@
 # clickauditor.net
 127.0.0.1 clickauditor.net
 
-# clickbangpop.com
-127.0.0.1 clickbangpop.com
-
 # clickbank.net
 127.0.0.1 hop.clickbank.net
 127.0.0.1 ssl.clickbank.net
@@ -7526,9 +7505,6 @@
 
 # clickeye.cn
 127.0.0.1 clickeye.cn
-
-# clickfinders.com
-127.0.0.1 clickfinders.com
 
 # clickflow.com
 127.0.0.1 clickflow.com
@@ -8427,9 +8403,6 @@
 
 # csolution.jp
 127.0.0.1 cm-644.csolution.jp
-
-# cstrk.net
-127.0.0.1 cstrk.net
 
 # ctasnet.com
 127.0.0.1 a.ctasnet.com
@@ -10955,9 +10928,6 @@
 # findromance.com
 127.0.0.1 findromance.com
 
-# findthewebsiteyouneed.com
-127.0.0.1 findthewebsiteyouneed.com
-
 # findyourcasino.com
 127.0.0.1 findyourcasino.com
 
@@ -11493,9 +11463,6 @@
 127.0.0.1 eegad.freeservers.com
 127.0.0.1 worksbest.freeservers.com
 
-# freesoftware.store
-127.0.0.1 freesoftware.store
-
 # freestat.pl
 127.0.0.1 freestat.pl
 
@@ -11534,9 +11501,6 @@
 # freshmeat.net
 127.0.0.1 ads.freshmeat.net
 127.0.0.1 images-aud.freshmeat.net
-
-# fridayalways.com
-127.0.0.1 fridayalways.com
 
 # friendfinder.com
 127.0.0.1 adserver.friendfinder.com
@@ -24709,7 +24673,6 @@
 127.0.0.1 uarating.com
 
 # uclick.com
-127.0.0.1 content.uclick.com
 127.0.0.1 uclick.com
 
 # ucontent.net
