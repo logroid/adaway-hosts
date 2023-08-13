@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2023/08/13
-# block hosts: 15390 entry
+# last updated: 2023/08/14
+# block hosts: 15388 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -22983,9 +22983,6 @@
 # stephensmedia.com
 127.0.0.1 ads.stephensmedia.com
 
-# stepnation.com
-127.0.0.1 stepnation.com
-
 # stepstone.be
 127.0.0.1 ads.stepstone.be
 
@@ -23939,9 +23936,6 @@
 
 # tonosama.jp
 127.0.0.1 x6.tonosama.jp
-
-# toon-families.com
-127.0.0.1 toon-families.com
 
 # top-casting-termine.de
 127.0.0.1 top-casting-termine.de
