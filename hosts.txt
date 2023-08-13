@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2023/08/13
-# block hosts: 15396 entry
+# block hosts: 15390 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -14492,9 +14492,6 @@
 # ispeakvideo.com
 127.0.0.1 ispeakvideo.com
 
-# isralink.net
-127.0.0.1 isralink.net
-
 # istats.nl
 127.0.0.1 istats.nl
 
@@ -14783,9 +14780,6 @@
 
 # k1s.nl
 127.0.0.1 k1s.nl
-
-# kabanga.com
-127.0.0.1 kabanga.com
 
 # kabutocho-dsp.net
 127.0.0.1 js.kabutocho-dsp.net
@@ -16460,7 +16454,6 @@
 # mdnhinc.com
 127.0.0.1 c.mdnhinc.com
 127.0.0.1 cb.mdnhinc.com
-127.0.0.1 mdnhinc.com
 
 # measuremap.com
 127.0.0.1 measuremap.com
@@ -19532,9 +19525,6 @@
 # patch.com
 127.0.0.1 ads.patch.com
 
-# patchwork.net
-127.0.0.1 patchwork.net
-
 # paulsnetwork.com
 127.0.0.1 paulsnetwork.com
 
@@ -20642,9 +20632,6 @@
 
 # rankingchart.de
 127.0.0.1 rankingchart.de
-
-# rankingnet.com
-127.0.0.1 img.rankingnet.com
 
 # rankingscout.com
 127.0.0.1 rankingscout.com
@@ -22177,9 +22164,6 @@
 127.0.0.1 db8.sitestats.com
 127.0.0.1 db9.sitestats.com
 127.0.0.1 sitestats.com
-
-# sitestatz.com
-127.0.0.1 sitestatz.com
 
 # sitetracker.com
 127.0.0.1 sitetracker.com
