@@ -11,5 +11,19 @@ AdAway 用の hosts ファイルです。
 名前解決ができなくなった domain は随時削除しています。  
 要望・報告は issue or [Twitter](https://twitter.com/logroid) or [blog](https://logroid.blogspot.com/2021/05/adaway-hosts-for-japan.html) のフォームにお願いします。
 
+## Support this project
+
+Ongoing maintenance of this project is made possible by the support of these wonderful backers.
+* [Amazon Gift Card](https://www.amazon.co.jp/gp/product/B004N3APGO) Send to (logroid.dev@gmail.com)
+* [GitHub Sponsors](https://github.com/sponsors/logroid)
+
+Thank you!
+
+このプロジェクトの継続的なメンテナンスは、支援者のサポートのおかげで可能になっています。
+* [Amazon Gift Card](https://www.amazon.co.jp/gp/product/B004N3APGO) 送信先 (logroid.dev@gmail.com)
+* [GitHub Sponsors](https://github.com/sponsors/logroid)
+
+でご支援いただくことで、このプロジェクトをより良いものにすることができます。ありがとうございます！
+
 ---
 * [@logroid](https://twitter.com/logroid)
