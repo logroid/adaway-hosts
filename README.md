@@ -3,6 +3,15 @@
 ![ホワイトリスト数](https://img.shields.io/badge/allow-48-brightgreen)
 ![ブロック数](https://img.shields.io/badge/block-15337-red)
 
+## 注意
+このhostsの定期更新は終了しました。  
+今後は寄付いただいたタイミングでの更新とさせていただきます。
+## Attention
+The regular update of this hosts has ended.  
+From now on, we will update it when we receive your donation.
+
+---
+
 AdAway 用の hosts ファイルです。  
 詳細は以下を参照。
 
