@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2023/08/24
-# block hosts: 15356 entry
+# last updated: 2023/08/31
+# block hosts: 15338 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -2751,9 +2751,6 @@
 # adexpose.com
 127.0.0.1 adexpose.com
 
-# adf.ly
-127.0.0.1 adf.ly
-
 # adfair.se
 127.0.0.1 adfair.se
 
@@ -4038,9 +4035,6 @@
 
 # adsmart.net
 127.0.0.1 ad.adsmart.net
-
-# adsmogo.com
-127.0.0.1 adsmogo.com
 
 # adsmogo.org
 127.0.0.1 adsmogo.org
@@ -5781,9 +5775,6 @@
 # bannerpower.com
 127.0.0.1 bannerpower.com
 
-# bannerselect.com
-127.0.0.1 bannerselect.com
-
 # bannerserver.com
 127.0.0.1 bannerserver.com
 
@@ -6047,9 +6038,6 @@
 
 # bidtheatre.com
 127.0.0.1 match.adsby.bidtheatre.com
-
-# bidtraffic.com
-127.0.0.1 publishers.bidtraffic.com
 
 # bidverdrd.com
 127.0.0.1 secure.bidverdrd.com
@@ -6442,7 +6430,6 @@
 127.0.0.1 banners.bookofsex.com
 
 # boom.ro
-127.0.0.1 a.boom.ro
 127.0.0.1 boom.ro
 
 # boost-next.co.jp
@@ -7145,7 +7132,6 @@
 
 # ccbill.com
 127.0.0.1 bill.ccbill.com
-127.0.0.1 ccbill.com
 127.0.0.1 images.ccbill.com
 127.0.0.1 refer.ccbill.com
 
@@ -7664,6 +7650,7 @@
 127.0.0.1 d2y9h8w1ydnujs.cloudfront.net
 127.0.0.1 d2ydccbv7g31yj.cloudfront.net
 127.0.0.1 d3oltyb66oj2v8.cloudfront.net
+127.0.0.1 d3tq7gtaad4z5i.cloudfront.net
 127.0.0.1 dnn506yrbagrg.cloudfront.net
 127.0.0.1 dtym7iokkjlif.cloudfront.net
 
@@ -10929,6 +10916,7 @@
 127.0.0.1 banner.finn.no
 
 # firebaseapp.com
+127.0.0.1 account-meta-ads-289cb.firebaseapp.com
 127.0.0.1 ad-case-appeal-86734-434.firebaseapp.com
 127.0.0.1 ads-config.firebaseapp.com
 127.0.0.1 ads-game-187f4.firebaseapp.com
@@ -10981,7 +10969,6 @@
 127.0.0.1 fizzix.com
 
 # flagcounter.com
-127.0.0.1 flagcounter.com
 127.0.0.1 s01.flagcounter.com
 127.0.0.1 s02.flagcounter.com
 127.0.0.1 s03.flagcounter.com
@@ -14632,9 +14619,6 @@
 # jklir.net
 127.0.0.1 pagerank.jklir.net
 
-# jo-games.com
-127.0.0.1 ads.jo-games.com
-
 # jobclicks.net
 127.0.0.1 ads.jobclicks.net
 127.0.0.1 jobclicks.net
@@ -17068,9 +17052,6 @@
 # monster.com
 127.0.0.1 media.monster.com
 
-# monstermoving.com
-127.0.0.1 ads.monstermoving.com
-
 # monsterpops.com
 127.0.0.1 monsterpops.com
 
@@ -18528,7 +18509,6 @@
 
 # nicovideo.jp
 127.0.0.1 ads.nicovideo.jp
-127.0.0.1 dc-cdn-ts.ads.nicovideo.jp
 127.0.0.1 dc-cdn.ads.nicovideo.jp
 127.0.0.1 nicoad.nicovideo.jp
 127.0.0.1 res.ads.nicovideo.jp
@@ -18711,9 +18691,6 @@
 # nssrv.com
 127.0.0.1 ns2.iad1.nssrv.com
 
-# nti.nl
-127.0.0.1 metrics.nti.nl
-
 # ntlligent.info
 127.0.0.1 ntlligent.info
 
@@ -18731,9 +18708,6 @@
 
 # ntvmsnbc.com
 127.0.0.1 ad.ntvmsnbc.com
-
-# nuffnang.com.sg
-127.0.0.1 synad2.nuffnang.com.sg
 
 # nuseek.com
 127.0.0.1 i.nuseek.com
@@ -19373,6 +19347,7 @@
 127.0.0.1 9b553ae1-ad79-4722-b534-5bdc7aa6cbc8.pages.dev
 127.0.0.1 adtest.pages.dev
 127.0.0.1 b2c3f28b-cea2-4d98-ad5b-06cae252069f.pages.dev
+127.0.0.1 bancopopular-seguridad.pages.dev
 127.0.0.1 desku-chat-widget-js.pages.dev
 127.0.0.1 javad-cic.pages.dev
 127.0.0.1 maketecheasierad.pages.dev
@@ -19748,9 +19723,6 @@
 127.0.0.1 tbdev.pickoftheweb.com
 127.0.0.1 toolbar.pickoftheweb.com
 
-# pickwifi.com
-127.0.0.1 server.pickwifi.com
-
 # pimdesign.org
 127.0.0.1 ads.pimdesign.org
 
@@ -20025,9 +19997,6 @@
 
 # popupmoney.com
 127.0.0.1 popupmoney.com
-
-# popupremoval.com
-127.0.0.1 popupremoval.com
 
 # popuptraf.ru
 127.0.0.1 popuptraf.ru
@@ -20491,7 +20460,6 @@
 # r-ad.ne.jp
 127.0.0.1 bd-fl-stg.r-ad.ne.jp
 127.0.0.1 bd-fl.r-ad.ne.jp
-127.0.0.1 bk.r-ad.ne.jp
 127.0.0.1 cdn-t.r-ad.ne.jp
 127.0.0.1 cs-fl2.r-ad.ne.jp
 127.0.0.1 cs-stg.r-ad.ne.jp
@@ -21239,9 +21207,6 @@
 
 # sarashi.com
 127.0.0.1 ct2.sarashi.com
-
-# savingshound.com
-127.0.0.1 storage.savingshound.com
 
 # saxonsoft.hu
 127.0.0.1 adserver.saxonsoft.hu
@@ -22752,9 +22717,6 @@
 # spyshield.org
 127.0.0.1 spyshield.org
 
-# spyspotter.com
-127.0.0.1 spyspotter.com
-
 # spywarecrusher.com
 127.0.0.1 spywarecrusher.com
 
@@ -23254,9 +23216,6 @@
 # surveymanager.com
 127.0.0.1 surveymanager.com
 
-# surveynetworks.com
-127.0.0.1 surveynetworks.com
-
 # surveypopups.com
 127.0.0.1 my.surveypopups.com
 
@@ -23681,9 +23640,6 @@
 # thephoenix.com
 127.0.0.1 oascentral.thephoenix.com
 
-# therapistla.com
-127.0.0.1 therapistla.com
-
 # theroot.com
 127.0.0.1 id.theroot.com
 
@@ -23925,9 +23881,6 @@
 
 # topflownews.com
 127.0.0.1 topflownews.com
-
-# topgamesites.net
-127.0.0.1 topgamesites.net
 
 # toplist.cz
 127.0.0.1 toplist.cz
@@ -25702,9 +25655,6 @@
 
 # whatseek.com
 127.0.0.1 whatseek.com
-
-# whatusee.com
-127.0.0.1 www.whatusee.com
 
 # where.com
 127.0.0.1 ad.where.com
