@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2023/10/30
-# block hosts: 15176 entry
+# last updated: 2023/11/01
+# block hosts: 15108 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -2565,9 +2565,6 @@
 127.0.0.1 ads20.adcolony.com
 127.0.0.1 ads30.adcolony.com
 127.0.0.1 adserver-gcp-v2.adcolony.com
-127.0.0.1 akamai-adc3-assets.adcolony.com
-127.0.0.1 akamai-alpha-assets.adcolony.com
-127.0.0.1 akamai-c4d-cdn.adcolony.com
 127.0.0.1 alpha-assets.adcolony.com
 127.0.0.1 androidads20.adcolony.com
 127.0.0.1 androidads20staging.adcolony.com
@@ -4159,9 +4156,6 @@
 
 # adtrade.ro
 127.0.0.1 adtrade.ro
-
-# adtrgt.com
-127.0.0.1 adtrgt.com
 
 # adtrk22.com
 127.0.0.1 trk.adtrk22.com
@@ -10959,80 +10953,22 @@
 127.0.0.1 webgames.focalex.com
 
 # focalink.com
-127.0.0.1 ad01.focalink.com
-127.0.0.1 ad02.focalink.com
 127.0.0.1 ad03.focalink.com
 127.0.0.1 ad04.focalink.com
-127.0.0.1 ad05.focalink.com
-127.0.0.1 ad06.focalink.com
 127.0.0.1 ad07.focalink.com
 127.0.0.1 ad08.focalink.com
-127.0.0.1 ad09.focalink.com
-127.0.0.1 ad10.focalink.com
 127.0.0.1 ad11.focalink.com
-127.0.0.1 ad12.focalink.com
-127.0.0.1 ad13.focalink.com
-127.0.0.1 ad14.focalink.com
-127.0.0.1 ad15.focalink.com
 127.0.0.1 ad16.focalink.com
 127.0.0.1 ad17.focalink.com
 127.0.0.1 ad18.focalink.com
-127.0.0.1 ad19.focalink.com
 127.0.0.1 ads-b.focalink.com
-127.0.0.1 ads-c.focalink.com
-127.0.0.1 ads-f.focalink.com
-127.0.0.1 ads-i.focalink.com
-127.0.0.1 ads-instrument.focalink.com
 127.0.0.1 ads-ussj1.focalink.com
-127.0.0.1 ads.focalink.com
-127.0.0.1 ads01.focalink.com
-127.0.0.1 ads02.focalink.com
 127.0.0.1 ads03.focalink.com
-127.0.0.1 ads04.focalink.com
-127.0.0.1 ads05.focalink.com
-127.0.0.1 ads06.focalink.com
-127.0.0.1 ads07.focalink.com
-127.0.0.1 ads08.focalink.com
-127.0.0.1 ads09.focalink.com
-127.0.0.1 ads1.focalink.com
-127.0.0.1 ads10.focalink.com
-127.0.0.1 ads11.focalink.com
-127.0.0.1 ads12.focalink.com
-127.0.0.1 ads13.focalink.com
-127.0.0.1 ads14.focalink.com
-127.0.0.1 ads15.focalink.com
-127.0.0.1 ads16.focalink.com
-127.0.0.1 ads17.focalink.com
-127.0.0.1 ads18.focalink.com
 127.0.0.1 ads19.focalink.com
-127.0.0.1 ads2.focalink.com
 127.0.0.1 ads20.focalink.com
-127.0.0.1 ads200.focalink.com
-127.0.0.1 ads207.focalink.com
 127.0.0.1 ads21.focalink.com
-127.0.0.1 ads22.focalink.com
-127.0.0.1 ads23.focalink.com
-127.0.0.1 ads24.focalink.com
-127.0.0.1 ads25.focalink.com
-127.0.0.1 ads26.focalink.com
-127.0.0.1 ads27.focalink.com
-127.0.0.1 ads28.focalink.com
-127.0.0.1 ads29.focalink.com
-127.0.0.1 ads3.focalink.com
-127.0.0.1 ads30.focalink.com
-127.0.0.1 ads303.focalink.com
-127.0.0.1 ads304.focalink.com
-127.0.0.1 ads305.focalink.com
 127.0.0.1 ads311.focalink.com
-127.0.0.1 ads316.focalink.com
 127.0.0.1 ads317.focalink.com
-127.0.0.1 ads320.focalink.com
-127.0.0.1 ads4.focalink.com
-127.0.0.1 ads5.focalink.com
-127.0.0.1 ads6.focalink.com
-127.0.0.1 ads7.focalink.com
-127.0.0.1 ads8.focalink.com
-127.0.0.1 ads9.focalink.com
 127.0.0.1 focalink.com
 127.0.0.1 ph-ad.focalink.com
 127.0.0.1 ph-ad01.focalink.com
@@ -12323,9 +12259,6 @@
 127.0.0.1 lcad.gunosy.com
 127.0.0.1 npad-st.gunosy.com
 127.0.0.1 npad.gunosy.com
-
-# guns.ru
-127.0.0.1 banners.guns.ru
 
 # guru3d.com
 127.0.0.1 ads.guru3d.com
@@ -17043,9 +16976,6 @@
 # musiccounter.ru
 127.0.0.1 musiccounter.ru
 
-# musicfans.com
-127.0.0.1 ads.musicfans.com
-
 # musiciansfriend.com
 127.0.0.1 metrics.musiciansfriend.com
 
@@ -17969,7 +17899,6 @@
 127.0.0.1 netdirect.nl
 
 # netflame.cc
-127.0.0.1 beta-hints.netflame.cc
 127.0.0.1 netflame.cc
 
 # netgeo.com
@@ -22468,9 +22397,6 @@
 # stars.ru
 127.0.0.1 stat.stars.ru
 
-# startext.net
-127.0.0.1 ads.startext.net
-
 # startnow.com
 127.0.0.1 adserver.startnow.com
 127.0.0.1 go.startnow.com
@@ -25126,9 +25052,6 @@
 # webiqonline.com
 127.0.0.1 webiq005.webiqonline.com
 
-# webjump.com
-127.0.0.1 bannervip.webjump.com
-
 # webleads-tracker.com
 127.0.0.1 stats.webleads-tracker.com
 
@@ -25390,9 +25313,6 @@
 
 # wineenthusiast.com
 127.0.0.1 ads.wineenthusiast.com
-
-# winfire.com
-127.0.0.1 banners.winfire.com
 
 # winfuture.de
 127.0.0.1 o0.winfuture.de
