@@ -18,7 +18,7 @@ AdAway 用の hosts ファイルです。
 * [日本環境向け AdAway 用 hosts](https://logroid.blogspot.com/2021/05/adaway-hosts-for-japan.html)
 
 名前解決ができなくなった domain は随時削除しています。  
-要望・報告は issue or [Twitter](https://twitter.com/logroid) or [blog](https://logroid.blogspot.com/2021/05/adaway-hosts-for-japan.html) のフォームにお願いします。
+要望・報告は issue or [blog](https://logroid.blogspot.com/2021/05/adaway-hosts-for-japan.html) のフォームにお願いします。
 
 ## Support this project
 
@@ -34,5 +34,3 @@ Thank you!
 
 でご支援いただくことで、このプロジェクトをより良いものにすることができます。ありがとうございます！
 
----
-* [@logroid](https://twitter.com/logroid)
