@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2023/11/01
-# block hosts: 15108 entry
+# last updated: 2023/11/03
+# block hosts: 15102 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -4364,9 +4364,6 @@
 # advolution.de
 127.0.0.1 advolution.de
 
-# advortex.cloud
-127.0.0.1 js.advortex.cloud
-
 # adwarealert.com
 127.0.0.1 setup.adwarealert.com
 
@@ -7801,9 +7798,6 @@
 # come.cc
 127.0.0.1 ranklet.come.cc
 
-# commindo-media-ressourcen.de
-127.0.0.1 commindo-media-ressourcen.de
-
 # commissionpartner.com
 127.0.0.1 banner.commissionpartner.com
 
@@ -9634,9 +9628,6 @@
 # ecsuite.com
 127.0.0.1 bill.ecsuite.com
 
-# ed4.net
-127.0.0.1 images.ed4.net
-
 # edbindex.dk
 127.0.0.1 ads.edbindex.dk
 
@@ -9697,9 +9688,6 @@
 
 # ehho.com
 127.0.0.1 ehho.com
-
-# ehost-services.com
-127.0.0.1 wsc.ehost-services.com
 
 # eimg.jp
 127.0.0.1 c.adingo.jp.eimg.jp
@@ -11679,7 +11667,6 @@
 127.0.0.1 sportaladbg.hit.gemius.pl
 127.0.0.1 st.hit.gemius.pl
 127.0.0.1 st1.hit.gemius.pl
-127.0.0.1 std1.hit.gemius.pl
 127.0.0.1 stua.hit.gemius.pl
 127.0.0.1 ua.hit.gemius.pl
 127.0.0.1 vbadbg.hit.gemius.pl
@@ -11836,9 +11823,6 @@
 # globalmailer.com
 127.0.0.1 promotools.globalmailer.com
 
-# globalmailer5.com
-127.0.0.1 pcash.globalmailer5.com
-
 # globalsign.com
 127.0.0.1 seal.globalsign.com
 127.0.0.1 ssif1.globalsign.com
@@ -11977,10 +11961,7 @@
 
 # gomtv.com
 127.0.0.1 adw.gomtv.com
-127.0.0.1 flashad.gomtv.com
 127.0.0.1 ncube.gomtv.com
-127.0.0.1 textadc2.gomtv.com
-127.0.0.1 textadimg.gomtv.com
 
 # goo.ne.jp
 127.0.0.1 a1.goo.ne.jp
@@ -13915,7 +13896,6 @@
 127.0.0.1 tracking.inner-active.com
 
 # inner-active.mobi
-127.0.0.1 cdn1.inner-active.mobi
 127.0.0.1 m2m1.inner-active.mobi
 127.0.0.1 wv.inner-active.mobi
 
@@ -16632,6 +16612,9 @@
 
 # mobadme.jp
 127.0.0.1 ad.mobadme.jp
+127.0.0.1 bstjs.mobadme.jp
+127.0.0.1 ec-ad.mobadme.jp
+127.0.0.1 script-ad.mobadme.jp
 
 # mobair-ssl.com
 127.0.0.1 mobair-ssl.com
@@ -18300,6 +18283,8 @@
 127.0.0.1 bam-pool.nr-data.net
 127.0.0.1 bam.eu01.nr-data.net
 127.0.0.1 bam.nr-data.net
+127.0.0.1 cf-envoy-infra-api-prd2a.nr-data.net
+127.0.0.1 cf-envoy-infra-api-stg2a.nr-data.net
 127.0.0.1 chi-prod-cloud-collector.nr-data.net
 127.0.0.1 chi-prod-collector.nr-data.net
 127.0.0.1 chi-prod-infra-alert-auth.nr-data.net
@@ -21652,7 +21637,6 @@
 
 # sina.com.hk
 127.0.0.1 adimages.sina.com.hk
-127.0.0.1 jsads.sina.com.hk
 
 # sinajs.cn
 127.0.0.1 hits.sinajs.cn
