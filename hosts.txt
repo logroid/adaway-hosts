@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2023/11/03
-# block hosts: 15102 entry
+# last updated: 2023/11/05
+# block hosts: 15083 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -2759,9 +2759,6 @@
 127.0.0.1 adfonic.net
 127.0.0.1 as.adfonic.net
 
-# adforce.com
-127.0.0.1 adforce.com
-
 # adform.com
 127.0.0.1 adform.com
 
@@ -4116,9 +4113,6 @@
 127.0.0.1 ads.adtegrity.net
 127.0.0.1 adtegrity.net
 
-# adteractive.com
-127.0.0.1 adteractive.com
-
 # adthis.com
 127.0.0.1 adthis.com
 
@@ -4226,9 +4220,6 @@
 127.0.0.1 movies.adultplex.com
 127.0.0.1 signup.adultplex.com
 127.0.0.1 stats.adultplex.com
-
-# adultrevenueservice.com
-127.0.0.1 adultrevenueservice.com
 
 # adultswim.com
 127.0.0.1 stats.adultswim.com
@@ -4713,9 +4704,6 @@
 
 # allinsearch.net
 127.0.0.1 allinsearch.net
-
-# alloydigital.com
-127.0.0.1 alloydigital.com
 
 # allposters.com
 127.0.0.1 affiliates.allposters.com
@@ -7516,9 +7504,6 @@
 # clicmanager.fr
 127.0.0.1 clicmanager.fr
 
-# clictrafic.com
-127.0.0.1 clictrafic.com
-
 # clicz.com
 127.0.0.1 clicz.com
 
@@ -8232,27 +8217,18 @@
 
 # crwdcntrl.net
 127.0.0.1 ad.crwdcntrl.net
-127.0.0.1 ag.tags.crwdcntrl.net
-127.0.0.1 bb.crwdcntrl.net
 127.0.0.1 bcp.crwdcntrl.net
 127.0.0.1 bebo.crwdcntrl.net
 127.0.0.1 blogtalkradio.crwdcntrl.net
 127.0.0.1 cdn.crwdcntrl.net
-127.0.0.1 celebslam.tags.crwdcntrl.net
-127.0.0.1 cnnmoney.tags.crwdcntrl.net
 127.0.0.1 coop.crwdcntrl.net
 127.0.0.1 crwdcntrl.net
 127.0.0.1 deviantart.crwdcntrl.net
-127.0.0.1 fanpop.tags.crwdcntrl.net
 127.0.0.1 fotolog.crwdcntrl.net
 127.0.0.1 huffingtonpost.crwdcntrl.net
 127.0.0.1 justjared.crwdcntrl.net
-127.0.0.1 livejournal.tags.crwdcntrl.net
 127.0.0.1 multiply.crwdcntrl.net
-127.0.0.1 nbcu.tags.crwdcntrl.net
 127.0.0.1 perfspot.crwdcntrl.net
-127.0.0.1 sociallitelife.tags.crwdcntrl.net
-127.0.0.1 sportsillustrated.tags.crwdcntrl.net
 127.0.0.1 superficial.crwdcntrl.net
 127.0.0.1 tags.crwdcntrl.net
 127.0.0.1 videogum.tags.crwdcntrl.net
@@ -14882,9 +14858,6 @@
 # lhj.com
 127.0.0.1 metrics.lhj.com
 
-# libereco.net
-127.0.0.1 libereco.net
-
 # libertysurf.fr
 127.0.0.1 abo.libertysurf.fr
 127.0.0.1 js.libertysurf.fr
@@ -17317,9 +17290,6 @@
 # mylifetime.com
 127.0.0.1 o.mylifetime.com
 
-# mylinkbox.com
-127.0.0.1 box.mylinkbox.com
-
 # mynavi.jp
 127.0.0.1 ad.woman.mynavi.jp
 127.0.0.1 media-ad.mynavi.jp
@@ -17617,7 +17587,6 @@
 127.0.0.1 adimg3.search.naver.net
 
 # navrcholu.cz
-127.0.0.1 c1.navrcholu.cz
 127.0.0.1 navrcholu.cz
 
 # navstevnost.cz
@@ -19307,9 +19276,6 @@
 
 # petinsurance.com
 127.0.0.1 metric.petinsurance.com
-
-# petrenko.biz
-127.0.0.1 petrenko.biz
 
 # petsmart.com
 127.0.0.1 metrics.petsmart.com
@@ -21103,9 +21069,6 @@
 
 # sensic.net
 127.0.0.1 sensic.net
-
-# seo119.com
-127.0.0.1 bp.seo119.com
 
 # seo4india.com
 127.0.0.1 ads.seo4india.com
