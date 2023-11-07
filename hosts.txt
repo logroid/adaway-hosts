@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2023/11/05
-# block hosts: 15083 entry
+# last updated: 2023/11/07
+# block hosts: 15084 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -1785,9 +1785,6 @@
 
 # 7x3.net
 127.0.0.1 rotator.7x3.net
-
-# 82435.com
-127.0.0.1 82435.com
 
 # 84422.com
 127.0.0.1 84422.com
@@ -8231,10 +8228,7 @@
 127.0.0.1 perfspot.crwdcntrl.net
 127.0.0.1 superficial.crwdcntrl.net
 127.0.0.1 tags.crwdcntrl.net
-127.0.0.1 videogum.tags.crwdcntrl.net
 127.0.0.1 vidilife.crwdcntrl.net
-127.0.0.1 wwtdd.tags.crwdcntrl.net
-127.0.0.1 yardbarker.tags.crwdcntrl.net
 
 # csmonitor.com
 127.0.0.1 metrics.csmonitor.com
@@ -10734,13 +10728,20 @@
 127.0.0.1 account-meta-ads-289cb.firebaseapp.com
 127.0.0.1 ad-case-appeal-86734-434.firebaseapp.com
 127.0.0.1 ads-config.firebaseapp.com
+127.0.0.1 ads-elimination-case-8e835.firebaseapp.com
 127.0.0.1 ads-game-187f4.firebaseapp.com
+127.0.0.1 ads-notite-warning-f9b59.firebaseapp.com
 127.0.0.1 affiliate-script-pr.firebaseapp.com
+127.0.0.1 fb-support-ads-13ddb.firebaseapp.com
+127.0.0.1 meta-restriction-ads-3d53f.firebaseapp.com
+127.0.0.1 meta-restriction-ads-b8976.firebaseapp.com
 127.0.0.1 meta-restriction-ads-d5b6d.firebaseapp.com
 127.0.0.1 meta-support-ads-case-6e913.firebaseapp.com
 127.0.0.1 meta-support-ads-case-838d7.firebaseapp.com
 127.0.0.1 qongue-romad.firebaseapp.com
 127.0.0.1 rad867-jgtub88.firebaseapp.com
+127.0.0.1 restricted-ads-notify-1eda7.firebaseapp.com
+127.0.0.1 solution-ads-warning-40b11.firebaseapp.com
 127.0.0.1 ynetads-10fd1.firebaseapp.com
 
 # firehousezone.com
@@ -23717,6 +23718,7 @@
 127.0.0.1 srv.trafficgate.net
 127.0.0.1 srv2.trafficgate.net
 127.0.0.1 stg-ad.trafficgate.net
+127.0.0.1 stg-ad2.trafficgate.net
 
 # traffichaus.com
 127.0.0.1 ads.traffichaus.com
@@ -24260,9 +24262,6 @@
 127.0.0.1 ads.usatoday.com
 127.0.0.1 c.usatoday.com
 
-# usedstone.com
-127.0.0.1 usedstone.com
-
 # userdive.com
 127.0.0.1 userdive.com
 
@@ -24536,9 +24535,6 @@
 # vignette.com
 127.0.0.1 vignette.com
 127.0.0.1 xns1.vignette.com
-
-# vilari.com
-127.0.0.1 vilari.com
 
 # vimage.com
 127.0.0.1 vimage.com
@@ -25245,7 +25241,6 @@
 127.0.0.1 js.winc-ad.com
 127.0.0.1 mailer.winc-ad.com
 127.0.0.1 relay.winc-ad.com
-127.0.0.1 s.winc-ad.com
 127.0.0.1 smtp1.winc-ad.com
 127.0.0.1 ssp.winc-ad.com
 
