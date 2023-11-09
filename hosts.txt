@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2023/11/07
-# block hosts: 15084 entry
+# last updated: 2023/11/09
+# block hosts: 15069 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -1668,10 +1668,6 @@
 # 4clvr.jp
 127.0.0.1 4clvr.jp
 127.0.0.1 ad.4clvr.jp
-
-# 4d5.net
-127.0.0.1 4d5.net
-127.0.0.1 banners.4d5.net
 
 # 4gamer.net
 127.0.0.1 ad.4gamer.net
@@ -3657,9 +3653,6 @@
 127.0.0.1 c.admob.com
 127.0.0.1 jp.admob.com
 127.0.0.1 media.admob.com
-
-# admoda.com
-127.0.0.1 admoda.com
 
 # admodus.com
 127.0.0.1 ads.admodus.com
@@ -7360,9 +7353,6 @@
 # clickcompare.co.uk
 127.0.0.1 clickcompare.co.uk
 
-# clickdensity.com
-127.0.0.1 clickdensity.com
-
 # clickedyclick.com
 127.0.0.1 clickedyclick.com
 
@@ -9783,9 +9773,6 @@
 # emule-project.org
 127.0.0.1 ad1.emule-project.org
 
-# endai.com
-127.0.0.1 dotnet.endai.com
-
 # enfactory.jp
 127.0.0.1 img.enfactory.jp
 
@@ -11105,9 +11092,6 @@
 127.0.0.1 js.francite.com
 127.0.0.1 million.francite.com
 127.0.0.1 webd.francite.com
-
-# frantic.com
-127.0.0.1 frantic.com
 
 # freakads.com
 127.0.0.1 freakads.com
@@ -13169,9 +13153,6 @@
 127.0.0.1 hc1.humanclick.com
 127.0.0.1 hc2.humanclick.com
 
-# humaniq.com
-127.0.0.1 humaniq.com
-
 # hurricanedigitalmedia.com
 127.0.0.1 custom1.hurricanedigitalmedia.com
 
@@ -14329,7 +14310,6 @@
 
 # join4free.com
 127.0.0.1 asians.join4free.com
-127.0.0.1 join4free.com
 
 # joinaxxess.com
 127.0.0.1 ad.joinaxxess.com
@@ -15819,7 +15799,6 @@
 
 # madisonavenue.com
 127.0.0.1 ads.madisonavenue.com
-127.0.0.1 madisonavenue.com
 127.0.0.1 resource.madisonavenue.com
 127.0.0.1 textads.madisonavenue.com
 
@@ -15862,9 +15841,6 @@
 
 # mail-corp.com
 127.0.0.1 analytics.mail-corp.com
-
-# mail-to-a-friend.com
-127.0.0.1 mail-to-a-friend.com
 
 # mail.bg
 127.0.0.1 ads.mail.bg
@@ -15974,9 +15950,6 @@
 
 # masterstats.com
 127.0.0.1 masterstats.com
-
-# masterzonex.com
-127.0.0.1 masterzonex.com
 
 # match.com
 127.0.0.1 ads.affiliates.match.com
@@ -16091,6 +16064,7 @@
 # medi-8.net
 127.0.0.1 ad.medi-8.net
 127.0.0.1 ads.medi-8.net
+127.0.0.1 http ads.medi-8.net
 127.0.0.1 js.medi-8.net
 127.0.0.1 ww1.js.medi-8.net
 127.0.0.1 ww17.ads.medi-8.net
@@ -16320,9 +16294,6 @@
 
 # meteoxpress.com
 127.0.0.1 werbung.meteoxpress.com
-
-# methodcash.com
-127.0.0.1 methodcash.com
 
 # metromanager.com
 127.0.0.1 ads.metromanager.com
@@ -17812,7 +17783,6 @@
 127.0.0.1 db6.net-filter.com
 127.0.0.1 db7.net-filter.com
 127.0.0.1 db8.net-filter.com
-127.0.0.1 net-filter.com
 
 # net-france.com
 127.0.0.1 net-france.com
@@ -18701,9 +18671,6 @@
 
 # opportunity-tracking.com
 127.0.0.1 opportunity-tracking.com
-
-# opt-media.com
-127.0.0.1 opt-media.com
 
 # opticalnetworks.com
 127.0.0.1 opticalnetworks.com
@@ -20545,9 +20512,6 @@
 # richrelevance.com
 127.0.0.1 media.richrelevance.com
 127.0.0.1 recs.richrelevance.com
-
-# richwebmedia.com
-127.0.0.1 richwebmedia.com
 
 # riddler.com
 127.0.0.1 commonwealth.riddler.com
@@ -23323,9 +23287,6 @@
 
 # tizermy.net
 127.0.0.1 tizermy.net
-
-# tlvmedia.com
-127.0.0.1 tlvmedia.com
 
 # tmcnet.com
 127.0.0.1 oascentral.tmcnet.com
