@@ -5,7 +5,7 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2023/11/09
+# last updated: 2023/11/10
 # block hosts: 15069 entry
 
 # 00fun.com
@@ -1899,7 +1899,6 @@
 127.0.0.1 items.a8.net
 127.0.0.1 lm.a8.net
 127.0.0.1 localhost.a8.net
-127.0.0.1 ma.a8.net
 127.0.0.1 ml.a8.net
 127.0.0.1 nat.a8.net
 127.0.0.1 nat2.a8.net
@@ -2167,9 +2166,6 @@
 127.0.0.1 d.ad-analyze.jp
 127.0.0.1 t.ad-analyze.jp
 127.0.0.1 w.ad-analyze.jp
-
-# ad-arata.com
-127.0.0.1 ad-arata.com
 
 # ad-arrow.com
 127.0.0.1 ad.ad-arrow.com
@@ -2573,6 +2569,7 @@
 127.0.0.1 androidads4-6.adcolony.com
 127.0.0.1 androidads4-7.adcolony.com
 127.0.0.1 androidads4-8.adcolony.com
+127.0.0.1 bidder-gcp-v2.adcolony.com
 127.0.0.1 blog.adcolony.com
 127.0.0.1 c4d-cdn.adcolony.com
 127.0.0.1 c4d-dev.adcolony.com
@@ -2602,6 +2599,7 @@
 127.0.0.1 events3alt.adcolony.com
 127.0.0.1 events3staging.adcolony.com
 127.0.0.1 ftp.adcolony.com
+127.0.0.1 gcp-grafana-qa.adcolony.com
 127.0.0.1 gcp-service-deployer.adcolony.com
 127.0.0.1 go-pardot.adcolony.com
 127.0.0.1 iosads20.adcolony.com
