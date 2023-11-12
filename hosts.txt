@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2023/11/10
-# block hosts: 15069 entry
+# last updated: 2023/11/13
+# block hosts: 15048 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -2336,6 +2336,7 @@
 # ad-spire.net
 127.0.0.1 ads.ad-spire.net
 127.0.0.1 adt.ad-spire.net
+127.0.0.1 adult.ad-spire.net
 127.0.0.1 fit.ad-spire.net
 127.0.0.1 flt.ad-spire.net
 127.0.0.1 js.ad-spire.net
@@ -2383,9 +2384,6 @@
 
 # ad-x.com
 127.0.0.1 ad-x.com
-
-# ad1111.com
-127.0.0.1 ad1111.com
 
 # ad1data.com
 127.0.0.1 go.ad1data.com
@@ -6337,9 +6335,6 @@
 # boston.com
 127.0.0.1 rmedia.boston.com
 
-# boyfriendnetwork.com
-127.0.0.1 stats.boyfriendnetwork.com
-
 # boylesports.com
 127.0.0.1 ads.boylesports.com
 
@@ -8028,9 +8023,6 @@
 # cpatrac.com
 127.0.0.1 cpatrac.com
 
-# cpays.com
-127.0.0.1 cpays.com
-
 # cplaza.ne.jp
 127.0.0.1 adp.cplaza.ne.jp
 
@@ -8416,9 +8408,6 @@
 
 # daz.com
 127.0.0.1 daz.com
-
-# dbbsrv.com
-127.0.0.1 dbbsrv.com
 
 # dbusiness.com
 127.0.0.1 adserver.dbusiness.com
@@ -10712,6 +10701,7 @@
 # firebaseapp.com
 127.0.0.1 account-meta-ads-289cb.firebaseapp.com
 127.0.0.1 ad-case-appeal-86734-434.firebaseapp.com
+127.0.0.1 ad0be-usa-east1.firebaseapp.com
 127.0.0.1 ads-config.firebaseapp.com
 127.0.0.1 ads-elimination-case-8e835.firebaseapp.com
 127.0.0.1 ads-game-187f4.firebaseapp.com
@@ -10866,7 +10856,6 @@
 # flvdirect.com
 127.0.0.1 a.flvdirect.com
 127.0.0.1 download.flvdirect.com
-127.0.0.1 submit.flvdirect.com
 
 # flvpro.com
 127.0.0.1 cdn-w.flvpro.com
@@ -12154,9 +12143,6 @@
 127.0.0.1 gtop.ro
 127.0.0.1 static.gtop.ro
 
-# gtsmobi.com
-127.0.0.1 static.cdn.gtsmobi.com
-
 # guardian.co.uk
 127.0.0.1 adimage.guardian.co.uk
 127.0.0.1 ads.guardian.co.uk
@@ -12744,9 +12730,6 @@
 # hitpro.us
 127.0.0.1 hitpro.us
 
-# hitrang.com
-127.0.0.1 storage.hitrang.com
-
 # hitslink.com
 127.0.0.1 counter.hitslink.com
 127.0.0.1 counter2.hitslink.com
@@ -12784,9 +12767,6 @@
 127.0.0.1 gif.hitx.net
 127.0.0.1 hitx.net
 127.0.0.1 ns1.hitx.net
-
-# hiwire.com
-127.0.0.1 hiwire.com
 
 # hjlas.com
 127.0.0.1 hjlas.com
@@ -14669,9 +14649,6 @@
 # ktvb.com
 127.0.0.1 metrics.ktvb.com
 
-# kuaptrk.com
-127.0.0.1 kuaptrk.com
-
 # kuchinawa.com
 127.0.0.1 x7.kuchinawa.com
 
@@ -14790,9 +14767,6 @@
 
 # leadzu.com
 127.0.0.1 play.leadzu.com
-
-# leadzuaf.com
-127.0.0.1 play.leadzuaf.com
 
 # leaffi.jp
 127.0.0.1 leaffi.jp
@@ -15915,9 +15889,6 @@
 # marketing.com
 127.0.0.1 marketing.com
 
-# marketingprofs.com
-127.0.0.1 marketingprofs.com
-
 # marketingtips.com
 127.0.0.1 marketingtips.com
 
@@ -16872,9 +16843,6 @@
 
 # mttag.com
 127.0.0.1 mttag.com
-
-# mtv.com.tr
-127.0.0.1 addserver.mtv.com.tr
 
 # mucu.jp
 127.0.0.1 mucu.jp
@@ -17882,9 +17850,6 @@
 # netperception.com
 127.0.0.1 netperception.com
 
-# netpondcash.com
-127.0.0.1 click.netpondcash.com
-
 # netprefs.com
 127.0.0.1 netprefs.com
 
@@ -18239,8 +18204,6 @@
 127.0.0.1 csec-gov.nr-data.net
 127.0.0.1 csec-staging.nr-data.net
 127.0.0.1 csec.nr-data.net
-127.0.0.1 fastly-bam-cell.nr-data.net
-127.0.0.1 fastly-bam.nr-data.net
 127.0.0.1 fastly-staging-bam-cell.nr-data.net
 127.0.0.1 fastly-staging-bam.nr-data.net
 127.0.0.1 fastly-staging-otlp.nr-data.net
@@ -18920,7 +18883,6 @@
 127.0.0.1 apollo-ahemdabad.pages.dev
 127.0.0.1 b2c3f28b-cea2-4d98-ad5b-06cae252069f.pages.dev
 127.0.0.1 bancopopular-seguridad.pages.dev
-127.0.0.1 bsc-hexad-globaldocs.pages.dev
 127.0.0.1 desku-chat-widget-js.pages.dev
 127.0.0.1 e6376fad6d9a47aef55c.pages.dev
 127.0.0.1 javad-cic.pages.dev
@@ -19116,9 +19078,6 @@
 # pdbox.co.kr
 127.0.0.1 adv.pdbox.co.kr
 
-# pdltracking.com
-127.0.0.1 click.pdltracking.com
-
 # pdn-2.com
 127.0.0.1 xml.pdn-2.com
 
@@ -19290,7 +19249,6 @@
 
 # pickoftheweb.com
 127.0.0.1 mailpop.pickoftheweb.com
-127.0.0.1 tbdev.pickoftheweb.com
 127.0.0.1 toolbar.pickoftheweb.com
 
 # pimdesign.org
@@ -20120,9 +20078,6 @@
 # ranking.com
 127.0.0.1 seal.ranking.com
 
-# rankingchart.de
-127.0.0.1 rankingchart.de
-
 # rankingscout.com
 127.0.0.1 rankingscout.com
 
@@ -20935,9 +20890,6 @@
 # seattlepi.com
 127.0.0.1 metrics.seattlepi.com
 
-# seblg.com
-127.0.0.1 st.seblg.com
-
 # secprotection.com
 127.0.0.1 secprotection.com
 
@@ -21276,9 +21228,6 @@
 127.0.0.1 app.sgiz.mobi
 127.0.0.1 sgiz.mobi
 
-# sgizmo.com
-127.0.0.1 app.sgizmo.com
-
 # shallwead.com
 127.0.0.1 ad2.shallwead.com
 
@@ -21560,9 +21509,6 @@
 
 # sina.com.cn
 127.0.0.1 ad3.sina.com.cn
-
-# sina.com.hk
-127.0.0.1 adimages.sina.com.hk
 
 # sinajs.cn
 127.0.0.1 hits.sinajs.cn
@@ -22603,9 +22549,6 @@
 
 # supplyframe.com
 127.0.0.1 ads.supplyframe.com
-
-# supret.com
-127.0.0.1 supret.com
 
 # surehits.com
 127.0.0.1 surehits.com
