@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2023/11/13
-# block hosts: 15048 entry
+# last updated: 2023/11/15
+# block hosts: 15036 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -41,9 +41,6 @@
 
 # 10clicks.com
 127.0.0.1 ad1.10clicks.com
-
-# 1111sale.us
-127.0.0.1 1111sale.us
 
 # 1133.cc
 127.0.0.1 1133.cc
@@ -238,9 +235,6 @@
 # 24log.com
 127.0.0.1 24log.com
 127.0.0.1 counter.24log.com
-
-# 24log.de
-127.0.0.1 24log.de
 
 # 24log.ru
 127.0.0.1 counter.24log.ru
@@ -3051,7 +3045,6 @@
 127.0.0.1 axu020408xu020408ounts.adjust.com
 127.0.0.1 b2bbenchmarks-api-qa-1.adjust.com
 127.0.0.1 b43108c070cb09d6caba2b9dba10d2a6.ulink.adjust.com
-127.0.0.1 b5c3cd05645e38884a6207c125a572c1.ulink.adjust.com
 127.0.0.1 backend-4dashboard-qa-2.adjust.com
 127.0.0.1 barracuda-host-118-83.adjust.com
 127.0.0.1 bdapp.adjust.com
@@ -7260,9 +7253,6 @@
 # clear-reports.com
 127.0.0.1 clear-reports.com
 
-# clearchannel.com
-127.0.0.1 ads2.clearchannel.com
-
 # clearspring.com
 127.0.0.1 clearspring.com
 
@@ -7397,9 +7387,6 @@
 
 # clicks.net
 127.0.0.1 clicks.net
-
-# clicks2you.com
-127.0.0.1 clicks2you.com
 
 # clicksagent.com
 127.0.0.1 clicksagent.com
@@ -7762,9 +7749,6 @@
 
 # come.cc
 127.0.0.1 ranklet.come.cc
-
-# commissionpartner.com
-127.0.0.1 banner.commissionpartner.com
 
 # communitech.net
 127.0.0.1 ads.communitech.net
@@ -16408,9 +16392,6 @@
 # minimob.com
 127.0.0.1 clicks.minimob.com
 
-# mint.se
-127.0.0.1 adclick.mint.se
-
 # miraikensaku.jp
 127.0.0.1 miraikensaku.jp
 
@@ -16584,8 +16565,6 @@
 127.0.0.1 mocean.mobi
 
 # mochiads.com
-127.0.0.1 cdn.mochiads.com
-127.0.0.1 games.mochiads.com
 127.0.0.1 xs.mochiads.com
 
 # modenainc.com
@@ -20606,9 +20585,6 @@
 # rpxnow.com
 127.0.0.1 static.rpxnow.com
 
-# rr.nu
-127.0.0.1 ldkiekxc.rr.nu
-
 # rrstar.com
 127.0.0.1 gcirm.rrstar.com
 127.0.0.1 topads.rrstar.com
@@ -22447,9 +22423,6 @@
 127.0.0.1 x7.suichu-ka.com
 127.0.0.1 x8.suichu-ka.com
 
-# suitesmart.com
-127.0.0.1 as1.suitesmart.com
-
 # suizong.com
 127.0.0.1 api.suizong.com
 
@@ -23910,7 +23883,6 @@
 
 # tv69.com
 127.0.0.1 streaming.tv69.com
-127.0.0.1 tv69.com
 
 # tvguide.com
 127.0.0.1 metrics.tvguide.com
