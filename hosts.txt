@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2023/11/15
-# block hosts: 15036 entry
+# last updated: 2023/11/27
+# block hosts: 15005 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -1816,9 +1816,6 @@
 # 9991.com
 127.0.0.1 9991.com
 
-# 9vcpp.cn
-127.0.0.1 9vcpp.cn
-
 # a-affiliate.jp
 127.0.0.1 a-affiliate.jp
 
@@ -1923,8 +1920,6 @@
 127.0.0.1 stg-sp-api.a8.net
 127.0.0.1 support.a8.net
 127.0.0.1 techdev-portal.a8.net
-127.0.0.1 trck-v3.a8.net
-127.0.0.1 trck-v4.a8.net
 127.0.0.1 trck.a8.net
 127.0.0.1 watch.a8.net
 127.0.0.1 ws.a8.net
@@ -2282,9 +2277,6 @@
 127.0.0.1 master.ad-optima.com
 127.0.0.1 media.ad-optima.com
 
-# ad-pay.de
-127.0.0.1 ad-pay.de
-
 # ad-seek.jp
 127.0.0.1 ad-seek.jp
 127.0.0.1 client.ad-seek.jp
@@ -2309,7 +2301,6 @@
 127.0.0.1 mx.ad-seek.jp
 127.0.0.1 mx01.ad-seek.jp
 127.0.0.1 mx3.ad-seek.jp
-127.0.0.1 mx4.ad-seek.jp
 127.0.0.1 mx5.ad-seek.jp
 127.0.0.1 pop3.ad-seek.jp
 127.0.0.1 posta.ad-seek.jp
@@ -3562,14 +3553,6 @@
 # adlink.de
 127.0.0.1 wap.adlink.de
 127.0.0.1 west.adlink.de
-
-# adlink.net
-127.0.0.1 js.adlink.net
-127.0.0.1 rc.ch.adlink.net
-127.0.0.1 rc.de.adlink.net
-127.0.0.1 tc.adlink.net
-127.0.0.1 tr.ch.adlink.net
-127.0.0.1 tr.de.adlink.net
 
 # adlpo.com
 127.0.0.1 t.adlpo.com
@@ -5348,9 +5331,6 @@
 127.0.0.1 ads.autotrader.com
 127.0.0.1 adserving.autotrader.com
 
-# avanato.com
-127.0.0.1 avanato.com
-
 # avatarcash.com
 127.0.0.1 avatarcash.com
 
@@ -6698,9 +6678,6 @@
 # byet.org
 127.0.0.1 byet.org
 
-# byggahus.se
-127.0.0.1 ads.byggahus.se
-
 # bypass.jp
 127.0.0.1 as.a.bypass.jp
 127.0.0.1 bypass.jp
@@ -7509,6 +7486,7 @@
 127.0.0.1 asia-northeast3-kmplex-905ad.cloudfunctions.net
 127.0.0.1 us-central1-ad-server-f1010.cloudfunctions.net
 127.0.0.1 us-central1-azan-994ad.cloudfunctions.net
+127.0.0.1 us-central1-coop-offers-2ad7d.cloudfunctions.net
 127.0.0.1 us-central1-dancing-road.cloudfunctions.net
 127.0.0.1 us-central1-eyewind-ads.cloudfunctions.net
 127.0.0.1 us-central1-launchpad-169908.cloudfunctions.net
@@ -8377,9 +8355,6 @@
 # dateroute.com
 127.0.0.1 dateroute.com
 
-# dating-z.shop
-127.0.0.1 dating-z.shop
-
 # datingadzone.com
 127.0.0.1 cdn.mb.datingadzone.com
 127.0.0.1 mb.datingadzone.com
@@ -8444,9 +8419,6 @@
 
 # dejanews.com
 127.0.0.1 gp.dejanews.com
-
-# dekapro.com
-127.0.0.1 wv001.dekapro.com
 
 # delawareonline.com
 127.0.0.1 gcirm.delawareonline.com
@@ -9222,9 +9194,6 @@
 127.0.0.1 survey.g.doubleclick.net
 127.0.0.1 www.doubleclick.net
 127.0.0.1 www3.doubleclick.net
-
-# doubledeepclick.com
-127.0.0.1 doubledeepclick.com
 
 # doublepimp.com
 127.0.0.1 ad1.doublepimp.com
@@ -10691,6 +10660,7 @@
 127.0.0.1 ads-game-187f4.firebaseapp.com
 127.0.0.1 ads-notite-warning-f9b59.firebaseapp.com
 127.0.0.1 affiliate-script-pr.firebaseapp.com
+127.0.0.1 canvad-5501b.firebaseapp.com
 127.0.0.1 fb-support-ads-13ddb.firebaseapp.com
 127.0.0.1 meta-restriction-ads-3d53f.firebaseapp.com
 127.0.0.1 meta-restriction-ads-b8976.firebaseapp.com
@@ -11805,11 +11775,6 @@
 127.0.0.1 minerva-js.sp.gmossp-sp.jp
 127.0.0.1 sp.gmossp-sp.jp
 
-# gmtracker.com
-127.0.0.1 ads.gmtracker.com
-127.0.0.1 affiliate.gmtracker.com
-127.0.0.1 gmtracker.com
-
 # go-clicks.de
 127.0.0.1 go-clicks.de
 
@@ -12092,6 +12057,8 @@
 127.0.0.1 trk.grown-zero-breeze-belong.xyz
 
 # gs-ad.jp
+127.0.0.1 ad.gs-ad.jp
+127.0.0.1 gs-ad.jp
 127.0.0.1 img.gs-ad.jp
 
 # gsanet.com
@@ -12956,9 +12923,6 @@
 
 # hotwire.com
 127.0.0.1 om.hotwire.com
-
-# hotwired.com
-127.0.0.1 nsads.hotwired.com
 
 # house27.ch
 127.0.0.1 house27.ch
@@ -13847,7 +13811,6 @@
 127.0.0.1 scripts.insite.com.br
 
 # insites.be
-127.0.0.1 bimonline.insites.be
 127.0.0.1 insites.be
 
 # inskinad.com
@@ -14172,9 +14135,6 @@
 
 # iwoop.com
 127.0.0.1 track.iwoop.com
-
-# ix.se
-127.0.0.1 banners.ix.se
 
 # ixbt.com
 127.0.0.1 rose.ixbt.com
@@ -14980,7 +14940,6 @@
 
 # linkwithin.com
 127.0.0.1 linkwithin.com
-127.0.0.1 widget6.linkwithin.com
 
 # linkybank.com
 127.0.0.1 linkybank.com
@@ -14990,9 +14949,6 @@
 
 # linux.se
 127.0.0.1 banner.linux.se
-
-# linuxjournal.com
-127.0.0.1 ads.linuxjournal.com
 
 # list.ru
 127.0.0.1 d1.c6.b3.a0.top.list.ru
@@ -16017,7 +15973,6 @@
 # medi-8.net
 127.0.0.1 ad.medi-8.net
 127.0.0.1 ads.medi-8.net
-127.0.0.1 http ads.medi-8.net
 127.0.0.1 js.medi-8.net
 127.0.0.1 ww1.js.medi-8.net
 127.0.0.1 ww17.ads.medi-8.net
@@ -16513,9 +16468,6 @@
 
 # mobair-ssl.com
 127.0.0.1 mobair-ssl.com
-
-# mobcent.com
-127.0.0.1 img.mobcent.com
 
 # mobee2.jp
 127.0.0.1 mobee2.jp
@@ -19655,9 +19607,6 @@
 # primetime.net
 127.0.0.1 primetime.net
 
-# primissima.it
-127.0.0.1 ads.primissima.it
-
 # primorye.ru
 127.0.0.1 ad1.primorye.ru
 
@@ -20112,9 +20061,6 @@
 
 # reachjunction.com
 127.0.0.1 reachjunction.com
-
-# reachppc.com
-127.0.0.1 ad.reachppc.com
 
 # readme.ru
 127.0.0.1 click.readme.ru
@@ -20653,9 +20599,6 @@
 
 # rxparty.net
 127.0.0.1 w.rxparty.net
-
-# s-an.net
-127.0.0.1 ad.s-an.net
 
 # s-e-arch.com
 127.0.0.1 s-e-arch.com
@@ -21942,9 +21885,6 @@
 127.0.0.1 smp.specificmedia.com
 127.0.0.1 specificmedia.com
 
-# specificpop.com
-127.0.0.1 specificpop.com
-
 # spectate.com
 127.0.0.1 cdn.spectate.com
 
@@ -22039,7 +21979,6 @@
 127.0.0.1 iframe.sponsorpay.com
 127.0.0.1 service.sponsorpay.com
 127.0.0.1 sponsorpay.com
-127.0.0.1 tracking.sponsorpay.com
 
 # sponsorpro.de
 127.0.0.1 sponsorpro.de
@@ -23192,9 +23131,6 @@
 # tiser.com.au
 127.0.0.1 mercury.tiser.com.au
 127.0.0.1 saturn.tiser.com.au
-
-# titanpoker.com
-127.0.0.1 banner.titanpoker.com
 
 # tiyogami.com
 127.0.0.1 ct1.tiyogami.com
@@ -24389,9 +24325,6 @@
 127.0.0.1 cdn.feeds.videosz.com
 127.0.0.1 feeds.videosz.com
 
-# videoweed.es
-127.0.0.1 videoweed.es
-
 # vidsense.com
 127.0.0.1 ads.vidsense.com
 
@@ -25079,9 +25012,6 @@
 # widespace.com
 127.0.0.1 widespace.com
 
-# widgetbucks.com
-127.0.0.1 widgetbucks.com
-
 # widgetserver.com
 127.0.0.1 ad.widgetserver.com
 
@@ -25097,9 +25027,6 @@
 # wikia.com
 127.0.0.1 athena-ads.wikia.com
 127.0.0.1 wikia-ads.wikia.com
-
-# wildmatch.com
-127.0.0.1 pcash.wildmatch.com
 
 # wildporntube.com
 127.0.0.1 wildporntube.com
@@ -25607,6 +25534,7 @@
 127.0.0.1 b97.yahoo.co.jp
 127.0.0.1 btcs.yahoo.co.jp
 127.0.0.1 im.ov.yahoo.co.jp
+127.0.0.1 notepad.yahoo.co.jp
 127.0.0.1 ov.yahoo.co.jp
 127.0.0.1 promotionalads.yahoo.co.jp
 127.0.0.1 rd.listing.yahoo.co.jp
@@ -25923,9 +25851,6 @@
 
 # ytdscm.com
 127.0.0.1 ytdscm.com
-
-# ytn.co.kr
-127.0.0.1 ad3.ytn.co.kr
 
 # yu-yake.com
 127.0.0.1 ct2.yu-yake.com
