@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2023/11/27
-# block hosts: 15005 entry
+# last updated: 2023/11/28
+# block hosts: 14984 entry
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -2585,6 +2585,7 @@
 127.0.0.1 gcp-grafana-qa.adcolony.com
 127.0.0.1 gcp-service-deployer.adcolony.com
 127.0.0.1 go-pardot.adcolony.com
+127.0.0.1 in-gcp-jenkins-gitlab-proxy-qa.adcolony.com
 127.0.0.1 iosads20.adcolony.com
 127.0.0.1 iosads22.adcolony.com
 127.0.0.1 iosads24.adcolony.com
@@ -8004,9 +8005,6 @@
 # cpxadroit.com
 127.0.0.1 cpxadroit.com
 
-# cpxcenter.com
-127.0.0.1 ads.cpxcenter.com
-
 # cpxinteractive.com
 127.0.0.1 cpxinteractive.com
 
@@ -9648,9 +9646,6 @@
 # elmaz.com
 127.0.0.1 ads.elmaz.com
 
-# elmundo.es
-127.0.0.1 anapixel.elmundo.es
-
 # eloan.co.jp
 127.0.0.1 ad.eloan.co.jp
 127.0.0.1 preact.ad.eloan.co.jp
@@ -10846,22 +10841,6 @@
 127.0.0.1 webgames.focalex.com
 
 # focalink.com
-127.0.0.1 ad03.focalink.com
-127.0.0.1 ad04.focalink.com
-127.0.0.1 ad07.focalink.com
-127.0.0.1 ad08.focalink.com
-127.0.0.1 ad11.focalink.com
-127.0.0.1 ad16.focalink.com
-127.0.0.1 ad17.focalink.com
-127.0.0.1 ad18.focalink.com
-127.0.0.1 ads-b.focalink.com
-127.0.0.1 ads-ussj1.focalink.com
-127.0.0.1 ads03.focalink.com
-127.0.0.1 ads19.focalink.com
-127.0.0.1 ads20.focalink.com
-127.0.0.1 ads21.focalink.com
-127.0.0.1 ads311.focalink.com
-127.0.0.1 ads317.focalink.com
 127.0.0.1 focalink.com
 127.0.0.1 ph-ad.focalink.com
 127.0.0.1 ph-ad01.focalink.com
@@ -11680,7 +11659,6 @@
 127.0.0.1 kr.girls.xyz
 127.0.0.1 nl.girls.xyz
 127.0.0.1 pt.girls.xyz
-127.0.0.1 www.girls.xyz
 
 # giveapp.jp
 127.0.0.1 android.giveapp.jp
@@ -13157,6 +13135,7 @@
 127.0.0.1 ad2.i2ad.jp
 127.0.0.1 ad3.i2ad.jp
 127.0.0.1 ad7.i2ad.jp
+127.0.0.1 cdn.i2ad.jp
 127.0.0.1 i2ad.jp
 
 # i2i.com
@@ -14623,10 +14602,6 @@
 # kypost.com
 127.0.0.1 ewstv.kypost.com
 
-# l2m.net
-127.0.0.1 14713804a.l2m.net
-127.0.0.1 30280827a.l2m.net
-
 # lacodeworks.com
 127.0.0.1 lacodeworks.com
 
@@ -15955,7 +15930,6 @@
 127.0.0.1 ads.mdchoice.com
 
 # mdmd.info
-127.0.0.1 ad.mdmd.info
 127.0.0.1 cpanel.ad.mdmd.info
 127.0.0.1 webmail.ad.mdmd.info
 
@@ -25235,7 +25209,6 @@
 127.0.0.1 logging03.wxs.nl
 
 # wz.cz
-127.0.0.1 ad.wz.cz
 127.0.0.1 i.wz.cz
 
 # x-lift.jp

@@ -1,7 +1,7 @@
 # 日本環境向け AdAway 用 hosts :no_entry_sign:
 
 ![ホワイトリスト数](https://img.shields.io/badge/allow-48-brightgreen)
-![ブロック数](https://img.shields.io/badge/block-15005-red)
+![ブロック数](https://img.shields.io/badge/block-14984-red)
 
 ## 注意
 このhostsの定期更新は終了しました。  
