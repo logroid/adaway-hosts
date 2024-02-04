@@ -34,3 +34,5 @@ Thank you!
 
 でご支援いただくことで、このプロジェクトをより良いものにすることができます。ありがとうございます！
 
+* [Bluesky](https://bsky.app/profile/logroid.bsky.social)
+* [Threads](https://www.instagram.com/logroid_/)
